@@ -14,6 +14,7 @@ INSERT INTO `atlassian_rovo-crawler_ips` (`ip_address`, `ip_type`) VALUES ('104.
 INSERT INTO `atlassian_rovo-crawler_ips` (`ip_address`, `ip_type`) VALUES ('104.192.137.224/28', 'IPv4');
 INSERT INTO `atlassian_rovo-crawler_ips` (`ip_address`, `ip_type`) VALUES ('104.192.142.224/28', 'IPv4');
 INSERT INTO `atlassian_rovo-crawler_ips` (`ip_address`, `ip_type`) VALUES ('104.192.143.224/28', 'IPv4');
+INSERT INTO `atlassian_rovo-crawler_ips` (`ip_address`, `ip_type`) VALUES ('131.162.90.20/30', 'IPv4');
 INSERT INTO `atlassian_rovo-crawler_ips` (`ip_address`, `ip_type`) VALUES ('185.166.140.128/28', 'IPv4');
 INSERT INTO `atlassian_rovo-crawler_ips` (`ip_address`, `ip_type`) VALUES ('185.166.141.128/28', 'IPv4');
 INSERT INTO `atlassian_rovo-crawler_ips` (`ip_address`, `ip_type`) VALUES ('185.166.142.224/28', 'IPv4');

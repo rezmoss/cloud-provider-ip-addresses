@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-10-11 02:40:18
+# Updated: 2026-10-13 03:05:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -641,3 +641,4 @@ ip6tables -A INPUT -s 2001:41d0::/32 -j ACCEPT
 ip6tables -A INPUT -s 2402:1f00::/32 -j ACCEPT
 ip6tables -A INPUT -s 2604:2dc0::/32 -j ACCEPT
 ip6tables -A INPUT -s 2607:5300::/32 -j ACCEPT
+ip6tables -A INPUT -s 2a03:bf80::/48 -j ACCEPT

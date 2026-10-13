@@ -1,23 +1,23 @@
 {
   "provider": "fastly",
-  "version": 1,
-  "generated_date": "2026-10-12",
-  "last_changed_date": "2026-06-18",
+  "version": 2,
+  "generated_date": "2026-10-13",
+  "last_changed_date": "2026-10-13",
   "sources": [
     "https://api.fastly.com/public-ip-list"
   ],
   "ipv4": {
-    "cidrs": 19,
-    "merged_cidrs": 19,
-    "addresses": 304128
+    "cidrs": 21,
+    "merged_cidrs": 21,
+    "addresses": 353280
   },
   "ipv6": {
-    "cidrs": 2,
-    "merged_cidrs": 2,
-    "addresses": 158456325028528675187087900672
+    "cidrs": 3,
+    "merged_cidrs": 3,
+    "addresses": 316912650057057350374175801344
   },
-  "total_entries": 21,
-  "content_sha256": "2520722b05ecb6a0a55973dff1ae0913c1f72323248aad634bdd14bbcfe98739",
+  "total_entries": 24,
+  "content_sha256": "2ca2e82100edc560d90151f1976c50048db86cf997730ac316a74265eff58b33",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

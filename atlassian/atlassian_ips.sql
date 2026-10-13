@@ -95,6 +95,10 @@ INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.142.240/2
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.143.0/24', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.143.224/28', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('104.192.143.240/28', 'IPv4');
+INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('131.162.88.0/21', 'IPv4');
+INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('131.162.88.0/23', 'IPv4');
+INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('131.162.90.0/23', 'IPv4');
+INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('131.162.90.20/30', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('167.89.0.0/17', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('168.245.0.0/17', 'IPv4');
 INSERT INTO `atlassian_ips` (`ip_address`, `ip_type`) VALUES ('174.129.205.191/32', 'IPv4');

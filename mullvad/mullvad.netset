@@ -1,5 +1,5 @@
 # mullvad IP ranges - ipset restore format (hash:net)
-# Version: 30 | Generated: 2026-10-12 | Last changed: 2026-09-24
+# Version: 31 | Generated: 2026-10-13 | Last changed: 2026-10-13
 # IPv4: 547 merged subnets, 566 unique IPs
 # IPv6: 556 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
@@ -171,6 +171,7 @@ add mullvad_v4 45.134.212.79/32
 add mullvad_v4 45.134.212.92/32
 add mullvad_v4 45.134.213.194/32
 add mullvad_v4 45.134.213.207/32
+add mullvad_v4 45.142.26.2/32
 add mullvad_v4 45.153.102.3/32
 add mullvad_v4 46.19.136.226/32
 add mullvad_v4 62.93.167.130/32
@@ -232,7 +233,6 @@ add mullvad_v4 103.108.231.50/32
 add mullvad_v4 103.108.231.66/32
 add mullvad_v4 103.120.6.2/32
 add mullvad_v4 103.120.6.127/32
-add mullvad_v4 103.124.165.2/32
 add mullvad_v4 103.124.165.130/32
 add mullvad_v4 103.124.165.191/32
 add mullvad_v4 103.125.233.18/32

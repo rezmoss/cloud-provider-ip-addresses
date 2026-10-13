@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+131.162.88.0/21,IPv4,"confluence,forge,jira,loom",global
+131.162.88.0/23,IPv4,"confluence,forge,jira,loom",global
+131.162.90.0/23,IPv4,"confluence,forge,jira,loom",global

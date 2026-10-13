@@ -14898,6 +14898,12 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "43.196.190.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "43.198.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -35164,6 +35170,12 @@
     "ip_type": "IPv4",
     "service": "AMAZON",
     "region": "us-west-1"
+  },
+  {
+    "ip_address": "173.83.237.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
   },
   {
     "ip_address": "174.129.0.0/16",

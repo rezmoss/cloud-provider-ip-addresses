@@ -1,6 +1,6 @@
 #!/bin/bash
 # Fastly IP Ranges
-# Updated: 2026-06-14 03:21:36
+# Updated: 2026-10-13 02:39:06
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,6 +9,8 @@
 
 iptables -A INPUT -s 23.235.32.0/20 -j ACCEPT
 iptables -A INPUT -s 43.249.72.0/22 -j ACCEPT
+iptables -A INPUT -s 90.98.0.0/17 -j ACCEPT
+iptables -A INPUT -s 90.98.128.0/18 -j ACCEPT
 iptables -A INPUT -s 103.244.50.0/24 -j ACCEPT
 iptables -A INPUT -s 103.245.222.0/23 -j ACCEPT
 iptables -A INPUT -s 103.245.224.0/24 -j ACCEPT
@@ -27,4 +29,5 @@ iptables -A INPUT -s 185.31.16.0/22 -j ACCEPT
 iptables -A INPUT -s 199.27.72.0/21 -j ACCEPT
 iptables -A INPUT -s 199.232.0.0/16 -j ACCEPT
 ip6tables -A INPUT -s 2a04:4e40::/32 -j ACCEPT
-ip6tables -A INPUT -s 2a04:4e42::/32 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e42::/31 -j ACCEPT
+ip6tables -A INPUT -s 2a04:4e44::/32 -j ACCEPT

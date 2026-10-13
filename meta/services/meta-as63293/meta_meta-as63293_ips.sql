@@ -85,7 +85,6 @@ INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.1
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.156.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.157.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.158.0/24', 'IPv4');
-INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.159.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.169.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.170.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.175.0/24', 'IPv4');

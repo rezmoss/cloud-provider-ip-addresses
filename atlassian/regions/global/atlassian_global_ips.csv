@@ -26,6 +26,9 @@ ip_address,ip_type,service,region
 104.192.138.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,statuspage,trello",global
 104.192.139.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,statuspage,trello",global
 104.192.141.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,loom,statuspage,trello",global
+131.162.88.0/21,IPv4,"confluence,forge,jira,loom",global
+131.162.88.0/23,IPv4,"confluence,forge,jira,loom",global
+131.162.90.0/23,IPv4,"confluence,forge,jira,loom",global
 167.89.0.0/17,IPv4,email,global
 168.245.0.0/17,IPv4,email,global
 216.221.175.128/25,IPv4,email,global

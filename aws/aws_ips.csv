@@ -5376,6 +5376,7 @@ ip_address,ip_type,service,region
 43.196.24.8/30,IPv4,KINESIS_VIDEO_STREAMS,cn-north-1
 43.196.168.0/25,IPv4,EFS,cn-north-1
 43.196.172.0/22,IPv4,EFS,cn-north-1
+43.196.190.0/24,IPv4,AMAZON,cn-north-1
 43.198.0.0/15,IPv4,AMAZON,ap-east-1
 43.198.0.0/15,IPv4,EC2,ap-east-1
 43.198.166.0/23,IPv4,AMAZON,ap-east-1
@@ -10317,6 +10318,8 @@ ip_address,ip_type,service,region
 173.83.234.0/23,IPv4,EC2,us-east-1
 173.83.236.0/24,IPv4,AMAZON,us-west-1
 173.83.236.0/24,IPv4,EC2,us-west-1
+173.83.237.0/24,IPv4,AMAZON,us-east-1
+173.83.237.0/24,IPv4,EC2,us-east-1
 174.129.0.0/16,IPv4,AMAZON,us-east-1
 174.129.0.0/16,IPv4,EC2,us-east-1
 175.41.128.0/18,IPv4,AMAZON,ap-southeast-1

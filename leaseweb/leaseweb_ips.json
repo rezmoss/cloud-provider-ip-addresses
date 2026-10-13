@@ -4824,51 +4824,15 @@
     "region": "global"
   },
   {
-    "ip_address": "103.148.140.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as59253",
-    "region": "global"
-  },
-  {
-    "ip_address": "103.149.84.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as59253",
-    "region": "global"
-  },
-  {
     "ip_address": "103.149.169.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as60781",
     "region": "global"
   },
   {
-    "ip_address": "103.151.102.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as59253",
-    "region": "global"
-  },
-  {
-    "ip_address": "103.152.16.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as59253",
-    "region": "global"
-  },
-  {
-    "ip_address": "103.160.58.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as59253",
-    "region": "global"
-  },
-  {
     "ip_address": "103.161.224.0/23",
     "ip_type": "IPv4",
     "service": "leaseweb-as133752",
-    "region": "global"
-  },
-  {
-    "ip_address": "103.163.52.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as59253",
     "region": "global"
   },
   {

@@ -1,6 +1,6 @@
 # atlassian IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-10-12 | Last changed: 2026-06-18
-# IPv4: 69 merged subnets, 75566 unique IPs
+# Version: 2 | Generated: 2026-10-13 | Last changed: 2026-10-13
+# IPv4: 70 merged subnets, 77614 unique IPs
 # IPv6: 14 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -72,6 +72,7 @@ add atlassian_v4 76.223.144.220/31
 add atlassian_v4 76.223.147.128/25
 add atlassian_v4 76.223.176.0/20
 add atlassian_v4 104.192.136.0/21
+add atlassian_v4 131.162.88.0/21
 add atlassian_v4 167.89.0.0/17
 add atlassian_v4 168.245.0.0/17
 add atlassian_v4 174.129.205.191/32

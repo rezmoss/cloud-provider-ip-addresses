@@ -1,6 +1,6 @@
 # leaseweb IP ranges - ipset restore format (hash:net)
-# Version: 57 | Generated: 2026-10-12 | Last changed: 2026-10-10
-# IPv4: 1123 merged subnets, 2352640 unique IPs
+# Version: 58 | Generated: 2026-10-13 | Last changed: 2026-10-13
+# IPv4: 1117 merged subnets, 2351104 unique IPs
 # IPv6: 317 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -536,14 +536,8 @@ add leaseweb_v4 103.119.218.0/23
 add leaseweb_v4 103.138.32.0/24
 add leaseweb_v4 103.139.48.0/23
 add leaseweb_v4 103.139.50.0/24
-add leaseweb_v4 103.148.140.0/24
-add leaseweb_v4 103.149.84.0/24
 add leaseweb_v4 103.149.169.0/24
-add leaseweb_v4 103.151.102.0/24
-add leaseweb_v4 103.152.16.0/24
-add leaseweb_v4 103.160.58.0/24
 add leaseweb_v4 103.161.224.0/23
-add leaseweb_v4 103.163.52.0/24
 add leaseweb_v4 103.198.77.0/24
 add leaseweb_v4 103.209.230.0/24
 add leaseweb_v4 103.227.85.0/24

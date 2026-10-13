@@ -1,6 +1,6 @@
 #!/bin/bash
 # Fastly IP Ranges
-# Updated: 2026-06-14 03:21:36
+# Updated: 2026-10-13 02:39:06
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,6 +9,8 @@
 
 ufw deny from 23.235.32.0/20
 ufw deny from 43.249.72.0/22
+ufw deny from 90.98.0.0/17
+ufw deny from 90.98.128.0/18
 ufw deny from 103.244.50.0/24
 ufw deny from 103.245.222.0/23
 ufw deny from 103.245.224.0/24
@@ -27,4 +29,5 @@ ufw deny from 185.31.16.0/22
 ufw deny from 199.27.72.0/21
 ufw deny from 199.232.0.0/16
 ufw deny from 2a04:4e40::/32
-ufw deny from 2a04:4e42::/32
+ufw deny from 2a04:4e42::/31
+ufw deny from 2a04:4e44::/32

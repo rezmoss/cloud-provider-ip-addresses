@@ -1,7 +1,7 @@
 # fastly IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-10-12 | Last changed: 2026-06-18
-# IPv4: 19 merged subnets, 304128 unique IPs
-# IPv6: 2 merged subnets
+# Version: 2 | Generated: 2026-10-13 | Last changed: 2026-10-13
+# IPv4: 21 merged subnets, 353280 unique IPs
+# IPv6: 3 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < fastly.netset
@@ -10,6 +10,8 @@ create fastly_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush fastly_v4
 add fastly_v4 23.235.32.0/20
 add fastly_v4 43.249.72.0/22
+add fastly_v4 90.98.0.0/17
+add fastly_v4 90.98.128.0/18
 add fastly_v4 103.244.50.0/24
 add fastly_v4 103.245.222.0/23
 add fastly_v4 103.245.224.0/24
@@ -30,4 +32,5 @@ add fastly_v4 199.232.0.0/16
 create fastly_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
 flush fastly_v6
 add fastly_v6 2a04:4e40::/32
-add fastly_v6 2a04:4e42::/32
+add fastly_v6 2a04:4e42::/31
+add fastly_v6 2a04:4e44::/32

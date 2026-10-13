@@ -5922,6 +5922,12 @@
     "region": "global"
   },
   {
+    "ip_address": "162.62.253.0/24",
+    "ip_type": "IPv4",
+    "service": "tencent-as132203",
+    "region": "global"
+  },
+  {
     "ip_address": "162.62.254.0/24",
     "ip_type": "IPv4",
     "service": "tencent-as132203",

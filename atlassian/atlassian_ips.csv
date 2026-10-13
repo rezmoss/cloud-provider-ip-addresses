@@ -88,6 +88,10 @@ ip_address,ip_type,service,region
 104.192.143.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-northeast-2
 104.192.143.224/28,IPv4,rovo-crawler,ap-southeast-2
 104.192.143.240/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-2
+131.162.88.0/21,IPv4,"confluence,forge,jira,loom",global
+131.162.88.0/23,IPv4,"confluence,forge,jira,loom",global
+131.162.90.0/23,IPv4,"confluence,forge,jira,loom",global
+131.162.90.20/30,IPv4,rovo-crawler,gcp-us-central1
 167.89.0.0/17,IPv4,email,global
 168.245.0.0/17,IPv4,email,global
 174.129.205.191/32,IPv4,bitbucket,us-east-1

@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS `fastly_ips` (
 
 INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('23.235.32.0/20', 'IPv4');
 INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('43.249.72.0/22', 'IPv4');
+INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('90.98.0.0/17', 'IPv4');
+INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('90.98.128.0/18', 'IPv4');
 INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('103.244.50.0/24', 'IPv4');
 INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('103.245.222.0/23', 'IPv4');
 INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('103.245.224.0/24', 'IPv4');
@@ -26,4 +28,5 @@ INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('185.31.16.0/22', 'IP
 INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('199.27.72.0/21', 'IPv4');
 INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('199.232.0.0/16', 'IPv4');
 INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e40::/32', 'IPv6');
-INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e42::/32', 'IPv6');
+INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e42::/31', 'IPv6');
+INSERT INTO `fastly_ips` (`ip_address`, `ip_type`) VALUES ('2a04:4e44::/32', 'IPv6');

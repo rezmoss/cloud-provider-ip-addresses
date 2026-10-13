@@ -2365,8 +2365,6 @@ INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('240b:400d:80
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('240b:400e::/32', 'IPv6');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('240b:400e::/33', 'IPv6');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('240b:400e:8000::/33', 'IPv6');
-INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('240b:400e:fffe::/48', 'IPv6');
-INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('240b:400e:ffff::/48', 'IPv6');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('240b:400f::/32', 'IPv6');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('240b:400f::/33', 'IPv6');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('240b:400f:8000::/33', 'IPv6');

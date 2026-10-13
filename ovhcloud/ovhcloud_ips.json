@@ -4654,5 +4654,11 @@
     "ip_type": "IPv6",
     "service": "ovhcloud-as16276",
     "region": "global"
+  },
+  {
+    "ip_address": "2a03:bf80::/48",
+    "ip_type": "IPv6",
+    "service": "ovhcloud-as16276",
+    "region": "global"
   }
 ]

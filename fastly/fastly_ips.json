@@ -8,6 +8,14 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "90.98.0.0/17",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "90.98.128.0/18",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "103.244.50.0/24",
     "ip_type": "IPv4"
   },
@@ -80,7 +88,11 @@
     "ip_type": "IPv6"
   },
   {
-    "ip_address": "2a04:4e42::/32",
+    "ip_address": "2a04:4e42::/31",
+    "ip_type": "IPv6"
+  },
+  {
+    "ip_address": "2a04:4e44::/32",
     "ip_type": "IPv6"
   }
 ]

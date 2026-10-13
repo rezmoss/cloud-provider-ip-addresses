@@ -21,6 +21,7 @@ ip_address,ip_type,service,region
 43.196.24.8/30,IPv4,KINESIS_VIDEO_STREAMS,cn-north-1
 43.196.168.0/25,IPv4,EFS,cn-north-1
 43.196.172.0/22,IPv4,EFS,cn-north-1
+43.196.190.0/24,IPv4,AMAZON,cn-north-1
 52.80.0.0/16,IPv4,AMAZON,cn-north-1
 52.80.0.0/16,IPv4,EC2,cn-north-1
 52.80.51.200/29,IPv4,ROUTE53_RESOLVER,cn-north-1

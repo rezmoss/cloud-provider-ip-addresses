@@ -782,3 +782,4 @@ INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('2604:2dc0:3
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('2604:2dc0:30c::/48', 'IPv6');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('2607:5300::/32', 'IPv6');
 INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('2607:5300:603::/48', 'IPv6');
+INSERT INTO `ovhcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:bf80::/48', 'IPv6');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Meta IP Ranges
-# Updated: 2026-10-11 02:39:38
+# Updated: 2026-10-13 02:42:00
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -64,7 +64,8 @@ iptables -A INPUT -s 157.240.134.0/24 -j ACCEPT
 iptables -A INPUT -s 157.240.136.0/23 -j ACCEPT
 iptables -A INPUT -s 157.240.139.0/24 -j ACCEPT
 iptables -A INPUT -s 157.240.140.0/24 -j ACCEPT
-iptables -A INPUT -s 157.240.156.0/22 -j ACCEPT
+iptables -A INPUT -s 157.240.156.0/23 -j ACCEPT
+iptables -A INPUT -s 157.240.158.0/24 -j ACCEPT
 iptables -A INPUT -s 157.240.169.0/24 -j ACCEPT
 iptables -A INPUT -s 157.240.170.0/24 -j ACCEPT
 iptables -A INPUT -s 157.240.175.0/24 -j ACCEPT

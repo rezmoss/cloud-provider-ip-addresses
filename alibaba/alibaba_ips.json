@@ -14154,18 +14154,6 @@
     "region": "global"
   },
   {
-    "ip_address": "240b:400e:fffe::/48",
-    "ip_type": "IPv6",
-    "service": "alibaba-as45102",
-    "region": "global"
-  },
-  {
-    "ip_address": "240b:400e:ffff::/48",
-    "ip_type": "IPv6",
-    "service": "alibaba-as45102",
-    "region": "global"
-  },
-  {
     "ip_address": "240b:400f::/32",
     "ip_type": "IPv6",
     "service": "alibaba-as45102",
