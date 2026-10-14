@@ -1,6 +1,6 @@
 #!/bin/bash
 # Contabo IP Ranges
-# Updated: 2026-10-05 02:44:07
+# Updated: 2026-10-14 02:32:34
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10,6 +10,8 @@
 iptables -A INPUT -s 5.180.151.0/24 -j ACCEPT
 iptables -A INPUT -s 5.252.52.0/22 -j ACCEPT
 iptables -A INPUT -s 13.140.32.0/20 -j ACCEPT
+iptables -A INPUT -s 13.140.224.0/20 -j ACCEPT
+iptables -A INPUT -s 13.140.240.0/21 -j ACCEPT
 iptables -A INPUT -s 31.220.96.0/21 -j ACCEPT
 iptables -A INPUT -s 38.105.209.0/24 -j ACCEPT
 iptables -A INPUT -s 38.105.232.0/24 -j ACCEPT

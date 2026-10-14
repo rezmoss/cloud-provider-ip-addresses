@@ -3048,6 +3048,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "2001:3fc6:3c::/47",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "2400:7fc0:500::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

@@ -1,23 +1,23 @@
 {
   "provider": "contabo",
-  "version": 1,
-  "generated_date": "2026-10-13",
-  "last_changed_date": "2026-10-05",
+  "version": 2,
+  "generated_date": "2026-10-14",
+  "last_changed_date": "2026-10-14",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 744,
-    "merged_cidrs": 342,
-    "addresses": 752128
+    "cidrs": 749,
+    "merged_cidrs": 341,
+    "addresses": 760832
   },
   "ipv6": {
     "cidrs": 14,
     "merged_cidrs": 6,
     "addresses": 1109194275199700726309615304704
   },
-  "total_entries": 758,
-  "content_sha256": "048dd2712688ac9ed74ef71484e66763c4a22ad5774ace2f40c64c111aa752f4",
+  "total_entries": 763,
+  "content_sha256": "07cb924e6bec3dad13cd86ad022a084ffa3ac2a81914ab1262d122e6c482ac3b",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

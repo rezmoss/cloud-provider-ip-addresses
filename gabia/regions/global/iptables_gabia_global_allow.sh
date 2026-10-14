@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gabia IP Ranges
-# Updated: 2026-09-30 02:37:27
+# Updated: 2026-10-14 02:32:31
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -12,7 +12,8 @@ iptables -A INPUT -s 1.201.65.0/24 -j ACCEPT
 iptables -A INPUT -s 1.201.66.0/23 -j ACCEPT
 iptables -A INPUT -s 1.201.68.0/24 -j ACCEPT
 iptables -A INPUT -s 1.201.99.0/24 -j ACCEPT
-iptables -A INPUT -s 1.201.111.0/24 -j ACCEPT
+iptables -A INPUT -s 1.201.109.0/24 -j ACCEPT
+iptables -A INPUT -s 1.201.110.0/23 -j ACCEPT
 iptables -A INPUT -s 1.201.112.0/20 -j ACCEPT
 iptables -A INPUT -s 1.201.224.0/23 -j ACCEPT
 iptables -A INPUT -s 1.201.227.0/24 -j ACCEPT

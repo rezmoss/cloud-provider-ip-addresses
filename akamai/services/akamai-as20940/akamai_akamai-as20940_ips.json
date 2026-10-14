@@ -26106,12 +26106,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2600:1417:3c00::/48",
-    "ip_type": "IPv6",
-    "service": "akamai-as20940",
-    "region": "global"
-  },
-  {
     "ip_address": "2600:1417:4000::/48",
     "ip_type": "IPv6",
     "service": "akamai-as20940",

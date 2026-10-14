@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-10-13 03:14:59
+# Updated: 2026-10-14 02:32:20
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -79,7 +79,6 @@ ufw allow from 62.112.222.143/32
 ufw allow from 62.112.222.229/32
 ufw allow from 62.112.223.4/31
 ufw allow from 62.209.27.232/32
-ufw allow from 65.20.85.192/32
 ufw allow from 78.111.110.4/31
 ufw allow from 78.111.110.6/32
 ufw allow from 79.133.108.6/31
@@ -152,6 +151,7 @@ ufw allow from 80.15.252.61/32
 ufw allow from 80.15.252.63/32
 ufw allow from 80.15.252.65/32
 ufw allow from 80.15.252.67/32
+ufw allow from 80.15.252.69/32
 ufw allow from 80.15.252.81/32
 ufw allow from 80.15.252.83/32
 ufw allow from 80.15.252.85/32
@@ -228,7 +228,6 @@ ufw allow from 90.84.153.33/32
 ufw allow from 90.84.153.34/31
 ufw allow from 90.84.153.65/32
 ufw allow from 90.84.153.66/31
-ufw allow from 90.84.153.97/32
 ufw allow from 90.84.153.98/31
 ufw allow from 90.84.153.129/32
 ufw allow from 90.84.153.130/31
@@ -464,14 +463,13 @@ ufw allow from 120.28.10.46/32
 ufw allow from 125.214.171.164/32
 ufw allow from 128.75.231.2/31
 ufw allow from 128.75.231.4/30
-ufw allow from 128.75.231.8/32
+ufw allow from 128.75.231.8/31
 ufw allow from 130.193.166.2/32
 ufw allow from 134.0.219.26/32
 ufw allow from 134.0.219.37/32
 ufw allow from 139.28.7.5/32
 ufw allow from 139.28.7.6/32
 ufw allow from 139.28.7.8/32
-ufw allow from 139.84.165.205/32
 ufw allow from 143.137.230.226/32
 ufw allow from 150.107.126.4/31
 ufw allow from 151.248.104.69/32
@@ -649,7 +647,6 @@ ufw allow from 2a01:c9c0:c000:2003::/128
 ufw allow from 2a01:c9c0:c000:3001::/128
 ufw allow from 2a01:c9c0:c000:3002::/128
 ufw allow from 2a01:c9c0:c000:3003::/128
-ufw allow from 2a01:c9c0:c000:4001::/128
 ufw allow from 2a01:c9c0:c000:4002::/128
 ufw allow from 2a01:c9c0:c000:4003::/128
 ufw allow from 2a01:c9c0:c000:5001::/128
@@ -688,6 +685,7 @@ ufw allow from 2a01:c9c0:c006:600::1/128
 ufw allow from 2a01:c9c0:c006:600::3/128
 ufw allow from 2a01:c9c0:c006:600::5/128
 ufw allow from 2a01:c9c0:c006:600::7/128
+ufw allow from 2a01:c9c0:c006:600::9/128
 ufw allow from 2a01:c9c0:c006:3000::1/128
 ufw allow from 2a01:c9c0:c00a::1/128
 ufw allow from 2a01:c9c0:c012::5/128

@@ -438,6 +438,12 @@
     "region": "global"
   },
   {
+    "ip_address": "47.85.130.0/24",
+    "ip_type": "IPv4",
+    "service": "alibaba-as134963",
+    "region": "global"
+  },
+  {
     "ip_address": "47.87.24.0/24",
     "ip_type": "IPv4",
     "service": "alibaba-as134963",

@@ -1,6 +1,6 @@
 # Huawei Cloud IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-13** · Total CIDRs: **681** · IPv4: **588** · IPv6: **93** · Services: **6** · Regions: **1**
+> Last updated: **2026-10-14** · Total CIDRs: **681** · IPv4: **588** · IPv6: **93** · Services: **6** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Huawei Cloud**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

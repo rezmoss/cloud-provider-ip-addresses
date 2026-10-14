@@ -79,6 +79,7 @@ INSERT INTO `alibaba_alibaba-as134963_ips` (`ip_address`, `ip_type`) VALUES ('45
 INSERT INTO `alibaba_alibaba-as134963_ips` (`ip_address`, `ip_type`) VALUES ('45.194.59.0/24', 'IPv4');
 INSERT INTO `alibaba_alibaba-as134963_ips` (`ip_address`, `ip_type`) VALUES ('45.194.63.0/24', 'IPv4');
 INSERT INTO `alibaba_alibaba-as134963_ips` (`ip_address`, `ip_type`) VALUES ('47.57.197.0/24', 'IPv4');
+INSERT INTO `alibaba_alibaba-as134963_ips` (`ip_address`, `ip_type`) VALUES ('47.85.130.0/24', 'IPv4');
 INSERT INTO `alibaba_alibaba-as134963_ips` (`ip_address`, `ip_type`) VALUES ('47.87.24.0/24', 'IPv4');
 INSERT INTO `alibaba_alibaba-as134963_ips` (`ip_address`, `ip_type`) VALUES ('47.87.25.0/24', 'IPv4');
 INSERT INTO `alibaba_alibaba-as134963_ips` (`ip_address`, `ip_type`) VALUES ('47.87.26.0/24', 'IPv4');
