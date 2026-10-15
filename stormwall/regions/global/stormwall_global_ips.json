@@ -42,6 +42,12 @@
     "region": "global"
   },
   {
+    "ip_address": "160.79.121.0/24",
+    "ip_type": "IPv4",
+    "service": "stormwall-as59796",
+    "region": "global"
+  },
+  {
     "ip_address": "160.79.123.0/24",
     "ip_type": "IPv4",
     "service": "stormwall-as59796",

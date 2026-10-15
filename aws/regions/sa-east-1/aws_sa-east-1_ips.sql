@@ -433,6 +433,8 @@ INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:614
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:6140::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:8150::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:8150::/48', 'IPv6');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:818a::/48', 'IPv6');
+INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:818a::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:c112::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:c112::/48', 'IPv6');
 INSERT INTO `aws_sa-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:c147::/48', 'IPv6');

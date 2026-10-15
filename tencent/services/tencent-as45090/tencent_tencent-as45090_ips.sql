@@ -2001,7 +2001,6 @@ INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('182
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('182.254.80.0/23', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('182.254.82.0/23', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('182.254.84.0/23', 'IPv4');
-INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('182.254.85.0/24', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('182.254.86.0/23', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('182.254.88.0/23', 'IPv4');
 INSERT INTO `tencent_tencent-as45090_ips` (`ip_address`, `ip_type`) VALUES ('182.254.90.0/23', 'IPv4');

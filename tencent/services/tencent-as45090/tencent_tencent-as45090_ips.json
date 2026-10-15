@@ -11970,12 +11970,6 @@
     "region": "global"
   },
   {
-    "ip_address": "182.254.85.0/24",
-    "ip_type": "IPv4",
-    "service": "tencent-as45090",
-    "region": "global"
-  },
-  {
     "ip_address": "182.254.86.0/23",
     "ip_type": "IPv4",
     "service": "tencent-as45090",

@@ -3840,6 +3840,18 @@
     "region": "ap-southeast-1"
   },
   {
+    "ip_address": "2600:f0f0:818d::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f0:818d::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
     "ip_address": "2600:f0f0:c048::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

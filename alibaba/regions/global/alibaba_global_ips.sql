@@ -980,7 +980,6 @@ INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.81.96.0/1
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.81.128.0/17', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.81.128.0/18', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.81.192.0/18', 'IPv4');
-INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.81.200.0/24', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.82.0.0/18', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.82.0.0/19', 'IPv4');
 INSERT INTO `alibaba_global_ips` (`ip_address`, `ip_type`) VALUES ('47.82.8.0/23', 'IPv4');

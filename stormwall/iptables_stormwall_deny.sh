@@ -1,6 +1,6 @@
 #!/bin/bash
 # Stormwall IP Ranges
-# Updated: 2026-10-09 02:42:17
+# Updated: 2026-10-15 02:32:58
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10,7 +10,7 @@
 iptables -A INPUT -s 5.252.32.0/22 -j DROP
 iptables -A INPUT -s 103.134.155.0/24 -j DROP
 iptables -A INPUT -s 160.25.253.0/24 -j DROP
-iptables -A INPUT -s 160.79.120.0/24 -j DROP
+iptables -A INPUT -s 160.79.120.0/23 -j DROP
 iptables -A INPUT -s 160.79.123.0/24 -j DROP
 iptables -A INPUT -s 185.121.240.0/22 -j DROP
 iptables -A INPUT -s 193.84.85.0/24 -j DROP

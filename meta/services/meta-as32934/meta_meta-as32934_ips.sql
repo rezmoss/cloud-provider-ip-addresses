@@ -218,7 +218,6 @@ INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('157.240.2
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('157.240.241.0/24', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('157.240.243.0/24', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('157.240.244.0/24', 'IPv4');
-INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('157.240.253.0/24', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('157.240.254.0/24', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('163.70.128.0/17', 'IPv4');
 INSERT INTO `meta_meta-as32934_ips` (`ip_address`, `ip_type`) VALUES ('163.70.130.0/24', 'IPv4');

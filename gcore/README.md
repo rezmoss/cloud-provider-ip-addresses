@@ -1,6 +1,6 @@
 # G-Core Labs IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-14** · Total CIDRs: **1,826** · IPv4: **982** · IPv6: **844**
+> Last updated: **2026-10-15** · Total CIDRs: **1,830** · IPv4: **984** · IPv6: **846**
 
 Machine-readable, daily-updated, validated public IP ranges for **G-Core Labs**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

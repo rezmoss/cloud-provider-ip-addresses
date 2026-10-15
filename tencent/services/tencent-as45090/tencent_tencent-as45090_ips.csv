@@ -1994,7 +1994,6 @@ ip_address,ip_type,service,region
 182.254.80.0/23,IPv4,tencent-as45090,global
 182.254.82.0/23,IPv4,tencent-as45090,global
 182.254.84.0/23,IPv4,tencent-as45090,global
-182.254.85.0/24,IPv4,tencent-as45090,global
 182.254.86.0/23,IPv4,tencent-as45090,global
 182.254.88.0/23,IPv4,tencent-as45090,global
 182.254.90.0/23,IPv4,tencent-as45090,global

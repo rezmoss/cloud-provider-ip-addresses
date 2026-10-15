@@ -4470,6 +4470,18 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2600:f0f0:8189::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "2600:f0f0:8189::/48",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "2600:f0f0:c10d::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",
