@@ -102,43 +102,19 @@
     "region": "centralindia"
   },
   {
-    "ip_address": "20.20.84.0/24",
+    "ip_address": "20.20.84.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",
     "region": "centralindia"
   },
   {
-    "ip_address": "20.20.85.0/25",
+    "ip_address": "20.20.86.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",
     "region": "centralindia"
   },
   {
-    "ip_address": "20.20.85.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralindia",
-    "region": "centralindia"
-  },
-  {
-    "ip_address": "20.20.85.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralindia",
-    "region": "centralindia"
-  },
-  {
-    "ip_address": "20.20.85.224/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralindia",
-    "region": "centralindia"
-  },
-  {
-    "ip_address": "20.20.85.232/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.centralindia",
-    "region": "centralindia"
-  },
-  {
-    "ip_address": "20.20.85.236/31",
+    "ip_address": "20.20.86.64/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralindia",
     "region": "centralindia"

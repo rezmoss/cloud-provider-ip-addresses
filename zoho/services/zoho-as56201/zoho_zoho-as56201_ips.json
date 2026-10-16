@@ -228,12 +228,6 @@
     "region": "global"
   },
   {
-    "ip_address": "199.67.94.0/24",
-    "ip_type": "IPv4",
-    "service": "zoho-as56201",
-    "region": "global"
-  },
-  {
     "ip_address": "2400:6d20:10::/47",
     "ip_type": "IPv6",
     "service": "zoho-as56201",

@@ -18,6 +18,12 @@
     "region": "eastus2euap"
   },
   {
+    "ip_address": "48.223.123.172/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
     "ip_address": "52.138.94.0/23",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.EastUS2EUAP",
@@ -31,6 +37,12 @@
   },
   {
     "ip_address": "2603:1030:40b:400::a80/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.EastUS2EUAP",
+    "region": "eastus2euap"
+  },
+  {
+    "ip_address": "2603:1030:40b:1400::62/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.EastUS2EUAP",
     "region": "eastus2euap"

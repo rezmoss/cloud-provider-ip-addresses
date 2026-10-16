@@ -2868,6 +2868,12 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "172.143.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southcentralus",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "172.202.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.southcentralus",

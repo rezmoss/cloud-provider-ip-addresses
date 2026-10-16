@@ -1,6 +1,6 @@
 #!/bin/bash
 # Huawei IP Ranges
-# Updated: 2026-10-13 03:14:56
+# Updated: 2026-10-16 02:29:29
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -20,6 +20,7 @@ ufw allow from 14.137.169.0/24
 ufw allow from 14.137.170.0/23
 ufw allow from 14.137.172.0/22
 ufw allow from 14.137.176.0/21
+ufw allow from 14.137.186.0/23
 ufw allow from 14.137.190.0/23
 ufw allow from 27.106.0.0/17
 ufw allow from 27.255.0.0/18
@@ -185,8 +186,10 @@ ufw allow from 219.83.32.0/20
 ufw allow from 219.83.76.0/23
 ufw allow from 219.83.80.0/21
 ufw allow from 219.83.112.0/22
+ufw allow from 219.83.118.0/23
 ufw allow from 219.83.121.0/24
 ufw allow from 219.83.122.0/23
+ufw allow from 219.83.127.0/24
 ufw allow from 2404:a140:43::/48
 ufw allow from 2405:f080::/39
 ufw allow from 2405:f080:200::/47

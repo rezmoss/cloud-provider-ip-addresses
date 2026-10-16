@@ -804,6 +804,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.223.123.172/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager",
+    "region": ""
+  },
+  {
     "ip_address": "51.4.128.0/23",
     "ip_type": "IPv4",
     "service": "AzureResourceManager",
@@ -1098,6 +1104,12 @@
     "region": ""
   },
   {
+    "ip_address": "57.173.25.10/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager",
+    "region": ""
+  },
+  {
     "ip_address": "65.52.252.48/28",
     "ip_type": "IPv4",
     "service": "AzureResourceManager",
@@ -1141,6 +1153,12 @@
   },
   {
     "ip_address": "74.7.184.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager",
+    "region": ""
+  },
+  {
+    "ip_address": "74.145.160.112/31",
     "ip_type": "IPv4",
     "service": "AzureResourceManager",
     "region": ""
@@ -1692,6 +1710,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1030:f:800::4a/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1030:10::180/122",
     "ip_type": "IPv6",
     "service": "AzureResourceManager",
@@ -1747,6 +1771,12 @@
   },
   {
     "ip_address": "2603:1030:40b:400::a80/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:40b:1400::62/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager",
     "region": ""
@@ -1813,6 +1843,12 @@
   },
   {
     "ip_address": "2603:1030:807:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:807:1400::1c/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager",
     "region": ""

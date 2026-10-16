@@ -474,13 +474,211 @@
     "region": "norwaye"
   },
   {
-    "ip_address": "74.240.192.0/18",
+    "ip_address": "74.240.192.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.norwaye",
     "region": "norwaye"
   },
   {
-    "ip_address": "131.163.0.0/17",
+    "ip_address": "74.240.200.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.200.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.200.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.200.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.200.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.200.254/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.201.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.202.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.204.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.208.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.208.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.208.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.208.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.208.216/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.208.220/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.208.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.209.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.210.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.212.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.216.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "74.240.224.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.0.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.32.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.40.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.42.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.43.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.43.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.43.40/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.43.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.43.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.43.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.44.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.48.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.norwaye",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "131.163.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.norwaye",
     "region": "norwaye"

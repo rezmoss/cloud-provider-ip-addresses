@@ -44,7 +44,6 @@ INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('169.148.1
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('199.67.76.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('199.67.78.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('199.67.94.0/23', 'IPv4');
-INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('199.67.94.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('2400:6d20:10::/47', 'IPv6');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('2400:6d20:fc00::/47', 'IPv6');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('2400:6d20:fc02::/47', 'IPv6');

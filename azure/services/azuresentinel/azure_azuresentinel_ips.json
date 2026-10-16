@@ -1188,6 +1188,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.214.138.144/29",
+    "ip_type": "IPv4",
+    "service": "AzureSentinel",
+    "region": ""
+  },
+  {
     "ip_address": "48.215.92.232/31",
     "ip_type": "IPv4",
     "service": "AzureSentinel",
@@ -1470,6 +1476,12 @@
     "region": ""
   },
   {
+    "ip_address": "52.255.8.64/29",
+    "ip_type": "IPv4",
+    "service": "AzureSentinel",
+    "region": ""
+  },
+  {
     "ip_address": "57.151.216.176/29",
     "ip_type": "IPv4",
     "service": "AzureSentinel",
@@ -1675,6 +1687,12 @@
   },
   {
     "ip_address": "72.152.38.48/30",
+    "ip_type": "IPv4",
+    "service": "AzureSentinel",
+    "region": ""
+  },
+  {
+    "ip_address": "72.153.16.192/29",
     "ip_type": "IPv4",
     "service": "AzureSentinel",
     "region": ""
@@ -2119,6 +2137,12 @@
   },
   {
     "ip_address": "135.225.179.228/31",
+    "ip_type": "IPv4",
+    "service": "AzureSentinel",
+    "region": ""
+  },
+  {
+    "ip_address": "135.232.86.192/29",
     "ip_type": "IPv4",
     "service": "AzureSentinel",
     "region": ""

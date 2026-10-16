@@ -222,6 +222,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "57.162.6.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "57.167.184.162/31",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastUS2",

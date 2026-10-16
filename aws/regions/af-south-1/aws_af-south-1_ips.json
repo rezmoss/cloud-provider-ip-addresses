@@ -72,6 +72,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "3.33.0.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "3.43.128.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -1269,6 +1275,12 @@
     "ip_address": "2406:daff:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2600:1f01:494e::/47",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
     "region": "af-south-1"
   },
   {

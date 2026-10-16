@@ -31,6 +31,7 @@ INSERT INTO `azure_azurecloud.southcentralus2_ips` (`ip_address`, `ip_type`) VAL
 INSERT INTO `azure_azurecloud.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('57.150.92.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('57.150.240.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('135.130.88.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('145.190.197.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('209.199.27.16/28', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('209.199.27.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('209.199.28.0/26', 'IPv4');

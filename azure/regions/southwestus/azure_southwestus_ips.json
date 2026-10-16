@@ -644,6 +644,12 @@
   {
     "ip_address": "145.190.196.0/24",
     "ip_type": "IPv4",
+    "service": "AzureCloud.southwestus",
+    "region": "southwestus"
+  },
+  {
+    "ip_address": "145.190.196.0/24",
+    "ip_type": "IPv4",
     "service": "Storage.SouthwestUS",
     "region": "southwestus"
   },

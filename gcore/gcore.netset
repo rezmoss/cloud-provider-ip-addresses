@@ -1,6 +1,6 @@
 # gcore IP ranges - ipset restore format (hash:net)
-# Version: 57 | Generated: 2026-10-15 | Last changed: 2026-10-15
-# IPv4: 578 merged subnets, 983 unique IPs
+# Version: 58 | Generated: 2026-10-16 | Last changed: 2026-10-16
+# IPv4: 579 merged subnets, 984 unique IPs
 # IPv6: 471 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -82,6 +82,7 @@ add gcore_v4 62.112.223.4/31
 add gcore_v4 62.209.27.232/32
 add gcore_v4 78.111.110.4/31
 add gcore_v4 78.111.110.6/32
+add gcore_v4 79.133.108.4/32
 add gcore_v4 79.133.108.6/31
 add gcore_v4 79.133.108.13/32
 add gcore_v4 79.133.108.14/31
@@ -468,6 +469,7 @@ add gcore_v4 125.214.171.164/32
 add gcore_v4 128.75.231.2/31
 add gcore_v4 128.75.231.4/30
 add gcore_v4 128.75.231.8/31
+add gcore_v4 130.193.165.50/32
 add gcore_v4 130.193.166.2/32
 add gcore_v4 134.0.219.26/32
 add gcore_v4 134.0.219.37/32
@@ -550,7 +552,6 @@ add gcore_v4 196.97.8.18/32
 add gcore_v4 196.216.216.90/32
 add gcore_v4 197.148.108.106/32
 add gcore_v4 197.160.157.1/32
-add gcore_v4 197.188.22.102/32
 add gcore_v4 197.215.44.65/32
 add gcore_v4 197.218.12.250/32
 add gcore_v4 197.225.145.26/32
@@ -893,6 +894,7 @@ add gcore_v6 2a03:90c0:251:2801::14/126
 add gcore_v6 2a03:90c0:251:2801::18/127
 add gcore_v6 2a03:90c0:251:2801::23/128
 add gcore_v6 2a03:90c0:251:2801::24/126
+add gcore_v6 2a03:90c0:271:2801:1::4/128
 add gcore_v6 2a03:90c0:271:2801:1::6/127
 add gcore_v6 2a03:90c0:271:2801:1::13/128
 add gcore_v6 2a03:90c0:271:2801:1::14/126
@@ -1057,5 +1059,4 @@ add gcore_v6 2c0f:ee00:1:c0eb::50/128
 add gcore_v6 2c0f:f578:0:c::106/128
 add gcore_v6 2c0f:f7c0:3800:10::be2/128
 add gcore_v6 2c0f:f828:2::114/128
-add gcore_v6 2c0f:fe10::22/128
 add gcore_v6 2c0f:fe38:7:50::2/128

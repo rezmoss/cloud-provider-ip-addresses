@@ -204,6 +204,7 @@ INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('48.202.
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('48.209.116.224/27', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('48.214.114.176/28', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('48.214.114.192/28', 'IPv4');
+INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('48.214.138.144/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('48.215.92.232/31', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('48.216.26.104/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('48.219.199.168/29', 'IPv4');
@@ -251,6 +252,7 @@ INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('52.224.
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('52.238.16.48/28', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('52.242.47.152/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('52.251.70.29/32', 'IPv4');
+INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('52.255.8.64/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('57.151.216.176/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('57.152.113.24/30', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('57.152.113.32/28', 'IPv4');
@@ -286,6 +288,7 @@ INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('72.152.
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('72.152.38.24/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('72.152.38.32/28', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('72.152.38.48/30', 'IPv4');
+INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('72.153.16.192/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('74.7.51.32/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('74.7.183.176/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('74.159.237.139/32', 'IPv4');
@@ -360,6 +363,7 @@ INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('135.119
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('135.119.2.40/31', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('135.171.186.128/28', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('135.225.179.228/31', 'IPv4');
+INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('135.232.86.192/29', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('135.232.169.124/31', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('135.233.200.32/30', 'IPv4');
 INSERT INTO `azure_azuresentinel_ips` (`ip_address`, `ip_type`) VALUES ('135.234.21.16/28', 'IPv4');

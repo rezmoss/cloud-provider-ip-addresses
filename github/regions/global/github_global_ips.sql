@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `github_global_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('3.41.210.0/24', 'IPv4');
+INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('3.42.157.0/24', 'IPv4');
 INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('3.219.87.128/32', 'IPv4');
 INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('4.148.0.0/16', 'IPv4');
 INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('4.149.0.0/18', 'IPv4');

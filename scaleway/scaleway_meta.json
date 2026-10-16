@@ -1,15 +1,15 @@
 {
   "provider": "scaleway",
-  "version": 3,
-  "generated_date": "2026-10-15",
-  "last_changed_date": "2026-09-17",
+  "version": 4,
+  "generated_date": "2026-10-16",
+  "last_changed_date": "2026-10-16",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
     "cidrs": 42,
-    "merged_cidrs": 19,
-    "addresses": 1552640
+    "merged_cidrs": 20,
+    "addresses": 1536256
   },
   "ipv6": {
     "cidrs": 21,
@@ -17,7 +17,7 @@
     "addresses": 475368975085586025561263702016
   },
   "total_entries": 63,
-  "content_sha256": "e16f3d12cea9b536fe85d956927c1858377873be8211c21676db0a65baa9c57d",
+  "content_sha256": "1010a26a53a6cbcd41de70176f38b475028efedee572cf3714948f515ae758b2",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

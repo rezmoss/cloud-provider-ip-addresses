@@ -140,6 +140,7 @@ INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('48.198.90.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('48.216.24.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('48.219.200.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('48.223.123.172/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('51.4.128.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('51.11.64.0/24', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('51.11.96.0/24', 'IPv4');
@@ -189,6 +190,7 @@ INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('52.231.150.0/24', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('52.240.242.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('57.151.218.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('57.173.25.10/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('65.52.252.48/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('65.52.254.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('68.210.168.0/23', 'IPv4');
@@ -197,6 +199,7 @@ INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('70.153.162.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('74.7.48.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('74.7.184.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('74.145.160.112/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('102.133.28.16/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('102.133.30.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('102.133.62.0/23', 'IPv4');
@@ -288,6 +291,7 @@ INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:1::6c0/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:2::700/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:400::a80/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:800::4a/127', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:402::280/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:104::180/122', 'IPv6');
@@ -298,6 +302,7 @@ INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:210:402::280/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:2::40/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:400::a80/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1400::62/127', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:2a::300/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:402::280/122', 'IPv6');
@@ -309,6 +314,7 @@ INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702:1::400/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:1400::1c/127', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:902:1::400/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07::6c0/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:9::200/120', 'IPv6');

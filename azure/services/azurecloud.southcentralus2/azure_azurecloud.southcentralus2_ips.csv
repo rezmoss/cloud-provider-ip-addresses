@@ -24,6 +24,7 @@ ip_address,ip_type,service,region
 57.150.92.0/24,IPv4,AzureCloud.southcentralus2,southcentralus2
 57.150.240.0/23,IPv4,AzureCloud.southcentralus2,southcentralus2
 135.130.88.0/22,IPv4,AzureCloud.southcentralus2,southcentralus2
+145.190.197.0/24,IPv4,AzureCloud.southcentralus2,southcentralus2
 209.199.27.16/28,IPv4,AzureCloud.southcentralus2,southcentralus2
 209.199.27.192/26,IPv4,AzureCloud.southcentralus2,southcentralus2
 209.199.28.0/26,IPv4,AzureCloud.southcentralus2,southcentralus2

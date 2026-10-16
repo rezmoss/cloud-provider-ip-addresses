@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-09-30 02:31:21
+# Updated: 2026-10-16 02:25:27
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10,7 +10,35 @@
 iptables -A INPUT -s 4.167.0.0/16 -j DROP
 iptables -A INPUT -s 4.168.0.0/16 -j DROP
 iptables -A INPUT -s 4.221.0.0/16 -j DROP
-iptables -A INPUT -s 4.222.0.0/16 -j DROP
+iptables -A INPUT -s 4.222.0.0/17 -j DROP
+iptables -A INPUT -s 4.222.128.0/18 -j DROP
+iptables -A INPUT -s 4.222.192.0/20 -j DROP
+iptables -A INPUT -s 4.222.208.0/22 -j DROP
+iptables -A INPUT -s 4.222.212.0/24 -j DROP
+iptables -A INPUT -s 4.222.213.0/27 -j DROP
+iptables -A INPUT -s 4.222.213.32/28 -j DROP
+iptables -A INPUT -s 4.222.213.48/30 -j DROP
+iptables -A INPUT -s 4.222.213.52/31 -j DROP
+iptables -A INPUT -s 4.222.213.56/29 -j DROP
+iptables -A INPUT -s 4.222.213.64/28 -j DROP
+iptables -A INPUT -s 4.222.213.80/30 -j DROP
+iptables -A INPUT -s 4.222.213.88/29 -j DROP
+iptables -A INPUT -s 4.222.213.96/27 -j DROP
+iptables -A INPUT -s 4.222.213.128/25 -j DROP
+iptables -A INPUT -s 4.222.214.0/23 -j DROP
+iptables -A INPUT -s 4.222.216.0/21 -j DROP
+iptables -A INPUT -s 4.222.224.0/20 -j DROP
+iptables -A INPUT -s 4.222.240.0/22 -j DROP
+iptables -A INPUT -s 4.222.244.0/24 -j DROP
+iptables -A INPUT -s 4.222.245.0/26 -j DROP
+iptables -A INPUT -s 4.222.245.64/27 -j DROP
+iptables -A INPUT -s 4.222.245.96/28 -j DROP
+iptables -A INPUT -s 4.222.245.112/29 -j DROP
+iptables -A INPUT -s 4.222.245.120/31 -j DROP
+iptables -A INPUT -s 4.222.245.124/30 -j DROP
+iptables -A INPUT -s 4.222.245.128/25 -j DROP
+iptables -A INPUT -s 4.222.246.0/23 -j DROP
+iptables -A INPUT -s 4.222.248.0/21 -j DROP
 iptables -A INPUT -s 4.253.0.0/16 -j DROP
 iptables -A INPUT -s 13.104.158.128/27 -j DROP
 iptables -A INPUT -s 13.104.158.160/28 -j DROP
@@ -123,7 +151,40 @@ iptables -A INPUT -s 102.133.240.128/26 -j DROP
 iptables -A INPUT -s 102.133.248.0/21 -j DROP
 iptables -A INPUT -s 151.206.113.0/24 -j DROP
 iptables -A INPUT -s 151.206.171.0/24 -j DROP
-iptables -A INPUT -s 172.209.128.0/17 -j DROP
+iptables -A INPUT -s 172.209.128.0/19 -j DROP
+iptables -A INPUT -s 172.209.160.0/20 -j DROP
+iptables -A INPUT -s 172.209.176.0/21 -j DROP
+iptables -A INPUT -s 172.209.184.0/22 -j DROP
+iptables -A INPUT -s 172.209.188.0/24 -j DROP
+iptables -A INPUT -s 172.209.189.0/25 -j DROP
+iptables -A INPUT -s 172.209.189.128/27 -j DROP
+iptables -A INPUT -s 172.209.189.160/28 -j DROP
+iptables -A INPUT -s 172.209.189.176/29 -j DROP
+iptables -A INPUT -s 172.209.189.184/32 -j DROP
+iptables -A INPUT -s 172.209.189.186/31 -j DROP
+iptables -A INPUT -s 172.209.189.188/30 -j DROP
+iptables -A INPUT -s 172.209.189.192/26 -j DROP
+iptables -A INPUT -s 172.209.190.0/24 -j DROP
+iptables -A INPUT -s 172.209.191.0/29 -j DROP
+iptables -A INPUT -s 172.209.191.8/30 -j DROP
+iptables -A INPUT -s 172.209.191.16/28 -j DROP
+iptables -A INPUT -s 172.209.191.40/29 -j DROP
+iptables -A INPUT -s 172.209.191.48/28 -j DROP
+iptables -A INPUT -s 172.209.191.64/26 -j DROP
+iptables -A INPUT -s 172.209.191.128/25 -j DROP
+iptables -A INPUT -s 172.209.192.0/19 -j DROP
+iptables -A INPUT -s 172.209.224.0/22 -j DROP
+iptables -A INPUT -s 172.209.228.0/23 -j DROP
+iptables -A INPUT -s 172.209.230.0/24 -j DROP
+iptables -A INPUT -s 172.209.231.0/25 -j DROP
+iptables -A INPUT -s 172.209.231.128/26 -j DROP
+iptables -A INPUT -s 172.209.231.192/28 -j DROP
+iptables -A INPUT -s 172.209.231.208/30 -j DROP
+iptables -A INPUT -s 172.209.231.212/31 -j DROP
+iptables -A INPUT -s 172.209.231.216/29 -j DROP
+iptables -A INPUT -s 172.209.231.224/27 -j DROP
+iptables -A INPUT -s 172.209.232.0/21 -j DROP
+iptables -A INPUT -s 172.209.240.0/20 -j DROP
 ip6tables -A INPUT -s 2603:1000:100::/47 -j DROP
 ip6tables -A INPUT -s 2603:1000:103::/48 -j DROP
 ip6tables -A INPUT -s 2603:1000:104::/47 -j DROP

@@ -282,6 +282,60 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.74.20.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.20.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.20.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.21.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.21.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.21.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.22.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.74.22.0/24",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.74.128.0/18",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -633,6 +687,42 @@
     "ip_address": "2001:3fc6:2::/48",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:4::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:4::/48",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:4::/48",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:5::/48",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:5::/48",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:5::/48",
+    "ip_type": "IPv6",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "eusc-de-east-1"
   },
   {

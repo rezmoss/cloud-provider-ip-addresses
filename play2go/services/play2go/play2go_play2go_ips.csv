@@ -168,6 +168,9 @@ ip_address,ip_type,service,region
 177.3.218.0/24,IPv4,play2go,fi
 177.3.219.0/24,IPv4,play2go,nl
 177.3.220.0/24,IPv4,play2go,fi
+177.3.221.0/24,IPv4,play2go,de
+177.3.222.0/24,IPv4,play2go,de
+177.3.223.0/24,IPv4,play2go,nl
 178.215.236.0/24,IPv4,play2go,de
 178.215.238.0/24,IPv4,play2go,de
 185.216.71.0/24,IPv4,play2go,fi
@@ -180,4 +183,6 @@ ip_address,ip_type,service,region
 193.58.122.0/24,IPv4,play2go,de
 193.222.99.0/24,IPv4,play2go,de
 194.31.223.0/24,IPv4,play2go,de
+201.58.176.0/24,IPv4,play2go,fi
+201.58.177.0/24,IPv4,play2go,se
 212.80.7.0/24,IPv4,play2go,de

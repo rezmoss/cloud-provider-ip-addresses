@@ -2076,6 +2076,12 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "80.126.15.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "93.77.128.0/19",
     "ip_type": "IPv4",
     "service": "AMAZON",

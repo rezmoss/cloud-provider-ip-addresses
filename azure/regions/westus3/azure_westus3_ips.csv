@@ -548,6 +548,7 @@ ip_address,ip_type,service,region
 145.190.186.0/24,IPv4,Storage.WestUS3,westus3
 151.206.160.0/24,IPv4,AzureCloud.westus3,westus3
 151.206.186.0/24,IPv4,AzureCloud.westus3,westus3
+172.147.0.0/17,IPv4,AzureCloud.westus3,westus3
 172.173.16.0/20,IPv4,AzureCloud.westus3,westus3
 172.173.16.4/31,IPv4,PowerQueryOnline.WestUS3,westus3
 172.173.24.4/31,IPv4,PowerQueryOnline.WestUS3,westus3

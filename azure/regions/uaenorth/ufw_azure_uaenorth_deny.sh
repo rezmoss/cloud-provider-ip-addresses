@@ -1,13 +1,22 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-09-30 02:31:20
+# Updated: 2026-10-16 02:25:27
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW deny rules for azure
 
-ufw deny from 4.161.0.0/16
+ufw deny from 4.161.0.0/21
+ufw deny from 4.161.8.0/22
+ufw deny from 4.161.12.0/23
+ufw deny from 4.161.14.0/24
+ufw deny from 4.161.15.96/27
+ufw deny from 4.161.15.128/25
+ufw deny from 4.161.16.0/20
+ufw deny from 4.161.32.0/19
+ufw deny from 4.161.64.0/18
+ufw deny from 4.161.128.0/17
 ufw deny from 4.162.0.0/16
 ufw deny from 9.129.65.128/26
 ufw deny from 9.129.67.0/27
@@ -112,8 +121,49 @@ ufw deny from 65.52.248.0/21
 ufw deny from 70.152.32.0/24
 ufw deny from 70.152.214.0/24
 ufw deny from 70.152.228.0/24
-ufw deny from 74.162.0.0/16
-ufw deny from 74.243.192.0/18
+ufw deny from 74.162.0.0/17
+ufw deny from 74.162.128.0/18
+ufw deny from 74.162.192.0/20
+ufw deny from 74.162.208.0/21
+ufw deny from 74.162.216.0/22
+ufw deny from 74.162.220.0/25
+ufw deny from 74.162.220.128/26
+ufw deny from 74.162.220.192/27
+ufw deny from 74.162.220.224/28
+ufw deny from 74.162.220.240/31
+ufw deny from 74.162.220.244/30
+ufw deny from 74.162.220.248/29
+ufw deny from 74.162.221.0/24
+ufw deny from 74.162.222.0/23
+ufw deny from 74.162.224.0/19
+ufw deny from 74.243.192.0/24
+ufw deny from 74.243.193.0/25
+ufw deny from 74.243.193.128/27
+ufw deny from 74.243.193.160/29
+ufw deny from 74.243.193.170/31
+ufw deny from 74.243.193.172/30
+ufw deny from 74.243.193.176/28
+ufw deny from 74.243.193.192/26
+ufw deny from 74.243.194.0/23
+ufw deny from 74.243.196.0/25
+ufw deny from 74.243.196.128/26
+ufw deny from 74.243.196.192/27
+ufw deny from 74.243.196.224/28
+ufw deny from 74.243.196.240/31
+ufw deny from 74.243.196.244/30
+ufw deny from 74.243.196.248/31
+ufw deny from 74.243.196.252/30
+ufw deny from 74.243.197.2/31
+ufw deny from 74.243.197.6/31
+ufw deny from 74.243.197.8/29
+ufw deny from 74.243.197.16/28
+ufw deny from 74.243.197.32/27
+ufw deny from 74.243.197.64/26
+ufw deny from 74.243.197.128/25
+ufw deny from 74.243.198.0/23
+ufw deny from 74.243.200.0/21
+ufw deny from 74.243.208.0/20
+ufw deny from 74.243.224.0/19
 ufw deny from 145.190.83.0/24
 ufw deny from 151.206.69.0/25
 ufw deny from 151.206.172.0/24

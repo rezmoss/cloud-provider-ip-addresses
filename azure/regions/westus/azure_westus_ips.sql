@@ -513,6 +513,7 @@ INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.135.74.3/32
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.136.7.0/25', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.143.10.0/23', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.143.38.0/24', 'IPv4');
+INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.143.248.0/23', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.150.34.0/23', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.150.34.0/23', 'IPv4');
 INSERT INTO `azure_westus_ips` (`ip_address`, `ip_type`) VALUES ('20.150.91.0/24', 'IPv4');

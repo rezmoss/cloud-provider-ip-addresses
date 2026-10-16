@@ -1698,6 +1698,12 @@
     "region": "northcentralus"
   },
   {
+    "ip_address": "172.149.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northcentralus",
+    "region": "northcentralus"
+  },
+  {
     "ip_address": "172.183.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.northcentralus",

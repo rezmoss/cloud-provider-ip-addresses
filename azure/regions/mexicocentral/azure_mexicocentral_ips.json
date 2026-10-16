@@ -408,7 +408,85 @@
     "region": "mexicocentral"
   },
   {
-    "ip_address": "68.155.0.0/16",
+    "ip_address": "68.155.0.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.8.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.10.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.11.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.11.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.11.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.11.224/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.11.228/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.11.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.11.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.12.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.16.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"
@@ -447,6 +525,12 @@
     "ip_address": "68.155.80.2/32",
     "ip_type": "IPv4",
     "service": "AzureConnectors.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "68.155.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"
   },
   {
@@ -492,7 +576,7 @@
     "region": "mexicocentral"
   },
   {
-    "ip_address": "158.23.0.0/16",
+    "ip_address": "158.23.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"
@@ -954,6 +1038,18 @@
     "region": "mexicocentral"
   },
   {
+    "ip_address": "158.23.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.192.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
     "ip_address": "158.23.192.64/27",
     "ip_type": "IPv4",
     "service": "Sql.MexicoCentral",
@@ -1050,6 +1146,12 @@
     "region": "mexicocentral"
   },
   {
+    "ip_address": "158.23.200.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
     "ip_address": "158.23.200.0/25",
     "ip_type": "IPv4",
     "service": "DataFactory.MexicoCentral",
@@ -1080,6 +1182,12 @@
     "region": "mexicocentral"
   },
   {
+    "ip_address": "158.23.204.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
     "ip_address": "158.23.204.32/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.MexicoCentral",
@@ -1095,6 +1203,66 @@
     "ip_address": "158.23.205.64/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.206.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.207.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.207.10/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.207.12/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.207.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.207.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.207.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.207.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.208.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "158.23.224.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.mexicocentral",
     "region": "mexicocentral"
   },
   {

@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.eastus2euap_ips` (
 INSERT INTO `azure_azureresourcemanager.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('20.51.18.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.75.35.32/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.75.38.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('48.223.123.172/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('52.138.94.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:2::40/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:400::a80/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:1400::62/127', 'IPv6');

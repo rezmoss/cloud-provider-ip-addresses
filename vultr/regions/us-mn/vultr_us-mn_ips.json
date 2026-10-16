@@ -1,0 +1,12 @@
+[
+  {
+    "ip_address": "64.177.0.0/21",
+    "ip_type": "IPv4",
+    "region": "US-MN"
+  },
+  {
+    "ip_address": "2001:19f0:4800::/38",
+    "ip_type": "IPv6",
+    "region": "US-MN"
+  }
+]

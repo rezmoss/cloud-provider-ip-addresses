@@ -596,6 +596,12 @@
   {
     "ip_address": "145.190.197.0/24",
     "ip_type": "IPv4",
+    "service": "AzureCloud.southcentralus2",
+    "region": "southcentralus2"
+  },
+  {
+    "ip_address": "145.190.197.0/24",
+    "ip_type": "IPv4",
     "service": "Storage.SouthCentralUS2",
     "region": "southcentralus2"
   },

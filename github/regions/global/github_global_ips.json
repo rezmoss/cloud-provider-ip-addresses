@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "3.41.210.0/24",
+    "ip_type": "IPv4",
+    "service": "actions"
+  },
+  {
+    "ip_address": "3.42.157.0/24",
+    "ip_type": "IPv4",
+    "service": "actions"
+  },
+  {
     "ip_address": "3.219.87.128/32",
     "ip_type": "IPv4",
     "service": "actions"

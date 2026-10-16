@@ -1,6 +1,6 @@
 #!/bin/bash
 # Scaleway IP Ranges
-# Updated: 2026-09-17 02:29:01
+# Updated: 2026-10-16 02:28:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -11,7 +11,8 @@ iptables -A INPUT -s 51.15.0.0/16 -j DROP
 iptables -A INPUT -s 51.158.0.0/15 -j DROP
 iptables -A INPUT -s 62.4.0.0/19 -j DROP
 iptables -A INPUT -s 62.210.0.0/16 -j DROP
-iptables -A INPUT -s 78.232.0.0/16 -j DROP
+iptables -A INPUT -s 78.232.0.0/17 -j DROP
+iptables -A INPUT -s 78.232.128.0/18 -j DROP
 iptables -A INPUT -s 151.115.0.0/17 -j DROP
 iptables -A INPUT -s 151.115.128.0/18 -j DROP
 iptables -A INPUT -s 151.115.192.0/24 -j DROP

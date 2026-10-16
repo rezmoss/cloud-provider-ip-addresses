@@ -30,6 +30,8 @@ INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('14.137.180.0/
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('14.137.181.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('14.137.182.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('14.137.183.0/24', 'IPv4');
+INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('14.137.186.0/24', 'IPv4');
+INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('14.137.187.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('14.137.190.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('14.137.191.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('27.106.0.0/20', 'IPv4');
@@ -526,11 +528,8 @@ INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.52.0/
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.56.0/21', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.56.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.57.0/24', 'IPv4');
-INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.58.0/24', 'IPv4');
-INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.59.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.60.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.61.0/24', 'IPv4');
-INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('182.160.62.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('183.87.32.0/20', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('183.87.48.0/20', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('183.87.64.0/20', 'IPv4');
@@ -591,9 +590,11 @@ INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('219.83.82.0/2
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('219.83.84.0/23', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('219.83.86.0/23', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('219.83.112.0/22', 'IPv4');
+INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('219.83.118.0/23', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('219.83.121.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('219.83.122.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('219.83.123.0/24', 'IPv4');
+INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('219.83.127.0/24', 'IPv4');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2404:a140:43::/48', 'IPv6');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080::/39', 'IPv6');
 INSERT INTO `huawei_global_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:1::/48', 'IPv6');

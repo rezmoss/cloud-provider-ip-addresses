@@ -86,6 +86,8 @@ INSERT INTO `play2go_de_ips` (`ip_address`, `ip_type`) VALUES ('171.22.31.0/24',
 INSERT INTO `play2go_de_ips` (`ip_address`, `ip_type`) VALUES ('177.3.213.0/24', 'IPv4');
 INSERT INTO `play2go_de_ips` (`ip_address`, `ip_type`) VALUES ('177.3.216.0/24', 'IPv4');
 INSERT INTO `play2go_de_ips` (`ip_address`, `ip_type`) VALUES ('177.3.217.0/24', 'IPv4');
+INSERT INTO `play2go_de_ips` (`ip_address`, `ip_type`) VALUES ('177.3.221.0/24', 'IPv4');
+INSERT INTO `play2go_de_ips` (`ip_address`, `ip_type`) VALUES ('177.3.222.0/24', 'IPv4');
 INSERT INTO `play2go_de_ips` (`ip_address`, `ip_type`) VALUES ('178.215.236.0/24', 'IPv4');
 INSERT INTO `play2go_de_ips` (`ip_address`, `ip_type`) VALUES ('178.215.238.0/24', 'IPv4');
 INSERT INTO `play2go_de_ips` (`ip_address`, `ip_type`) VALUES ('185.246.223.0/24', 'IPv4');

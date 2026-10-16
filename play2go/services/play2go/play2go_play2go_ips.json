@@ -1014,6 +1014,24 @@
     "region": "fi"
   },
   {
+    "ip_address": "177.3.221.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
+    "ip_address": "177.3.222.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
+    "ip_address": "177.3.223.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "nl"
+  },
+  {
     "ip_address": "178.215.236.0/24",
     "ip_type": "IPv4",
     "service": "play2go",
@@ -1084,6 +1102,18 @@
     "ip_type": "IPv4",
     "service": "play2go",
     "region": "de"
+  },
+  {
+    "ip_address": "201.58.176.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "fi"
+  },
+  {
+    "ip_address": "201.58.177.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "se"
   },
   {
     "ip_address": "212.80.7.0/24",

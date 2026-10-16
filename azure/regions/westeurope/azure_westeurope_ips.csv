@@ -1604,6 +1604,7 @@ ip_address,ip_type,service,region
 168.63.113.32/27,IPv4,Storage.WestEurope,westeurope
 168.63.113.64/27,IPv4,Storage.WestEurope,westeurope
 172.138.0.0/16,IPv4,AzureCloud.westeurope,westeurope
+172.148.0.0/17,IPv4,AzureCloud.westeurope,westeurope
 172.199.0.0/16,IPv4,AzureCloud.westeurope,westeurope
 172.199.16.212/30,IPv4,Sql.WestEurope,westeurope
 172.199.16.224/27,IPv4,Sql.WestEurope,westeurope

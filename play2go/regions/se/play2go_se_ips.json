@@ -94,5 +94,11 @@
     "ip_type": "IPv4",
     "service": "play2go",
     "region": "se"
+  },
+  {
+    "ip_address": "201.58.177.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "se"
   }
 ]

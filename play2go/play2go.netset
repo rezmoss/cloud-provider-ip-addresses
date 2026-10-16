@@ -1,6 +1,6 @@
 # play2go IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-10-15 | Last changed: 2026-10-12
-# IPv4: 94 merged subnets, 48128 unique IPs
+# Version: 4 | Generated: 2026-10-16 | Last changed: 2026-10-16
+# IPv4: 94 merged subnets, 49408 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -87,8 +87,7 @@ add play2go_v4 171.22.31.0/24
 add play2go_v4 177.3.208.0/23
 add play2go_v4 177.3.211.0/24
 add play2go_v4 177.3.212.0/22
-add play2go_v4 177.3.216.0/22
-add play2go_v4 177.3.220.0/24
+add play2go_v4 177.3.216.0/21
 add play2go_v4 178.215.236.0/24
 add play2go_v4 178.215.238.0/24
 add play2go_v4 185.216.71.0/24
@@ -101,4 +100,5 @@ add play2go_v4 193.58.121.0/24
 add play2go_v4 193.58.122.0/24
 add play2go_v4 193.222.99.0/24
 add play2go_v4 194.31.223.0/24
+add play2go_v4 201.58.176.0/23
 add play2go_v4 212.80.7.0/24
