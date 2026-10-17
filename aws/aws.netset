@@ -1,6 +1,6 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 95 | Generated: 2026-10-16 | Last changed: 2026-10-16
-# IPv4: 1744 merged subnets, 101921143 unique IPs
+# Version: 96 | Generated: 2026-10-17 | Last changed: 2026-10-17
+# IPv4: 1745 merged subnets, 101986679 unique IPs
 # IPv6: 2346 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -1705,6 +1705,7 @@ add aws_v4 184.192.0.0/11
 add aws_v4 185.42.204.0/22
 add aws_v4 185.48.120.0/22
 add aws_v4 185.143.16.0/24
+add aws_v4 191.166.0.0/16
 add aws_v4 192.16.64.0/21
 add aws_v4 192.31.212.0/23
 add aws_v4 192.43.175.0/24

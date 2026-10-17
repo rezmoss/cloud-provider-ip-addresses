@@ -1,6 +1,6 @@
 # Leaseweb IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-16** · Total CIDRs: **2,059** · IPv4: **1,687** · IPv6: **372** · Services: **18** · Regions: **1**
+> Last updated: **2026-10-17** · Total CIDRs: **2,060** · IPv4: **1,688** · IPv6: **372** · Services: **18** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Leaseweb**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -34,7 +34,7 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 103.119.218.0/24
 103.119.219.0/24
 103.138.32.0/24
-103.139.48.0/24
+103.139.49.0/24
 ```
 
 ## Per-service breakdown

@@ -654,6 +654,12 @@
     "region": "cn-north-1"
   },
   {
+    "ip_address": "71.137.18.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "cn-north-1"
+  },
+  {
     "ip_address": "107.176.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",

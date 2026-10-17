@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-10-16 02:29:32
+# Updated: 2026-10-17 02:28:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -81,8 +81,7 @@ ufw allow from 62.112.223.4/31
 ufw allow from 62.209.27.232/32
 ufw allow from 78.111.110.4/31
 ufw allow from 78.111.110.6/32
-ufw allow from 79.133.108.4/32
-ufw allow from 79.133.108.6/31
+ufw allow from 79.133.108.4/30
 ufw allow from 79.133.108.13/32
 ufw allow from 79.133.108.14/31
 ufw allow from 79.133.108.16/31
@@ -891,8 +890,7 @@ ufw allow from 2a03:90c0:251:2801::14/126
 ufw allow from 2a03:90c0:251:2801::18/127
 ufw allow from 2a03:90c0:251:2801::23/128
 ufw allow from 2a03:90c0:251:2801::24/126
-ufw allow from 2a03:90c0:271:2801:1::4/128
-ufw allow from 2a03:90c0:271:2801:1::6/127
+ufw allow from 2a03:90c0:271:2801:1::4/126
 ufw allow from 2a03:90c0:271:2801:1::13/128
 ufw allow from 2a03:90c0:271:2801:1::14/126
 ufw allow from 2a03:90c0:271:2801:1::24/128

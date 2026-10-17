@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-10-16 02:29:29
+# Updated: 2026-10-17 02:28:30
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -95,6 +95,7 @@ ufw deny from 45.9.148.50/32
 ufw deny from 45.9.156.22/32
 ufw deny from 45.9.156.110/32
 ufw deny from 45.9.156.131/32
+ufw deny from 45.9.156.144/32
 ufw deny from 45.9.156.238/32
 ufw deny from 45.9.168.62/32
 ufw deny from 45.9.168.69/32
@@ -132,7 +133,6 @@ ufw deny from 45.137.201.54/32
 ufw deny from 45.137.201.100/32
 ufw deny from 45.141.119.80/32
 ufw deny from 45.141.119.233/32
-ufw deny from 45.148.10.111/32
 ufw deny from 46.105.20.238/32
 ufw deny from 46.165.243.36/32
 ufw deny from 46.167.244.241/32
@@ -170,8 +170,6 @@ ufw deny from 77.239.97.46/32
 ufw deny from 78.159.121.136/32
 ufw deny from 80.67.167.81/32
 ufw deny from 80.67.172.162/32
-ufw deny from 80.94.92.92/32
-ufw deny from 80.94.92.99/32
 ufw deny from 81.16.33.42/32
 ufw deny from 81.17.28.95/32
 ufw deny from 81.17.30.247/32
@@ -179,6 +177,7 @@ ufw deny from 81.181.104.22/32
 ufw deny from 81.232.160.94/32
 ufw deny from 82.39.155.148/32
 ufw deny from 82.47.0.200/32
+ufw deny from 82.65.141.110/32
 ufw deny from 82.118.248.205/32
 ufw deny from 82.153.138.184/32
 ufw deny from 82.197.182.161/32
@@ -198,6 +197,7 @@ ufw deny from 85.11.167.137/32
 ufw deny from 85.93.218.204/32
 ufw deny from 85.137.56.182/32
 ufw deny from 86.54.28.49/32
+ufw deny from 86.107.168.253/32
 ufw deny from 87.106.76.226/32
 ufw deny from 87.118.110.27/32
 ufw deny from 87.118.116.12/32
@@ -224,6 +224,7 @@ ufw deny from 91.208.75.156/32
 ufw deny from 91.208.75.178/32
 ufw deny from 91.208.75.239/32
 ufw deny from 91.219.236.101/32
+ufw deny from 91.219.237.39/32
 ufw deny from 92.119.164.208/32
 ufw deny from 92.246.84.133/32
 ufw deny from 93.95.227.37/32
@@ -262,7 +263,6 @@ ufw deny from 103.109.187.71/32
 ufw deny from 103.146.203.14/32
 ufw deny from 103.146.203.120/32
 ufw deny from 103.164.54.199/32
-ufw deny from 103.166.187.253/32
 ufw deny from 103.193.179.22/32
 ufw deny from 103.193.179.213/32
 ufw deny from 104.167.241.4/32
@@ -278,7 +278,6 @@ ufw deny from 104.244.74.97/32
 ufw deny from 104.244.75.140/32
 ufw deny from 104.244.76.237/32
 ufw deny from 104.244.77.208/32
-ufw deny from 107.148.223.17/32
 ufw deny from 107.175.218.6/32
 ufw deny from 107.189.1.160/32
 ufw deny from 107.189.7.186/32
@@ -382,7 +381,6 @@ ufw deny from 165.73.242.163/32
 ufw deny from 166.70.207.2/32
 ufw deny from 167.179.117.50/32
 ufw deny from 168.222.241.36/32
-ufw deny from 170.64.129.106/32
 ufw deny from 171.25.193.20/32
 ufw deny from 171.25.193.25/32
 ufw deny from 171.25.193.35/32
@@ -432,7 +430,6 @@ ufw deny from 179.43.182.58/32
 ufw deny from 179.43.182.232/32
 ufw deny from 180.149.45.134/32
 ufw deny from 180.150.226.99/32
-ufw deny from 185.11.139.198/32
 ufw deny from 185.34.33.2/32
 ufw deny from 185.35.202.222/32
 ufw deny from 185.39.207.83/32
@@ -453,6 +450,7 @@ ufw deny from 185.100.87.192/32
 ufw deny from 185.100.87.250/32
 ufw deny from 185.112.144.11/32
 ufw deny from 185.112.146.167/32
+ufw deny from 185.116.94.234/32
 ufw deny from 185.121.170.60/31
 ufw deny from 185.125.169.75/32
 ufw deny from 185.129.61.1/32
@@ -538,7 +536,6 @@ ufw deny from 190.120.229.98/32
 ufw deny from 190.211.254.97/32
 ufw deny from 190.211.254.218/32
 ufw deny from 192.34.80.176/32
-ufw deny from 192.36.176.245/32
 ufw deny from 192.42.116.12/30
 ufw deny from 192.42.116.16/30
 ufw deny from 192.42.116.20/31
@@ -595,11 +592,10 @@ ufw deny from 198.46.168.17/32
 ufw deny from 198.58.107.53/32
 ufw deny from 198.96.155.3/32
 ufw deny from 198.98.50.199/32
-ufw deny from 198.98.51.249/32
 ufw deny from 198.98.57.151/32
 ufw deny from 198.98.62.158/32
-ufw deny from 198.167.206.187/32
 ufw deny from 198.167.206.220/32
+ufw deny from 198.167.206.235/32
 ufw deny from 198.167.206.245/32
 ufw deny from 200.122.181.2/32
 ufw deny from 201.10.73.194/32

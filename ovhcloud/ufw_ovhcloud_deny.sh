@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-10-16 02:28:37
+# Updated: 2026-10-17 02:27:43
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -23,8 +23,10 @@ ufw deny from 5.175.226.0/23
 ufw deny from 5.178.110.0/24
 ufw deny from 5.182.19.0/24
 ufw deny from 5.196.0.0/16
+ufw deny from 5.230.49.0/24
 ufw deny from 5.230.153.0/24
 ufw deny from 5.230.196.0/24
+ufw deny from 5.231.64.0/24
 ufw deny from 5.231.88.0/24
 ufw deny from 5.231.207.0/24
 ufw deny from 5.231.255.0/24
@@ -240,6 +242,7 @@ ufw deny from 83.175.173.0/24
 ufw deny from 84.32.10.0/24
 ufw deny from 84.75.33.0/24
 ufw deny from 85.93.21.0/24
+ufw deny from 85.118.166.0/24
 ufw deny from 85.217.144.0/23
 ufw deny from 86.54.26.0/24
 ufw deny from 86.54.42.0/24
@@ -278,6 +281,7 @@ ufw deny from 93.174.111.0/24
 ufw deny from 93.186.71.0/24
 ufw deny from 94.23.0.0/16
 ufw deny from 94.158.184.0/24
+ufw deny from 94.249.154.0/24
 ufw deny from 94.249.171.0/24
 ufw deny from 95.135.166.0/23
 ufw deny from 96.62.105.0/24
@@ -358,7 +362,7 @@ ufw deny from 141.227.152.0/24
 ufw deny from 141.227.154.0/24
 ufw deny from 141.227.156.0/24
 ufw deny from 141.227.158.0/24
-ufw deny from 141.227.160.0/24
+ufw deny from 141.227.160.0/23
 ufw deny from 141.227.162.0/24
 ufw deny from 141.227.164.0/23
 ufw deny from 141.227.166.0/24
@@ -367,11 +371,12 @@ ufw deny from 141.227.170.0/24
 ufw deny from 141.227.172.0/24
 ufw deny from 141.227.174.0/24
 ufw deny from 141.227.176.0/24
-ufw deny from 141.227.178.0/24
+ufw deny from 141.227.178.0/23
 ufw deny from 141.227.180.0/24
 ufw deny from 141.227.186.0/24
 ufw deny from 141.227.188.0/23
 ufw deny from 141.227.190.0/24
+ufw deny from 141.227.252.0/22
 ufw deny from 142.4.192.0/19
 ufw deny from 142.44.128.0/17
 ufw deny from 142.111.85.0/24
@@ -402,6 +407,7 @@ ufw deny from 147.135.0.0/16
 ufw deny from 148.113.0.0/18
 ufw deny from 148.113.70.0/24
 ufw deny from 148.113.72.0/24
+ufw deny from 148.113.126.0/23
 ufw deny from 148.113.128.0/17
 ufw deny from 148.135.192.0/24
 ufw deny from 148.222.40.0/22
@@ -631,7 +637,6 @@ ufw deny from 213.251.128.0/18
 ufw deny from 216.122.123.0/24
 ufw deny from 216.183.120.0/24
 ufw deny from 216.203.15.0/24
-ufw deny from 216.211.218.0/24
 ufw deny from 216.247.96.0/24
 ufw deny from 217.11.174.0/24
 ufw deny from 217.60.196.0/24

@@ -19872,12 +19872,6 @@
     "region": "global"
   },
   {
-    "ip_address": "23.197.81.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as24319",
-    "region": "global"
-  },
-  {
     "ip_address": "23.197.82.0/23",
     "ip_type": "IPv4",
     "service": "akamai-as16625",

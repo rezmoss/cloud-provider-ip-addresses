@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-10-16 02:28:28
+# Updated: 2026-10-17 02:27:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -124,8 +124,7 @@ iptables -A INPUT -s 43.122.0.0/16 -j DROP
 iptables -A INPUT -s 43.123.0.0/17 -j DROP
 iptables -A INPUT -s 43.123.128.0/18 -j DROP
 iptables -A INPUT -s 43.124.0.0/16 -j DROP
-iptables -A INPUT -s 43.125.0.0/20 -j DROP
-iptables -A INPUT -s 43.125.24.0/21 -j DROP
+iptables -A INPUT -s 43.125.0.0/19 -j DROP
 iptables -A INPUT -s 43.125.32.0/20 -j DROP
 iptables -A INPUT -s 43.125.48.0/21 -j DROP
 iptables -A INPUT -s 43.126.0.0/17 -j DROP
@@ -342,8 +341,7 @@ ip6tables -A INPUT -s 240b:4004::/31 -j DROP
 ip6tables -A INPUT -s 240b:4006::/48 -j DROP
 ip6tables -A INPUT -s 240b:4006:1000::/43 -j DROP
 ip6tables -A INPUT -s 240b:4006:1020::/44 -j DROP
-ip6tables -A INPUT -s 240b:4006:1100::/45 -j DROP
-ip6tables -A INPUT -s 240b:4006:110c::/46 -j DROP
+ip6tables -A INPUT -s 240b:4006:1100::/44 -j DROP
 ip6tables -A INPUT -s 240b:4006:1110::/45 -j DROP
 ip6tables -A INPUT -s 240b:4006:1118::/46 -j DROP
 ip6tables -A INPUT -s 240b:4007::/32 -j DROP
