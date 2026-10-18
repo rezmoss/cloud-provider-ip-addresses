@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-17T02:29:58.701752",
+  "generated": "2026-10-18T02:30:36.714640",
   "provider_count": 67,
-  "total_ipv4_addresses": 459758682,
+  "total_ipv4_addresses": 459774810,
   "total_ipv6_addresses": 310788252831420194953215314884105,
-  "ipv4_space_coverage_pct": 10.7046,
+  "ipv4_space_coverage_pct": 10.705,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -294,10 +294,10 @@
       "regions": 1
     },
     "tencent": {
-      "ipv4_cidrs": 3368,
+      "ipv4_cidrs": 3369,
       "ipv6_cidrs": 72,
-      "total_cidrs": 3440,
-      "ipv4_addresses": 15002368,
+      "total_cidrs": 3441,
+      "ipv4_addresses": 15018752,
       "ipv6_addresses": 192314710458475594483083771904,
       "services": 2,
       "regions": 1
@@ -474,10 +474,10 @@
       "regions": 0
     },
     "zoho": {
-      "ipv4_cidrs": 171,
+      "ipv4_cidrs": 170,
       "ipv6_cidrs": 19,
-      "total_cidrs": 190,
-      "ipv4_addresses": 78592,
+      "total_cidrs": 189,
+      "ipv4_addresses": 78336,
       "ipv6_addresses": 79263221363033161839610429440,
       "services": 9,
       "regions": 1

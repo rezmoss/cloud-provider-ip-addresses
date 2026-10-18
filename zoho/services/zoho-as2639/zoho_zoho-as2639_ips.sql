@@ -23,6 +23,7 @@ INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('136.143.18
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('136.143.186.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('136.143.188.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('136.143.188.0/24', 'IPv4');
+INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('136.143.189.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('136.143.190.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('136.143.190.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('136.143.191.0/24', 'IPv4');
@@ -35,7 +36,6 @@ INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('165.173.17
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('165.173.178.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('165.173.179.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('165.173.180.0/23', 'IPv4');
-INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('165.173.180.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('165.173.182.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('165.173.186.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as2639_ips` (`ip_address`, `ip_type`) VALUES ('165.173.186.0/24', 'IPv4');

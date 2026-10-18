@@ -1,10 +1,10 @@
 # IP Range Statistics
 
-Generated: 2026-10-17T02:29:58.701752
+Generated: 2026-10-18T02:30:36.714640
 
-Total IPv4 addresses: 459,758,682
+Total IPv4 addresses: 459,774,810
 Total IPv6 addresses: 310,788,252,831,420,194,953,215,314,884,105
-IPv4 space coverage: 10.7046%
+IPv4 space coverage: 10.7050%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
@@ -65,14 +65,14 @@ IPv4 space coverage: 10.7046%
 | sucuri | 17 | 13 | 30 | 5,888 | 1 | 1 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
-| tencent | 3,368 | 72 | 3,440 | 15,002,368 | 2 | 1 |
+| tencent | 3,369 | 72 | 3,441 | 15,018,752 | 2 | 1 |
 | tor | 1,209 | 0 | 1,209 | 1,209 | 1 | 1 |
 | upcloud | 93 | 21 | 114 | 105,472 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |
 | vultr | 443 | 52 | 495 | 1,044,992 | 0 | 35 |
 | wasabi | 20 | 0 | 20 | 5,120 | 1 | 1 |
 | yandex | 124 | 32 | 156 | 450,560 | 6 | 1 |
-| zoho | 171 | 19 | 190 | 78,592 | 9 | 1 |
+| zoho | 170 | 19 | 189 | 78,336 | 9 | 1 |
 | zoom | 55 | 2 | 57 | 539,924 | 3 | 0 |
 | zscaler | 940 | 84 | 1,024 | 1,080,576 | 4 | 1 |
 

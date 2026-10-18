@@ -1,7 +1,7 @@
 {
   "provider": "atlassian",
   "version": 2,
-  "generated_date": "2026-10-17",
+  "generated_date": "2026-10-18",
   "last_changed_date": "2026-10-13",
   "sources": [
     "https://ip-ranges.atlassian.com"

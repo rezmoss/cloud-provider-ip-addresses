@@ -425,6 +425,7 @@ INSERT INTO `tencent_global_ips` (`ip_address`, `ip_type`) VALUES ('43.167.0.0/1
 INSERT INTO `tencent_global_ips` (`ip_address`, `ip_type`) VALUES ('43.167.64.0/18', 'IPv4');
 INSERT INTO `tencent_global_ips` (`ip_address`, `ip_type`) VALUES ('43.167.128.0/18', 'IPv4');
 INSERT INTO `tencent_global_ips` (`ip_address`, `ip_type`) VALUES ('43.167.192.0/18', 'IPv4');
+INSERT INTO `tencent_global_ips` (`ip_address`, `ip_type`) VALUES ('43.171.128.0/18', 'IPv4');
 INSERT INTO `tencent_global_ips` (`ip_address`, `ip_type`) VALUES ('43.171.128.0/23', 'IPv4');
 INSERT INTO `tencent_global_ips` (`ip_address`, `ip_type`) VALUES ('43.172.0.0/18', 'IPv4');
 INSERT INTO `tencent_global_ips` (`ip_address`, `ip_type`) VALUES ('43.172.15.0/24', 'IPv4');
