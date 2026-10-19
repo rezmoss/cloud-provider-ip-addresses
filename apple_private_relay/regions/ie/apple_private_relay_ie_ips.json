@@ -115,6 +115,11 @@
     "region": "IE"
   },
   {
+    "ip_address": "104.28.138.212/32",
+    "ip_type": "IPv4",
+    "region": "IE"
+  },
+  {
     "ip_address": "104.28.142.50/32",
     "ip_type": "IPv4",
     "region": "IE"

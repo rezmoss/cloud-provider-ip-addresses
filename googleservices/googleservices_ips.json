@@ -180,7 +180,7 @@
     "region": "global"
   },
   {
-    "ip_address": "34.4.100.0/23",
+    "ip_address": "34.4.101.0/24",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"

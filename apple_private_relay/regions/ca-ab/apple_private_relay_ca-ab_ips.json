@@ -160,6 +160,11 @@
     "region": "CA-AB"
   },
   {
+    "ip_address": "104.28.138.216/32",
+    "ip_type": "IPv4",
+    "region": "CA-AB"
+  },
+  {
     "ip_address": "104.28.145.33/32",
     "ip_type": "IPv4",
     "region": "CA-AB"

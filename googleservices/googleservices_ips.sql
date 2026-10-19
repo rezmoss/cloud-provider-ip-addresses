@@ -36,7 +36,7 @@ INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.3.72.0/22
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.3.112.0/20', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.0.0/20', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.20.0/22', 'IPv4');
-INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.100.0/23', 'IPv4');
+INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.101.0/24', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.112.0/20', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.193.0/24', 'IPv4');
 INSERT INTO `googleservices_ips` (`ip_address`, `ip_type`) VALUES ('34.4.194.0/23', 'IPv4');

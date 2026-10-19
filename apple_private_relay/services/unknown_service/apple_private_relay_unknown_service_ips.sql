@@ -16567,6 +16567,19 @@ INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.209/32', 'IPv4');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.210/32', 'IPv4');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.211/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.212/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.213/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.214/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.215/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.216/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.217/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.218/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.219/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.220/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.221/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.222/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.223/32', 'IPv4');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.224/32', 'IPv4');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.1/32', 'IPv4');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.2/32', 'IPv4');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('104.28.139.3/32', 'IPv4');
@@ -278275,6 +278288,7 @@ INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:d570::/45', 'IPv6');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:d578::/45', 'IPv6');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:d580::/45', 'IPv6');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:d588::/45', 'IPv6');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3::/45', 'IPv6');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:8::/45', 'IPv6');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:10::/45', 'IPv6');
@@ -285097,3 +285111,4 @@ INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:d570::/45', 'IPv6');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:d578::/45', 'IPv6');
 INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:d580::/45', 'IPv6');
+INSERT INTO `apple_private_relay_unknown_service_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:d588::/45', 'IPv6');

@@ -97,6 +97,7 @@ INSERT INTO `googlecloud_google_cloud_ips` (`ip_address`, `ip_type`) VALUES ('34
 INSERT INTO `googlecloud_google_cloud_ips` (`ip_address`, `ip_type`) VALUES ('34.4.64.0/20', 'IPv4');
 INSERT INTO `googlecloud_google_cloud_ips` (`ip_address`, `ip_type`) VALUES ('34.4.80.0/20', 'IPv4');
 INSERT INTO `googlecloud_google_cloud_ips` (`ip_address`, `ip_type`) VALUES ('34.4.96.0/22', 'IPv4');
+INSERT INTO `googlecloud_google_cloud_ips` (`ip_address`, `ip_type`) VALUES ('34.4.100.0/24', 'IPv4');
 INSERT INTO `googlecloud_google_cloud_ips` (`ip_address`, `ip_type`) VALUES ('34.4.102.0/23', 'IPv4');
 INSERT INTO `googlecloud_google_cloud_ips` (`ip_address`, `ip_type`) VALUES ('34.4.104.0/21', 'IPv4');
 INSERT INTO `googlecloud_google_cloud_ips` (`ip_address`, `ip_type`) VALUES ('34.4.128.0/18', 'IPv4');

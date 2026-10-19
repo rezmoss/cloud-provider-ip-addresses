@@ -90,6 +90,7 @@ ip_address,ip_type,service,region
 34.4.64.0/20,IPv4,Google Cloud,europe-central2
 34.4.80.0/20,IPv4,Google Cloud,europe-west4
 34.4.96.0/22,IPv4,Google Cloud,us-central1
+34.4.100.0/24,IPv4,Google Cloud,us-east7
 34.4.102.0/23,IPv4,Google Cloud,us-east5
 34.4.104.0/21,IPv4,Google Cloud,us-west1
 34.4.128.0/18,IPv4,Google Cloud,asia-northeast3

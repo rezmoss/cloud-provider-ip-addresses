@@ -100,6 +100,16 @@
     "region": "IN"
   },
   {
+    "ip_address": "104.28.138.223/32",
+    "ip_type": "IPv4",
+    "region": "IN"
+  },
+  {
+    "ip_address": "104.28.138.224/32",
+    "ip_type": "IPv4",
+    "region": "IN"
+  },
+  {
     "ip_address": "104.28.139.116/32",
     "ip_type": "IPv4",
     "region": "IN"
@@ -700,6 +710,11 @@
     "region": "IN"
   },
   {
+    "ip_address": "2a09:bac2:d588::/45",
+    "ip_type": "IPv6",
+    "region": "IN"
+  },
+  {
     "ip_address": "2a09:bac3:3a48::/45",
     "ip_type": "IPv6",
     "region": "IN"
@@ -796,6 +811,11 @@
   },
   {
     "ip_address": "2a09:bac3:d580::/45",
+    "ip_type": "IPv6",
+    "region": "IN"
+  },
+  {
+    "ip_address": "2a09:bac3:d588::/45",
     "ip_type": "IPv6",
     "region": "IN"
   }

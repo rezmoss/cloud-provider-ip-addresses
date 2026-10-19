@@ -3585,6 +3585,7 @@ INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.22.41.160/27', 'IPv4
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.22.121.0/26', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.22.121.64/28', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.22.152.0/22', 'IPv4');
+INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.22.202.0/23', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.23.0.0/16', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.24.0.0/16', 'IPv4');
 INSERT INTO `aws_ips` (`ip_address`, `ip_type`) VALUES ('16.24.0.0/16', 'IPv4');

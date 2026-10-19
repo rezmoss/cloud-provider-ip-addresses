@@ -65,6 +65,11 @@
     "region": "MY-05"
   },
   {
+    "ip_address": "104.28.138.219/32",
+    "ip_type": "IPv4",
+    "region": "MY-05"
+  },
+  {
     "ip_address": "104.28.140.127/32",
     "ip_type": "IPv4",
     "region": "MY-05"

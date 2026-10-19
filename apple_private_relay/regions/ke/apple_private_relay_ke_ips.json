@@ -15,6 +15,11 @@
     "region": "KE"
   },
   {
+    "ip_address": "104.28.138.221/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
     "ip_address": "104.28.139.141/32",
     "ip_type": "IPv4",
     "region": "KE"

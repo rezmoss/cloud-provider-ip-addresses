@@ -82805,6 +82805,71 @@
     "region": "DE-BB"
   },
   {
+    "ip_address": "104.28.138.212/32",
+    "ip_type": "IPv4",
+    "region": "IE"
+  },
+  {
+    "ip_address": "104.28.138.213/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.138.214/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.215/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.216/32",
+    "ip_type": "IPv4",
+    "region": "CA-AB"
+  },
+  {
+    "ip_address": "104.28.138.217/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.218/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.219/32",
+    "ip_type": "IPv4",
+    "region": "MY-05"
+  },
+  {
+    "ip_address": "104.28.138.220/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.221/32",
+    "ip_type": "IPv4",
+    "region": "KE"
+  },
+  {
+    "ip_address": "104.28.138.222/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.223/32",
+    "ip_type": "IPv4",
+    "region": "IN"
+  },
+  {
+    "ip_address": "104.28.138.224/32",
+    "ip_type": "IPv4",
+    "region": "IN"
+  },
+  {
     "ip_address": "104.28.139.1/32",
     "ip_type": "IPv4",
     "region": "GE-TB"
@@ -1391345,6 +1391410,11 @@
     "region": "IN"
   },
   {
+    "ip_address": "2a09:bac2:d588::/45",
+    "ip_type": "IPv6",
+    "region": "IN"
+  },
+  {
     "ip_address": "2a09:bac3::/45",
     "ip_type": "IPv6",
     "region": "AD-07"
@@ -1425451,6 +1425521,11 @@
   },
   {
     "ip_address": "2a09:bac3:d580::/45",
+    "ip_type": "IPv6",
+    "region": "IN"
+  },
+  {
+    "ip_address": "2a09:bac3:d588::/45",
     "ip_type": "IPv6",
     "region": "IN"
   }

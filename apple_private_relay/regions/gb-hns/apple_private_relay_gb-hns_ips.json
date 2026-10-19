@@ -45,6 +45,36 @@
     "region": "GB-HNS"
   },
   {
+    "ip_address": "104.28.138.214/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.215/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.217/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.218/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.220/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
+    "ip_address": "104.28.138.222/32",
+    "ip_type": "IPv4",
+    "region": "GB-HNS"
+  },
+  {
     "ip_address": "104.28.139.106/32",
     "ip_type": "IPv4",
     "region": "GB-HNS"
