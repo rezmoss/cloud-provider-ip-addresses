@@ -73,6 +73,7 @@ INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.201.195.1
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.201.231.0/24', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.202.0.0/15', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.202.0.0/15', 'IPv4');
+INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.202.176.240/29', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.203.133.0/26', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.204.0.0/14', 'IPv4');
 INSERT INTO `aws_ap-south-1_ips` (`ip_address`, `ip_type`) VALUES ('13.204.0.0/14', 'IPv4');

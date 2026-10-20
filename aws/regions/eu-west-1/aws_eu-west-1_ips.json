@@ -2622,6 +2622,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "99.80.88.216/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "99.82.162.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -443,6 +443,7 @@ INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('99.80.34.64/2
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('99.80.34.128/25', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('99.80.88.0/26', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('99.80.88.64/26', 'IPv4');
+INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('99.80.88.216/29', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('99.82.162.0/24', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('99.82.162.0/24', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('99.83.105.0/24', 'IPv4');

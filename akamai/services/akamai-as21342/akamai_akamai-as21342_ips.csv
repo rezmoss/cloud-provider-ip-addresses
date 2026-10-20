@@ -133,6 +133,7 @@ ip_address,ip_type,service,region
 2600:1480:4800::/48,IPv6,akamai-as21342,global
 2600:1480:5801::/48,IPv6,akamai-as21342,global
 2600:1480:5802::/48,IPv6,akamai-as21342,global
+2600:1480:5803::/48,IPv6,akamai-as21342,global
 2600:1480:5804::/48,IPv6,akamai-as21342,global
 2600:1480:5805::/48,IPv6,akamai-as21342,global
 2600:1480:5809::/48,IPv6,akamai-as21342,global

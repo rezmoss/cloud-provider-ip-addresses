@@ -1,5 +1,5 @@
 # play2go IP ranges - ipset restore format (hash:net)
-# Version: 5 | Generated: 2026-10-19 | Last changed: 2026-10-17
+# Version: 5 | Generated: 2026-10-20 | Last changed: 2026-10-17
 # IPv4: 95 merged subnets, 50176 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

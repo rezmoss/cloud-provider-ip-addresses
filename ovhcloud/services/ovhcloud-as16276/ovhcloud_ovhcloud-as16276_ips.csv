@@ -1,6 +1,7 @@
 ip_address,ip_type,service,region
 2.26.132.0/24,IPv4,ovhcloud-as16276,global
 2.26.153.0/24,IPv4,ovhcloud-as16276,global
+2.27.87.0/24,IPv4,ovhcloud-as16276,global
 2.27.97.0/24,IPv4,ovhcloud-as16276,global
 2.27.164.0/24,IPv4,ovhcloud-as16276,global
 2.58.85.0/24,IPv4,ovhcloud-as16276,global
@@ -100,6 +101,7 @@ ip_address,ip_type,service,region
 45.94.51.0/24,IPv4,ovhcloud-as16276,global
 45.112.195.0/24,IPv4,ovhcloud-as16276,global
 45.128.77.0/24,IPv4,ovhcloud-as16276,global
+45.140.187.0/24,IPv4,ovhcloud-as16276,global
 45.149.185.0/24,IPv4,ovhcloud-as16276,global
 45.149.243.0/24,IPv4,ovhcloud-as16276,global
 45.152.164.0/24,IPv4,ovhcloud-as16276,global
@@ -160,6 +162,8 @@ ip_address,ip_type,service,region
 57.131.128.0/18,IPv4,ovhcloud-as16276,global
 57.131.192.0/18,IPv4,ovhcloud-as16276,global
 62.122.126.0/24,IPv4,ovhcloud-as16276,global
+62.144.33.0/24,IPv4,ovhcloud-as16276,global
+62.144.53.0/24,IPv4,ovhcloud-as16276,global
 63.251.117.0/24,IPv4,ovhcloud-as16276,global
 64.94.92.0/23,IPv4,ovhcloud-as16276,global
 64.95.150.0/23,IPv4,ovhcloud-as16276,global
@@ -302,7 +306,6 @@ ip_address,ip_type,service,region
 87.76.137.0/24,IPv4,ovhcloud-as16276,global
 87.76.140.0/24,IPv4,ovhcloud-as16276,global
 87.76.189.0/24,IPv4,ovhcloud-as16276,global
-87.82.206.0/24,IPv4,ovhcloud-as16276,global
 87.83.66.0/24,IPv4,ovhcloud-as16276,global
 87.86.181.0/24,IPv4,ovhcloud-as16276,global
 87.86.252.0/24,IPv4,ovhcloud-as16276,global
@@ -366,6 +369,7 @@ ip_address,ip_type,service,region
 108.174.65.0/24,IPv4,ovhcloud-as16276,global
 109.66.59.0/24,IPv4,ovhcloud-as16276,global
 109.66.76.0/24,IPv4,ovhcloud-as16276,global
+109.66.242.0/24,IPv4,ovhcloud-as16276,global
 109.105.195.0/24,IPv4,ovhcloud-as16276,global
 109.110.184.0/24,IPv4,ovhcloud-as16276,global
 109.122.15.0/24,IPv4,ovhcloud-as16276,global
@@ -602,7 +606,6 @@ ip_address,ip_type,service,region
 185.196.221.0/24,IPv4,ovhcloud-as16276,global
 185.207.132.0/24,IPv4,ovhcloud-as16276,global
 185.207.134.0/24,IPv4,ovhcloud-as16276,global
-185.216.126.0/24,IPv4,ovhcloud-as16276,global
 185.220.196.0/24,IPv4,ovhcloud-as16276,global
 185.225.74.0/23,IPv4,ovhcloud-as16276,global
 185.226.181.0/24,IPv4,ovhcloud-as16276,global
@@ -659,6 +662,7 @@ ip_address,ip_type,service,region
 194.88.232.0/24,IPv4,ovhcloud-as16276,global
 194.104.138.0/24,IPv4,ovhcloud-as16276,global
 194.110.171.0/24,IPv4,ovhcloud-as16276,global
+194.147.56.0/24,IPv4,ovhcloud-as16276,global
 194.147.159.0/24,IPv4,ovhcloud-as16276,global
 194.150.165.0/24,IPv4,ovhcloud-as16276,global
 194.156.227.0/24,IPv4,ovhcloud-as16276,global
@@ -688,7 +692,6 @@ ip_address,ip_type,service,region
 199.193.138.0/24,IPv4,ovhcloud-as16276,global
 199.195.140.0/23,IPv4,ovhcloud-as16276,global
 199.204.24.0/24,IPv4,ovhcloud-as16276,global
-200.141.186.0/24,IPv4,ovhcloud-as16276,global
 201.4.67.0/24,IPv4,ovhcloud-as16276,global
 201.50.22.0/24,IPv4,ovhcloud-as16276,global
 202.2.60.0/22,IPv4,ovhcloud-as16276,global
@@ -736,7 +739,10 @@ ip_address,ip_type,service,region
 217.182.0.0/16,IPv4,ovhcloud-as16276,global
 217.216.128.0/24,IPv4,ovhcloud-as16276,global
 217.216.169.0/24,IPv4,ovhcloud-as16276,global
+217.216.227.0/24,IPv4,ovhcloud-as16276,global
 217.217.26.0/24,IPv4,ovhcloud-as16276,global
+217.217.92.0/24,IPv4,ovhcloud-as16276,global
+217.217.93.0/24,IPv4,ovhcloud-as16276,global
 222.167.237.0/24,IPv4,ovhcloud-as16276,global
 2001:41d0::/32,IPv6,ovhcloud-as16276,global
 2001:41d0:ab00::/48,IPv6,ovhcloud-as16276,global

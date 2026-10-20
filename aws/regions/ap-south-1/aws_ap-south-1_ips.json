@@ -402,6 +402,12 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "13.202.176.240/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "13.203.133.0/26",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",

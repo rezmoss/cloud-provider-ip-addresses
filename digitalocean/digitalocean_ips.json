@@ -5155,6 +5155,11 @@
     "region": "US-VA"
   },
   {
+    "ip_address": "201.79.80.0/20",
+    "ip_type": "IPv4",
+    "region": "DE-HE"
+  },
+  {
     "ip_address": "204.48.16.0/20",
     "ip_type": "IPv4",
     "region": "US-NJ"

@@ -12,6 +12,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2.27.87.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "2.27.97.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
@@ -606,6 +612,12 @@
     "region": "global"
   },
   {
+    "ip_address": "45.140.187.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "45.149.185.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
@@ -961,6 +973,18 @@
   },
   {
     "ip_address": "62.122.126.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
+    "ip_address": "62.144.33.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
+    "ip_address": "62.144.53.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
     "region": "global"
@@ -1818,12 +1842,6 @@
     "region": "global"
   },
   {
-    "ip_address": "87.82.206.0/24",
-    "ip_type": "IPv4",
-    "service": "ovhcloud-as16276",
-    "region": "global"
-  },
-  {
     "ip_address": "87.83.66.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
@@ -2197,6 +2215,12 @@
   },
   {
     "ip_address": "109.66.76.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
+    "ip_address": "109.66.242.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
     "region": "global"
@@ -3618,12 +3642,6 @@
     "region": "global"
   },
   {
-    "ip_address": "185.216.126.0/24",
-    "ip_type": "IPv4",
-    "service": "ovhcloud-as16276",
-    "region": "global"
-  },
-  {
     "ip_address": "185.220.196.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
@@ -3960,6 +3978,12 @@
     "region": "global"
   },
   {
+    "ip_address": "194.147.56.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "194.147.159.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
@@ -4129,12 +4153,6 @@
   },
   {
     "ip_address": "199.204.24.0/24",
-    "ip_type": "IPv4",
-    "service": "ovhcloud-as16276",
-    "region": "global"
-  },
-  {
-    "ip_address": "200.141.186.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
     "region": "global"
@@ -4422,7 +4440,25 @@
     "region": "global"
   },
   {
+    "ip_address": "217.216.227.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "217.217.26.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
+    "ip_address": "217.217.92.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
+    "ip_address": "217.217.93.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
     "region": "global"

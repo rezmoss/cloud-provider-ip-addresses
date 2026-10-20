@@ -8046,6 +8046,18 @@
     "region": "ap-northeast-2"
   },
   {
+    "ip_address": "64.66.163.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-east-1"
+  },
+  {
+    "ip_address": "64.66.164.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "64.73.192.0/19",
     "ip_type": "IPv4",
     "service": "EC2",

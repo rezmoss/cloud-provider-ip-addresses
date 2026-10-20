@@ -236,6 +236,8 @@ INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('3.4.12.81/32', '
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('3.4.12.82/32', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('3.4.12.83/32', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('3.4.12.84/32', 'IPv4');
+INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('3.4.12.85/32', 'IPv4');
+INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('3.4.12.86/32', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('3.4.13.0/28', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('3.4.13.16/28', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('3.4.13.32/28', 'IPv4');
@@ -4453,6 +4455,8 @@ INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('64.66.159.0/24',
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('64.66.160.0/24', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('64.66.161.0/24', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('64.66.162.0/24', 'IPv4');
+INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('64.66.163.0/24', 'IPv4');
+INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('64.66.164.0/24', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('64.73.192.0/19', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('64.91.192.0/19', 'IPv4');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('64.113.192.0/22', 'IPv4');

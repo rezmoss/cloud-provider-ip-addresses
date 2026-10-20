@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-10-17 02:28:15
+# Updated: 2026-10-20 02:27:15
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -158,6 +158,7 @@ iptables -A INPUT -s 38.244.162.0/23 -j ACCEPT
 iptables -A INPUT -s 38.244.188.0/24 -j ACCEPT
 iptables -A INPUT -s 38.244.215.0/24 -j ACCEPT
 iptables -A INPUT -s 38.246.186.0/23 -j ACCEPT
+iptables -A INPUT -s 38.246.204.0/23 -j ACCEPT
 iptables -A INPUT -s 38.253.124.0/23 -j ACCEPT
 iptables -A INPUT -s 40.27.13.0/24 -j ACCEPT
 iptables -A INPUT -s 40.27.21.0/24 -j ACCEPT
@@ -406,7 +407,6 @@ iptables -A INPUT -s 81.17.49.0/24 -j ACCEPT
 iptables -A INPUT -s 81.17.50.0/23 -j ACCEPT
 iptables -A INPUT -s 81.17.52.0/22 -j ACCEPT
 iptables -A INPUT -s 81.17.56.0/21 -j ACCEPT
-iptables -A INPUT -s 81.29.158.0/24 -j ACCEPT
 iptables -A INPUT -s 81.31.208.0/24 -j ACCEPT
 iptables -A INPUT -s 81.171.0.0/19 -j ACCEPT
 iptables -A INPUT -s 82.21.230.0/24 -j ACCEPT
@@ -1429,7 +1429,6 @@ ip6tables -A INPUT -s 2a13:5c80::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:7900::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:7d80::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a13:8200::/29 -j ACCEPT
-ip6tables -A INPUT -s 2a13:8c85::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a13:8c86:33::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a13:8c86:44::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a13:8c86:55::/48 -j ACCEPT

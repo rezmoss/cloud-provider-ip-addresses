@@ -12,6 +12,7 @@ INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.77.7
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.77.79.232/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.101.226.80/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.101.226.88/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.107.82.24/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.145.246.48/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.145.246.56/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('3.146.72.40/29', 'IPv4');
@@ -26,6 +27,7 @@ INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('13.50.
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('13.50.179.176/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('13.200.7.128/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('13.200.7.136/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('13.202.176.240/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('15.156.152.184/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('15.156.152.192/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('15.168.105.144/29', 'IPv4');
@@ -44,8 +46,11 @@ INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('18.143
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('18.143.206.160/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('18.246.107.8/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('18.246.107.128/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('32.184.79.16/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('32.190.211.224/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('32.192.104.24/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('32.192.104.128/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('32.192.104.136/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('35.159.219.240/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('35.159.219.248/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('40.172.11.96/29', 'IPv4');
@@ -58,3 +63,6 @@ INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('44.216
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('44.216.41.160/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('56.68.33.56/29', 'IPv4');
 INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('56.68.33.64/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('63.185.44.32/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('99.80.88.216/29', 'IPv4');
+INSERT INTO `aws_media_package_v2_ips` (`ip_address`, `ip_type`) VALUES ('100.61.165.88/29', 'IPv4');

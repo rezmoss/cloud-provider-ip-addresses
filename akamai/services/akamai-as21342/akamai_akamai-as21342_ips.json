@@ -804,6 +804,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2600:1480:5803::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as21342",
+    "region": "global"
+  },
+  {
     "ip_address": "2600:1480:5804::/48",
     "ip_type": "IPv6",
     "service": "akamai-as21342",

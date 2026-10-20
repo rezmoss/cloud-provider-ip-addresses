@@ -36,6 +36,12 @@
     "region": "us-west-1"
   },
   {
+    "ip_address": "3.107.82.24/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "ap-southeast-2"
+  },
+  {
     "ip_address": "3.145.246.48/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
@@ -115,6 +121,12 @@
   },
   {
     "ip_address": "13.200.7.136/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "13.202.176.240/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
     "region": "ap-south-1"
@@ -228,6 +240,18 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "32.184.79.16/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "32.190.211.224/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "32.192.104.24/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
@@ -235,6 +259,12 @@
   },
   {
     "ip_address": "32.192.104.128/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "32.192.104.136/29",
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
     "region": "us-east-1"
@@ -310,5 +340,23 @@
     "ip_type": "IPv4",
     "service": "MEDIA_PACKAGE_V2",
     "region": "ap-southeast-5"
+  },
+  {
+    "ip_address": "63.185.44.32/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "99.80.88.216/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "100.61.165.88/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "us-east-1"
   }
 ]

@@ -2562,6 +2562,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "63.185.44.32/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "63.185.196.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",

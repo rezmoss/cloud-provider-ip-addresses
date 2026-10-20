@@ -66,6 +66,7 @@ ip_address,ip_type,service,region
 13.201.231.0/24,IPv4,AMAZON,ap-south-1
 13.202.0.0/15,IPv4,AMAZON,ap-south-1
 13.202.0.0/15,IPv4,EC2,ap-south-1
+13.202.176.240/29,IPv4,MEDIA_PACKAGE_V2,ap-south-1
 13.203.133.0/26,IPv4,CLOUDFRONT,ap-south-1
 13.204.0.0/14,IPv4,AMAZON,ap-south-1
 13.204.0.0/14,IPv4,EC2,ap-south-1

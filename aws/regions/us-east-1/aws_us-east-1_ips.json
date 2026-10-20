@@ -3192,6 +3192,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "32.192.104.136/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "32.194.144.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -7131,6 +7137,12 @@
     "ip_address": "100.59.224.0/25",
     "ip_type": "IPv4",
     "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "100.61.165.88/29",
+    "ip_type": "IPv4",
+    "service": "MEDIA_PACKAGE_V2",
     "region": "us-east-1"
   },
   {

@@ -36,6 +36,18 @@
     "region": "eu-central-2"
   },
   {
+    "ip_address": "3.4.12.85/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-2"
+  },
+  {
+    "ip_address": "3.4.12.86/32",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-2"
+  },
+  {
     "ip_address": "3.5.52.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
