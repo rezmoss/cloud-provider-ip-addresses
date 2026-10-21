@@ -1,6 +1,6 @@
 # github IP ranges - ipset restore format (hash:net)
-# Version: 20 | Generated: 2026-10-20 | Last changed: 2026-10-16
-# IPv4: 3812 merged subnets, 28325762 unique IPs
+# Version: 21 | Generated: 2026-10-21 | Last changed: 2026-10-21
+# IPv4: 3815 merged subnets, 28325766 unique IPs
 # IPv6: 1340 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -1069,6 +1069,9 @@ add github_v4 20.242.0.0/16
 add github_v4 20.245.0.0/16
 add github_v4 20.246.0.0/16
 add github_v4 20.250.119.64/32
+add github_v4 20.250.119.67/32
+add github_v4 20.250.119.68/32
+add github_v4 20.250.119.72/31
 add github_v4 20.252.0.0/17
 add github_v4 20.253.0.0/16
 add github_v4 23.96.0.0/16

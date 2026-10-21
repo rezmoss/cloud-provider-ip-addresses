@@ -53,6 +53,8 @@ INSERT INTO `github_git_ips` (`ip_address`, `ip_type`) VALUES ('20.217.135.5/32'
 INSERT INTO `github_git_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.145/32', 'IPv4');
 INSERT INTO `github_git_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.148/32', 'IPv4');
 INSERT INTO `github_git_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.149/32', 'IPv4');
+INSERT INTO `github_git_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.67/32', 'IPv4');
+INSERT INTO `github_git_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.68/32', 'IPv4');
 INSERT INTO `github_git_ips` (`ip_address`, `ip_type`) VALUES ('48.202.248.38/32', 'IPv4');
 INSERT INTO `github_git_ips` (`ip_address`, `ip_type`) VALUES ('48.202.248.40/32', 'IPv4');
 INSERT INTO `github_git_ips` (`ip_address`, `ip_type`) VALUES ('48.204.201.5/32', 'IPv4');

@@ -16,6 +16,7 @@ ip_address,ip_type,service
 20.207.73.86/32,IPv4,packages
 20.217.135.1/32,IPv4,packages
 20.233.83.147/32,IPv4,packages
+20.250.119.73/32,IPv4,packages
 48.202.248.34/32,IPv4,packages
 48.204.201.9/32,IPv4,packages
 140.82.112.33/32,IPv4,packages

@@ -1781,6 +1781,11 @@ INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.245.0.0/16
 INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.246.0.0/17', 'IPv4');
 INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.246.128.0/17', 'IPv4');
 INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.64/32', 'IPv4');
+INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.67/32', 'IPv4');
+INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.67/32', 'IPv4');
+INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.68/32', 'IPv4');
+INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.72/32', 'IPv4');
+INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.73/32', 'IPv4');
 INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.252.0.0/17', 'IPv4');
 INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.253.0.0/17', 'IPv4');
 INSERT INTO `github_global_ips` (`ip_address`, `ip_type`) VALUES ('20.253.128.0/17', 'IPv4');

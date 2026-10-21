@@ -1,6 +1,6 @@
 #!/bin/bash
 # Github IP Ranges
-# Updated: 2026-10-16 02:25:36
+# Updated: 2026-10-21 02:26:42
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1068,6 +1068,9 @@ iptables -A INPUT -s 20.242.0.0/16 -j DROP
 iptables -A INPUT -s 20.245.0.0/16 -j DROP
 iptables -A INPUT -s 20.246.0.0/16 -j DROP
 iptables -A INPUT -s 20.250.119.64/32 -j DROP
+iptables -A INPUT -s 20.250.119.67/32 -j DROP
+iptables -A INPUT -s 20.250.119.68/32 -j DROP
+iptables -A INPUT -s 20.250.119.72/31 -j DROP
 iptables -A INPUT -s 20.252.0.0/17 -j DROP
 iptables -A INPUT -s 20.253.0.0/16 -j DROP
 iptables -A INPUT -s 23.96.0.0/16 -j DROP

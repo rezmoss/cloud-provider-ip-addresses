@@ -1,6 +1,6 @@
 #!/bin/bash
 # Pingdom IP Ranges
-# Updated: 2026-08-27 03:59:39
+# Updated: 2026-10-21 02:30:08
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,6 +9,7 @@
 
 ufw deny from 3.10.222.182/32
 ufw deny from 3.11.131.95/32
+ufw deny from 3.28.176.11/32
 ufw deny from 3.66.99.59/32
 ufw deny from 3.120.200.34/32
 ufw deny from 3.121.108.101/32
@@ -41,6 +42,7 @@ ufw deny from 35.75.240.83/32
 ufw deny from 35.76.210.156/32
 ufw deny from 35.79.242.196/32
 ufw deny from 35.85.117.184/32
+ufw deny from 40.172.23.87/32
 ufw deny from 43.225.198.122/32
 ufw deny from 43.229.84.12/32
 ufw deny from 44.194.39.17/32
@@ -51,6 +53,8 @@ ufw deny from 46.246.122.10/32
 ufw deny from 50.16.153.186/32
 ufw deny from 51.20.199.140/32
 ufw deny from 51.21.185.148/32
+ufw deny from 51.112.113.198/32
+ufw deny from 51.112.129.195/32
 ufw deny from 52.0.204.16/32
 ufw deny from 52.5.245.15/32
 ufw deny from 52.13.171.123/32

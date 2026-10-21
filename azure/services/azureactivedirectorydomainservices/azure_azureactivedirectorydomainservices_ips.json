@@ -612,6 +612,24 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1016:1400::180/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1016:1400:20::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1016:1400:40::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1020:5:25::120/124",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectoryDomainServices",
@@ -619,6 +637,48 @@
   },
   {
     "ip_address": "2603:1020:206:2c::7a0/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1026:3000:c0::140/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1026:3000:c0::160/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1026:3000:e0::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1026:3000:100::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1026:3000:140::140/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1026:3000:1a0::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1026:3000:200::100/123",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectoryDomainServices",
     "region": ""
@@ -654,7 +714,79 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1036:3000::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:20::100/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:40::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:60::200/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:80::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:c0::240/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:100::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1036:3000:120::100/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:120::130/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:140::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:160::100/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:180::100/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1036:3000:1c0::140/124",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectoryDomainServices",
     "region": ""
@@ -673,6 +805,66 @@
   },
   {
     "ip_address": "2603:1040:606:10::240/124",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:20::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:40::160/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:60::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:80::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:e0::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:100::140/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:120::100/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:160::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1046:2000:180::220/123",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectoryDomainServices",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1056:2000:20::100/123",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectoryDomainServices",
     "region": ""

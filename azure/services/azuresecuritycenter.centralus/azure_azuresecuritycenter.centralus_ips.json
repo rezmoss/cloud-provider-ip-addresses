@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.15.210.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "20.44.10.224/27",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.CentralUS",
@@ -25,6 +31,18 @@
   },
   {
     "ip_address": "130.131.140.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "135.233.81.90/31",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.169.156.128/28",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.CentralUS",
     "region": "centralus"

@@ -16,6 +16,7 @@ ip_address,ip_type,service
 20.207.73.85/32,IPv4,api
 20.217.135.0/32,IPv4,api
 20.233.83.146/32,IPv4,api
+20.250.119.72/32,IPv4,api
 48.202.248.39/32,IPv4,api
 48.204.201.2/32,IPv4,api
 140.82.112.0/20,IPv4,api

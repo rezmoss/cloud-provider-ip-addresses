@@ -25,7 +25,7 @@ INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.157.22.0/26', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.157.22.64/27', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.157.22.96/28', 'IPv4');
-INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.157.22.112/30', 'IPv4');
+INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('57.157.22.112/29', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('74.7.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.8.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('135.130.14.0/23', 'IPv4');
@@ -44,7 +44,8 @@ INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1019::/56', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1019:100::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1019:120::/60', 'IPv6');
-INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1019:130::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1019:130::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1019:132::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:5c00::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:174b::/63', 'IPv6');
 INSERT INTO `azure_azurecloud.southeastus5_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2202:74::/64', 'IPv6');

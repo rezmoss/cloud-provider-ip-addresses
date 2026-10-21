@@ -1,5 +1,29 @@
 [
   {
+    "ip_address": "4.240.138.0/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "4.240.203.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "4.240.203.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "4.240.203.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "20.192.226.0/23",
     "ip_type": "IPv4",
     "service": "DataFactory.JioIndiaCentral",
@@ -13,6 +37,18 @@
   },
   {
     "ip_address": "2603:1040:1104::600/121",
+    "ip_type": "IPv6",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:a::7d8/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:a::7e0/124",
     "ip_type": "IPv6",
     "service": "DataFactory.JioIndiaCentral",
     "region": "jioindiacentral"

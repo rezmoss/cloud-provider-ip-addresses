@@ -23,6 +23,7 @@ INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.205.243.
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.207.73.86/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.217.135.1/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.147/32', 'IPv4');
+INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.73/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('48.202.248.34/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('48.204.201.9/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('140.82.112.33/32', 'IPv4');

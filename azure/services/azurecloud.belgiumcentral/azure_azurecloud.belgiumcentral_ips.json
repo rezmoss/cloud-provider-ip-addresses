@@ -96,7 +96,7 @@
     "region": "belgiumcentral"
   },
   {
-    "ip_address": "20.20.121.240/30",
+    "ip_address": "20.20.121.240/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.belgiumcentral",
     "region": "belgiumcentral"
@@ -354,7 +354,7 @@
     "region": "belgiumcentral"
   },
   {
-    "ip_address": "2603:1061:1016:f0::/63",
+    "ip_address": "2603:1061:1016:f0::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.belgiumcentral",
     "region": "belgiumcentral"

@@ -1,5 +1,11 @@
 ip_address,ip_type,service,region
+4.240.138.0/28,IPv4,DataFactory.JioIndiaCentral,jioindiacentral
+4.240.203.0/25,IPv4,DataFactory.JioIndiaCentral,jioindiacentral
+4.240.203.128/26,IPv4,DataFactory.JioIndiaCentral,jioindiacentral
+4.240.203.224/27,IPv4,DataFactory.JioIndiaCentral,jioindiacentral
 20.192.226.0/23,IPv4,DataFactory.JioIndiaCentral,jioindiacentral
 20.192.238.96/28,IPv4,DataFactory.JioIndiaCentral,jioindiacentral
 2603:1040:1104::600/121,IPv6,DataFactory.JioIndiaCentral,jioindiacentral
+2603:1040:1104:a::7d8/125,IPv6,DataFactory.JioIndiaCentral,jioindiacentral
+2603:1040:1104:a::7e0/124,IPv6,DataFactory.JioIndiaCentral,jioindiacentral
 2603:1040:1104:400::500/124,IPv6,DataFactory.JioIndiaCentral,jioindiacentral

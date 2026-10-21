@@ -8875,6 +8875,31 @@
     "service": "copilot"
   },
   {
+    "ip_address": "20.250.119.67/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "20.250.119.67/32",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
+    "ip_address": "20.250.119.68/32",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "20.250.119.72/32",
+    "ip_type": "IPv4",
+    "service": "api"
+  },
+  {
+    "ip_address": "20.250.119.73/32",
+    "ip_type": "IPv4",
+    "service": "packages"
+  },
+  {
     "ip_address": "20.252.0.0/17",
     "ip_type": "IPv4",
     "service": "actions"

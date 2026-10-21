@@ -36,6 +36,7 @@ INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.217.135.1/32'
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.217.135.5/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.145/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.148/32', 'IPv4');
+INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.67/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('48.202.248.40/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('48.204.201.5/32', 'IPv4');
 INSERT INTO `github_web_ips` (`ip_address`, `ip_type`) VALUES ('140.82.112.0/20', 'IPv4');

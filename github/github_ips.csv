@@ -1774,6 +1774,11 @@ ip_address,ip_type,service
 20.246.0.0/17,IPv4,actions
 20.246.128.0/17,IPv4,actions
 20.250.119.64/32,IPv4,copilot
+20.250.119.67/32,IPv4,git
+20.250.119.67/32,IPv4,web
+20.250.119.68/32,IPv4,git
+20.250.119.72/32,IPv4,api
+20.250.119.73/32,IPv4,packages
 20.252.0.0/17,IPv4,actions
 20.253.0.0/17,IPv4,actions
 20.253.128.0/17,IPv4,actions

@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `pingdom_ips` (
 
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('3.10.222.182/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('3.11.131.95/32', 'IPv4');
+INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('3.28.176.11/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('3.66.99.59/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('3.120.200.34/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('3.121.108.101/32', 'IPv4');
@@ -40,6 +41,7 @@ INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('35.75.240.83/32', '
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('35.76.210.156/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('35.79.242.196/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('35.85.117.184/32', 'IPv4');
+INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('40.172.23.87/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('43.225.198.122/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('43.229.84.12/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('44.194.39.17/32', 'IPv4');
@@ -50,6 +52,8 @@ INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('46.246.122.10/32', 
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('50.16.153.186/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('51.20.199.140/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('51.21.185.148/32', 'IPv4');
+INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('51.112.113.198/32', 'IPv4');
+INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('51.112.129.195/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('52.0.204.16/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('52.5.245.15/32', 'IPv4');
 INSERT INTO `pingdom_ips` (`ip_address`, `ip_type`) VALUES ('52.13.171.123/32', 'IPv4');

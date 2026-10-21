@@ -2340,6 +2340,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.84.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI",
+    "region": ""
+  },
+  {
     "ip_address": "48.197.87.142/31",
     "ip_type": "IPv4",
     "service": "PowerBI",
