@@ -648,12 +648,6 @@
     "region": "global"
   },
   {
-    "ip_address": "104.81.248.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as24319",
-    "region": "global"
-  },
-  {
     "ip_address": "104.90.4.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as24319",

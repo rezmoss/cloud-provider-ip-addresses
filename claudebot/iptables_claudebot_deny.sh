@@ -1,20 +1,12 @@
 #!/bin/bash
 # Claudebot IP Ranges
-# Updated: 2026-10-08 02:33:46
+# Updated: 2026-10-22 02:27:04
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables deny rules for claudebot
 
-iptables -A INPUT -s 16.58.26.69/32 -j DROP
-iptables -A INPUT -s 18.225.238.228/32 -j DROP
-iptables -A INPUT -s 18.227.226.255/32 -j DROP
-iptables -A INPUT -s 20.64.57.208/28 -j DROP
-iptables -A INPUT -s 20.102.46.224/28 -j DROP
-iptables -A INPUT -s 34.11.34.31/32 -j DROP
-iptables -A INPUT -s 34.85.172.162/32 -j DROP
-iptables -A INPUT -s 34.150.241.79/32 -j DROP
 iptables -A INPUT -s 34.152.124.140/32 -j DROP
 iptables -A INPUT -s 34.153.21.190/32 -j DROP
 iptables -A INPUT -s 34.162.27.34/32 -j DROP
@@ -25,23 +17,7 @@ iptables -A INPUT -s 34.162.153.71/32 -j DROP
 iptables -A INPUT -s 34.162.191.81/32 -j DROP
 iptables -A INPUT -s 34.162.230.222/32 -j DROP
 iptables -A INPUT -s 34.162.244.71/32 -j DROP
-iptables -A INPUT -s 34.182.140.95/32 -j DROP
-iptables -A INPUT -s 34.182.161.143/32 -j DROP
-iptables -A INPUT -s 34.182.218.27/32 -j DROP
-iptables -A INPUT -s 34.182.220.85/32 -j DROP
-iptables -A INPUT -s 34.182.222.37/32 -j DROP
-iptables -A INPUT -s 34.182.225.167/32 -j DROP
-iptables -A INPUT -s 34.182.226.151/32 -j DROP
-iptables -A INPUT -s 34.182.226.221/32 -j DROP
-iptables -A INPUT -s 34.186.108.163/32 -j DROP
 iptables -A INPUT -s 34.186.252.4/32 -j DROP
-iptables -A INPUT -s 35.221.29.174/32 -j DROP
-iptables -A INPUT -s 35.245.89.239/32 -j DROP
-iptables -A INPUT -s 35.245.175.129/32 -j DROP
-iptables -A INPUT -s 40.124.101.48/28 -j DROP
 iptables -A INPUT -s 136.79.143.251/32 -j DROP
 iptables -A INPUT -s 136.83.20.215/32 -j DROP
-iptables -A INPUT -s 136.107.176.208/32 -j DROP
-iptables -A INPUT -s 160.79.106.16/28 -j DROP
-iptables -A INPUT -s 160.79.106.128/28 -j DROP
 iptables -A INPUT -s 216.73.216.0/22 -j DROP

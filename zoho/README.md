@@ -1,6 +1,6 @@
 # Zoho IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-21** · Total CIDRs: **189** · IPv4: **170** · IPv6: **19** · Services: **9** · Regions: **1**
+> Last updated: **2026-10-22** · Total CIDRs: **191** · IPv4: **172** · IPv6: **19** · Services: **9** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Zoho**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

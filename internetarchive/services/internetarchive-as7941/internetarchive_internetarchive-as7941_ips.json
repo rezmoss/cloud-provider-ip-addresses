@@ -12,7 +12,55 @@
     "region": "global"
   },
   {
+    "ip_address": "207.241.225.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.226.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.227.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.228.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.229.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.230.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
     "ip_address": "207.241.231.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.232.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.233.0/24",
     "ip_type": "IPv4",
     "service": "internetarchive-as7941",
     "region": "global"
@@ -24,7 +72,31 @@
     "region": "global"
   },
   {
+    "ip_address": "207.241.235.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.236.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
     "ip_address": "207.241.237.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.238.0/24",
+    "ip_type": "IPv4",
+    "service": "internetarchive-as7941",
+    "region": "global"
+  },
+  {
+    "ip_address": "207.241.239.0/24",
     "ip_type": "IPv4",
     "service": "internetarchive-as7941",
     "region": "global"

@@ -906,7 +906,7 @@
     "region": "global"
   },
   {
-    "ip_address": "34.183.140.0/22",
+    "ip_address": "34.183.142.0/23",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"
@@ -955,12 +955,6 @@
   },
   {
     "ip_address": "34.184.124.0/23",
-    "ip_type": "IPv4",
-    "service": "google-services",
-    "region": "global"
-  },
-  {
-    "ip_address": "34.184.134.0/23",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"
@@ -1518,19 +1512,7 @@
     "region": "global"
   },
   {
-    "ip_address": "179.193.192.0/18",
-    "ip_type": "IPv4",
-    "service": "google-services",
-    "region": "global"
-  },
-  {
-    "ip_address": "179.199.0.0/17",
-    "ip_type": "IPv4",
-    "service": "google-services",
-    "region": "global"
-  },
-  {
-    "ip_address": "186.242.0.0/17",
+    "ip_address": "186.242.64.0/18",
     "ip_type": "IPv4",
     "service": "google-services",
     "region": "global"

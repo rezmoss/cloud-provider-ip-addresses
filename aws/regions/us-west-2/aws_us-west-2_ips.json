@@ -1368,6 +1368,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "32.191.183.128/25",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-west-2"
+  },
+  {
     "ip_address": "34.208.0.0/12",
     "ip_type": "IPv4",
     "service": "AMAZON",

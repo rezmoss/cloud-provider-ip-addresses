@@ -1,6 +1,6 @@
 # Internet Archive IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-21** · Total CIDRs: **9** · IPv4: **8** · IPv6: **1** · Services: **2** · Regions: **1**
+> Last updated: **2026-10-22** · Total CIDRs: **21** · IPv4: **20** · IPv6: **1** · Services: **2** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Internet Archive**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -34,7 +34,7 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 204.62.248.0/23
 207.241.224.0/20
 207.241.224.0/24
-207.241.231.0/24
+207.241.225.0/24
 ```
 
 ## Per-service breakdown

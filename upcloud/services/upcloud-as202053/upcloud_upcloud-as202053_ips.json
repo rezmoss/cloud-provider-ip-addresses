@@ -60,18 +60,6 @@
     "region": "global"
   },
   {
-    "ip_address": "80.47.236.0/23",
-    "ip_type": "IPv4",
-    "service": "upcloud-as202053",
-    "region": "global"
-  },
-  {
-    "ip_address": "80.47.238.0/23",
-    "ip_type": "IPv4",
-    "service": "upcloud-as202053",
-    "region": "global"
-  },
-  {
     "ip_address": "80.69.172.0/22",
     "ip_type": "IPv4",
     "service": "upcloud-as202053",

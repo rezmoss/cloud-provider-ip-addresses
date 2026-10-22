@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `apple_private_relay_xk_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.230/32', 'IPv4');
 INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:dc80:d887::/64', 'IPv6');
 INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:dc80:d8a2::/64', 'IPv6');
 INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:dc80:d8b2::/64', 'IPv6');
@@ -18,3 +19,5 @@ INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('2a02
 INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:dc8c:d887::/64', 'IPv6');
 INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:dc8c:d8a2::/64', 'IPv6');
 INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:26f7:dc8c:d8b2::/64', 'IPv6');
+INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:d590::/45', 'IPv6');
+INSERT INTO `apple_private_relay_xk_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:d590::/45', 'IPv6');

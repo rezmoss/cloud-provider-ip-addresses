@@ -599,6 +599,8 @@ ip_address,ip_type,service,region
 34.183.132.0/24,IPv4,Google Cloud,europe-west8
 34.183.133.0/24,IPv4,Google Cloud,asia-south2
 34.183.136.0/22,IPv4,Google Cloud,asia-south1
+34.183.140.0/24,IPv4,Google Cloud,australia-southeast2
+34.183.141.0/24,IPv4,Google Cloud,us-west2
 34.183.144.0/20,IPv4,Google Cloud,us-central1
 34.184.0.0/24,IPv4,Google Cloud,europe-west8
 34.184.1.0/24,IPv4,Google Cloud,southamerica-west1
@@ -671,6 +673,8 @@ ip_address,ip_type,service,region
 34.184.131.0/24,IPv4,Google Cloud,asia-southeast1
 34.184.132.0/24,IPv4,Google Cloud,europe-west8
 34.184.133.0/24,IPv4,Google Cloud,asia-south2
+34.184.134.0/24,IPv4,Google Cloud,australia-southeast2
+34.184.135.0/24,IPv4,Google Cloud,us-west2
 34.184.136.0/22,IPv4,Google Cloud,asia-south1
 34.184.144.0/20,IPv4,Google Cloud,us-central1
 34.185.64.0/18,IPv4,Google Cloud,us-west3
@@ -1027,6 +1031,9 @@ ip_address,ip_type,service,region
 179.69.192.0/19,IPv4,Google Cloud,europe-central2
 179.69.224.0/19,IPv4,Google Cloud,europe-west6
 179.193.128.0/19,IPv4,Google Cloud,europe-north1
+179.193.192.0/18,IPv4,Google Cloud,us-west1
+179.199.0.0/17,IPv4,Google Cloud,us-west1
+186.242.0.0/18,IPv4,Google Cloud,us-west1
 192.158.28.0/22,IPv4,Google Cloud,europe-west1
 199.192.115.0/24,IPv4,Google Cloud,us-central1
 199.223.232.0/22,IPv4,Google Cloud,us-central1

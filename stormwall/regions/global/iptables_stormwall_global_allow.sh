@@ -1,6 +1,6 @@
 #!/bin/bash
 # Stormwall IP Ranges
-# Updated: 2026-10-15 02:32:59
+# Updated: 2026-10-22 02:34:01
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,5 +21,4 @@ ip6tables -A INPUT -s 2a06:a180:1f::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a06:a180:40::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a06:a180:50::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a06:a180:60::/48 -j ACCEPT
-ip6tables -A INPUT -s 2a06:a180:70::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a06:a180:a0::/48 -j ACCEPT

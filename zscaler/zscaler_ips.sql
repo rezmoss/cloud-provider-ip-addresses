@@ -355,6 +355,7 @@ INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('161.151.202.0/24', 
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('161.151.203.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('161.151.234.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('161.151.235.0/24', 'IPv4');
+INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('161.151.236.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('161.151.240.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('161.151.241.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('162.82.254.0/24', 'IPv4');

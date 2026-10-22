@@ -55,6 +55,26 @@
     "region": "CH-ZH"
   },
   {
+    "ip_address": "104.28.138.225/32",
+    "ip_type": "IPv4",
+    "region": "CH-ZH"
+  },
+  {
+    "ip_address": "104.28.138.231/32",
+    "ip_type": "IPv4",
+    "region": "CH-ZH"
+  },
+  {
+    "ip_address": "104.28.138.232/32",
+    "ip_type": "IPv4",
+    "region": "CH-ZH"
+  },
+  {
+    "ip_address": "104.28.138.233/32",
+    "ip_type": "IPv4",
+    "region": "CH-ZH"
+  },
+  {
     "ip_address": "104.28.142.41/32",
     "ip_type": "IPv4",
     "region": "CH-ZH"

@@ -82870,6 +82870,76 @@
     "region": "IN"
   },
   {
+    "ip_address": "104.28.138.225/32",
+    "ip_type": "IPv4",
+    "region": "CH-ZH"
+  },
+  {
+    "ip_address": "104.28.138.226/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.227/32",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
+    "ip_address": "104.28.138.228/32",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
+    "ip_address": "104.28.138.229/32",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
+    "ip_address": "104.28.138.230/32",
+    "ip_type": "IPv4",
+    "region": "XK"
+  },
+  {
+    "ip_address": "104.28.138.231/32",
+    "ip_type": "IPv4",
+    "region": "CH-ZH"
+  },
+  {
+    "ip_address": "104.28.138.232/32",
+    "ip_type": "IPv4",
+    "region": "CH-ZH"
+  },
+  {
+    "ip_address": "104.28.138.233/32",
+    "ip_type": "IPv4",
+    "region": "CH-ZH"
+  },
+  {
+    "ip_address": "104.28.138.234/32",
+    "ip_type": "IPv4",
+    "region": "IN-RJ"
+  },
+  {
+    "ip_address": "104.28.138.235/32",
+    "ip_type": "IPv4",
+    "region": "IN-RJ"
+  },
+  {
+    "ip_address": "104.28.138.236/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.237/32",
+    "ip_type": "IPv4",
+    "region": "SE-AB"
+  },
+  {
+    "ip_address": "104.28.138.238/32",
+    "ip_type": "IPv4",
+    "region": "US-DE"
+  },
+  {
     "ip_address": "104.28.139.1/32",
     "ip_type": "IPv4",
     "region": "GE-TB"
@@ -1391415,6 +1391485,11 @@
     "region": "IN"
   },
   {
+    "ip_address": "2a09:bac2:d590::/45",
+    "ip_type": "IPv6",
+    "region": "XK"
+  },
+  {
     "ip_address": "2a09:bac3::/45",
     "ip_type": "IPv6",
     "region": "AD-07"
@@ -1425528,5 +1425603,10 @@
     "ip_address": "2a09:bac3:d588::/45",
     "ip_type": "IPv6",
     "region": "IN"
+  },
+  {
+    "ip_address": "2a09:bac3:d590::/45",
+    "ip_type": "IPv6",
+    "region": "XK"
   }
 ]
