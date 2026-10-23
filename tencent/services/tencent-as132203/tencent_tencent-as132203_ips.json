@@ -1968,6 +1968,12 @@
     "region": "global"
   },
   {
+    "ip_address": "43.172.104.0/23",
+    "ip_type": "IPv4",
+    "service": "tencent-as132203",
+    "region": "global"
+  },
+  {
     "ip_address": "43.172.106.0/23",
     "ip_type": "IPv4",
     "service": "tencent-as132203",

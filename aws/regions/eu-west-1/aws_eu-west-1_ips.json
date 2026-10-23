@@ -228,6 +228,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "3.33.1.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "3.40.128.0/17",
     "ip_type": "IPv4",
     "service": "AMAZON",

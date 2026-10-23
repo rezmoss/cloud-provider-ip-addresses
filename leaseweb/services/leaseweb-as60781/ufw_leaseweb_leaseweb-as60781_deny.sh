@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-10-22 02:33:01
+# Updated: 2026-10-23 02:32:19
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -95,7 +95,7 @@ ufw deny from 46.182.120.0/21
 ufw deny from 46.202.254.0/24
 ufw deny from 62.212.64.0/19
 ufw deny from 64.120.109.0/24
-ufw deny from 64.226.54.0/23
+ufw deny from 64.226.55.0/24
 ufw deny from 64.226.157.0/24
 ufw deny from 64.226.158.0/23
 ufw deny from 77.235.34.0/24
@@ -272,8 +272,6 @@ ufw deny from 193.41.87.0/24
 ufw deny from 193.41.114.0/23
 ufw deny from 193.41.122.0/23
 ufw deny from 193.43.92.0/24
-ufw deny from 193.58.109.0/24
-ufw deny from 193.58.110.0/23
 ufw deny from 193.104.219.0/24
 ufw deny from 193.160.152.0/24
 ufw deny from 193.178.227.0/24

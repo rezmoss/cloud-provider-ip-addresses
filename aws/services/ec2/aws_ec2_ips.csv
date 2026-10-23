@@ -3611,6 +3611,7 @@ ip_address,ip_type,service,region
 2600:f0f3:f010:2000::/56,IPv6,EC2,ap-southeast-4
 2600:f0f3:f010:2100::/56,IPv6,EC2,eu-south-1
 2600:f0f3:f010:2300::/56,IPv6,EC2,ap-northeast-1
+2600:f0f3:f010:2500::/56,IPv6,EC2,us-gov-west-1
 2600:f0f3:f010:2600::/56,IPv6,EC2,us-west-2
 2600:f0f3:f010:2700::/56,IPv6,EC2,mx-central-1
 2600:f0f3:f010:2800::/56,IPv6,EC2,me-west-1

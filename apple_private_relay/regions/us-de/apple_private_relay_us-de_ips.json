@@ -5,11 +5,6 @@
     "region": "US-DE"
   },
   {
-    "ip_address": "104.28.138.238/32",
-    "ip_type": "IPv4",
-    "region": "US-DE"
-  },
-  {
     "ip_address": "104.28.145.254/32",
     "ip_type": "IPv4",
     "region": "US-DE"

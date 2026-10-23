@@ -85,6 +85,7 @@ INSERT INTO `zscaler_zscaler-as53813_ips` (`ip_address`, `ip_type`) VALUES ('137
 INSERT INTO `zscaler_zscaler-as53813_ips` (`ip_address`, `ip_type`) VALUES ('137.31.174.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as53813_ips` (`ip_address`, `ip_type`) VALUES ('137.31.175.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as53813_ips` (`ip_address`, `ip_type`) VALUES ('137.31.209.0/24', 'IPv4');
+INSERT INTO `zscaler_zscaler-as53813_ips` (`ip_address`, `ip_type`) VALUES ('137.31.216.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as53813_ips` (`ip_address`, `ip_type`) VALUES ('137.83.137.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as53813_ips` (`ip_address`, `ip_type`) VALUES ('137.83.144.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as53813_ips` (`ip_address`, `ip_type`) VALUES ('137.83.145.0/24', 'IPv4');

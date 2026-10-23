@@ -2232,6 +2232,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "3.33.1.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-west-1"
+  },
+  {
     "ip_address": "3.33.44.0/22",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -49492,6 +49498,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2500::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "us-gov-west-1"
   },
   {
     "ip_address": "2600:f0f3:f010:2600::/56",

@@ -120,21 +120,6 @@
     "region": "SE-AB"
   },
   {
-    "ip_address": "104.28.138.226/32",
-    "ip_type": "IPv4",
-    "region": "SE-AB"
-  },
-  {
-    "ip_address": "104.28.138.236/32",
-    "ip_type": "IPv4",
-    "region": "SE-AB"
-  },
-  {
-    "ip_address": "104.28.138.237/32",
-    "ip_type": "IPv4",
-    "region": "SE-AB"
-  },
-  {
     "ip_address": "104.28.139.167/32",
     "ip_type": "IPv4",
     "region": "SE-AB"
