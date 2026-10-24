@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-10-23 02:31:38
+# Updated: 2026-10-24 02:27:56
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -123,6 +123,7 @@ ufw allow from 51.195.0.0/16
 ufw allow from 51.210.0.0/16
 ufw allow from 51.222.0.0/16
 ufw allow from 51.241.1.0/24
+ufw allow from 51.241.47.0/24
 ufw allow from 51.254.0.0/15
 ufw allow from 54.36.0.0/14
 ufw allow from 57.128.0.0/14
@@ -466,7 +467,6 @@ ufw allow from 162.223.195.0/24
 ufw allow from 163.5.62.0/24
 ufw allow from 163.5.132.0/24
 ufw allow from 163.5.149.0/24
-ufw allow from 163.5.187.0/24
 ufw allow from 163.223.88.0/24
 ufw allow from 164.37.39.0/24
 ufw allow from 164.132.0.0/16
@@ -495,6 +495,7 @@ ufw allow from 178.32.0.0/15
 ufw allow from 178.83.45.0/24
 ufw allow from 178.83.46.0/24
 ufw allow from 178.83.166.0/24
+ufw allow from 178.83.197.0/24
 ufw allow from 178.92.120.0/24
 ufw allow from 178.93.247.0/24
 ufw allow from 178.94.22.0/24
@@ -611,6 +612,7 @@ ufw allow from 202.92.214.0/23
 ufw allow from 202.181.0.0/24
 ufw allow from 203.5.184.0/24
 ufw allow from 203.27.201.0/24
+ufw allow from 204.126.219.0/24
 ufw allow from 205.234.176.0/24
 ufw allow from 206.168.95.0/24
 ufw allow from 206.168.174.0/23
@@ -659,4 +661,5 @@ ufw allow from 2402:1f00::/32
 ufw allow from 2604:2dc0::/32
 ufw allow from 2607:5300::/32
 ufw allow from 2a03:bf80::/48
+ufw allow from 2a03:bf80:3::/48
 ufw allow from 2a03:bf80:4::/48

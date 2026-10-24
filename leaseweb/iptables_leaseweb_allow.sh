@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-10-23 02:32:19
+# Updated: 2026-10-24 02:28:30
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -340,7 +340,6 @@ iptables -A INPUT -s 66.93.58.0/24 -j ACCEPT
 iptables -A INPUT -s 66.93.60.0/23 -j ACCEPT
 iptables -A INPUT -s 66.93.62.0/24 -j ACCEPT
 iptables -A INPUT -s 67.201.0.0/21 -j ACCEPT
-iptables -A INPUT -s 67.201.40.0/24 -j ACCEPT
 iptables -A INPUT -s 67.201.48.0/23 -j ACCEPT
 iptables -A INPUT -s 67.205.64.0/18 -j ACCEPT
 iptables -A INPUT -s 67.208.44.0/23 -j ACCEPT
@@ -356,7 +355,6 @@ iptables -A INPUT -s 69.147.242.0/24 -j ACCEPT
 iptables -A INPUT -s 69.147.245.0/24 -j ACCEPT
 iptables -A INPUT -s 69.147.248.0/21 -j ACCEPT
 iptables -A INPUT -s 69.161.221.0/24 -j ACCEPT
-iptables -A INPUT -s 69.174.60.0/22 -j ACCEPT
 iptables -A INPUT -s 70.32.33.0/24 -j ACCEPT
 iptables -A INPUT -s 70.32.34.0/23 -j ACCEPT
 iptables -A INPUT -s 70.32.36.0/23 -j ACCEPT
@@ -365,11 +363,7 @@ iptables -A INPUT -s 70.32.40.0/24 -j ACCEPT
 iptables -A INPUT -s 70.32.43.0/24 -j ACCEPT
 iptables -A INPUT -s 70.32.45.0/24 -j ACCEPT
 iptables -A INPUT -s 70.38.0.0/17 -j ACCEPT
-iptables -A INPUT -s 72.37.218.0/23 -j ACCEPT
-iptables -A INPUT -s 72.37.221.0/24 -j ACCEPT
-iptables -A INPUT -s 72.37.222.0/23 -j ACCEPT
 iptables -A INPUT -s 72.37.224.0/21 -j ACCEPT
-iptables -A INPUT -s 72.37.237.0/24 -j ACCEPT
 iptables -A INPUT -s 72.37.242.0/23 -j ACCEPT
 iptables -A INPUT -s 72.55.128.0/18 -j ACCEPT
 iptables -A INPUT -s 72.63.8.0/22 -j ACCEPT
@@ -836,7 +830,6 @@ iptables -A INPUT -s 173.234.160.0/22 -j ACCEPT
 iptables -A INPUT -s 173.234.172.0/22 -j ACCEPT
 iptables -A INPUT -s 173.234.180.0/22 -j ACCEPT
 iptables -A INPUT -s 173.234.184.0/22 -j ACCEPT
-iptables -A INPUT -s 173.234.192.0/20 -j ACCEPT
 iptables -A INPUT -s 173.234.208.0/22 -j ACCEPT
 iptables -A INPUT -s 173.234.214.0/23 -j ACCEPT
 iptables -A INPUT -s 173.234.220.0/22 -j ACCEPT
@@ -1047,6 +1040,7 @@ iptables -A INPUT -s 198.33.150.0/24 -j ACCEPT
 iptables -A INPUT -s 198.33.176.0/24 -j ACCEPT
 iptables -A INPUT -s 198.50.96.0/19 -j ACCEPT
 iptables -A INPUT -s 198.72.96.0/19 -j ACCEPT
+iptables -A INPUT -s 198.185.148.0/24 -j ACCEPT
 iptables -A INPUT -s 198.252.101.0/24 -j ACCEPT
 iptables -A INPUT -s 198.252.103.0/24 -j ACCEPT
 iptables -A INPUT -s 198.252.107.0/24 -j ACCEPT
@@ -1334,7 +1328,7 @@ ip6tables -A INPUT -s 2a10:32c0::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a10:35c0::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a10:3740::/29 -j ACCEPT
 ip6tables -A INPUT -s 2a10:6700::/29 -j ACCEPT
-ip6tables -A INPUT -s 2a10:67c6::/31 -j ACCEPT
+ip6tables -A INPUT -s 2a10:67c6::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a10:68c0::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a10:68c6::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a10:6d40::/29 -j ACCEPT

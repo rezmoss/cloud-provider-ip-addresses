@@ -558,6 +558,18 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "35.34.106.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "35.34.106.0/24",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "af-south-1"
+  },
+  {
     "ip_address": "35.71.103.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -681,6 +693,18 @@
     "ip_address": "64.66.151.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "69.107.13.112/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "69.107.13.120/29",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
     "region": "af-south-1"
   },
   {
@@ -1275,6 +1299,18 @@
     "ip_address": "2406:daff:1000::/40",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2600:1f01:4816::/47",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "af-south-1"
+  },
+  {
+    "ip_address": "2600:1f01:4816::/47",
+    "ip_type": "IPv6",
+    "service": "GLOBALACCELERATOR",
     "region": "af-south-1"
   },
   {

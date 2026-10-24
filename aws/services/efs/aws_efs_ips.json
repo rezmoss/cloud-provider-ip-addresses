@@ -588,6 +588,12 @@
     "region": "eu-west-1"
   },
   {
+    "ip_address": "184.198.80.0/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2400:7fc0:833b:f400::/56",
     "ip_type": "IPv6",
     "service": "EFS",

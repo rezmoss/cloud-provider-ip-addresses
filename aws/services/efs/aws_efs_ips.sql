@@ -104,6 +104,7 @@ INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('108.133.144.0/22', 
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('108.133.148.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('108.133.152.0/22', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('108.133.156.0/22', 'IPv4');
+INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('184.198.80.0/25', 'IPv4');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:833b:f400::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2400:7fc0:86dd:2300::/56', 'IPv6');
 INSERT INTO `aws_efs_ips` (`ip_address`, `ip_type`) VALUES ('2404:c2c0:8834:a400::/56', 'IPv6');

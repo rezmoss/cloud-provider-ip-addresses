@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-10-23 02:31:38
+# Updated: 2026-10-24 02:27:56
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -123,6 +123,7 @@ iptables -A INPUT -s 51.195.0.0/16 -j ACCEPT
 iptables -A INPUT -s 51.210.0.0/16 -j ACCEPT
 iptables -A INPUT -s 51.222.0.0/16 -j ACCEPT
 iptables -A INPUT -s 51.241.1.0/24 -j ACCEPT
+iptables -A INPUT -s 51.241.47.0/24 -j ACCEPT
 iptables -A INPUT -s 51.254.0.0/15 -j ACCEPT
 iptables -A INPUT -s 54.36.0.0/14 -j ACCEPT
 iptables -A INPUT -s 57.128.0.0/14 -j ACCEPT
@@ -466,7 +467,6 @@ iptables -A INPUT -s 162.223.195.0/24 -j ACCEPT
 iptables -A INPUT -s 163.5.62.0/24 -j ACCEPT
 iptables -A INPUT -s 163.5.132.0/24 -j ACCEPT
 iptables -A INPUT -s 163.5.149.0/24 -j ACCEPT
-iptables -A INPUT -s 163.5.187.0/24 -j ACCEPT
 iptables -A INPUT -s 163.223.88.0/24 -j ACCEPT
 iptables -A INPUT -s 164.37.39.0/24 -j ACCEPT
 iptables -A INPUT -s 164.132.0.0/16 -j ACCEPT
@@ -495,6 +495,7 @@ iptables -A INPUT -s 178.32.0.0/15 -j ACCEPT
 iptables -A INPUT -s 178.83.45.0/24 -j ACCEPT
 iptables -A INPUT -s 178.83.46.0/24 -j ACCEPT
 iptables -A INPUT -s 178.83.166.0/24 -j ACCEPT
+iptables -A INPUT -s 178.83.197.0/24 -j ACCEPT
 iptables -A INPUT -s 178.92.120.0/24 -j ACCEPT
 iptables -A INPUT -s 178.93.247.0/24 -j ACCEPT
 iptables -A INPUT -s 178.94.22.0/24 -j ACCEPT
@@ -611,6 +612,7 @@ iptables -A INPUT -s 202.92.214.0/23 -j ACCEPT
 iptables -A INPUT -s 202.181.0.0/24 -j ACCEPT
 iptables -A INPUT -s 203.5.184.0/24 -j ACCEPT
 iptables -A INPUT -s 203.27.201.0/24 -j ACCEPT
+iptables -A INPUT -s 204.126.219.0/24 -j ACCEPT
 iptables -A INPUT -s 205.234.176.0/24 -j ACCEPT
 iptables -A INPUT -s 206.168.95.0/24 -j ACCEPT
 iptables -A INPUT -s 206.168.174.0/23 -j ACCEPT
@@ -659,4 +661,5 @@ ip6tables -A INPUT -s 2402:1f00::/32 -j ACCEPT
 ip6tables -A INPUT -s 2604:2dc0::/32 -j ACCEPT
 ip6tables -A INPUT -s 2607:5300::/32 -j ACCEPT
 ip6tables -A INPUT -s 2a03:bf80::/48 -j ACCEPT
+ip6tables -A INPUT -s 2a03:bf80:3::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a03:bf80:4::/48 -j ACCEPT

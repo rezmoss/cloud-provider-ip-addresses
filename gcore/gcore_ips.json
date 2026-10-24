@@ -1232,6 +1232,14 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "85.234.77.9/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "85.234.77.10/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "85.234.77.11/32",
     "ip_type": "IPv4"
   },
@@ -5933,6 +5941,14 @@
   },
   {
     "ip_address": "2a03:90c0:311:2801::8/128",
+    "ip_type": "IPv6"
+  },
+  {
+    "ip_address": "2a03:90c0:311:2801::9/128",
+    "ip_type": "IPv6"
+  },
+  {
+    "ip_address": "2a03:90c0:311:2801::10/128",
     "ip_type": "IPv6"
   },
   {

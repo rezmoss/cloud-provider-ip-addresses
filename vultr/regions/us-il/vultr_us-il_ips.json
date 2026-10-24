@@ -170,11 +170,6 @@
     "region": "US-IL"
   },
   {
-    "ip_address": "173.199.68.0/24",
-    "ip_type": "IPv4",
-    "region": "US-IL"
-  },
-  {
     "ip_address": "173.199.88.0/21",
     "ip_type": "IPv4",
     "region": "US-IL"

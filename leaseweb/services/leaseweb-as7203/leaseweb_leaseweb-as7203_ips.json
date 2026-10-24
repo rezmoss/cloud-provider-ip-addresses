@@ -420,43 +420,7 @@
     "region": "global"
   },
   {
-    "ip_address": "67.201.40.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as7203",
-    "region": "global"
-  },
-  {
-    "ip_address": "69.174.60.0/22",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as7203",
-    "region": "global"
-  },
-  {
-    "ip_address": "72.37.218.0/23",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as7203",
-    "region": "global"
-  },
-  {
-    "ip_address": "72.37.221.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as7203",
-    "region": "global"
-  },
-  {
-    "ip_address": "72.37.222.0/23",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as7203",
-    "region": "global"
-  },
-  {
     "ip_address": "72.37.224.0/21",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as7203",
-    "region": "global"
-  },
-  {
-    "ip_address": "72.37.237.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as7203",
     "region": "global"

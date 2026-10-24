@@ -189,5 +189,7 @@ ip_address,ip_type,service,region
 201.58.179.0/24,IPv4,play2go,pl
 201.58.179.0/24,IPv4,play2go,pl
 201.58.180.0/24,IPv4,play2go,pl
+201.58.181.0/24,IPv4,play2go,pl
 201.58.182.0/24,IPv4,play2go,nl
+201.58.183.0/24,IPv4,play2go,de
 212.80.7.0/24,IPv4,play2go,de

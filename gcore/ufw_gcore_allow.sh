@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-10-23 02:32:47
+# Updated: 2026-10-24 02:28:51
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -205,9 +205,7 @@ ufw allow from 85.234.75.4/30
 ufw allow from 85.234.75.8/29
 ufw allow from 85.234.75.16/28
 ufw allow from 85.234.77.4/30
-ufw allow from 85.234.77.8/32
-ufw allow from 85.234.77.11/32
-ufw allow from 85.234.77.12/30
+ufw allow from 85.234.77.8/29
 ufw allow from 85.234.77.16/31
 ufw allow from 85.234.83.177/32
 ufw allow from 85.234.83.224/32
@@ -898,10 +896,8 @@ ufw allow from 2a03:90c0:281:2801::10/128
 ufw allow from 2a03:90c0:291:2801::37/128
 ufw allow from 2a03:90c0:2f1:2801::4/128
 ufw allow from 2a03:90c0:311:2801::4/126
-ufw allow from 2a03:90c0:311:2801::8/128
-ufw allow from 2a03:90c0:311:2801::11/128
-ufw allow from 2a03:90c0:311:2801::12/127
-ufw allow from 2a03:90c0:311:2801::14/126
+ufw allow from 2a03:90c0:311:2801::8/127
+ufw allow from 2a03:90c0:311:2801::10/125
 ufw allow from 2a03:90c0:321:2803::200/127
 ufw allow from 2a03:90c0:321:2803::204/126
 ufw allow from 2a03:90c0:321:2803::208/128
