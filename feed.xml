@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Cloud Provider IP Addresses — daily changelog</title>
+  <link>https://cloudipdb.io/changelog/</link>
+  <description>Daily diff of cloud provider and bot IP range changes.</description>
+  <language>en</language>
+  <item>
+    <title>IP range changes — 2026-10-24</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-24</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    <description>leaseweb (+1, -8); vultr (-1); meta (+4); gcore (+4); googleservices (+7, -3); zoho (-2); tor (+17, -22); play2go (+2); ovhcloud (+4, -1); akamai (+3, -3); aws (+20)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-23</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-23</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    <description>apple_private_relay (-16); googleservices (+5, -2); yandex (-1); aws (+2); leaseweb (-4); ovhcloud (+5, -1); tor (+9, -10); gcore (+2, -5); tencent (+1); zscaler (+1); googlecloud (-7); akamai (+3, -4)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-22</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-22</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-22</guid>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    <description>aws (+5); gcore (+8); stormwall (-1); claudebot (-24); zoho (+2); upcloud (-2); meta (-4); leaseweb (+1, -2); github (+80, -37); googleservices (+2, -5); googlecloud (+7); ovhcloud (+3); baidu (+1); apple_private_relay (+16); tor (+30, -14); internetarchive (+12); zscaler (+1); akamai (+7, -20)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-21</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-21</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    <description>github (+4); tor (+12, -8); ovhcloud (+2, -1); meta (+1, -4); gcore (+2, -6); aws (+6); gptbot (+1, -1); pingdom (+4); tencent (+1); azure (+7379, -1094); zoho (+1); akamai (+1, -1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-20</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-20</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-20</guid>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    <description>leaseweb (+1, -2); huawei (+3); tor (+12, -14); mullvad (+4, -4); gcore (-2); ovhcloud (+9, -3); digitalocean (+1); aws (+12); yandex (-1); akamai (+8)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-19</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-19</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-19</guid>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    <description>zoho (-1); aws (+1); apple_private_relay (+15); googlecloud (+1); googleservices (+1, -1); yandex (+1); ovhcloud (+1, -1); tor (+12, -14)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-18</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-18</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-18</guid>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    <description>zoho (+1, -2); tor (+8, -8); tencent (+1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-17</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-17</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    <description>leaseweb (+4, -3); tor (+6, -10); sucuri (+1); akamai (-1); aws (+6); zscaler (+1); zoho (+1, -1); play2go (+4, -1); gcore (+2); alibaba (+6); ovhcloud (+8, -1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-16</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-16</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    <description>gcore (+3, -2); ovhcloud (+3); play2go (+5); tor (+7, -4); alibaba (+3); aws (+15); akamai (+6); meta (+2); huawei (+4, -3); tencent (+1, -1); baidu (+1); azure (+1001, -88); scaleway (+1, -1); zoho (+1, -2); github (+2); leaseweb (+5)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-15</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-15</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-15</guid>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    <description>alibaba (-1); zoho (+1); meta (-1); ovhcloud (+1, -6); akamai (-10); gcore (+8, -4); stormwall (+1); aws (+9); tor (+5, -9); tencent (+1, -1); gabia (-1); zscaler (+1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-14</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-14</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    <description>gcore (+3, -4); tor (+11, -6); leaseweb (-1); tencent (+3); alibaba (+31); ovhcloud (+1); gabia (+2); zscaler (+1); akamai (-1); meta (-3); contabo (+5); aws (+1, -1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-13</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-13</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    <description>huawei (+3); fastly (+4, -1); gcore (-5); zoho (+1); tencent (+1); leaseweb (-6); digitalocean (+4); atlassian (+4); tor (+16, -5); ovhcloud (+1); mullvad (+1, -1); akamai (+3); alibaba (-2); aws (+2); meta (-1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-12</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-12</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-12</guid>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    <description>apple_private_relay (+22); play2go (+1); tor (+4, -7)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-11</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-11</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-11</guid>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+    <description>tencent (+2); meta (-5); googlecloud (+20); ovhcloud (+1); alibaba (+9); aws (+1); akamai (+2); tor (+9, -11); googleservices (+7, -14); zoho (+1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-10</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-10</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+    <description>ovhcloud (+2); leaseweb (-1); zscaler (+3); aws (+2, -1); tor (+9, -24); akamai (+4, -8); zoho (+2); gcore (+10, -10)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-09</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-09</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    <description>zscaler (+2); ovhcloud (+3, -1); googleservices (+14, -7); huawei (-4); gcore (+3, -2); tor (+4, -22); stormwall (+1, -2); aws (+16); zoho (+1); googlecloud (-20); vultr (+1); meta (+2); akamai (+7, -3)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-08</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-08</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    <description>zoom (+3, -3); leaseweb (+5, -24); play2go (+1); tor (+17, -54); upcloud (-3); gptbot (-1); meta (+2); github (+3); claudebot (+10); ovhcloud (+4); zoho (+1); gcore (-2); aws (+28); akamai (+3, -16); zscaler (+1); alibaba (-28)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-07</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-07</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    <description>tor (+47, -134); upcloud (+1); zscaler (+1); aws (+6, -1); leaseweb (+1, -2); akamai (+7, -2); gptbot (+5); vultr (+1); ovhcloud (+4); azure (+127, -94)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-06</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-06</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    <description>akamai (+4, -13); leaseweb (+3, -2); googlecloud (+20); gcore (+9, -4); tor (+10, -33); github (+73, -115); googleservices (+7, -14); ovhcloud (+1); alibaba (-5); baidu (-1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-05</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-05</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    <description>tor (+6, -21); contabo (+758); play2go (+180); alibaba (-1); apple_private_relay (+36, -146)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-04</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-04</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-04</guid>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    <description>tor (+41, -17); zoho (+4); leaseweb (+1); akamai (+1, -4); zscaler (+1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-03</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-03</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-03</guid>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    <description>claudebot (+2); googleservices (+2, -3); leaseweb (+2); zscaler (+5); tencent (-1); gcore (-2); aws (+11); huawei (-2); zoho (+2); googlecloud (+4); akamai (+3, -9); ovhcloud (+3); tor (+33, -27)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-02</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-02</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    <description>aws (+12, -2); github (+157, -465); googleservices (+3, -2); akamai (+8); googlecloud (-4); huawei (-1); nhncloud (+2); ovhcloud (+1); leaseweb (-4); sucuri (-1); tor (+14, -51); zscaler (+3, -2); stormwall (-1); gcore (+1, -3)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-10-01</title>
+    <link>https://cloudipdb.io/changelog/#2026-10-01</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    <description>meta (-4); aws (+7); googlecloud (+4); huawei (-2); tor (+18, -20); akamai (+6, -34); leaseweb (+1, -2); tencent (+1); ovhcloud (+3, -1); googleservices (+2, -3)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-09-30</title>
+    <link>https://cloudipdb.io/changelog/#2026-09-30</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    <description>gcore (+1, -4); ovhcloud (+2, -2); leaseweb (-10); gabia (+45); alibaba (-2); tor (+29, -5); zscaler (+1); zoho (-5); azure (+282, -500); meta (+2, -1); akamai (+3, -1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-09-29</title>
+    <link>https://cloudipdb.io/changelog/#2026-09-29</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    <description>huawei (+2); zoho (-1); tor (+30, -3); aws (+2); zscaler (+3); akamai (+2, -2); leaseweb (-5); ovhcloud (+1); gcore (-2)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-09-28</title>
+    <link>https://cloudipdb.io/changelog/#2026-09-28</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    <description>zoho (-1); ovhcloud (-2); apple_private_relay (+9, -1); aws (+1); tor (+14, -34)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-09-27</title>
+    <link>https://cloudipdb.io/changelog/#2026-09-27</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-09-27</guid>
+    <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+    <description>tor (+19, -17); zoho (-1); aws (-1); ovhcloud (+1)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-09-26</title>
+    <link>https://cloudipdb.io/changelog/#2026-09-26</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    <description>leaseweb (+1, -11); gptbot (+1); tor (+19, -24); ibmcloud (-1); huawei (-1); alibaba (-3); tencent (-2); aws (+2); meta (-2); akamai (+2, -3); zoho (+1, -1); gcore (+2, -2)</description>
+  </item>
+  <item>
+    <title>IP range changes — 2026-09-25</title>
+    <link>https://cloudipdb.io/changelog/#2026-09-25</link>
+    <guid isPermaLink="false">https://cloudipdb.io/changelog/2026-09-25</guid>
+    <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    <description>ovhcloud (+2); zscaler (+2); huawei (+4); alibaba (-5); tor (+22, -7); akamai (+7, -28); leaseweb (+7, -4); tencent (+1); aws (+5, -1); gcore (+5, -3)</description>
+  </item>
+</channel>
+</rss>
