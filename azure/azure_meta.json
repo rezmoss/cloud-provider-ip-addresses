@@ -1,7 +1,7 @@
 {
   "provider": "azure",
   "version": 20,
-  "generated_date": "2026-10-24",
+  "generated_date": "2026-10-25",
   "last_changed_date": "2026-10-21",
   "sources": [
     "https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519"

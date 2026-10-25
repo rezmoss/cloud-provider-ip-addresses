@@ -2,6 +2,36 @@
 
 Daily IP range changes across all providers.
 
+## 2026-10-25
+
+### meta
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 5 CIDRs
+- Removed: 11 CIDRs
+
+### aws
+- Added: 2 CIDRs
+- Removed: 2 CIDRs
+
+### ovhcloud
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### akamai
+- Added: 3 CIDRs
+- Removed: 10 CIDRs
+
+### googlecloud
+- Added: 7 CIDRs
+- Removed: 0 CIDRs
+
+### googleservices
+- Added: 2 CIDRs
+- Removed: 5 CIDRs
+
 ## 2026-10-24
 
 ### leaseweb

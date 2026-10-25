@@ -4416,6 +4416,18 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "2606:7b40:1dd4:c000::/60",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2606:7b40:1dd4:c000::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "2620:107:4002::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

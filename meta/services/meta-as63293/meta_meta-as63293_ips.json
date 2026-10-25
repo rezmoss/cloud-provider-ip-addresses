@@ -456,6 +456,12 @@
     "region": "global"
   },
   {
+    "ip_address": "157.240.144.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as63293",
+    "region": "global"
+  },
+  {
     "ip_address": "157.240.156.0/24",
     "ip_type": "IPv4",
     "service": "meta-as63293",
