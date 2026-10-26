@@ -228,6 +228,7 @@ ip_address,ip_type,service,region
 32.187.196.0/22,IPv4,EFS,us-west-2
 32.190.211.224/29,IPv4,MEDIA_PACKAGE_V2,us-west-2
 32.191.183.128/25,IPv4,AMAZON,us-west-2
+32.191.214.0/25,IPv4,AMAZON,us-west-2
 34.208.0.0/12,IPv4,AMAZON,us-west-2
 34.208.0.0/12,IPv4,EC2,us-west-2
 34.216.51.0/25,IPv4,CLOUDFRONT,us-west-2

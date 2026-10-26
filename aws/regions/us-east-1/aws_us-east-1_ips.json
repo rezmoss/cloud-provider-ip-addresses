@@ -8622,6 +8622,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "184.198.84.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "184.208.0.0/12",
     "ip_type": "IPv4",
     "service": "AMAZON",

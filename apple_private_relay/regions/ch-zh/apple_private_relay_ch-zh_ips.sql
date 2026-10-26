@@ -17,6 +17,10 @@ INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.135.80/32', 'IPv4');
 INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.135.81/32', 'IPv4');
 INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.15/32', 'IPv4');
+INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.225/32', 'IPv4');
+INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.231/32', 'IPv4');
+INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.232/32', 'IPv4');
+INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.138.233/32', 'IPv4');
 INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.41/32', 'IPv4');
 INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.42/32', 'IPv4');
 INSERT INTO `apple_private_relay_ch-zh_ips` (`ip_address`, `ip_type`) VALUES ('104.28.142.57/32', 'IPv4');

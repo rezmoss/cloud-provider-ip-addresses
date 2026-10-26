@@ -43,6 +43,7 @@ ip_address,ip_type,service,region
 142.132.128.0/17,IPv4,hetzner-as24940,global
 144.76.0.0/16,IPv4,hetzner-as24940,global
 148.251.0.0/16,IPv4,hetzner-as24940,global
+149.245.242.0/24,IPv4,hetzner-as24940,global
 157.90.0.0/16,IPv4,hetzner-as24940,global
 157.180.0.0/17,IPv4,hetzner-as24940,global
 159.69.0.0/16,IPv4,hetzner-as24940,global

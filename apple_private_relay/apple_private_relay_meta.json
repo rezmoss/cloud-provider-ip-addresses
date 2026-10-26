@@ -1,23 +1,23 @@
 {
   "provider": "apple_private_relay",
-  "version": 20,
-  "generated_date": "2026-10-25",
-  "last_changed_date": "2026-10-23",
+  "version": 21,
+  "generated_date": "2026-10-26",
+  "last_changed_date": "2026-10-26",
   "sources": [
     "https://mask-api.icloud.com/egress-ip-ranges.csv"
   ],
   "ipv4": {
-    "cidrs": 41747,
-    "merged_cidrs": 3488,
-    "addresses": 105660
+    "cidrs": 41768,
+    "merged_cidrs": 3490,
+    "addresses": 105681
   },
   "ipv6": {
-    "cidrs": 243359,
-    "merged_cidrs": 10580,
-    "addresses": 218700341594427293249289846784
+    "cidrs": 243361,
+    "merged_cidrs": 10582,
+    "addresses": 218719684407541127316085145600
   },
-  "total_entries": 285106,
-  "content_sha256": "5cc4a87ab3cec300efed5a6f3a9c1eb0ab4adf4909e9bc9f93a66ce856996570",
+  "total_entries": 285129,
+  "content_sha256": "13c157783bc30c52eca3ac665f165e0160246c879eb31dbe046960ecedea7ffd",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

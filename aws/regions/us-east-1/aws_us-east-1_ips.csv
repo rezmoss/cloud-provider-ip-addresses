@@ -1436,6 +1436,7 @@ ip_address,ip_type,service,region
 184.195.222.0/23,IPv4,AMAZON,us-east-1
 184.198.80.0/25,IPv4,EFS,us-east-1
 184.198.82.0/23,IPv4,AMAZON,us-east-1
+184.198.84.0/24,IPv4,AMAZON,us-east-1
 184.208.0.0/12,IPv4,AMAZON,us-east-1
 192.43.175.0/24,IPv4,AMAZON,us-east-1
 192.43.175.0/24,IPv4,EC2,us-east-1
