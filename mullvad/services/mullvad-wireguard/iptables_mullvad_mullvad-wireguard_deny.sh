@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-10-20 02:27:38
+# Updated: 2026-10-27 02:38:50
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -170,6 +170,7 @@ iptables -A INPUT -s 45.134.212.92/32 -j DROP
 iptables -A INPUT -s 45.134.213.194/32 -j DROP
 iptables -A INPUT -s 45.134.213.207/32 -j DROP
 iptables -A INPUT -s 45.142.26.2/32 -j DROP
+iptables -A INPUT -s 45.142.26.126/32 -j DROP
 iptables -A INPUT -s 45.153.102.3/32 -j DROP
 iptables -A INPUT -s 46.19.136.226/32 -j DROP
 iptables -A INPUT -s 62.93.167.130/32 -j DROP
@@ -230,7 +231,6 @@ iptables -A INPUT -s 103.108.231.50/32 -j DROP
 iptables -A INPUT -s 103.108.231.66/32 -j DROP
 iptables -A INPUT -s 103.120.6.2/32 -j DROP
 iptables -A INPUT -s 103.120.6.127/32 -j DROP
-iptables -A INPUT -s 103.124.165.130/32 -j DROP
 iptables -A INPUT -s 103.124.165.191/32 -j DROP
 iptables -A INPUT -s 103.125.233.18/32 -j DROP
 iptables -A INPUT -s 103.125.233.33/32 -j DROP
@@ -347,8 +347,8 @@ iptables -A INPUT -s 146.70.193.2/32 -j DROP
 iptables -A INPUT -s 146.70.193.66/32 -j DROP
 iptables -A INPUT -s 146.70.196.130/32 -j DROP
 iptables -A INPUT -s 146.70.196.194/32 -j DROP
+iptables -A INPUT -s 146.70.197.2/32 -j DROP
 iptables -A INPUT -s 146.70.197.130/32 -j DROP
-iptables -A INPUT -s 146.70.197.194/32 -j DROP
 iptables -A INPUT -s 146.70.198.66/32 -j DROP
 iptables -A INPUT -s 146.70.198.130/32 -j DROP
 iptables -A INPUT -s 146.70.198.194/32 -j DROP
@@ -576,8 +576,8 @@ ip6tables -A INPUT -s 2001:ac8:30:55::f001/128 -j DROP
 ip6tables -A INPUT -s 2001:ac8:30:56::f001/128 -j DROP
 ip6tables -A INPUT -s 2001:ac8:33:d::f001/128 -j DROP
 ip6tables -A INPUT -s 2001:ac8:33:e::f001/128 -j DROP
-ip6tables -A INPUT -s 2001:ac8:37:96::f001/128 -j DROP
-ip6tables -A INPUT -s 2001:ac8:37:97::f001/128 -j DROP
+ip6tables -A INPUT -s 2001:ac8:37:94::f001/128 -j DROP
+ip6tables -A INPUT -s 2001:ac8:37:95::f001/128 -j DROP
 ip6tables -A INPUT -s 2001:ac8:40:13::f001/128 -j DROP
 ip6tables -A INPUT -s 2001:ac8:40:14::f001/128 -j DROP
 ip6tables -A INPUT -s 2001:ac8:40:1d::f001/128 -j DROP

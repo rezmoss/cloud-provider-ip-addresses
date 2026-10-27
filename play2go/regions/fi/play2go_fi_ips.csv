@@ -34,3 +34,4 @@ ip_address,ip_type,service,region
 193.23.201.0/24,IPv4,play2go,fi
 193.35.17.0/24,IPv4,play2go,fi
 201.58.176.0/24,IPv4,play2go,fi
+201.58.188.0/24,IPv4,play2go,fi

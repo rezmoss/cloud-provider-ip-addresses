@@ -690,4 +690,5 @@ INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:4200::/40'
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:4300::/40', 'IPv6');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:ec00::/39', 'IPv6');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('2405:f080:edff::/48', 'IPv6');
+INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('2410:7000::/20', 'IPv6');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('2801:80:e0::/48', 'IPv6');

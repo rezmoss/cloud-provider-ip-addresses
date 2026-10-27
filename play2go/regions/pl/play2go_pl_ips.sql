@@ -15,3 +15,4 @@ INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('201.58.179.0/24'
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('201.58.179.0/24', 'IPv4');
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('201.58.180.0/24', 'IPv4');
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('201.58.181.0/24', 'IPv4');
+INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('201.58.189.0/24', 'IPv4');

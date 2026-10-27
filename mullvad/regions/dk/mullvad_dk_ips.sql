@@ -8,13 +8,13 @@ CREATE TABLE IF NOT EXISTS `mullvad_dk_ips` (
 
 INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('45.129.56.67/32', 'IPv4');
 INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('45.129.56.68/32', 'IPv4');
+INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('146.70.197.2/32', 'IPv4');
 INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('146.70.197.130/32', 'IPv4');
-INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('146.70.197.194/32', 'IPv4');
 INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('149.88.109.72/32', 'IPv4');
 INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('149.88.109.73/32', 'IPv4');
 INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('149.88.109.74/32', 'IPv4');
-INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:37:96::f001/128', 'IPv6');
-INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:37:97::f001/128', 'IPv6');
+INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:37:94::f001/128', 'IPv6');
+INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:37:95::f001/128', 'IPv6');
 INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:470b:0:1::f001/128', 'IPv6');
 INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:470b:0:2::f001/128', 'IPv6');
 INSERT INTO `mullvad_dk_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:470b:0:3::f001/128', 'IPv6');

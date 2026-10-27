@@ -540,6 +540,18 @@
     "region": "de"
   },
   {
+    "ip_address": "201.58.184.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
+    "ip_address": "201.58.185.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
     "ip_address": "212.80.7.0/24",
     "ip_type": "IPv4",
     "service": "play2go",

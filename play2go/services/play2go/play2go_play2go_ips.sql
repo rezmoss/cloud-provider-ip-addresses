@@ -199,4 +199,10 @@ INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.180.
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.181.0/24', 'IPv4');
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.182.0/24', 'IPv4');
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.183.0/24', 'IPv4');
+INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.184.0/24', 'IPv4');
+INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.185.0/24', 'IPv4');
+INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.186.0/24', 'IPv4');
+INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.187.0/24', 'IPv4');
+INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.188.0/24', 'IPv4');
+INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('201.58.189.0/24', 'IPv4');
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('212.80.7.0/24', 'IPv4');

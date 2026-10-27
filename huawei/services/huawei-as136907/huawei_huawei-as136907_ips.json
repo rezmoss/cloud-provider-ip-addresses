@@ -3978,6 +3978,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2410:7000::/20",
+    "ip_type": "IPv6",
+    "service": "huawei-as136907",
+    "region": "global"
+  },
+  {
     "ip_address": "2801:80:e0::/48",
     "ip_type": "IPv6",
     "service": "huawei-as136907",
