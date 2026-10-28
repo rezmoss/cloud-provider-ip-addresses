@@ -1,6 +1,6 @@
 # UpCloud IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-27** · Total CIDRs: **112** · IPv4: **91** · IPv6: **21** · Services: **2** · Regions: **1**
+> Last updated: **2026-10-28** · Total CIDRs: **112** · IPv4: **91** · IPv6: **21** · Services: **2** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **UpCloud**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

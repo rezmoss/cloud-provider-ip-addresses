@@ -12,6 +12,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "18.185.129.8/32",
+    "ip_type": "IPv4",
+    "service": "bitbucket",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "34.196.8.197/32",
     "ip_type": "IPv4",
     "service": "bitbucket",
@@ -114,6 +120,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "52.29.151.190/32",
+    "ip_type": "IPv4",
+    "service": "bitbucket",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "52.41.219.63/32",
     "ip_type": "IPv4",
     "service": "bitbucket",
@@ -124,6 +136,12 @@
     "ip_type": "IPv4",
     "service": "bitbucket",
     "region": "us-east-1"
+  },
+  {
+    "ip_address": "52.59.89.40/32",
+    "ip_type": "IPv4",
+    "service": "bitbucket",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "52.72.137.240/32",

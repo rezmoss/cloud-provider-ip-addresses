@@ -1032,6 +1032,12 @@
     "region": "al"
   },
   {
+    "ip_address": "62.101.165.126/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "al"
+  },
+  {
     "ip_address": "62.133.44.202/32",
     "ip_type": "IPv4",
     "service": "mullvad-bridge",
@@ -1360,12 +1366,6 @@
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
     "region": "au"
-  },
-  {
-    "ip_address": "103.124.165.191/32",
-    "ip_type": "IPv4",
-    "service": "mullvad-wireguard",
-    "region": "al"
   },
   {
     "ip_address": "103.125.233.18/32",

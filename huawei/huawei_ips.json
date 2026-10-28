@@ -2502,12 +2502,6 @@
     "region": "global"
   },
   {
-    "ip_address": "148.145.236.0/23",
-    "ip_type": "IPv4",
-    "service": "huawei-as136907",
-    "region": "global"
-  },
-  {
     "ip_address": "148.145.240.0/24",
     "ip_type": "IPv4",
     "service": "huawei-as136907",

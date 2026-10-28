@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-10-27 02:38:50
+# Updated: 2026-10-28 02:25:09
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -178,6 +178,7 @@ iptables -A INPUT -s 62.93.167.130/32 -j DROP
 iptables -A INPUT -s 62.93.167.160/32 -j DROP
 iptables -A INPUT -s 62.101.160.3/32 -j DROP
 iptables -A INPUT -s 62.101.165.2/32 -j DROP
+iptables -A INPUT -s 62.101.165.126/32 -j DROP
 iptables -A INPUT -s 62.133.44.202/32 -j DROP
 iptables -A INPUT -s 68.235.46.2/32 -j DROP
 iptables -A INPUT -s 68.235.46.33/32 -j DROP
@@ -233,7 +234,6 @@ iptables -A INPUT -s 103.108.231.50/32 -j DROP
 iptables -A INPUT -s 103.108.231.66/32 -j DROP
 iptables -A INPUT -s 103.120.6.2/32 -j DROP
 iptables -A INPUT -s 103.120.6.127/32 -j DROP
-iptables -A INPUT -s 103.124.165.191/32 -j DROP
 iptables -A INPUT -s 103.125.233.18/32 -j DROP
 iptables -A INPUT -s 103.125.233.33/32 -j DROP
 iptables -A INPUT -s 103.125.233.210/32 -j DROP

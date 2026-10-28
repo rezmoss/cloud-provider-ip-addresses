@@ -7,6 +7,9 @@ CREATE TABLE IF NOT EXISTS `atlassian_eu-central-1_ips` (
 );
 
 INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('18.184.99.224/28', 'IPv4');
+INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('18.185.129.8/32', 'IPv4');
+INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.29.151.190/32', 'IPv4');
+INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('52.59.89.40/32', 'IPv4');
 INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('185.166.143.0/24', 'IPv4');
 INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('185.166.143.224/28', 'IPv4');
 INSERT INTO `atlassian_eu-central-1_ips` (`ip_address`, `ip_type`) VALUES ('185.166.143.240/28', 'IPv4');

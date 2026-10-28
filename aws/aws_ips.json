@@ -486,18 +486,6 @@
     "region": "GLOBAL"
   },
   {
-    "ip_address": "1.178.86.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "ap-southeast-3"
-  },
-  {
-    "ip_address": "1.178.86.0/24",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "ap-southeast-3"
-  },
-  {
     "ip_address": "1.178.88.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -9573,6 +9561,12 @@
     "ip_address": "13.197.98.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "13.197.100.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
     "region": "ap-northeast-1"
   },
   {
@@ -31665,6 +31659,12 @@
     "ip_address": "40.39.100.0/22",
     "ip_type": "IPv4",
     "service": "EFS",
+    "region": "us-gov-west-1"
+  },
+  {
+    "ip_address": "40.39.198.0/23",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
     "region": "us-gov-west-1"
   },
   {
@@ -66057,6 +66057,12 @@
     "ip_address": "2406:da14:1c18:2100::/56",
     "ip_type": "IPv6",
     "service": "EC2_INSTANCE_CONNECT",
+    "region": "ap-northeast-1"
+  },
+  {
+    "ip_address": "2406:da14:1e82:a000::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "ap-northeast-1"
   },
   {

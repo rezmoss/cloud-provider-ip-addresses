@@ -243,6 +243,7 @@ INSERT INTO `gptbot_ips` (`ip_address`, `ip_type`) VALUES ('135.13.64.240/28', '
 INSERT INTO `gptbot_ips` (`ip_address`, `ip_type`) VALUES ('135.116.136.160/28', 'IPv4');
 INSERT INTO `gptbot_ips` (`ip_address`, `ip_type`) VALUES ('135.220.73.208/28', 'IPv4');
 INSERT INTO `gptbot_ips` (`ip_address`, `ip_type`) VALUES ('135.220.73.240/28', 'IPv4');
+INSERT INTO `gptbot_ips` (`ip_address`, `ip_type`) VALUES ('135.222.99.32/28', 'IPv4');
 INSERT INTO `gptbot_ips` (`ip_address`, `ip_type`) VALUES ('135.234.64.0/24', 'IPv4');
 INSERT INTO `gptbot_ips` (`ip_address`, `ip_type`) VALUES ('135.237.131.208/28', 'IPv4');
 INSERT INTO `gptbot_ips` (`ip_address`, `ip_type`) VALUES ('135.237.133.48/28', 'IPv4');

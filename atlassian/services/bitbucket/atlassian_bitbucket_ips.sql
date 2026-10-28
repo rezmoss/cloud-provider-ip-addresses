@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `atlassian_bitbucket_ips` (
 
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('3.216.235.48/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('3.221.151.112/32', 'IPv4');
+INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('18.185.129.8/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('34.196.8.197/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('34.199.54.113/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('34.216.18.129/32', 'IPv4');
@@ -25,8 +26,10 @@ INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('44.194.
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('44.199.3.254/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('44.199.45.64/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('44.199.127.226/32', 'IPv4');
+INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('52.29.151.190/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('52.41.219.63/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('52.54.90.98/32', 'IPv4');
+INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('52.59.89.40/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('52.72.137.240/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('52.202.195.162/32', 'IPv4');
 INSERT INTO `atlassian_bitbucket_ips` (`ip_address`, `ip_type`) VALUES ('52.203.14.55/32', 'IPv4');

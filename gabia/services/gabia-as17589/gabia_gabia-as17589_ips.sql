@@ -14,6 +14,7 @@ INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.6
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.66.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.67.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.68.0/24', 'IPv4');
+INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.99.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.109.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.110.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.111.0/24', 'IPv4');
@@ -35,6 +36,7 @@ INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.1
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.127.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.224.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.225.0/24', 'IPv4');
+INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.226.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('1.201.227.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('103.60.124.0/24', 'IPv4');
 INSERT INTO `gabia_gabia-as17589_ips` (`ip_address`, `ip_type`) VALUES ('103.60.125.0/24', 'IPv4');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Baidu IP Ranges
-# Updated: 2026-08-14 03:07:04
+# Updated: 2026-10-28 02:25:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -39,6 +39,6 @@ ufw deny from 182.61.144.0/20
 ufw deny from 182.61.200.0/21
 ufw deny from 182.61.208.0/20
 ufw deny from 182.61.224.0/19
-ufw deny from 202.181.120.0/21
+ufw deny from 202.181.120.0/22
 ufw deny from 2400:da00::/32
 ufw deny from 240c:4000::/22

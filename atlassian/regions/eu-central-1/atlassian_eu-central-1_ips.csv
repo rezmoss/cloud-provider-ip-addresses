@@ -1,5 +1,8 @@
 ip_address,ip_type,service,region
 18.184.99.224/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",eu-central-1
+18.185.129.8/32,IPv4,bitbucket,eu-central-1
+52.29.151.190/32,IPv4,bitbucket,eu-central-1
+52.59.89.40/32,IPv4,bitbucket,eu-central-1
 185.166.143.0/24,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",eu-central-1
 185.166.143.224/28,IPv4,rovo-crawler,eu-central-1
 185.166.143.240/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",eu-central-1

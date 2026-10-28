@@ -138,6 +138,12 @@
     "region": "global"
   },
   {
+    "ip_address": "141.8.134.0/24",
+    "ip_type": "IPv4",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
     "ip_address": "178.154.128.0/19",
     "ip_type": "IPv4",
     "service": "yandex-as13238",
@@ -259,6 +265,12 @@
   },
   {
     "ip_address": "2a02:6b8:23::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as13238",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:6b8:24::/48",
     "ip_type": "IPv6",
     "service": "yandex-as13238",
     "region": "global"

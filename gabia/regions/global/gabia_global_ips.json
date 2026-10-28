@@ -48,6 +48,12 @@
     "region": "global"
   },
   {
+    "ip_address": "1.201.99.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
     "ip_address": "1.201.109.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
@@ -169,6 +175,12 @@
   },
   {
     "ip_address": "1.201.225.0/24",
+    "ip_type": "IPv4",
+    "service": "gabia-as17589",
+    "region": "global"
+  },
+  {
+    "ip_address": "1.201.226.0/24",
     "ip_type": "IPv4",
     "service": "gabia-as17589",
     "region": "global"

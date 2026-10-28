@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-10-23 02:32:19
+# Updated: 2026-10-28 02:24:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -64,13 +64,14 @@ ufw allow from 45.141.179.0/24
 ufw allow from 45.142.29.0/24
 ufw allow from 45.142.116.0/22
 ufw allow from 45.145.15.0/24
+ufw allow from 45.146.89.0/24
 ufw allow from 45.146.180.0/24
 ufw allow from 45.146.182.0/23
 ufw allow from 45.147.29.0/24
 ufw allow from 45.147.30.0/24
 ufw allow from 45.147.180.0/22
 ufw allow from 45.151.103.0/24
-ufw allow from 45.151.105.0/24
+ufw allow from 45.151.104.0/23
 ufw allow from 45.151.107.0/24
 ufw allow from 45.152.199.0/24
 ufw allow from 45.152.209.0/24
@@ -79,8 +80,7 @@ ufw allow from 45.153.21.0/24
 ufw allow from 45.153.216.0/23
 ufw allow from 45.153.218.0/24
 ufw allow from 45.154.84.0/22
-ufw allow from 45.154.229.0/24
-ufw allow from 45.154.230.0/23
+ufw allow from 45.154.228.0/22
 ufw allow from 45.154.245.0/24
 ufw allow from 45.157.36.0/24
 ufw allow from 45.157.38.0/23
@@ -172,6 +172,7 @@ ufw allow from 109.176.206.0/24
 ufw allow from 109.236.50.0/24
 ufw allow from 140.233.166.0/24
 ufw allow from 141.11.232.0/23
+ufw allow from 141.193.20.0/24
 ufw allow from 142.111.56.0/24
 ufw allow from 144.225.42.0/23
 ufw allow from 145.223.42.0/24
@@ -204,6 +205,7 @@ ufw allow from 178.83.95.0/24
 ufw allow from 178.162.128.0/18
 ufw allow from 178.250.16.0/24
 ufw allow from 178.250.18.0/24
+ufw allow from 185.9.52.0/24
 ufw allow from 185.17.184.0/22
 ufw allow from 185.19.33.0/24
 ufw allow from 185.24.172.0/23
@@ -431,8 +433,6 @@ ufw allow from 2a12:ecc0:f8d9::/48
 ufw allow from 2a12:fd00::/36
 ufw allow from 2a13:d40:1::/48
 ufw allow from 2a13:d40:2::/48
-ufw allow from 2a13:d45::/32
-ufw allow from 2a13:d46::/32
 ufw allow from 2a13:18c6:a::/48
 ufw allow from 2a13:2fc0::/29
 ufw allow from 2a13:5c80::/29
@@ -441,7 +441,6 @@ ufw allow from 2a13:8c86:44::/48
 ufw allow from 2a13:8c86:55::/48
 ufw allow from 2a13:8c86:66::/48
 ufw allow from 2a13:c905::/32
-ufw allow from 2a13:c906::/31
 ufw allow from 2a13:e107:a::/48
 ufw allow from 2a13:e107:44::/48
 ufw allow from 2a14:6881::/32

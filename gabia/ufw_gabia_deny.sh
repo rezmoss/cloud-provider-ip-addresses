@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gabia IP Ranges
-# Updated: 2026-10-15 02:34:03
+# Updated: 2026-10-28 02:25:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -11,11 +11,11 @@ ufw deny from 1.201.16.0/22
 ufw deny from 1.201.65.0/24
 ufw deny from 1.201.66.0/23
 ufw deny from 1.201.68.0/24
+ufw deny from 1.201.99.0/24
 ufw deny from 1.201.109.0/24
 ufw deny from 1.201.110.0/23
 ufw deny from 1.201.112.0/20
-ufw deny from 1.201.224.0/23
-ufw deny from 1.201.227.0/24
+ufw deny from 1.201.224.0/22
 ufw deny from 103.60.124.0/22
 ufw deny from 103.240.48.0/22
 ufw deny from 121.78.79.0/24

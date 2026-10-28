@@ -29,6 +29,7 @@ INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('92.25
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('93.158.128.0/18', 'IPv4');
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('95.108.128.0/17', 'IPv4');
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('141.8.128.0/18', 'IPv4');
+INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('141.8.134.0/24', 'IPv4');
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('178.154.128.0/19', 'IPv4');
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('178.154.131.0/24', 'IPv4');
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('178.154.160.0/19', 'IPv4');
@@ -50,4 +51,5 @@ INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('2a02:
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6b8:21::/48', 'IPv6');
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6b8:22::/48', 'IPv6');
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6b8:23::/48', 'IPv6');
+INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6b8:24::/48', 'IPv6');
 INSERT INTO `yandex_yandex-as13238_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6b8:215::/48', 'IPv6');

@@ -5160,6 +5160,11 @@
     "region": "DE-HE"
   },
   {
+    "ip_address": "201.79.96.0/20",
+    "ip_type": "IPv4",
+    "region": "SG-05"
+  },
+  {
     "ip_address": "204.48.16.0/20",
     "ip_type": "IPv4",
     "region": "US-NJ"

@@ -14,6 +14,7 @@ ip_address,ip_type,service,region
 16.63.53.240/28,IPv4,rovo-crawler,eu-central-2
 18.136.214.96/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",ap-southeast-1
 18.184.99.224/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",eu-central-1
+18.185.129.8/32,IPv4,bitbucket,eu-central-1
 18.234.32.224/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-east-1
 18.246.31.208/28,IPv4,rovo-crawler,us-west-2
 18.246.31.224/28,IPv4,"bitbucket,confluence,forge,halp,jira,opsgenie,statuspage,trello",us-west-2
@@ -53,9 +54,11 @@ ip_address,ip_type,service,region
 44.220.40.160/28,IPv4,"confluence,jira,opsgenie",us-east-1
 52.19.227.102/32,IPv4,email,global
 52.24.176.31/32,IPv4,email,global
+52.29.151.190/32,IPv4,bitbucket,eu-central-1
 52.41.219.63/32,IPv4,bitbucket,us-west-2
 52.51.22.205/32,IPv4,email,global
 52.54.90.98/32,IPv4,bitbucket,us-east-1
+52.59.89.40/32,IPv4,bitbucket,eu-central-1
 52.72.137.240/32,IPv4,bitbucket,us-east-1
 52.82.172.0/22,IPv4,email,global
 52.202.195.162/32,IPv4,bitbucket,us-east-1

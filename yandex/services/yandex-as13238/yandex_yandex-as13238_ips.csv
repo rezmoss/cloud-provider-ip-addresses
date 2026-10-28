@@ -22,6 +22,7 @@ ip_address,ip_type,service,region
 93.158.128.0/18,IPv4,yandex-as13238,global
 95.108.128.0/17,IPv4,yandex-as13238,global
 141.8.128.0/18,IPv4,yandex-as13238,global
+141.8.134.0/24,IPv4,yandex-as13238,global
 178.154.128.0/19,IPv4,yandex-as13238,global
 178.154.131.0/24,IPv4,yandex-as13238,global
 178.154.160.0/19,IPv4,yandex-as13238,global
@@ -43,4 +44,5 @@ ip_address,ip_type,service,region
 2a02:6b8:21::/48,IPv6,yandex-as13238,global
 2a02:6b8:22::/48,IPv6,yandex-as13238,global
 2a02:6b8:23::/48,IPv6,yandex-as13238,global
+2a02:6b8:24::/48,IPv6,yandex-as13238,global
 2a02:6b8:215::/48,IPv6,yandex-as13238,global

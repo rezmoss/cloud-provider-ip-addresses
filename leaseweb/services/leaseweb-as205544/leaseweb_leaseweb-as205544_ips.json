@@ -138,6 +138,12 @@
     "region": "global"
   },
   {
+    "ip_address": "77.216.3.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
     "ip_address": "81.17.56.0/21",
     "ip_type": "IPv4",
     "service": "leaseweb-as205544",
@@ -186,7 +192,43 @@
     "region": "global"
   },
   {
+    "ip_address": "82.47.167.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.47.185.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "82.47.249.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
     "ip_address": "82.113.64.0/19",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "84.75.223.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "86.110.33.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "86.110.46.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as205544",
     "region": "global"
@@ -313,6 +355,48 @@
   },
   {
     "ip_address": "176.113.64.0/22",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.83.88.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.83.90.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.83.92.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.83.94.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.83.97.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.83.98.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as205544",
+    "region": "global"
+  },
+  {
+    "ip_address": "178.83.106.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as205544",
     "region": "global"
