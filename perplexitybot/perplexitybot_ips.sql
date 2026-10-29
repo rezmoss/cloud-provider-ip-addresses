@@ -6,14 +6,25 @@ CREATE TABLE IF NOT EXISTS `perplexitybot_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('3.211.124.183/32', 'IPv4');
 INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('3.222.232.239/32', 'IPv4');
 INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('3.224.62.45/32', 'IPv4');
-INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('3.231.139.107/32', 'IPv4');
-INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.1.228/30', 'IPv4');
-INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.96/29', 'IPv4');
-INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.21.0/30', 'IPv4');
-INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.43.80/29', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.1.228/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.96/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.97/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.98/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.99/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.100/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.101/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.102/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.9.103/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.43.80/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.43.81/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.43.82/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.43.83/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.43.84/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.43.85/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.43.86/32', 'IPv4');
+INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.97.43.87/32', 'IPv4');
 INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('18.210.92.235/32', 'IPv4');
 INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('34.193.163.52/32', 'IPv4');
 INSERT INTO `perplexitybot_ips` (`ip_address`, `ip_type`) VALUES ('44.208.221.197/32', 'IPv4');

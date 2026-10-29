@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "51.170.176.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
     "ip_address": "62.115.179.220/31",
     "ip_type": "IPv4",
     "service": "OSN",

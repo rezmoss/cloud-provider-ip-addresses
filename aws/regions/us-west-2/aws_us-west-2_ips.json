@@ -2118,12 +2118,6 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "35.90.103.192/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "35.90.132.0/23",
     "ip_type": "IPv4",
     "service": "API_GATEWAY",
@@ -2295,12 +2289,6 @@
     "ip_address": "44.233.54.0/23",
     "ip_type": "IPv4",
     "service": "API_GATEWAY",
-    "region": "us-west-2"
-  },
-  {
-    "ip_address": "44.234.22.128/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
     "region": "us-west-2"
   },
   {

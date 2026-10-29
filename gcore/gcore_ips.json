@@ -3524,6 +3524,10 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "192.135.98.27/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "193.36.180.13/32",
     "ip_type": "IPv4"
   },

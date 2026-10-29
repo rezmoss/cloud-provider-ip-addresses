@@ -7,6 +7,8 @@ CREATE TABLE IF NOT EXISTS `oracle_me-dubai-1_ips` (
 );
 
 INSERT INTO `oracle_me-dubai-1_ips` (`ip_address`, `ip_type`) VALUES ('64.110.120.0/21', 'IPv4');
+INSERT INTO `oracle_me-dubai-1_ips` (`ip_address`, `ip_type`) VALUES ('84.12.128.0/18', 'IPv4');
+INSERT INTO `oracle_me-dubai-1_ips` (`ip_address`, `ip_type`) VALUES ('84.12.224.0/19', 'IPv4');
 INSERT INTO `oracle_me-dubai-1_ips` (`ip_address`, `ip_type`) VALUES ('84.235.240.0/20', 'IPv4');
 INSERT INTO `oracle_me-dubai-1_ips` (`ip_address`, `ip_type`) VALUES ('129.148.208.0/22', 'IPv4');
 INSERT INTO `oracle_me-dubai-1_ips` (`ip_address`, `ip_type`) VALUES ('129.148.212.0/23', 'IPv4');

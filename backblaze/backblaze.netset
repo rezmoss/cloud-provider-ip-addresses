@@ -1,7 +1,7 @@
 # backblaze IP ranges - ipset restore format (hash:net)
-# Version: 7 | Generated: 2026-10-28 | Last changed: 2026-09-17
+# Version: 8 | Generated: 2026-10-29 | Last changed: 2026-10-29
 # IPv4: 9 merged subnets, 9472 unique IPs
-# IPv6: 17 merged subnets
+# IPv6: 15 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < backblaze.netset
@@ -22,8 +22,6 @@ flush backblaze_v6
 add backblaze_v6 2605:72c0:100::/45
 add backblaze_v6 2605:72c0:1fc::/46
 add backblaze_v6 2605:72c0:200::/45
-add backblaze_v6 2605:72c0:208::/47
-add backblaze_v6 2605:72c0:20a::/48
 add backblaze_v6 2605:72c0:2fc::/46
 add backblaze_v6 2605:72c0:400::/45
 add backblaze_v6 2605:72c0:4fc::/46

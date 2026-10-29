@@ -1,5 +1,6 @@
 ip_address,ip_type,service,region
 84.8.128.0/20,IPv4,OCI,af-johannesburg-1
+84.12.64.0/18,IPv4,OCI,af-johannesburg-1
 92.4.128.0/19,IPv4,OCI,af-johannesburg-1
 129.149.64.0/22,IPv4,OSN,af-johannesburg-1
 129.149.68.0/25,IPv4,OSN,af-johannesburg-1

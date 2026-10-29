@@ -1,7 +1,7 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 105 | Generated: 2026-10-28 | Last changed: 2026-10-28
-# IPv4: 1745 merged subnets, 101987481 unique IPs
-# IPv6: 2353 merged subnets
+# Version: 106 | Generated: 2026-10-29 | Last changed: 2026-10-29
+# IPv4: 1746 merged subnets, 101987737 unique IPs
+# IPv6: 2352 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < aws.netset
@@ -14,6 +14,7 @@ add aws_v4 1.178.8.0/22
 add aws_v4 1.178.16.0/20
 add aws_v4 1.178.64.0/23
 add aws_v4 1.178.72.0/21
+add aws_v4 1.178.86.0/24
 add aws_v4 1.178.88.0/21
 add aws_v4 1.178.100.0/22
 add aws_v4 1.178.172.0/23
@@ -3288,8 +3289,7 @@ add aws_v6 2600:f0f3:f010:1e00::/56
 add aws_v6 2600:f0f3:f010:2000::/55
 add aws_v6 2600:f0f3:f010:2300::/56
 add aws_v6 2600:f0f3:f010:2400::/54
-add aws_v6 2600:f0f3:f010:2800::/56
-add aws_v6 2600:f0f3:f010:2a00::/55
+add aws_v6 2600:f0f3:f010:2800::/54
 add aws_v6 2600:f0f3:f010:2c00::/55
 add aws_v6 2600:f0f3:f010:2f00::/56
 add aws_v6 2600:f0f3:f010:3000::/54

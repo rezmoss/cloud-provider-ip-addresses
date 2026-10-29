@@ -486,12 +486,6 @@
     "region": "global"
   },
   {
-    "ip_address": "157.240.170.0/24",
-    "ip_type": "IPv4",
-    "service": "meta-as63293",
-    "region": "global"
-  },
-  {
     "ip_address": "157.240.175.0/24",
     "ip_type": "IPv4",
     "service": "meta-as63293",

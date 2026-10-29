@@ -1,6 +1,6 @@
 #!/bin/bash
 # Backblaze IP Ranges
-# Updated: 2026-09-10 02:33:58
+# Updated: 2026-10-29 02:25:18
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -19,8 +19,6 @@ iptables -A INPUT -s 207.166.148.0/24 -j DROP
 ip6tables -A INPUT -s 2605:72c0:100::/45 -j DROP
 ip6tables -A INPUT -s 2605:72c0:1fc::/46 -j DROP
 ip6tables -A INPUT -s 2605:72c0:200::/45 -j DROP
-ip6tables -A INPUT -s 2605:72c0:208::/47 -j DROP
-ip6tables -A INPUT -s 2605:72c0:20a::/48 -j DROP
 ip6tables -A INPUT -s 2605:72c0:2fc::/46 -j DROP
 ip6tables -A INPUT -s 2605:72c0:400::/45 -j DROP
 ip6tables -A INPUT -s 2605:72c0:4fc::/46 -j DROP

@@ -37,10 +37,6 @@ ip_address,ip_type,service,region
 2605:72c0:200::/48,IPv6,backblaze-as40401,global
 2605:72c0:203::/48,IPv6,backblaze-as40401,global
 2605:72c0:205::/48,IPv6,backblaze-as40401,global
-2605:72c0:207::/48,IPv6,backblaze-as40401,global
-2605:72c0:208::/48,IPv6,backblaze-as40401,global
-2605:72c0:209::/48,IPv6,backblaze-as40401,global
-2605:72c0:20a::/48,IPv6,backblaze-as40401,global
 2605:72c0:2fc::/48,IPv6,backblaze-as40401,global
 2605:72c0:2fd::/48,IPv6,backblaze-as40401,global
 2605:72c0:2fe::/48,IPv6,backblaze-as40401,global

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "149.118.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-kulai-2"
+  },
+  {
+    "ip_address": "155.181.8.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-kulai-2"
+  },
+  {
+    "ip_address": "155.181.16.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-kulai-2"
+  }
+]

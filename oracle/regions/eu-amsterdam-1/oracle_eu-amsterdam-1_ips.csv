@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+51.170.176.0/20,IPv4,OCI,eu-amsterdam-1
 62.115.179.220/31,IPv4,OSN,eu-amsterdam-1
 62.115.179.228/31,IPv4,OSN,eu-amsterdam-1
 79.72.32.0/22,IPv4,OSN,eu-amsterdam-1

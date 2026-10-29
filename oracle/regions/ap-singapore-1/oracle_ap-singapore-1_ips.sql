@@ -10,6 +10,8 @@ INSERT INTO `oracle_ap-singapore-1_ips` (`ip_address`, `ip_type`) VALUES ('129.1
 INSERT INTO `oracle_ap-singapore-1_ips` (`ip_address`, `ip_type`) VALUES ('129.148.180.0/25', 'IPv4');
 INSERT INTO `oracle_ap-singapore-1_ips` (`ip_address`, `ip_type`) VALUES ('129.148.184.0/22', 'IPv4');
 INSERT INTO `oracle_ap-singapore-1_ips` (`ip_address`, `ip_type`) VALUES ('129.150.32.0/19', 'IPv4');
+INSERT INTO `oracle_ap-singapore-1_ips` (`ip_address`, `ip_type`) VALUES ('129.221.32.0/19', 'IPv4');
+INSERT INTO `oracle_ap-singapore-1_ips` (`ip_address`, `ip_type`) VALUES ('129.221.128.0/17', 'IPv4');
 INSERT INTO `oracle_ap-singapore-1_ips` (`ip_address`, `ip_type`) VALUES ('134.70.128.0/22', 'IPv4');
 INSERT INTO `oracle_ap-singapore-1_ips` (`ip_address`, `ip_type`) VALUES ('134.185.80.0/20', 'IPv4');
 INSERT INTO `oracle_ap-singapore-1_ips` (`ip_address`, `ip_type`) VALUES ('138.2.64.0/19', 'IPv4');

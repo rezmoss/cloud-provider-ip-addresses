@@ -36,6 +36,12 @@
     "region": "af-casablanca-1"
   },
   {
+    "ip_address": "51.170.176.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-amsterdam-1"
+  },
+  {
     "ip_address": "64.110.64.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -234,6 +240,24 @@
     "region": "af-casablanca-1"
   },
   {
+    "ip_address": "84.12.64.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-johannesburg-1"
+  },
+  {
+    "ip_address": "84.12.128.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-dubai-1"
+  },
+  {
+    "ip_address": "84.12.224.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "me-dubai-1"
+  },
+  {
     "ip_address": "84.13.64.0/18",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -358,6 +382,12 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "eu-amsterdam-1"
+  },
+  {
+    "ip_address": "129.38.64.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-bogota-1"
   },
   {
     "ip_address": "129.80.0.0/16",
@@ -784,6 +814,18 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "us-ashburn-1"
+  },
+  {
+    "ip_address": "129.221.32.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-singapore-1"
+  },
+  {
+    "ip_address": "129.221.128.0/17",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-singapore-1"
   },
   {
     "ip_address": "129.225.0.0/20",
@@ -1980,6 +2022,12 @@
     "region": "ap-sydney-1"
   },
   {
+    "ip_address": "149.118.128.0/19",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-kulai-2"
+  },
+  {
     "ip_address": "149.130.160.0/19",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -2328,10 +2376,28 @@
     "region": "sa-valparaiso-1"
   },
   {
+    "ip_address": "155.181.8.0/21",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-kulai-2"
+  },
+  {
+    "ip_address": "155.181.16.0/20",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-kulai-2"
+  },
+  {
     "ip_address": "155.181.32.0/20",
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "sa-valparaiso-1"
+  },
+  {
+    "ip_address": "155.181.128.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "sa-santiago-1"
   },
   {
     "ip_address": "155.248.160.0/19",

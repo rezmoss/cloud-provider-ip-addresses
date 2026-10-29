@@ -15,6 +15,7 @@ ip_address,ip_type,service,region
 146.181.32.0/19,IPv4,OCI,sa-santiago-1
 146.235.240.0/21,IPv4,OCI,sa-santiago-1
 148.116.112.0/22,IPv4,OCI,sa-santiago-1
+155.181.128.0/18,IPv4,OCI,sa-santiago-1
 159.112.128.0/20,IPv4,OCI,sa-santiago-1
 159.112.144.0/21,IPv4,OCI,sa-santiago-1
 161.153.192.0/20,IPv4,OCI,sa-santiago-1

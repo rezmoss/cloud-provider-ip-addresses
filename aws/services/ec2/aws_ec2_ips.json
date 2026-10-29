@@ -162,6 +162,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "1.178.86.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-3"
+  },
+  {
     "ip_address": "1.178.88.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -21694,6 +21700,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "me-west-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2900::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "sa-west-1"
   },
   {
     "ip_address": "2600:f0f3:f010:2a00::/56",

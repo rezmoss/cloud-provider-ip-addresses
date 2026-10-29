@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-10-28 02:24:24
+# Updated: 2026-10-29 02:23:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -66,6 +66,7 @@ iptables -A INPUT -s 31.99.205.0/24 -j DROP
 iptables -A INPUT -s 37.59.0.0/16 -j DROP
 iptables -A INPUT -s 37.60.48.0/20 -j DROP
 iptables -A INPUT -s 37.187.0.0/16 -j DROP
+iptables -A INPUT -s 37.235.245.0/24 -j DROP
 iptables -A INPUT -s 40.27.29.0/24 -j DROP
 iptables -A INPUT -s 40.160.0.0/17 -j DROP
 iptables -A INPUT -s 40.160.128.0/19 -j DROP
@@ -262,6 +263,7 @@ iptables -A INPUT -s 87.86.252.0/24 -j DROP
 iptables -A INPUT -s 87.98.128.0/17 -j DROP
 iptables -A INPUT -s 87.229.40.0/24 -j DROP
 iptables -A INPUT -s 87.229.51.0/24 -j DROP
+iptables -A INPUT -s 87.254.9.0/24 -j DROP
 iptables -A INPUT -s 88.216.221.0/24 -j DROP
 iptables -A INPUT -s 88.218.34.0/24 -j DROP
 iptables -A INPUT -s 89.19.44.0/24 -j DROP
@@ -331,7 +333,6 @@ iptables -A INPUT -s 109.232.89.0/24 -j DROP
 iptables -A INPUT -s 114.129.44.0/24 -j DROP
 iptables -A INPUT -s 117.18.104.0/24 -j DROP
 iptables -A INPUT -s 123.100.227.0/24 -j DROP
-iptables -A INPUT -s 128.0.118.0/24 -j DROP
 iptables -A INPUT -s 130.12.102.0/24 -j DROP
 iptables -A INPUT -s 132.243.197.0/24 -j DROP
 iptables -A INPUT -s 134.195.148.0/23 -j DROP
@@ -609,7 +610,6 @@ iptables -A INPUT -s 199.235.0.0/23 -j DROP
 iptables -A INPUT -s 201.4.67.0/24 -j DROP
 iptables -A INPUT -s 201.50.22.0/24 -j DROP
 iptables -A INPUT -s 202.2.60.0/22 -j DROP
-iptables -A INPUT -s 202.91.169.0/24 -j DROP
 iptables -A INPUT -s 202.92.214.0/23 -j DROP
 iptables -A INPUT -s 202.181.0.0/24 -j DROP
 iptables -A INPUT -s 203.5.184.0/24 -j DROP

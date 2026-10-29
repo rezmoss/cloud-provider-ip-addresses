@@ -2676,6 +2676,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a0c:9240::/29",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as60781",
+    "region": "global"
+  },
+  {
     "ip_address": "2a0c:9e40:1::/48",
     "ip_type": "IPv6",
     "service": "leaseweb-as60781",

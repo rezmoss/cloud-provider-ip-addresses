@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `oracle_eu-amsterdam-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `oracle_eu-amsterdam-1_ips` (`ip_address`, `ip_type`) VALUES ('51.170.176.0/20', 'IPv4');
 INSERT INTO `oracle_eu-amsterdam-1_ips` (`ip_address`, `ip_type`) VALUES ('62.115.179.220/31', 'IPv4');
 INSERT INTO `oracle_eu-amsterdam-1_ips` (`ip_address`, `ip_type`) VALUES ('62.115.179.228/31', 'IPv4');
 INSERT INTO `oracle_eu-amsterdam-1_ips` (`ip_address`, `ip_type`) VALUES ('79.72.32.0/22', 'IPv4');

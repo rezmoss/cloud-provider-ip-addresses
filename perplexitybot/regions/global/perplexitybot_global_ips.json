@@ -1,10 +1,5 @@
 [
   {
-    "ip_address": "3.211.124.183/32",
-    "ip_type": "IPv4",
-    "service": "perplexitybot"
-  },
-  {
     "ip_address": "3.222.232.239/32",
     "ip_type": "IPv4",
     "service": "perplexitybot"
@@ -15,27 +10,87 @@
     "service": "perplexitybot"
   },
   {
-    "ip_address": "3.231.139.107/32",
+    "ip_address": "18.97.1.228/32",
     "ip_type": "IPv4",
     "service": "perplexitybot"
   },
   {
-    "ip_address": "18.97.1.228/30",
+    "ip_address": "18.97.9.96/32",
     "ip_type": "IPv4",
     "service": "perplexitybot"
   },
   {
-    "ip_address": "18.97.9.96/29",
+    "ip_address": "18.97.9.97/32",
     "ip_type": "IPv4",
     "service": "perplexitybot"
   },
   {
-    "ip_address": "18.97.21.0/30",
+    "ip_address": "18.97.9.98/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "18.97.9.99/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "18.97.9.100/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "18.97.9.101/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "18.97.9.102/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "18.97.9.103/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "18.97.43.80/32",
     "ip_type": "IPv4",
     "service": "perplexity-user"
   },
   {
-    "ip_address": "18.97.43.80/29",
+    "ip_address": "18.97.43.81/32",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  },
+  {
+    "ip_address": "18.97.43.82/32",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  },
+  {
+    "ip_address": "18.97.43.83/32",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  },
+  {
+    "ip_address": "18.97.43.84/32",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  },
+  {
+    "ip_address": "18.97.43.85/32",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  },
+  {
+    "ip_address": "18.97.43.86/32",
+    "ip_type": "IPv4",
+    "service": "perplexity-user"
+  },
+  {
+    "ip_address": "18.97.43.87/32",
     "ip_type": "IPv4",
     "service": "perplexity-user"
   },

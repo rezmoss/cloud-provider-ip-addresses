@@ -444,12 +444,6 @@
     "region": "eu-central-1"
   },
   {
-    "ip_address": "3.127.48.128/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "eu-central-1"
-  },
-  {
     "ip_address": "3.127.48.244/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",

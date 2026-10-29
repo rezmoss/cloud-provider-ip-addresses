@@ -762,12 +762,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "3.234.248.192/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "us-east-1"
-  },
-  {
     "ip_address": "3.235.26.0/23",
     "ip_type": "IPv4",
     "service": "API_GATEWAY",
@@ -795,12 +789,6 @@
     "ip_address": "3.235.189.100/30",
     "ip_type": "IPv4",
     "service": "AMAZON_APPFLOW",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "3.235.202.128/26",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
     "region": "us-east-1"
   },
   {
@@ -843,12 +831,6 @@
     "ip_address": "3.238.166.0/24",
     "ip_type": "IPv4",
     "service": "API_GATEWAY",
-    "region": "us-east-1"
-  },
-  {
-    "ip_address": "3.238.167.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
     "region": "us-east-1"
   },
   {

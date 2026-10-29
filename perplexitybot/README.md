@@ -1,6 +1,6 @@
 # PerplexityBot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-28** · Total CIDRs: **12** · IPv4: **12** · IPv6: **0** · Services: **2**
+> Last updated: **2026-10-29** · Total CIDRs: **23** · IPv4: **23** · IPv6: **0** · Services: **2**
 
 Machine-readable, daily-updated, validated public IP ranges for **PerplexityBot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -30,9 +30,9 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 ```
 107.20.236.150/32
 18.210.92.235/32
-18.97.1.228/30
-18.97.21.0/30
-18.97.43.80/29
+18.97.1.228/32
+18.97.43.80/32
+18.97.43.81/32
 ```
 
 ## Per-service breakdown

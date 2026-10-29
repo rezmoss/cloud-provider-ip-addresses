@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-10-28 02:24:44
+# Updated: 2026-10-29 02:24:28
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -448,7 +448,7 @@ iptables -A INPUT -s 23.49.112.0/20 -j DROP
 iptables -A INPUT -s 23.49.128.0/18 -j DROP
 iptables -A INPUT -s 23.49.200.0/21 -j DROP
 iptables -A INPUT -s 23.49.208.0/20 -j DROP
-iptables -A INPUT -s 23.49.240.0/21 -j DROP
+iptables -A INPUT -s 23.49.244.0/22 -j DROP
 iptables -A INPUT -s 23.50.12.0/22 -j DROP
 iptables -A INPUT -s 23.50.16.0/20 -j DROP
 iptables -A INPUT -s 23.50.32.0/20 -j DROP

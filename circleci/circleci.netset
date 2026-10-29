@@ -1,6 +1,6 @@
 # circleci IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-10-28 | Last changed: 2026-08-19
-# IPv4: 44 merged subnets, 4031 unique IPs
+# Version: 3 | Generated: 2026-10-29 | Last changed: 2026-10-29
+# IPv4: 60 merged subnets, 4047 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -9,16 +9,22 @@
 create circleci_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush circleci_v4
 add circleci_v4 3.210.128.175/32
+add circleci_v4 3.224.115.101/32
 add circleci_v4 3.228.39.90/32
+add circleci_v4 13.216.76.60/32
 add circleci_v4 18.97.4.0/24
 add circleci_v4 18.97.6.0/23
 add circleci_v4 18.213.67.41/32
 add circleci_v4 18.214.70.5/32
 add circleci_v4 18.214.156.84/32
+add circleci_v4 32.199.15.111/32
 add circleci_v4 34.194.94.201/32
 add circleci_v4 34.194.144.202/32
 add circleci_v4 34.197.6.234/32
 add circleci_v4 34.197.216.176/32
+add circleci_v4 34.203.182.179/32
+add circleci_v4 34.231.217.224/32
+add circleci_v4 34.233.141.181/32
 add circleci_v4 35.169.17.173/32
 add circleci_v4 35.174.249.131/32
 add circleci_v4 35.174.253.146/32
@@ -28,6 +34,7 @@ add circleci_v4 38.23.48.0/22
 add circleci_v4 38.23.52.0/24
 add circleci_v4 38.39.178.0/25
 add circleci_v4 38.39.178.128/27
+add circleci_v4 44.214.209.165/32
 add circleci_v4 52.3.128.216/32
 add circleci_v4 52.4.195.249/32
 add circleci_v4 52.5.58.121/32
@@ -36,8 +43,13 @@ add circleci_v4 52.20.166.242/32
 add circleci_v4 52.21.153.129/32
 add circleci_v4 52.22.215.219/32
 add circleci_v4 52.72.72.233/32
+add circleci_v4 52.203.234.139/32
 add circleci_v4 52.206.105.184/32
+add circleci_v4 54.80.154.85/32
 add circleci_v4 54.92.235.88/32
+add circleci_v4 54.92.251.216/32
+add circleci_v4 54.146.98.112/32
+add circleci_v4 54.160.141.245/32
 add circleci_v4 54.161.182.76/32
 add circleci_v4 54.164.161.41/32
 add circleci_v4 54.166.105.113/32
@@ -48,7 +60,11 @@ add circleci_v4 54.208.72.234/32
 add circleci_v4 54.209.115.53/32
 add circleci_v4 54.236.156.101/32
 add circleci_v4 98.80.165.0/24
+add circleci_v4 98.87.113.183/32
 add circleci_v4 100.27.248.128/25
 add circleci_v4 100.29.139.128/25
+add circleci_v4 100.59.104.64/32
+add circleci_v4 107.20.96.174/32
+add circleci_v4 184.193.63.221/32
 add circleci_v4 207.254.116.0/24
 add circleci_v4 207.254.118.0/24

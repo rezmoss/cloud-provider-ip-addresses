@@ -6,6 +6,12 @@
     "region": "af-johannesburg-1"
   },
   {
+    "ip_address": "84.12.64.0/18",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "af-johannesburg-1"
+  },
+  {
     "ip_address": "92.4.128.0/19",
     "ip_type": "IPv4",
     "service": "OCI",

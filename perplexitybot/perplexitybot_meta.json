@@ -1,24 +1,24 @@
 {
   "provider": "perplexitybot",
-  "version": 1,
-  "generated_date": "2026-10-28",
-  "last_changed_date": "2026-06-18",
+  "version": 2,
+  "generated_date": "2026-10-29",
+  "last_changed_date": "2026-10-29",
   "sources": [
     "https://www.perplexity.ai/perplexitybot.json",
     "https://www.perplexity.ai/perplexity-user.json"
   ],
   "ipv4": {
-    "cidrs": 12,
-    "merged_cidrs": 12,
-    "addresses": 32
+    "cidrs": 23,
+    "merged_cidrs": 9,
+    "addresses": 23
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 12,
-  "content_sha256": "8adcbcad25d8735d9a55ea2a1f0e3829e507e056f65c0ad256bd2c173ed5af2a",
+  "total_entries": 23,
+  "content_sha256": "2eb69eac102817389ddbb70ac0368078bc8b077936e1d76d2ede5d82bf440fb5",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

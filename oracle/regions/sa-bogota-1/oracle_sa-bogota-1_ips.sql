@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `oracle_sa-bogota-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `oracle_sa-bogota-1_ips` (`ip_address`, `ip_type`) VALUES ('129.38.64.0/18', 'IPv4');
 INSERT INTO `oracle_sa-bogota-1_ips` (`ip_address`, `ip_type`) VALUES ('149.130.160.0/19', 'IPv4');
 INSERT INTO `oracle_sa-bogota-1_ips` (`ip_address`, `ip_type`) VALUES ('157.137.192.0/19', 'IPv4');
 INSERT INTO `oracle_sa-bogota-1_ips` (`ip_address`, `ip_type`) VALUES ('157.137.224.0/20', 'IPv4');
