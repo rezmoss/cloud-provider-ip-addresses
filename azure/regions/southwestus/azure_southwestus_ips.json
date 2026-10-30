@@ -18,13 +18,7 @@
     "region": "southwestus"
   },
   {
-    "ip_address": "20.20.112.160/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.southwestus",
-    "region": "southwestus"
-  },
-  {
-    "ip_address": "20.20.112.164/31",
+    "ip_address": "20.20.112.160/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.southwestus",
     "region": "southwestus"
@@ -1026,13 +1020,7 @@
     "region": "southwestus"
   },
   {
-    "ip_address": "2603:1061:1014:48::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.southwestus",
-    "region": "southwestus"
-  },
-  {
-    "ip_address": "2603:1061:1014:4a::/64",
+    "ip_address": "2603:1061:1014:48::/62",
     "ip_type": "IPv6",
     "service": "AzureCloud.southwestus",
     "region": "southwestus"

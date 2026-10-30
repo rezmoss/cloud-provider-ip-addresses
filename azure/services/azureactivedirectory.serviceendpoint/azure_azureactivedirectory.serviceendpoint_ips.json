@@ -5724,6 +5724,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1027:1:40::40/122",
+    "ip_type": "IPv6",
+    "service": "AzureActiveDirectory.ServiceEndpoint",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1027:1:60::/121",
     "ip_type": "IPv6",
     "service": "AzureActiveDirectory.ServiceEndpoint",

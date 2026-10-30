@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.198.86.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::740/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  }
+]

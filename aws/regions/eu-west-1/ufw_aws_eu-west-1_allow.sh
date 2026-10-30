@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-10-24 02:23:20
+# Updated: 2026-10-30 02:18:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -169,6 +169,7 @@ ufw allow from 69.107.11.80/28
 ufw allow from 69.107.13.48/28
 ufw allow from 69.107.13.128/28
 ufw allow from 70.232.124.0/22
+ufw allow from 72.150.4.0/23
 ufw allow from 79.125.0.0/17
 ufw allow from 87.238.80.0/21
 ufw allow from 99.77.133.0/24

@@ -1,6 +1,6 @@
 # Akamai IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-29** · Total CIDRs: **10,803** · IPv4: **7,777** · IPv6: **3,026** · Services: **18** · Regions: **1**
+> Last updated: **2026-10-30** · Total CIDRs: **10,800** · IPv4: **7,773** · IPv6: **3,027** · Services: **18** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Akamai**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

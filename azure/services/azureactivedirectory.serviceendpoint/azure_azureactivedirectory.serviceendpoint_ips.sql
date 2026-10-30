@@ -960,6 +960,7 @@ INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:28::/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:30::/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:38::/121', 'IPv6');
+INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:40::40/122', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:60::/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:68::/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectory.serviceendpoint_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:70::/121', 'IPv6');

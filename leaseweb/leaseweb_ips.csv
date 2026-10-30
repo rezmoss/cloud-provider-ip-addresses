@@ -1832,6 +1832,7 @@ ip_address,ip_type,service,region
 2a0d:6100::/29,IPv6,leaseweb-as60781,global
 2a0d:83c0::/29,IPv6,leaseweb-as396190,global
 2a0d:9400::/29,IPv6,leaseweb-as396190,global
+2a0d:d903::/32,IPv6,leaseweb-as59253,global
 2a0d:d907::/32,IPv6,leaseweb-as60781,global
 2a0e:15c0:11::/48,IPv6,leaseweb-as60781,global
 2a0e:15c5:acab::/48,IPv6,leaseweb-as60781,global

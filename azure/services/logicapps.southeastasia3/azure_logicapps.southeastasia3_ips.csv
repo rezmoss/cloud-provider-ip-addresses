@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+48.198.102.240/28,IPv4,LogicApps.SoutheastAsia3,southeastasia3
+48.198.103.224/27,IPv4,LogicApps.SoutheastAsia3,southeastasia3
+2603:1040:1b02:3::760/124,IPv6,LogicApps.SoutheastAsia3,southeastasia3
+2603:1040:1b02:3::780/123,IPv6,LogicApps.SoutheastAsia3,southeastasia3

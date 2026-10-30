@@ -1,6 +1,6 @@
 # Fastly IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-29** · Total CIDRs: **24** · IPv4: **21** · IPv6: **3**
+> Last updated: **2026-10-30** · Total CIDRs: **24** · IPv4: **21** · IPv6: **3**
 
 Machine-readable, daily-updated, validated public IP ranges for **Fastly**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

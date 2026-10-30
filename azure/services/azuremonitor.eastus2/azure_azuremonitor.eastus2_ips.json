@@ -252,6 +252,30 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "74.159.249.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.159.251.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.159.251.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "74.159.251.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.EastUS2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "104.46.123.164/32",
     "ip_type": "IPv4",
     "service": "AzureMonitor.EastUS2",

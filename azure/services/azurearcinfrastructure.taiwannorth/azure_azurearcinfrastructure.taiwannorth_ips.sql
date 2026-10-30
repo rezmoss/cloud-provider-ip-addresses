@@ -9,5 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.taiwannorth_ips` (
 INSERT INTO `azure_azurearcinfrastructure.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('51.53.41.76/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('51.53.43.104/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('51.53.43.112/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('51.53.51.228/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('51.53.110.138/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.200.40/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:2::620/124', 'IPv6');

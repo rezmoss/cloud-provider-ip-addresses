@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+48.198.81.128/25,IPv4,AzureEventGrid.SoutheastAsia3,southeastasia3
+48.198.110.0/23,IPv4,AzureEventGrid.SoutheastAsia3,southeastasia3
+48.198.144.0/22,IPv4,AzureEventGrid.SoutheastAsia3,southeastasia3
+48.198.148.0/23,IPv4,AzureEventGrid.SoutheastAsia3,southeastasia3
+2603:1040:1b02::480/121,IPv6,AzureEventGrid.SoutheastAsia3,southeastasia3

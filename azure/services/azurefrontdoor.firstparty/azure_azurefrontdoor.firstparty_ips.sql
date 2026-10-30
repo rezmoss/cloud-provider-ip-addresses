@@ -28,6 +28,7 @@ INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('13.107.128.0/19', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('13.107.245.0/24', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('13.107.254.0/23', 'IPv4');
+INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('52.107.220.0/22', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('131.253.3.0/24', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('131.253.21.0/24', 'IPv4');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('131.253.33.0/24', 'IPv4');
@@ -51,6 +52,7 @@ INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:f::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:10::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:12::/48', 'IPv6');
+INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:13e0::/44', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2603:10e1:0:100::/56', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2603:10e1:1::/48', 'IPv6');
 INSERT INTO `azure_azurefrontdoor.firstparty_ips` (`ip_address`, `ip_type`) VALUES ('2620:1ec:4::/46', 'IPv6');

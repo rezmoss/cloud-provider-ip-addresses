@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+9.205.223.96/27,IPv4,AzureSecurityCenter.DenmarkEast,denmarkeast
+9.205.223.128/29,IPv4,AzureSecurityCenter.DenmarkEast,denmarkeast

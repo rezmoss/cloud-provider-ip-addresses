@@ -60,6 +60,8 @@ INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('9
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('9.160.68.0/24', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('9.160.69.0/26', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('9.160.69.64/27', 'IPv4');
+INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('9.205.223.96/27', 'IPv4');
+INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('9.205.223.128/29', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('9.223.161.0/24', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('9.223.162.0/23', 'IPv4');
 INSERT INTO `azure_azuresecuritycenter_ips` (`ip_address`, `ip_type`) VALUES ('9.223.164.0/25', 'IPv4');

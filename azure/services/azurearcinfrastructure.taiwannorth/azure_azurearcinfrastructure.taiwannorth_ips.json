@@ -18,7 +18,19 @@
     "region": "taiwannorth"
   },
   {
+    "ip_address": "51.53.51.228/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
     "ip_address": "51.53.110.138/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.TaiwanNorth",
+    "region": "taiwannorth"
+  },
+  {
+    "ip_address": "70.157.200.40/29",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.TaiwanNorth",
     "region": "taiwannorth"

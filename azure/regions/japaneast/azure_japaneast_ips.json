@@ -198,6 +198,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.216.6.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "4.216.7.154/31",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.JapanEast",
@@ -873,6 +879,12 @@
     "ip_address": "20.18.238.86/32",
     "ip_type": "IPv4",
     "service": "LogicApps.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "20.20.58.0/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {
@@ -2820,6 +2832,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "40.120.183.240/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "40.126.13.128/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
@@ -3474,6 +3492,42 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "57.171.72.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "57.171.77.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "57.171.82.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "57.171.89.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "57.171.97.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "57.171.108.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "70.152.13.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
@@ -3615,6 +3669,12 @@
     "ip_address": "130.33.125.0/27",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "130.33.125.48/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.JapanEast",
     "region": "japaneast"
   },
   {
@@ -3834,7 +3894,7 @@
     "region": "japaneast"
   },
   {
-    "ip_address": "2603:1040:407::/64",
+    "ip_address": "2603:1040:407::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.japaneast",
     "region": "japaneast"
@@ -3924,12 +3984,6 @@
     "region": "japaneast"
   },
   {
-    "ip_address": "2603:1040:407:1::/118",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
     "ip_address": "2603:1040:407:1::20/123",
     "ip_type": "IPv6",
     "service": "AzureBotService.JapanEast",
@@ -4016,19 +4070,7 @@
   {
     "ip_address": "2603:1040:407:1::480/121",
     "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::480/121",
-    "ip_type": "IPv6",
     "service": "DataFactory.JapanEast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::500/120",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {
@@ -4041,12 +4083,6 @@
     "ip_address": "2603:1040:407:1::5e0/123",
     "ip_type": "IPv6",
     "service": "PowerBI.JapanEast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::600/119",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {
@@ -4071,330 +4107,6 @@
     "ip_address": "2603:1040:407:1::780/122",
     "ip_type": "IPv6",
     "service": "DataFactory.JapanEast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::800/117",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::1000/116",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::2000/115",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::4000/114",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::8000/113",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::1:0/112",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::2:0/111",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::4:0/110",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::8:0/109",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::10:0/108",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::20:0/107",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::40:0/106",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::80:0/105",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::100:0/104",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::200:0/103",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::400:0/102",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::800:0/101",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::1000:0/100",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::2000:0/99",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::4000:0/98",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1::8000:0/97",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:1::/96",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:2::/95",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:4::/94",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:8::/93",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:10::/92",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:20::/91",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:40::/90",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:80::/89",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:100::/88",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:200::/87",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:400::/86",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:800::/85",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:1000::/84",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:2000::/83",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:4000::/82",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:0:8000::/81",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:1::/80",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:2::/79",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:4::/78",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:8::/77",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:10::/76",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:20::/75",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:40::/74",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:80::/73",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:100::/72",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:200::/71",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:400::/70",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:800::/69",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:1000::/68",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:2000::/67",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:4000::/66",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1:8000::/65",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:2::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {
@@ -4428,12 +4140,6 @@
     "region": "japaneast"
   },
   {
-    "ip_address": "2603:1040:407:4::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
     "ip_address": "2603:1040:407:7::c0/122",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.JapanEast",
@@ -4458,375 +4164,9 @@
     "region": "japaneast"
   },
   {
-    "ip_address": "2603:1040:407:8::/120",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::100/122",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::1c0/122",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::200/119",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
     "ip_address": "2603:1040:407:8::220/123",
     "ip_type": "IPv6",
     "service": "SCCservice.JapanEast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::400/118",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::800/117",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::1000/116",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::2000/115",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::4000/114",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::8000/113",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::1:0/112",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::2:0/111",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::4:0/110",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::8:0/109",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::10:0/108",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::20:0/107",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::40:0/106",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::80:0/105",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::100:0/104",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::200:0/103",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::400:0/102",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::800:0/101",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::1000:0/100",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::2000:0/99",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::4000:0/98",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8::8000:0/97",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:1::/96",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:2::/95",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:4::/94",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:8::/93",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:10::/92",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:20::/91",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:40::/90",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:80::/89",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:100::/88",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:200::/87",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:400::/86",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:800::/85",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:1000::/84",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:2000::/83",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:4000::/82",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:0:8000::/81",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:1::/80",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:2::/79",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:4::/78",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:8::/77",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:10::/76",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:20::/75",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:40::/74",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:80::/73",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:100::/72",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:200::/71",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:400::/70",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:800::/69",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:1000::/68",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:2000::/67",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:4000::/66",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8:8000::/65",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:9::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:a::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:c::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {
@@ -4890,12 +4230,6 @@
     "region": "japaneast"
   },
   {
-    "ip_address": "2603:1040:407:10::/60",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
     "ip_address": "2603:1040:407:10::700/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.JapanEast",
@@ -4929,42 +4263,6 @@
     "ip_address": "2603:1040:407:14::e0/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.JapanEast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:20::/59",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:40::/58",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:80::/57",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:100::/56",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:200::/55",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:400::/54",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {
@@ -5121,12 +4419,6 @@
     "ip_address": "2603:1040:407:402::580/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.JapanEast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:800::/53",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {
@@ -5337,30 +4629,6 @@
     "ip_address": "2603:1040:407:c02::400/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.JapanEast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:1000::/52",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:2000::/51",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:4000::/50",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
-    "region": "japaneast"
-  },
-  {
-    "ip_address": "2603:1040:407:8000::/49",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.japaneast",
     "region": "japaneast"
   },
   {

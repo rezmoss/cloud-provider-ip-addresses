@@ -120,6 +120,8 @@ INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:140::140/124', 'IPv6');
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:1a0::120/123', 'IPv6');
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:3000:200::100/123', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:40::/124', 'IPv6');
+INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1027:1:1c0::100/124', 'IPv6');
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f:12::640/124', 'IPv6');
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:107:2::100/121', 'IPv6');
 INSERT INTO `azure_azureactivedirectorydomainservices_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:15::260/124', 'IPv6');

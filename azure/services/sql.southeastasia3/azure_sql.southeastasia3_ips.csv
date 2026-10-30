@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+48.198.102.64/26,IPv4,Sql.SoutheastAsia3,southeastasia3
+48.198.102.128/26,IPv4,Sql.SoutheastAsia3,southeastasia3
+2603:1040:1b02:3::3e0/123,IPv6,Sql.SoutheastAsia3,southeastasia3
+2603:1040:1b02:3::500/121,IPv6,Sql.SoutheastAsia3,southeastasia3

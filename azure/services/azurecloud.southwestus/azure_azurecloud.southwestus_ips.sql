@@ -9,8 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.southwestus_ips` (
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.48.192/27', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.112.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.112.128/27', 'IPv4');
-INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.112.160/30', 'IPv4');
-INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.112.164/31', 'IPv4');
+INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('20.20.112.160/29', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('20.33.98.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('20.38.31.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('20.152.56.0/23', 'IPv4');
@@ -43,8 +42,7 @@ INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1037:1:260::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1014::/58', 'IPv6');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1014:40::/61', 'IPv6');
-INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1014:48::/63', 'IPv6');
-INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1014:4a::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1014:48::/62', 'IPv6');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1312:6000::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1748::/63', 'IPv6');
 INSERT INTO `azure_azurecloud.southwestus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1063:2204:c::/64', 'IPv6');

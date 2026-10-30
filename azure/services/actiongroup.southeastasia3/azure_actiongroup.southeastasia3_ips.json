@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.198.97.160/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::708/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SoutheastAsia3",
+    "region": "southeastasia3"
+  }
+]

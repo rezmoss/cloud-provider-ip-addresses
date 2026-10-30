@@ -43,6 +43,8 @@ INSERT INTO `azure_onedscollector_ips` (`ip_address`, `ip_type`) VALUES ('20.50.
 INSERT INTO `azure_onedscollector_ips` (`ip_address`, `ip_type`) VALUES ('20.50.201.200/29', 'IPv4');
 INSERT INTO `azure_onedscollector_ips` (`ip_address`, `ip_type`) VALUES ('20.52.64.200/29', 'IPv4');
 INSERT INTO `azure_onedscollector_ips` (`ip_address`, `ip_type`) VALUES ('20.52.72.112/28', 'IPv4');
+INSERT INTO `azure_onedscollector_ips` (`ip_address`, `ip_type`) VALUES ('20.66.247.50/31', 'IPv4');
+INSERT INTO `azure_onedscollector_ips` (`ip_address`, `ip_type`) VALUES ('20.66.247.52/30', 'IPv4');
 INSERT INTO `azure_onedscollector_ips` (`ip_address`, `ip_type`) VALUES ('20.89.1.8/29', 'IPv4');
 INSERT INTO `azure_onedscollector_ips` (`ip_address`, `ip_type`) VALUES ('20.111.117.64/27', 'IPv4');
 INSERT INTO `azure_onedscollector_ips` (`ip_address`, `ip_type`) VALUES ('20.151.32.144/29', 'IPv4');

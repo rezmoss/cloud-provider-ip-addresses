@@ -153,6 +153,7 @@ ip_address,ip_type,service,region
 20.9.204.0/25,IPv4,MicrosoftCloudAppSecurity.WestUS2,westus2
 20.9.204.128/25,IPv4,AzureSecurityCenter.WestUS2,westus2
 20.9.206.0/23,IPv4,AzureSecurityCenter.WestUS2,westus2
+20.20.58.96/28,IPv4,AzureCloud.westus2,westus2
 20.20.76.0/22,IPv4,AzureCloud.westus2,westus2
 20.29.128.0/17,IPv4,AzureCloud.westus2,westus2
 20.33.46.0/24,IPv4,AzureCloud.westus2,westus2
@@ -838,9 +839,8 @@ ip_address,ip_type,service,region
 57.150.234.0/23,IPv4,AzureCloud.westus2,westus2
 57.150.234.0/23,IPv4,Storage.WestUS2,westus2
 57.157.72.0/23,IPv4,AzureCloud.westus2,westus2
-57.157.74.0/26,IPv4,AzureCloud.westus2,westus2
-57.157.74.64/29,IPv4,AzureCloud.westus2,westus2
-57.157.74.72/30,IPv4,AzureCloud.westus2,westus2
+57.157.74.0/25,IPv4,AzureCloud.westus2,westus2
+57.157.74.128/29,IPv4,AzureCloud.westus2,westus2
 57.163.44.0/23,IPv4,AzureCloud.westus2,westus2
 57.163.44.0/23,IPv4,Storage.WestUS2,westus2
 57.163.72.0/23,IPv4,AzureCloud.westus2,westus2
@@ -851,6 +851,9 @@ ip_address,ip_type,service,region
 57.166.13.176/29,IPv4,AzureBackup.WestUS2,westus2
 57.166.17.56/29,IPv4,AzureAttestation.WestUS2,westus2
 57.166.17.64/30,IPv4,AzureAttestation.WestUS2,westus2
+57.171.91.0/24,IPv4,AzureCloud.westus2,westus2
+57.171.99.0/24,IPv4,AzureCloud.westus2,westus2
+57.171.110.0/24,IPv4,AzureCloud.westus2,westus2
 57.173.128.0/17,IPv4,AzureCloud.westus2,westus2
 57.173.195.164/30,IPv4,AzureIoTHub.WestUS2,westus2
 57.173.211.176/28,IPv4,AzureIoTHub.WestUS2,westus2

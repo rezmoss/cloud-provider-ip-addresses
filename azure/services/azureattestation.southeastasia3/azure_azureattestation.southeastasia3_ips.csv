@@ -1,0 +1,10 @@
+ip_address,ip_type,service,region
+48.198.80.20/30,IPv4,AzureAttestation.SoutheastAsia3,southeastasia3
+48.198.106.192/29,IPv4,AzureAttestation.SoutheastAsia3,southeastasia3
+48.198.106.200/30,IPv4,AzureAttestation.SoutheastAsia3,southeastasia3
+48.198.153.240/29,IPv4,AzureAttestation.SoutheastAsia3,southeastasia3
+48.198.153.248/30,IPv4,AzureAttestation.SoutheastAsia3,southeastasia3
+2603:1040:1b02::760/124,IPv6,AzureAttestation.SoutheastAsia3,southeastasia3
+2603:1040:1b02:5::320/124,IPv6,AzureAttestation.SoutheastAsia3,southeastasia3
+2603:1040:1b02:6::570/126,IPv6,AzureAttestation.SoutheastAsia3,southeastasia3
+2603:1040:1b02:6::578/125,IPv6,AzureAttestation.SoutheastAsia3,southeastasia3

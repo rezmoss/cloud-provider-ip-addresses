@@ -1,0 +1,1040 @@
+[
+  {
+    "ip_address": "13.105.46.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "13.106.2.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "13.106.3.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.20.55.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.20.56.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.38.58.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.143.144.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.143.152.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.153.122.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.153.122.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.201.182.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.201.185.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.201.186.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.231.152.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "20.231.152.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "40.90.150.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.80.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.80.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.80.32/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.80.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.80.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.81.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.81.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.84.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.84.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.84.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.84.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.84.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.86.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.86.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.86.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.86.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.88.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.89.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.89.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.89.216/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.89.224/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.89.232/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.90.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.92.188/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.92.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.93.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.94.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.95.150/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.95.152/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.96.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.97.72/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.97.160/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.97.168/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.97.224/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.97.240/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.97.244/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.97.248/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.100.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.101.0/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.101.96/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.101.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.101.208/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.101.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.102.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.102.64/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.102.128/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.102.240/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.103.224/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.104.40/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.104.128/27",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.106.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.106.200/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.110.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.144.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.148.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.153.240/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.153.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.154.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.193.208/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.193.224/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.194.0/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.194.128/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.194.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.195.208/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.195.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.202.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.203.34/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.203.36/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "57.157.124.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "57.157.124.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "57.157.124.192/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "57.157.124.200/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "57.163.38.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "57.163.38.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "135.130.148.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "135.130.148.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "135.130.150.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "135.130.150.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "135.130.153.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "135.130.153.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "135.130.154.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "135.130.154.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "145.190.65.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "145.190.150.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "145.190.150.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "145.190.181.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "145.190.181.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "209.199.44.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "209.199.44.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "209.199.46.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "209.199.47.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b01::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::1a0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::400/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::500/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::5c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::700/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::740/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::760/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:1::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:1::180/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:1::200/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:1::440/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:1::4d0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:1::4e0/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:1::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::/120",
+    "ip_type": "IPv6",
+    "service": "AppService.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::140/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::1b0/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::480/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::700/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::708/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::710/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::760/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::7c0/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::100/120",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::300/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::3e0/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::500/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::760/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::780/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:4::400/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:4::440/122",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:5::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:5::320/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:5::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:5::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::513/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::530/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::540/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::570/126",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::578/125",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::658/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:6::680/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b03::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b04::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b05::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1046:2000:2c0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1047:1:2c0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1061:101f::/58",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1061:101f:40::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1061:101f:60::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1061:101f:62::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1061:1750::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1063:2202:78::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.southeastasia3",
+    "region": "southeastasia3"
+  }
+]

@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+48.198.97.244/30,IPv4,AzurePortal.SoutheastAsia3,southeastasia3
+48.198.101.96/27,IPv4,AzurePortal.SoutheastAsia3,southeastasia3
+2603:1040:1b02:3::300/121,IPv6,AzurePortal.SoutheastAsia3,southeastasia3

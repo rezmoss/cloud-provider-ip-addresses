@@ -11,6 +11,7 @@ INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('66.24
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('66.248.203.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('72.167.12.0/22', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('185.93.228.0/24', 'IPv4');
+INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('185.93.230.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('185.93.231.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('192.88.134.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('192.88.135.0/24', 'IPv4');
@@ -25,6 +26,7 @@ INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('208.1
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('208.109.80.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('2a02:fe80:11::/48', 'IPv6');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('2a02:fe80:12::/48', 'IPv6');
+INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('2a02:fe80:13::/48', 'IPv6');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('2a02:fe80:14::/48', 'IPv6');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('2a02:fe80:15::/48', 'IPv6');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('2a02:fe80:16::/48', 'IPv6');

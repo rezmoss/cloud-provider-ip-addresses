@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+48.198.88.0/24,IPv4,EventHub.SoutheastAsia3,southeastasia3
+2603:1040:1b02:1::200/120,IPv6,EventHub.SoutheastAsia3,southeastasia3

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.198.80.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.SoutheastAsia3",
+    "region": "southeastasia3"
+  }
+]

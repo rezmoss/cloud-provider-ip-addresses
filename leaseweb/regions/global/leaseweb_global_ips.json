@@ -10998,6 +10998,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a0d:d903::/32",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as59253",
+    "region": "global"
+  },
+  {
     "ip_address": "2a0d:d907::/32",
     "ip_type": "IPv6",
     "service": "leaseweb-as60781",

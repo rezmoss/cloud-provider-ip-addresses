@@ -132,6 +132,12 @@
     "region": ""
   },
   {
+    "ip_address": "52.107.220.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureFrontDoor.FirstParty",
+    "region": ""
+  },
+  {
     "ip_address": "131.253.3.0/24",
     "ip_type": "IPv4",
     "service": "AzureFrontDoor.FirstParty",
@@ -265,6 +271,12 @@
   },
   {
     "ip_address": "2603:1061:12::/48",
+    "ip_type": "IPv6",
+    "service": "AzureFrontDoor.FirstParty",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1061:13e0::/44",
     "ip_type": "IPv6",
     "service": "AzureFrontDoor.FirstParty",
     "region": ""

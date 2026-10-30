@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "48.198.86.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.86.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:1::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SoutheastAsia3",
+    "region": "southeastasia3"
+  }
+]

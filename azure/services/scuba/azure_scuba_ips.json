@@ -1026,6 +1026,18 @@
     "region": ""
   },
   {
+    "ip_address": "74.155.58.16/28",
+    "ip_type": "IPv4",
+    "service": "Scuba",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.251.144/28",
+    "ip_type": "IPv4",
+    "service": "Scuba",
+    "region": ""
+  },
+  {
     "ip_address": "74.161.236.144/28",
     "ip_type": "IPv4",
     "service": "Scuba",
@@ -1195,6 +1207,18 @@
   },
   {
     "ip_address": "172.129.96.192/29",
+    "ip_type": "IPv4",
+    "service": "Scuba",
+    "region": ""
+  },
+  {
+    "ip_address": "172.140.129.16/28",
+    "ip_type": "IPv4",
+    "service": "Scuba",
+    "region": ""
+  },
+  {
+    "ip_address": "172.147.5.16/28",
     "ip_type": "IPv4",
     "service": "Scuba",
     "region": ""

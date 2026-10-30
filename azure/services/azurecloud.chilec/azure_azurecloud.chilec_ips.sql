@@ -9,7 +9,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.chilec_ips` (
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.32.128/25', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.88.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.0/25', 'IPv4');
-INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.128/31', 'IPv4');
+INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.128/30', 'IPv4');
+INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.20.89.132/31', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.33.85.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.33.236.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('20.33.240.0/24', 'IPv4');
@@ -76,7 +77,8 @@ INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:80::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:a0::/60', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:b0::/61', 'IPv6');
-INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:b8::/64', 'IPv6');
+INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:b8::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1013:ba::/64', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1315:c00::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:170b::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.chilec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:d000::/57', 'IPv6');

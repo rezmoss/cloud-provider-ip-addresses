@@ -924,6 +924,12 @@
     "region": "westus2"
   },
   {
+    "ip_address": "20.20.58.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
     "ip_address": "20.20.76.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
@@ -5034,19 +5040,13 @@
     "region": "westus2"
   },
   {
-    "ip_address": "57.157.74.0/26",
+    "ip_address": "57.157.74.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"
   },
   {
-    "ip_address": "57.157.74.64/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus2",
-    "region": "westus2"
-  },
-  {
-    "ip_address": "57.157.74.72/30",
+    "ip_address": "57.157.74.128/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"
@@ -5109,6 +5109,24 @@
     "ip_address": "57.166.17.64/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "57.171.91.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "57.171.99.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "57.171.110.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
     "region": "westus2"
   },
   {

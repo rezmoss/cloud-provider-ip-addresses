@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+48.198.84.152/29,IPv4,AzureDigitalTwins.SoutheastAsia3,southeastasia3
+48.198.86.32/27,IPv4,AzureDigitalTwins.SoutheastAsia3,southeastasia3
+2603:1040:1b02::780/121,IPv6,AzureDigitalTwins.SoutheastAsia3,southeastasia3

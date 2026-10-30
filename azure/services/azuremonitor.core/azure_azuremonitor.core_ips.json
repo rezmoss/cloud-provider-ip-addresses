@@ -312,6 +312,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.216.6.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "4.220.142.192/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
@@ -2766,6 +2772,30 @@
     "region": ""
   },
   {
+    "ip_address": "74.159.249.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.251.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.251.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "74.159.251.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "74.161.189.192/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
@@ -2923,6 +2953,12 @@
   },
   {
     "ip_address": "108.143.178.24/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "130.33.125.48/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
     "region": ""
@@ -3115,6 +3151,36 @@
   },
   {
     "ip_address": "172.131.106.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "172.143.2.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "172.143.4.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "172.143.6.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "172.143.6.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "172.143.7.0/25",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
     "region": ""
@@ -4657,6 +4723,18 @@
   },
   {
     "ip_address": "2603:1030:210:47::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:210:47::738/125",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "2603:1030:210:48::700/122",
     "ip_type": "IPv6",
     "service": "AzureMonitor.Core",
     "region": ""

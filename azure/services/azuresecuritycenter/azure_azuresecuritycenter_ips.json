@@ -324,6 +324,18 @@
     "region": ""
   },
   {
+    "ip_address": "9.205.223.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter",
+    "region": ""
+  },
+  {
+    "ip_address": "9.205.223.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter",
+    "region": ""
+  },
+  {
     "ip_address": "9.223.161.0/24",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter",

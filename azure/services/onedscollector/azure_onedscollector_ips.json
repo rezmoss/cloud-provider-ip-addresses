@@ -222,6 +222,18 @@
     "region": ""
   },
   {
+    "ip_address": "20.66.247.50/31",
+    "ip_type": "IPv4",
+    "service": "OneDsCollector",
+    "region": ""
+  },
+  {
+    "ip_address": "20.66.247.52/30",
+    "ip_type": "IPv4",
+    "service": "OneDsCollector",
+    "region": ""
+  },
+  {
     "ip_address": "20.89.1.8/29",
     "ip_type": "IPv4",
     "service": "OneDsCollector",

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "48.198.81.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.110.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.144.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.148.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.SoutheastAsia3",
+    "region": "southeastasia3"
+  }
+]

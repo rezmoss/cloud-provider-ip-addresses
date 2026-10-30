@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "48.198.84.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.86.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.SoutheastAsia3",
+    "region": "southeastasia3"
+  }
+]

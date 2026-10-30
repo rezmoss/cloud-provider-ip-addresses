@@ -30,6 +30,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.216.6.160/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "13.73.26.213/32",
     "ip_type": "IPv4",
     "service": "AzureMonitor.JapanEast",
@@ -217,6 +223,12 @@
   },
   {
     "ip_address": "52.185.132.170/32",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "130.33.125.48/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.JapanEast",
     "region": "japaneast"

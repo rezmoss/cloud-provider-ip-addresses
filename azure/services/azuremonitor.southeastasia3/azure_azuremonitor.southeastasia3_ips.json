@@ -1,0 +1,74 @@
+[
+  {
+    "ip_address": "48.198.101.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.101.208/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.101.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.102.0/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.154.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.194.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::2c0/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::380/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:3::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:5::/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:5::340/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:5::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SoutheastAsia3",
+    "region": "southeastasia3"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.198.97.72/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02:2::700/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SoutheastAsia3",
+    "region": "southeastasia3"
+  }
+]

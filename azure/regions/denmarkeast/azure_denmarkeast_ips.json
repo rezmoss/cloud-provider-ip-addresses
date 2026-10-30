@@ -630,6 +630,18 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "9.205.223.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.205.223.128/29",
+    "ip_type": "IPv4",
+    "service": "AzureSecurityCenter.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "20.20.48.224/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.denmarkeast",

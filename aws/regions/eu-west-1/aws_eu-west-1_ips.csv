@@ -421,6 +421,8 @@ ip_address,ip_type,service,region
 69.107.13.136/29,IPv4,AMAZON,eu-west-1
 70.232.124.0/22,IPv4,AMAZON,eu-west-1
 70.232.124.0/22,IPv4,EC2,eu-west-1
+72.150.4.0/23,IPv4,AMAZON,eu-west-1
+72.150.4.0/23,IPv4,EC2,eu-west-1
 79.125.0.0/17,IPv4,AMAZON,eu-west-1
 79.125.0.0/17,IPv4,EC2,eu-west-1
 87.238.80.0/21,IPv4,AMAZON,eu-west-1

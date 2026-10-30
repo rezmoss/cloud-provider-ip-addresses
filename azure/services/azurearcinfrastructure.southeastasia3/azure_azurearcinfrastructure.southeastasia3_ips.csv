@@ -1,0 +1,8 @@
+ip_address,ip_type,service,region
+48.198.92.188/30,IPv4,AzureArcInfrastructure.SoutheastAsia3,southeastasia3
+48.198.195.240/28,IPv4,AzureArcInfrastructure.SoutheastAsia3,southeastasia3
+48.198.203.34/32,IPv4,AzureArcInfrastructure.SoutheastAsia3,southeastasia3
+48.198.203.36/30,IPv4,AzureArcInfrastructure.SoutheastAsia3,southeastasia3
+2603:1040:1b02:2::1b0/124,IPv6,AzureArcInfrastructure.SoutheastAsia3,southeastasia3
+2603:1040:1b02:6::513/128,IPv6,AzureArcInfrastructure.SoutheastAsia3,southeastasia3
+2603:1040:1b02:6::658/126,IPv6,AzureArcInfrastructure.SoutheastAsia3,southeastasia3

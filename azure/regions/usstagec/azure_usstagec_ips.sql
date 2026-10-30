@@ -117,6 +117,7 @@ INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('40.123.164.1
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('40.123.164.140/30', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('40.123.165.0/30', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('40.123.165.28/31', 'IPv4');
+INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('40.123.165.46/31', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('40.123.165.62/31', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('40.123.165.64/30', 'IPv4');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('40.123.165.152/31', 'IPv4');
@@ -176,6 +177,7 @@ INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:80
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:287::/64', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:288::/63', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:2b4::/64', 'IPv6');
+INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:30d::/64', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:332::/64', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:458::/62', 'IPv6');
 INSERT INTO `azure_usstagec_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:804:4b6::/63', 'IPv6');

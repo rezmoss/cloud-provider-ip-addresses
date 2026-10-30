@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.198.84.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "2603:1040:1b02::500/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SoutheastAsia3",
+    "region": "southeastasia3"
+  }
+]

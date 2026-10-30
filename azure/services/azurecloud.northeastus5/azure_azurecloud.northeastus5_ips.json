@@ -54,6 +54,12 @@
     "region": "northeastus5"
   },
   {
+    "ip_address": "57.157.97.24/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
     "ip_address": "57.163.0.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeastus5",
@@ -205,6 +211,12 @@
   },
   {
     "ip_address": "2603:1061:101c:84::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.northeastus5",
+    "region": "northeastus5"
+  },
+  {
+    "ip_address": "2603:1061:101c:86::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.northeastus5",
     "region": "northeastus5"
