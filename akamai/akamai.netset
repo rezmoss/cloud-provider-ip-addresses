@@ -1,5 +1,5 @@
 # akamai IP ranges - ipset restore format (hash:net)
-# Version: 88 | Generated: 2026-10-30 | Last changed: 2026-10-30
+# Version: 88 | Generated: 2026-10-31 | Last changed: 2026-10-30
 # IPv4: 347 merged subnets, 14649296 unique IPs
 # IPv6: 241 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

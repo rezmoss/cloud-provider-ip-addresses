@@ -1,5 +1,15 @@
 [
   {
+    "ip_address": "4.172.7.153/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "4.208.26.201/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
     "ip_address": "4.225.11.192/32",
     "ip_type": "IPv4",
     "service": "copilot"
@@ -25,7 +35,27 @@
     "service": "copilot"
   },
   {
+    "ip_address": "20.26.156.217/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.27.177.121/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.29.134.26/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
     "ip_address": "20.85.130.105/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.87.245.9/32",
     "ip_type": "IPv4",
     "service": "copilot"
   },
@@ -35,7 +65,47 @@
     "service": "copilot"
   },
   {
+    "ip_address": "20.200.245.249/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.201.28.153/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.205.243.169/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.207.73.89/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.217.135.9/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.233.83.153/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
     "ip_address": "20.250.119.64/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "48.202.248.32/32",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "48.204.201.0/32",
     "ip_type": "IPv4",
     "service": "copilot"
   },
@@ -61,6 +131,11 @@
   },
   {
     "ip_address": "143.55.64.0/20",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "172.182.252.128/32",
     "ip_type": "IPv4",
     "service": "copilot"
   },

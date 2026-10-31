@@ -1,5 +1,5 @@
 # stormwall IP ranges - ipset restore format (hash:net)
-# Version: 8 | Generated: 2026-10-30 | Last changed: 2026-10-28
+# Version: 8 | Generated: 2026-10-31 | Last changed: 2026-10-28
 # IPv4: 8 merged subnets, 3840 unique IPs
 # IPv6: 6 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

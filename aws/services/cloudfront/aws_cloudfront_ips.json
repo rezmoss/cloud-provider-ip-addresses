@@ -732,6 +732,18 @@
     "region": "eu-west-3"
   },
   {
+    "ip_address": "51.72.40.128/28",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.72.40.144/28",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.74.20.0/24",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",

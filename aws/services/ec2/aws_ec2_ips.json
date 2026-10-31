@@ -6030,6 +6030,12 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.74.64.0/18",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.74.128.0/18",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -8665,6 +8671,12 @@
   },
   {
     "ip_address": "72.150.18.0/23",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "72.150.20.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
@@ -11377,6 +11389,12 @@
   },
   {
     "ip_address": "2001:3fc0:800::/40",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc1:4000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "eusc-de-east-1"
@@ -19494,6 +19512,66 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "2600:f0f0:4300::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4304::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4308::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:430c::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4310::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4314::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4318::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:431c::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4320::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "2600:f0f0:4324::/46",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:f0f0:5400::/48",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -23460,12 +23538,6 @@
     "region": "us-west-2"
   },
   {
-    "ip_address": "2606:7b40:1800::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-west-2"
-  },
-  {
     "ip_address": "2606:7b40:1a0f:c000::/60",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -24336,6 +24408,30 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "2606:7b40:1dd1:fc00::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2606:7b40:1dd2:fc00::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2606:7b40:1dd3:fc00::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
+  },
+  {
+    "ip_address": "2606:7b40:1dd4:5c00::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-northeast-1"
+  },
+  {
     "ip_address": "2606:7b40:1dd4:7400::/60",
     "ip_type": "IPv6",
     "service": "EC2",
@@ -24388,6 +24484,12 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "us-east-2"
+  },
+  {
+    "ip_address": "2606:7b40:1dd4:fc00::/60",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "us-west-2"
   },
   {
     "ip_address": "2606:7b40:1f00::/40",

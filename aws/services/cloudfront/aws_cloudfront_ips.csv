@@ -121,6 +121,8 @@ ip_address,ip_type,service,region
 51.44.234.0/23,IPv4,CLOUDFRONT,eu-west-3
 51.44.236.0/23,IPv4,CLOUDFRONT,eu-west-3
 51.44.238.0/23,IPv4,CLOUDFRONT,eu-west-3
+51.72.40.128/28,IPv4,CLOUDFRONT,eusc-de-east-1
+51.72.40.144/28,IPv4,CLOUDFRONT,eusc-de-east-1
 51.74.20.0/24,IPv4,CLOUDFRONT,eusc-de-east-1
 51.74.21.0/24,IPv4,CLOUDFRONT,eusc-de-east-1
 51.74.22.0/24,IPv4,CLOUDFRONT,eusc-de-east-1

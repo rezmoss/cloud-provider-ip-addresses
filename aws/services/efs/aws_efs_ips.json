@@ -426,6 +426,12 @@
     "region": "eu-central-1"
   },
   {
+    "ip_address": "63.189.210.0/23",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "eu-central-1"
+  },
+  {
     "ip_address": "77.112.4.0/22",
     "ip_type": "IPv4",
     "service": "EFS",

@@ -70,6 +70,7 @@ ip_address,ip_type,service,region
 63.187.16.0/22,IPv4,EFS,eu-central-1
 63.187.20.0/22,IPv4,EFS,eu-central-1
 63.189.140.0/22,IPv4,EFS,eu-central-1
+63.189.210.0/23,IPv4,EFS,eu-central-1
 77.112.4.0/22,IPv4,EFS,us-east-2
 77.112.8.0/22,IPv4,EFS,us-east-2
 77.112.12.0/22,IPv4,EFS,us-east-2

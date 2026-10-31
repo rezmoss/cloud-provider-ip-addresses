@@ -1038,6 +1038,36 @@
     "region": "fi"
   },
   {
+    "ip_address": "177.202.66.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
+    "ip_address": "177.202.67.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
+    "ip_address": "177.202.68.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "pl"
+  },
+  {
+    "ip_address": "177.202.69.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "fi"
+  },
+  {
+    "ip_address": "177.202.70.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "nl"
+  },
+  {
     "ip_address": "178.215.236.0/24",
     "ip_type": "IPv4",
     "service": "play2go",

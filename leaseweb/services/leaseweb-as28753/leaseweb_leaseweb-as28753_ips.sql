@@ -105,6 +105,7 @@ INSERT INTO `leaseweb_leaseweb-as28753_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `leaseweb_leaseweb-as28753_ips` (`ip_address`, `ip_type`) VALUES ('172.98.164.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as28753_ips` (`ip_address`, `ip_type`) VALUES ('172.98.168.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as28753_ips` (`ip_address`, `ip_type`) VALUES ('172.98.180.0/24', 'IPv4');
+INSERT INTO `leaseweb_leaseweb-as28753_ips` (`ip_address`, `ip_type`) VALUES ('173.234.200.0/21', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as28753_ips` (`ip_address`, `ip_type`) VALUES ('176.96.140.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as28753_ips` (`ip_address`, `ip_type`) VALUES ('176.96.141.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as28753_ips` (`ip_address`, `ip_type`) VALUES ('176.102.173.0/24', 'IPv4');

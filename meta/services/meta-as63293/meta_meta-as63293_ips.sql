@@ -82,6 +82,7 @@ INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.1
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.137.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.139.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.140.0/24', 'IPv4');
+INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.143.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.144.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.156.0/24', 'IPv4');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('157.240.157.0/24', 'IPv4');
@@ -166,6 +167,7 @@ INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff69::/48', 'IPv6');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff6a::/48', 'IPv6');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff6b::/48', 'IPv6');
+INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff6c::/48', 'IPv6');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff6f::/48', 'IPv6');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff70::/48', 'IPv6');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2a03:2887:ff71::/48', 'IPv6');
