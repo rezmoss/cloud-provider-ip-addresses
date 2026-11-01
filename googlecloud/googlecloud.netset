@@ -1,6 +1,6 @@
 # googlecloud IP ranges - ipset restore format (hash:net)
-# Version: 25 | Generated: 2026-10-31 | Last changed: 2026-10-25
-# IPv4: 461 merged subnets, 19369344 unique IPs
+# Version: 26 | Generated: 2026-11-01 | Last changed: 2026-11-01
+# IPv4: 467 merged subnets, 19385472 unique IPs
 # IPv6: 28 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -289,9 +289,11 @@ add googlecloud_v4 34.183.120.0/22
 add googlecloud_v4 34.183.124.0/23
 add googlecloud_v4 34.183.128.0/22
 add googlecloud_v4 34.183.132.0/23
-add googlecloud_v4 34.183.136.0/22
-add googlecloud_v4 34.183.140.0/23
+add googlecloud_v4 34.183.136.0/21
 add googlecloud_v4 34.183.144.0/20
+add googlecloud_v4 34.183.160.0/21
+add googlecloud_v4 34.183.168.0/22
+add googlecloud_v4 34.183.172.0/23
 add googlecloud_v4 34.184.0.0/21
 add googlecloud_v4 34.184.8.0/23
 add googlecloud_v4 34.184.12.0/22
@@ -310,7 +312,12 @@ add googlecloud_v4 34.184.120.0/22
 add googlecloud_v4 34.184.126.0/23
 add googlecloud_v4 34.184.128.0/21
 add googlecloud_v4 34.184.136.0/22
+add googlecloud_v4 34.184.142.0/23
 add googlecloud_v4 34.184.144.0/20
+add googlecloud_v4 34.184.160.0/21
+add googlecloud_v4 34.184.168.0/23
+add googlecloud_v4 34.184.170.0/24
+add googlecloud_v4 34.184.172.0/23
 add googlecloud_v4 34.185.64.0/18
 add googlecloud_v4 34.185.128.0/17
 add googlecloud_v4 34.186.0.0/15
@@ -460,8 +467,7 @@ add googlecloud_v4 162.222.176.0/21
 add googlecloud_v4 173.255.112.0/20
 add googlecloud_v4 179.67.0.0/17
 add googlecloud_v4 179.69.128.0/17
-add googlecloud_v4 179.193.128.0/19
-add googlecloud_v4 179.193.192.0/18
+add googlecloud_v4 179.193.128.0/17
 add googlecloud_v4 179.199.0.0/17
 add googlecloud_v4 186.242.0.0/18
 add googlecloud_v4 192.158.28.0/22

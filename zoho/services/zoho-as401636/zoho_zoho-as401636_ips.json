@@ -64,17 +64,5 @@
     "ip_type": "IPv4",
     "service": "zoho-as401636",
     "region": "global"
-  },
-  {
-    "ip_address": "2604:b0::/32",
-    "ip_type": "IPv6",
-    "service": "zoho-as401636",
-    "region": "global"
-  },
-  {
-    "ip_address": "2604:b0::/48",
-    "ip_type": "IPv6",
-    "service": "zoho-as401636",
-    "region": "global"
   }
 ]

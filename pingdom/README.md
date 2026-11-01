@@ -1,6 +1,6 @@
 # Pingdom IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-10-31** · Total CIDRs: **210** · IPv4: **153** · IPv6: **57**
+> Last updated: **2026-11-01** · Total CIDRs: **210** · IPv4: **153** · IPv6: **57**
 
 Machine-readable, daily-updated, validated public IP ranges for **Pingdom**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

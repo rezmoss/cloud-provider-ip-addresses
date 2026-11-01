@@ -168,6 +168,12 @@
     "region": "us-west1"
   },
   {
+    "ip_address": "34.183.160.0/23",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west1"
+  },
+  {
     "ip_address": "34.184.24.0/22",
     "ip_type": "IPv4",
     "service": "Google Cloud",
@@ -187,6 +193,12 @@
   },
   {
     "ip_address": "34.184.123.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "us-west1"
+  },
+  {
+    "ip_address": "34.184.160.0/23",
     "ip_type": "IPv4",
     "service": "Google Cloud",
     "region": "us-west1"

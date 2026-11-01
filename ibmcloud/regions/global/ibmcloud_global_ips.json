@@ -288,6 +288,12 @@
     "region": "global"
   },
   {
+    "ip_address": "67.18.192.0/19",
+    "ip_type": "IPv4",
+    "service": "ibmcloud-as36351",
+    "region": "global"
+  },
+  {
     "ip_address": "67.214.212.0/24",
     "ip_type": "IPv4",
     "service": "ibmcloud-as36351",
@@ -1981,6 +1987,12 @@
   },
   {
     "ip_address": "208.43.192.0/19",
+    "ip_type": "IPv4",
+    "service": "ibmcloud-as36351",
+    "region": "global"
+  },
+  {
+    "ip_address": "208.43.224.0/19",
     "ip_type": "IPv4",
     "service": "ibmcloud-as36351",
     "region": "global"

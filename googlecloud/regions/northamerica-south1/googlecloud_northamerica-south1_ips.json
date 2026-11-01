@@ -24,6 +24,18 @@
     "region": "northamerica-south1"
   },
   {
+    "ip_address": "34.183.171.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-south1"
+  },
+  {
+    "ip_address": "34.184.170.0/24",
+    "ip_type": "IPv4",
+    "service": "Google Cloud",
+    "region": "northamerica-south1"
+  },
+  {
     "ip_address": "2600:1900:4290::/44",
     "ip_type": "IPv6",
     "service": "Google Cloud",

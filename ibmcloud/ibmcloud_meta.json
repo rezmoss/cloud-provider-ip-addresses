@@ -1,23 +1,23 @@
 {
   "provider": "ibmcloud",
-  "version": 9,
-  "generated_date": "2026-10-31",
-  "last_changed_date": "2026-09-26",
+  "version": 10,
+  "generated_date": "2026-11-01",
+  "last_changed_date": "2026-11-01",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 340,
+    "cidrs": 342,
     "merged_cidrs": 181,
-    "addresses": 3626496
+    "addresses": 3642880
   },
   "ipv6": {
     "cidrs": 73,
     "merged_cidrs": 36,
     "addresses": 98431949158842722033751556096
   },
-  "total_entries": 413,
-  "content_sha256": "7f15cf7dd110538c21e915b95fcd3bb4fa75b7ebc274e26ae201b947e5014365",
+  "total_entries": 415,
+  "content_sha256": "0e83a1fc2572b36cd674407a15b5acecd4fbd9d3fd23225047fcbcc0619d795b",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

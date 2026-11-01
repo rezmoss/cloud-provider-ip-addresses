@@ -17,5 +17,3 @@ INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('199.67.8
 INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('199.67.87.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('199.67.92.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('199.67.93.0/24', 'IPv4');
-INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('2604:b0::/32', 'IPv6');
-INSERT INTO `zoho_zoho-as401636_ips` (`ip_address`, `ip_type`) VALUES ('2604:b0::/48', 'IPv6');

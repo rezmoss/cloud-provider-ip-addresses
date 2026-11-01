@@ -1,5 +1,5 @@
 # internetarchive IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-10-31 | Last changed: 2026-10-22
+# Version: 2 | Generated: 2026-11-01 | Last changed: 2026-10-22
 # IPv4: 4 merged subnets, 7168 unique IPs
 # IPv6: 1 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

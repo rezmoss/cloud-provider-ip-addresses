@@ -61,7 +61,6 @@ INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('136.143.188.0/2
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('136.143.188.0/24', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('136.143.189.0/24', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('136.143.190.0/23', 'IPv4');
-INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('136.143.190.0/24', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('144.89.64.0/23', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('144.89.64.0/24', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('144.89.66.0/23', 'IPv4');
@@ -113,6 +112,7 @@ INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('169.148.139.0/2
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('169.148.140.0/23', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('169.148.142.0/23', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('169.148.142.0/24', 'IPv4');
+INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('169.148.143.0/24', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('169.148.144.0/23', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('169.148.146.0/23', 'IPv4');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('169.148.148.0/23', 'IPv4');
@@ -190,7 +190,5 @@ INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c00b::
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c00c::/48', 'IPv6');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c00d::/48', 'IPv6');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c00e::/48', 'IPv6');
-INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2604:b0::/32', 'IPv6');
-INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2604:b0::/48', 'IPv6');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2607:13c0:2::/47', 'IPv6');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2607:13c0:4::/47', 'IPv6');

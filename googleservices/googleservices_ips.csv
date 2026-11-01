@@ -150,8 +150,8 @@ ip_address,ip_type,service,region
 34.183.64.0/23,IPv4,google-services,global
 34.183.126.0/23,IPv4,google-services,global
 34.183.134.0/23,IPv4,google-services,global
-34.183.142.0/23,IPv4,google-services,global
-34.183.160.0/19,IPv4,google-services,global
+34.183.174.0/23,IPv4,google-services,global
+34.183.176.0/20,IPv4,google-services,global
 34.183.192.0/18,IPv4,google-services,global
 34.184.10.0/23,IPv4,google-services,global
 34.184.20.0/23,IPv4,google-services,global
@@ -159,8 +159,10 @@ ip_address,ip_type,service,region
 34.184.36.0/22,IPv4,google-services,global
 34.184.60.0/22,IPv4,google-services,global
 34.184.124.0/23,IPv4,google-services,global
-34.184.140.0/22,IPv4,google-services,global
-34.184.160.0/19,IPv4,google-services,global
+34.184.140.0/23,IPv4,google-services,global
+34.184.171.0/24,IPv4,google-services,global
+34.184.174.0/23,IPv4,google-services,global
+34.184.176.0/20,IPv4,google-services,global
 34.184.192.0/18,IPv4,google-services,global
 34.185.0.0/18,IPv4,google-services,global
 34.188.0.0/14,IPv4,google-services,global
@@ -251,7 +253,6 @@ ip_address,ip_type,service,region
 177.176.0.0/16,IPv4,google-services,global
 177.178.0.0/15,IPv4,google-services,global
 177.208.0.0/15,IPv4,google-services,global
-179.193.160.0/19,IPv4,google-services,global
 185.150.148.0/22,IPv4,google-services,global
 186.242.64.0/18,IPv4,google-services,global
 186.245.0.0/16,IPv4,google-services,global

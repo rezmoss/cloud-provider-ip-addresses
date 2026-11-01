@@ -120,12 +120,6 @@
     "region": "global"
   },
   {
-    "ip_address": "136.143.190.0/24",
-    "ip_type": "IPv4",
-    "service": "zoho-as2639",
-    "region": "global"
-  },
-  {
     "ip_address": "165.173.128.0/23",
     "ip_type": "IPv4",
     "service": "zoho-as2639",

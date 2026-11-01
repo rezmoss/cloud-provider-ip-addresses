@@ -48096,6 +48096,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2600:1404:5c00::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "2600:1404:6400::/48",
     "ip_type": "IPv6",
     "service": "akamai-as20940",
@@ -55123,6 +55129,12 @@
   },
   {
     "ip_address": "2a02:26f7:70::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as36183",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a02:26f7:74::/48",
     "ip_type": "IPv6",
     "service": "akamai-as36183",
     "region": "global"
