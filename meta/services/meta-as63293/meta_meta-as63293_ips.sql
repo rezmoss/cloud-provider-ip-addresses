@@ -180,3 +180,4 @@ INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:d::/48', 'IPv6');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:10::/48', 'IPv6');
 INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:11::/48', 'IPv6');
+INSERT INTO `meta_meta-as63293_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:12::/48', 'IPv6');

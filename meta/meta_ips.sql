@@ -767,3 +767,4 @@ INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:c::/48', 'IP
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:d::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:10::/48', 'IPv6');
 INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:11::/48', 'IPv6');
+INSERT INTO `meta_ips` (`ip_address`, `ip_type`) VALUES ('2c0f:ef78:12::/48', 'IPv6');

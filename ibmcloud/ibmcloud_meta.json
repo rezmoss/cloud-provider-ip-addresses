@@ -1,7 +1,7 @@
 {
   "provider": "ibmcloud",
   "version": 10,
-  "generated_date": "2026-11-01",
+  "generated_date": "2026-11-02",
   "last_changed_date": "2026-11-01",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

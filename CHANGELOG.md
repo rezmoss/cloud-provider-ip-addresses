@@ -2,6 +2,28 @@
 
 Daily IP range changes across all providers.
 
+## 2026-11-02
+
+### aws
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### stormwall
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### zoho
+- Added: 0 CIDRs
+- Removed: 2 CIDRs
+
+### meta
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### tor
+- Added: 19 CIDRs
+- Removed: 4 CIDRs
+
 ## 2026-11-01
 
 ### ibmcloud

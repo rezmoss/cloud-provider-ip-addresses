@@ -1,6 +1,6 @@
 #!/bin/bash
 # Stormwall IP Ranges
-# Updated: 2026-10-28 02:25:17
+# Updated: 2026-11-02 02:26:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10,7 +10,7 @@
 iptables -A INPUT -s 5.252.32.0/22 -j ACCEPT
 iptables -A INPUT -s 103.134.155.0/24 -j ACCEPT
 iptables -A INPUT -s 160.25.253.0/24 -j ACCEPT
-iptables -A INPUT -s 160.79.120.0/23 -j ACCEPT
+iptables -A INPUT -s 160.79.120.0/24 -j ACCEPT
 iptables -A INPUT -s 185.121.240.0/22 -j ACCEPT
 iptables -A INPUT -s 193.84.85.0/24 -j ACCEPT
 iptables -A INPUT -s 193.84.88.0/24 -j ACCEPT
