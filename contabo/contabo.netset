@@ -1,6 +1,6 @@
 # contabo IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-11-02 | Last changed: 2026-10-14
-# IPv4: 341 merged subnets, 760832 unique IPs
+# Version: 3 | Generated: 2026-11-03 | Last changed: 2026-11-03
+# IPv4: 343 merged subnets, 766976 unique IPs
 # IPv6: 6 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -20,6 +20,8 @@ add contabo_v4 13.140.32.0/20
 add contabo_v4 13.140.56.0/22
 add contabo_v4 13.140.64.0/20
 add contabo_v4 13.140.128.0/18
+add contabo_v4 13.140.200.0/21
+add contabo_v4 13.140.208.0/20
 add contabo_v4 13.140.224.0/19
 add contabo_v4 31.187.74.0/24
 add contabo_v4 31.220.72.0/21

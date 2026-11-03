@@ -30,6 +30,36 @@
     "region": "global"
   },
   {
+    "ip_address": "143.246.36.0/22",
+    "ip_type": "IPv4",
+    "service": "stormwall-as59796",
+    "region": "global"
+  },
+  {
+    "ip_address": "143.246.36.0/24",
+    "ip_type": "IPv4",
+    "service": "stormwall-as59796",
+    "region": "global"
+  },
+  {
+    "ip_address": "143.246.37.0/24",
+    "ip_type": "IPv4",
+    "service": "stormwall-as59796",
+    "region": "global"
+  },
+  {
+    "ip_address": "143.246.38.0/24",
+    "ip_type": "IPv4",
+    "service": "stormwall-as59796",
+    "region": "global"
+  },
+  {
+    "ip_address": "143.246.39.0/24",
+    "ip_type": "IPv4",
+    "service": "stormwall-as59796",
+    "region": "global"
+  },
+  {
     "ip_address": "160.25.253.0/24",
     "ip_type": "IPv4",
     "service": "stormwall-as59796",

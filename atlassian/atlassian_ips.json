@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "3.208.100.243/32",
+    "ip_type": "IPv4",
+    "service": "bitbucket",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "3.216.235.48/32",
     "ip_type": "IPv4",
     "service": "bitbucket",
@@ -301,6 +307,12 @@
   },
   {
     "ip_address": "44.199.127.226/32",
+    "ip_type": "IPv4",
+    "service": "bitbucket",
+    "region": "us-east-1"
+  },
+  {
+    "ip_address": "44.216.119.79/32",
     "ip_type": "IPv4",
     "service": "bitbucket",
     "region": "us-east-1"

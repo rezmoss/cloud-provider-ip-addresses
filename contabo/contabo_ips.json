@@ -156,6 +156,18 @@
     "region": "global"
   },
   {
+    "ip_address": "13.140.200.0/21",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "13.140.208.0/20",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
     "ip_address": "13.140.224.0/20",
     "ip_type": "IPv4",
     "service": "contabo-as40021",

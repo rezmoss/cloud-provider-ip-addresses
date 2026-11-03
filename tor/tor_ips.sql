@@ -20,7 +20,6 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('5.45.102.93/32', 'IPv4'
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('5.45.104.176/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('5.104.86.6/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('5.180.40.109/32', 'IPv4');
-INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('5.230.249.72/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('5.231.3.63/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('5.253.247.27/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('5.255.101.10/32', 'IPv4');
@@ -295,6 +294,7 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('31.129.22.65/32', 'IPv4
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('31.133.0.122/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('31.133.0.204/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('31.133.0.235/32', 'IPv4');
+INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('35.0.127.52/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('36.255.97.124/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('37.48.65.88/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('37.48.70.156/32', 'IPv4');
@@ -433,6 +433,7 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('81.17.28.95/32', 'IPv4'
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('81.90.116.201/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('81.181.104.22/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('81.232.160.94/32', 'IPv4');
+INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('82.21.4.173/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('82.39.155.148/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('82.47.0.200/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('82.118.248.205/32', 'IPv4');
@@ -504,6 +505,7 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('94.230.208.148/32', 'IP
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('95.128.43.164/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('95.135.208.24/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('95.143.193.125/32', 'IPv4');
+INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('95.179.161.253/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('95.211.239.220/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('102.68.99.63/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('102.130.113.9/32', 'IPv4');
@@ -520,7 +522,6 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('103.146.203.11/32', 'IP
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('103.146.203.14/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('103.146.203.120/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('103.164.54.199/32', 'IPv4');
-INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('103.166.187.253/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('103.193.179.22/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('103.193.179.213/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('104.167.241.4/32', 'IPv4');
@@ -532,6 +533,7 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('104.219.236.100/32', 'I
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('104.244.72.115/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('104.244.73.43/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('104.244.73.193/32', 'IPv4');
+INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('104.244.74.51/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('104.244.74.97/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('104.244.75.140/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('104.244.76.237/32', 'IPv4');
@@ -687,10 +689,12 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('172.245.84.5/32', 'IPv4
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('173.255.198.243/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('176.58.121.177/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('176.65.134.8/32', 'IPv4');
+INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('176.65.134.79/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('176.65.148.3/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('176.65.148.133/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('176.65.149.96/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('176.118.193.33/32', 'IPv4');
+INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('176.121.81.51/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('178.17.170.225/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('178.17.171.102/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('178.17.174.164/32', 'IPv4');
@@ -773,7 +777,6 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('185.170.114.25/32', 'IP
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('185.181.60.204/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('185.181.61.203/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('185.183.157.214/32', 'IPv4');
-INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('185.186.76.110/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('185.191.204.254/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('185.193.52.180/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('185.195.71.244/32', 'IPv4');
@@ -1100,9 +1103,9 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('198.98.50.199/32', 'IPv
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('198.98.57.151/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('198.98.61.60/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('198.98.62.158/32', 'IPv4');
-INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('198.167.206.134/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('198.167.206.158/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('198.167.206.194/32', 'IPv4');
+INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('198.167.206.215/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('199.19.77.18/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('200.122.181.2/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('202.181.177.92/32', 'IPv4');
@@ -1223,6 +1226,7 @@ INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('204.137.14.106/32', 'IP
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('204.194.29.4/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('205.185.113.8/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('205.185.113.180/32', 'IPv4');
+INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('205.185.117.149/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('205.185.121.164/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('205.185.121.170/32', 'IPv4');
 INSERT INTO `tor_ips` (`ip_address`, `ip_type`) VALUES ('205.185.123.93/32', 'IPv4');

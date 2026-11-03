@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-02T02:28:01.512717",
+  "generated": "2026-11-03T02:24:37.972795",
   "provider_count": 67,
-  "total_ipv4_addresses": 460673647,
-  "total_ipv6_addresses": 634925108185580211799522595745879,
-  "ipv4_space_coverage_pct": 10.7259,
+  "total_ipv4_addresses": 460816758,
+  "total_ipv6_addresses": 634845880023065947461929051795544,
+  "ipv4_space_coverage_pct": 10.7292,
   "providers": {
     "cloudflare": {
       "ipv4_cidrs": 15,
@@ -15,10 +15,10 @@
       "regions": 0
     },
     "aws": {
-      "ipv4_cidrs": 10718,
+      "ipv4_cidrs": 10722,
       "ipv6_cidrs": 7038,
-      "total_cidrs": 17756,
-      "ipv4_addresses": 188414027,
+      "total_cidrs": 17760,
+      "ipv4_addresses": 188415051,
       "ipv6_addresses": 3591181994935595109796848599053,
       "services": 27,
       "regions": 43
@@ -213,10 +213,10 @@
       "regions": 0
     },
     "atlassian": {
-      "ipv4_cidrs": 113,
+      "ipv4_cidrs": 115,
       "ipv6_cidrs": 60,
-      "total_cidrs": 173,
-      "ipv4_addresses": 82117,
+      "total_cidrs": 175,
+      "ipv4_addresses": 82119,
       "ipv6_addresses": 4955387967618033114855505920,
       "services": 12,
       "regions": 18
@@ -285,19 +285,19 @@
       "regions": 1
     },
     "alibaba": {
-      "ipv4_cidrs": 2175,
+      "ipv4_cidrs": 2182,
       "ipv6_cidrs": 268,
-      "total_cidrs": 2443,
-      "ipv4_addresses": 31590400,
+      "total_cidrs": 2450,
+      "ipv4_addresses": 31721728,
       "ipv6_addresses": 88196756419170947476590398799872,
       "services": 3,
       "regions": 1
     },
     "tencent": {
-      "ipv4_cidrs": 3341,
+      "ipv4_cidrs": 3342,
       "ipv6_cidrs": 73,
-      "total_cidrs": 3414,
-      "ipv4_addresses": 14978816,
+      "total_cidrs": 3415,
+      "ipv4_addresses": 14982912,
       "ipv6_addresses": 192334053271589428549879070720,
       "services": 2,
       "regions": 1
@@ -348,11 +348,11 @@
       "regions": 1
     },
     "leaseweb": {
-      "ipv4_cidrs": 1697,
-      "ipv6_cidrs": 367,
-      "total_cidrs": 2064,
-      "ipv4_addresses": 2401280,
-      "ipv6_addresses": 94510454927989901750906457686016,
+      "ipv4_cidrs": 1696,
+      "ipv6_cidrs": 366,
+      "total_cidrs": 2062,
+      "ipv4_addresses": 2399232,
+      "ipv6_addresses": 94431226765475637413312913735680,
       "services": 18,
       "regions": 1
     },
@@ -402,10 +402,10 @@
       "regions": 1
     },
     "tor": {
-      "ipv4_cidrs": 1237,
+      "ipv4_cidrs": 1241,
       "ipv6_cidrs": 0,
-      "total_cidrs": 1237,
-      "ipv4_addresses": 1237,
+      "total_cidrs": 1241,
+      "ipv4_addresses": 1241,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 1
@@ -438,11 +438,11 @@
       "regions": 0
     },
     "gcore": {
-      "ipv4_cidrs": 989,
-      "ipv6_cidrs": 850,
-      "total_cidrs": 1839,
-      "ipv4_addresses": 989,
-      "ipv6_addresses": 850,
+      "ipv4_cidrs": 990,
+      "ipv6_cidrs": 851,
+      "total_cidrs": 1841,
+      "ipv4_addresses": 990,
+      "ipv6_addresses": 851,
       "services": 0,
       "regions": 0
     },
@@ -510,10 +510,10 @@
       "regions": 1
     },
     "stormwall": {
-      "ipv4_cidrs": 14,
+      "ipv4_cidrs": 19,
       "ipv6_cidrs": 6,
-      "total_cidrs": 20,
-      "ipv4_addresses": 3584,
+      "total_cidrs": 25,
+      "ipv4_addresses": 5632,
       "ipv6_addresses": 7253554917687775048237056,
       "services": 1,
       "regions": 1
@@ -591,19 +591,19 @@
       "regions": 0
     },
     "contabo": {
-      "ipv4_cidrs": 749,
+      "ipv4_cidrs": 751,
       "ipv6_cidrs": 14,
-      "total_cidrs": 763,
-      "ipv4_addresses": 766464,
+      "total_cidrs": 765,
+      "ipv4_addresses": 772608,
       "ipv6_addresses": 1109194275199700726309615304704,
       "services": 3,
       "regions": 1
     },
     "play2go": {
-      "ipv4_cidrs": 206,
+      "ipv4_cidrs": 208,
       "ipv6_cidrs": 0,
-      "total_cidrs": 206,
-      "ipv4_addresses": 54272,
+      "total_cidrs": 208,
+      "ipv4_addresses": 54784,
       "ipv6_addresses": 0,
       "services": 1,
       "regions": 5

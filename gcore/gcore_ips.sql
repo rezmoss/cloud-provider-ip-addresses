@@ -422,6 +422,7 @@ INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('92.223.61.21/32', 'IP
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('92.223.63.4/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('92.223.63.5/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('92.223.63.6/32', 'IPv4');
+INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('92.223.63.7/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('92.223.63.8/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('92.223.63.9/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('92.223.63.10/32', 'IPv4');
@@ -1384,6 +1385,7 @@ INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:101:2801::2
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:111:2801::4/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:111:2801::5/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:111:2801::6/128', 'IPv6');
+INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:111:2801::7/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:111:2801::8/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:111:2801::9/128', 'IPv6');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('2a03:90c0:111:2801::10/128', 'IPv6');

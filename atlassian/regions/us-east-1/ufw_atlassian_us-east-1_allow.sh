@@ -1,12 +1,13 @@
 #!/bin/bash
 # Atlassian IP Ranges
-# Updated: 2026-06-25 03:23:21
+# Updated: 2026-11-03 02:21:52
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW allow rules for atlassian
 
+ufw allow from 3.208.100.243/32
 ufw allow from 3.216.235.48/32
 ufw allow from 3.221.151.112/32
 ufw allow from 18.234.32.224/28
@@ -22,6 +23,7 @@ ufw allow from 44.194.7.14/32
 ufw allow from 44.199.3.254/32
 ufw allow from 44.199.45.64/32
 ufw allow from 44.199.127.226/32
+ufw allow from 44.216.119.79/32
 ufw allow from 44.220.40.128/25
 ufw allow from 52.54.90.98/32
 ufw allow from 52.72.137.240/32

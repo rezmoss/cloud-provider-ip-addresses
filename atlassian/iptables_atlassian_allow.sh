@@ -1,12 +1,13 @@
 #!/bin/bash
 # Atlassian IP Ranges
-# Updated: 2026-10-28 02:24:09
+# Updated: 2026-11-03 02:21:52
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables allow rules for atlassian
 
+iptables -A INPUT -s 3.208.100.243/32 -j ACCEPT
 iptables -A INPUT -s 3.216.235.48/32 -j ACCEPT
 iptables -A INPUT -s 3.221.151.112/32 -j ACCEPT
 iptables -A INPUT -s 13.35.248.0/24 -j ACCEPT
@@ -51,6 +52,7 @@ iptables -A INPUT -s 44.194.7.14/32 -j ACCEPT
 iptables -A INPUT -s 44.199.3.254/32 -j ACCEPT
 iptables -A INPUT -s 44.199.45.64/32 -j ACCEPT
 iptables -A INPUT -s 44.199.127.226/32 -j ACCEPT
+iptables -A INPUT -s 44.216.119.79/32 -j ACCEPT
 iptables -A INPUT -s 44.220.40.128/25 -j ACCEPT
 iptables -A INPUT -s 52.19.227.102/32 -j ACCEPT
 iptables -A INPUT -s 52.24.176.31/32 -j ACCEPT

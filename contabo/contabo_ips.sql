@@ -32,6 +32,8 @@ INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('13.140.74.0/23', 'I
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('13.140.76.0/23', 'IPv4');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('13.140.78.0/23', 'IPv4');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('13.140.128.0/18', 'IPv4');
+INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('13.140.200.0/21', 'IPv4');
+INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('13.140.208.0/20', 'IPv4');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('13.140.224.0/20', 'IPv4');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('13.140.240.0/21', 'IPv4');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('13.140.248.0/22', 'IPv4');

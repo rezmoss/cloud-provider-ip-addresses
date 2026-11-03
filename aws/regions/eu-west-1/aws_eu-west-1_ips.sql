@@ -224,6 +224,8 @@ INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.55.21.0/24
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.72.0/22', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.72.0/22', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('35.71.72.0/22', 'IPv4');
+INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('40.163.2.0/24', 'IPv4');
+INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('40.163.2.0/24', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('40.180.0.0/15', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('40.180.0.0/15', 'IPv4');
 INSERT INTO `aws_eu-west-1_ips` (`ip_address`, `ip_type`) VALUES ('40.180.9.0/25', 'IPv4');

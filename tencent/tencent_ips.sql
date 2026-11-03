@@ -479,6 +479,7 @@ INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.180.0.0/16', 'IP
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.180.0.0/19', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.180.32.0/19', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.180.64.0/19', 'IPv4');
+INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.180.112.0/20', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.180.128.0/18', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.180.192.0/19', 'IPv4');
 INSERT INTO `tencent_ips` (`ip_address`, `ip_type`) VALUES ('43.180.224.0/20', 'IPv4');

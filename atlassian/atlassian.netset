@@ -1,6 +1,6 @@
 # atlassian IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-11-02 | Last changed: 2026-10-28
-# IPv4: 73 merged subnets, 77617 unique IPs
+# Version: 4 | Generated: 2026-11-03 | Last changed: 2026-11-03
+# IPv4: 75 merged subnets, 77619 unique IPs
 # IPv6: 14 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -8,6 +8,7 @@
 #
 create atlassian_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush atlassian_v4
+add atlassian_v4 3.208.100.243/32
 add atlassian_v4 3.216.235.48/32
 add atlassian_v4 3.221.151.112/32
 add atlassian_v4 13.35.248.0/24
@@ -52,6 +53,7 @@ add atlassian_v4 44.194.7.14/32
 add atlassian_v4 44.199.3.254/32
 add atlassian_v4 44.199.45.64/32
 add atlassian_v4 44.199.127.226/32
+add atlassian_v4 44.216.119.79/32
 add atlassian_v4 44.220.40.128/25
 add atlassian_v4 52.19.227.102/32
 add atlassian_v4 52.24.176.31/32

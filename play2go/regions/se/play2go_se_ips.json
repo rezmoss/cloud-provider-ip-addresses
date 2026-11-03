@@ -90,6 +90,12 @@
     "region": "se"
   },
   {
+    "ip_address": "177.202.72.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "se"
+  },
+  {
     "ip_address": "193.25.216.0/24",
     "ip_type": "IPv4",
     "service": "play2go",

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-11-01 02:22:19
+# Updated: 2026-11-03 02:22:28
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -202,6 +202,7 @@ iptables -A INPUT -s 82.39.216.0/22 -j DROP
 iptables -A INPUT -s 82.39.224.0/22 -j DROP
 iptables -A INPUT -s 82.40.0.0/20 -j DROP
 iptables -A INPUT -s 82.40.16.0/22 -j DROP
+iptables -A INPUT -s 82.41.40.0/24 -j DROP
 iptables -A INPUT -s 82.41.44.0/22 -j DROP
 iptables -A INPUT -s 82.41.52.0/22 -j DROP
 iptables -A INPUT -s 82.41.68.0/22 -j DROP
@@ -545,7 +546,6 @@ iptables -A INPUT -s 188.220.38.0/24 -j DROP
 iptables -A INPUT -s 188.220.150.0/24 -j DROP
 iptables -A INPUT -s 188.220.202.0/24 -j DROP
 iptables -A INPUT -s 188.255.193.0/24 -j DROP
-iptables -A INPUT -s 191.44.99.0/24 -j DROP
 iptables -A INPUT -s 191.96.13.0/24 -j DROP
 iptables -A INPUT -s 191.96.140.0/23 -j DROP
 iptables -A INPUT -s 191.101.150.0/24 -j DROP
