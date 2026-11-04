@@ -2724,6 +2724,12 @@
     "region": "global"
   },
   {
+    "ip_address": "78.18.0.0/15",
+    "ip_type": "IPv4",
+    "service": "hetzner-as24940",
+    "region": "global"
+  },
+  {
     "ip_address": "78.46.0.0/15",
     "ip_type": "IPv4",
     "service": "hetzner-as24940",

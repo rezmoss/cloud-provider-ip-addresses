@@ -13,4 +13,5 @@ INSERT INTO `azure_apimanagement.westus2_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_apimanagement.westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.83.221.86/31', 'IPv4');
 INSERT INTO `azure_apimanagement.westus2_ips` (`ip_address`, `ip_type`) VALUES ('51.143.127.203/32', 'IPv4');
 INSERT INTO `azure_apimanagement.westus2_ips` (`ip_address`, `ip_type`) VALUES ('52.183.115.244/32', 'IPv4');
+INSERT INTO `azure_apimanagement.westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.135.140/30', 'IPv4');
 INSERT INTO `azure_apimanagement.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:400::940/124', 'IPv6');

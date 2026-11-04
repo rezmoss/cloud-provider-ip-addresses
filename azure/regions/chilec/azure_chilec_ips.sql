@@ -134,6 +134,7 @@ INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.30.6/32
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.31.64/27', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.31.176/29', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.31.220/30', 'IPv4');
+INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.33.20/30', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.128.0/18', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.152.0/29', 'IPv4');
 INSERT INTO `azure_chilec_ips` (`ip_address`, `ip_type`) VALUES ('68.211.152.12/30', 'IPv4');

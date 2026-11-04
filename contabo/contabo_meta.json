@@ -1,7 +1,7 @@
 {
   "provider": "contabo",
   "version": 3,
-  "generated_date": "2026-11-03",
+  "generated_date": "2026-11-04",
   "last_changed_date": "2026-11-03",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

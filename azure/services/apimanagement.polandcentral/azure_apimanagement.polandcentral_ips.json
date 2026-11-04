@@ -6,6 +6,12 @@
     "region": "polandcentral"
   },
   {
+    "ip_address": "74.248.243.208/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.PolandCentral",
+    "region": "polandcentral"
+  },
+  {
     "ip_address": "2603:1020:1302::600/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.PolandCentral",

@@ -276,6 +276,12 @@
     "region": "austriaeast"
   },
   {
+    "ip_address": "68.210.1.12/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.AustriaEast",
+    "region": "austriaeast"
+  },
+  {
     "ip_address": "68.210.28.0/27",
     "ip_type": "IPv4",
     "service": "DataFactory.AustriaEast",

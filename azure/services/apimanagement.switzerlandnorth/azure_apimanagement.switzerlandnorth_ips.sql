@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.switzerlandnorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_apimanagement.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('20.250.248.208/30', 'IPv4');
 INSERT INTO `azure_apimanagement.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.0.91/32', 'IPv4');
 INSERT INTO `azure_apimanagement.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.59.0/28', 'IPv4');
 INSERT INTO `azure_apimanagement.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.246.176/28', 'IPv4');

@@ -648,6 +648,12 @@
     "region": "newzealandnorth"
   },
   {
+    "ip_address": "172.204.108.136/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
     "ip_address": "172.204.131.225/32",
     "ip_type": "IPv4",
     "service": "LogicApps.NewZealandNorth",

@@ -85,11 +85,6 @@
     "region": "US-IL"
   },
   {
-    "ip_address": "68.232.182.0/24",
-    "ip_type": "IPv4",
-    "region": "US-IL"
-  },
-  {
     "ip_address": "68.232.183.0/24",
     "ip_type": "IPv4",
     "region": "US-IL"

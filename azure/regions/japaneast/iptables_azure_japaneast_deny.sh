@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-10-30 02:19:58
+# Updated: 2026-11-04 02:17:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -143,7 +143,18 @@ iptables -A INPUT -s 48.208.32.0/24 -j DROP
 iptables -A INPUT -s 48.208.189.0/24 -j DROP
 iptables -A INPUT -s 48.208.190.0/23 -j DROP
 iptables -A INPUT -s 48.208.192.0/23 -j DROP
-iptables -A INPUT -s 48.210.0.0/16 -j DROP
+iptables -A INPUT -s 48.210.0.0/18 -j DROP
+iptables -A INPUT -s 48.210.64.0/19 -j DROP
+iptables -A INPUT -s 48.210.96.0/20 -j DROP
+iptables -A INPUT -s 48.210.112.0/26 -j DROP
+iptables -A INPUT -s 48.210.112.64/27 -j DROP
+iptables -A INPUT -s 48.210.112.96/28 -j DROP
+iptables -A INPUT -s 48.210.112.128/25 -j DROP
+iptables -A INPUT -s 48.210.113.0/24 -j DROP
+iptables -A INPUT -s 48.210.114.0/23 -j DROP
+iptables -A INPUT -s 48.210.116.0/22 -j DROP
+iptables -A INPUT -s 48.210.120.0/21 -j DROP
+iptables -A INPUT -s 48.210.128.0/17 -j DROP
 iptables -A INPUT -s 48.212.12.0/24 -j DROP
 iptables -A INPUT -s 48.212.140.0/24 -j DROP
 iptables -A INPUT -s 48.213.12.0/24 -j DROP
@@ -233,7 +244,15 @@ iptables -A INPUT -s 104.44.91.224/27 -j DROP
 iptables -A INPUT -s 104.44.94.112/28 -j DROP
 iptables -A INPUT -s 104.46.208.0/20 -j DROP
 iptables -A INPUT -s 130.33.0.0/16 -j DROP
-iptables -A INPUT -s 135.149.0.0/17 -j DROP
+iptables -A INPUT -s 135.149.0.0/19 -j DROP
+iptables -A INPUT -s 135.149.32.0/20 -j DROP
+iptables -A INPUT -s 135.149.48.0/22 -j DROP
+iptables -A INPUT -s 135.149.52.0/23 -j DROP
+iptables -A INPUT -s 135.149.54.0/25 -j DROP
+iptables -A INPUT -s 135.149.54.192/26 -j DROP
+iptables -A INPUT -s 135.149.55.0/24 -j DROP
+iptables -A INPUT -s 135.149.56.0/21 -j DROP
+iptables -A INPUT -s 135.149.64.0/18 -j DROP
 iptables -A INPUT -s 138.91.0.0/20 -j DROP
 iptables -A INPUT -s 145.190.55.0/24 -j DROP
 iptables -A INPUT -s 145.190.56.0/23 -j DROP

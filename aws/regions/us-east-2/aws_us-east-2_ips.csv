@@ -530,6 +530,8 @@ ip_address,ip_type,service,region
 173.83.192.0/22,IPv4,EC2,us-east-2
 173.83.228.0/22,IPv4,AMAZON,us-east-2
 173.83.228.0/22,IPv4,EC2,us-east-2
+173.83.239.0/24,IPv4,AMAZON,us-east-2
+173.83.239.0/24,IPv4,EC2,us-east-2
 192.43.184.0/24,IPv4,AMAZON,us-east-2
 192.43.184.0/24,IPv4,EC2,us-east-2
 192.189.197.0/24,IPv4,AMAZON,us-east-2

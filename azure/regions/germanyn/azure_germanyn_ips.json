@@ -1,6 +1,6 @@
 [
   {
-    "ip_address": "4.184.0.0/20",
+    "ip_address": "4.184.0.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanyn",
     "region": "germanyn"
@@ -45,6 +45,48 @@
     "ip_address": "4.184.4.0/26",
     "ip_type": "IPv4",
     "service": "ServiceBus.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "4.184.8.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "4.184.12.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "4.184.12.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "4.184.12.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "4.184.12.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "4.184.13.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "4.184.14.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.germanyn",
     "region": "germanyn"
   },
   {

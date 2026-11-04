@@ -1759,6 +1759,7 @@ INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('137.117.
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('138.91.9.98/32', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('138.91.32.98/32', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('138.91.37.93/32', 'IPv4');
+INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('145.133.208.0/26', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('145.191.144.64/28', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('145.191.148.176/28', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('145.191.183.96/30', 'IPv4');
@@ -1819,6 +1820,7 @@ INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('172.165.
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('172.165.26.32/28', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('172.165.84.176/28', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('172.165.100.0/25', 'IPv4');
+INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('172.166.7.160/28', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('172.169.155.0/24', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('172.170.16.192/26', 'IPv4');
 INSERT INTO `azure_azuremonitor_ips` (`ip_address`, `ip_type`) VALUES ('172.170.178.64/26', 'IPv4');

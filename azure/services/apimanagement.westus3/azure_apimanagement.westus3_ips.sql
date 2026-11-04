@@ -8,4 +8,5 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.westus3_ips` (
 
 INSERT INTO `azure_apimanagement.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.167.160/28', 'IPv4');
 INSERT INTO `azure_apimanagement.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.170.224/28', 'IPv4');
+INSERT INTO `azure_apimanagement.westus3_ips` (`ip_address`, `ip_type`) VALUES ('172.182.17.152/30', 'IPv4');
 INSERT INTO `azure_apimanagement.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:2::80/124', 'IPv6');

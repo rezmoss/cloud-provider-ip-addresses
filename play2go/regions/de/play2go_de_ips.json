@@ -504,6 +504,18 @@
     "region": "de"
   },
   {
+    "ip_address": "177.202.73.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
+    "ip_address": "177.202.74.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
     "ip_address": "178.215.236.0/24",
     "ip_type": "IPv4",
     "service": "play2go",

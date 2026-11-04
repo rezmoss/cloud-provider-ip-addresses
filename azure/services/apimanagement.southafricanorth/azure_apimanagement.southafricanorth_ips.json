@@ -42,6 +42,12 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "172.209.182.104/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "172.209.191.124/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.SouthAfricaNorth",

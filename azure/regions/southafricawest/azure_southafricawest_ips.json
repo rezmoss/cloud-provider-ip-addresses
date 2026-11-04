@@ -1326,7 +1326,7 @@
     "region": "southafricawest"
   },
   {
-    "ip_address": "172.209.0.0/17",
+    "ip_address": "172.209.0.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricawest",
     "region": "southafricawest"
@@ -1416,6 +1416,60 @@
     "region": "southafricawest"
   },
   {
+    "ip_address": "172.209.16.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.24.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.28.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.28.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.28.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.28.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.29.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.30.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
+    "region": "southafricawest"
+  },
+  {
     "ip_address": "172.209.42.96/27",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.SouthAfricaWest",
@@ -1443,6 +1497,12 @@
     "ip_address": "172.209.50.0/26",
     "ip_type": "IPv4",
     "service": "AzureSecurityCenter.SouthAfricaWest",
+    "region": "southafricawest"
+  },
+  {
+    "ip_address": "172.209.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southafricawest",
     "region": "southafricawest"
   },
   {

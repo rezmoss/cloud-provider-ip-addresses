@@ -78,6 +78,12 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "145.190.202.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "2603:1040:905::/48",
     "ip_type": "IPv6",
     "service": "Storage.UAENorth",

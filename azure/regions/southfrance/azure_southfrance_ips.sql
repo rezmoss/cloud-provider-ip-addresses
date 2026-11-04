@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_southfrance_ips` (
 
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.208.0/20', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.217.0/29', 'IPv4');
-INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.0/19', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.0/21', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.160/29', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.180/30', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.184/29', 'IPv4');
@@ -24,6 +24,14 @@ INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.231
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.231.56/31', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.231.80/28', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.231.96/27', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.232.0/23', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.234.0/24', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.235.0/26', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.235.80/28', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.235.96/27', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.235.128/25', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.236.0/22', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.240.0/20', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.247.32/27', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('13.104.150.192/26', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('13.104.151.0/26', 'IPv4');

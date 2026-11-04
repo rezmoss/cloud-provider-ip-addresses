@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.indiasouthcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_apimanagement.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.37.64/30', 'IPv4');
 INSERT INTO `azure_apimanagement.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('172.198.86.16/28', 'IPv4');
 INSERT INTO `azure_apimanagement.indiasouthcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1904::740/124', 'IPv6');

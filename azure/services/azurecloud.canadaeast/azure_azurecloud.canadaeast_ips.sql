@@ -8,7 +8,17 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.canadaeast_ips` (
 
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.229.0.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.239.0.0/17', 'IPv4');
-INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.0.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.0.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.64.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.96.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.104.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.106.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.106.128/26', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.106.192/27', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.106.224/28', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.107.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.108.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('4.248.112.0/20', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('13.104.154.128/25', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('13.104.173.192/27', 'IPv4');
 INSERT INTO `azure_azurecloud.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.20.129.0/24', 'IPv4');

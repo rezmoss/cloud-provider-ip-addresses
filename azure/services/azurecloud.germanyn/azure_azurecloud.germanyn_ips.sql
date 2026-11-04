@@ -6,7 +6,14 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.germanyn_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.0.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.0.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.8.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.12.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.12.128/27', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.12.176/28', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.12.192/26', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.13.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('4.184.14.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.42.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.germanyn_ips` (`ip_address`, `ip_type`) VALUES ('9.129.66.192/27', 'IPv4');

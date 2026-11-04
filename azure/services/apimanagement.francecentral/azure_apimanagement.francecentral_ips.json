@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.211.144.240/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "4.212.6.194/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.FranceCentral",

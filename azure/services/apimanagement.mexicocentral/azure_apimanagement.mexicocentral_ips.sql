@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.mexicocentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_apimanagement.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('68.155.250.56/30', 'IPv4');
 INSERT INTO `azure_apimanagement.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('158.23.100.128/28', 'IPv4');
 INSERT INTO `azure_apimanagement.mexicocentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:702::5c0/124', 'IPv6');

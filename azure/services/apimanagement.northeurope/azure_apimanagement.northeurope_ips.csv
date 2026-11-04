@@ -5,6 +5,7 @@ ip_address,ip_type,service,region
 40.112.94.196/32,IPv4,ApiManagement.NorthEurope,northeurope
 52.142.95.35/32,IPv4,ApiManagement.NorthEurope,northeurope
 52.146.139.194/31,IPv4,ApiManagement.NorthEurope,northeurope
+74.144.43.96/30,IPv4,ApiManagement.NorthEurope,northeurope
 104.41.217.243/32,IPv4,ApiManagement.NorthEurope,northeurope
 104.41.218.160/32,IPv4,ApiManagement.NorthEurope,northeurope
 134.149.92.118/31,IPv4,ApiManagement.NorthEurope,northeurope

@@ -12,6 +12,7 @@ INSERT INTO `azure_apimanagement.northeurope_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_apimanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('40.112.94.196/32', 'IPv4');
 INSERT INTO `azure_apimanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.142.95.35/32', 'IPv4');
 INSERT INTO `azure_apimanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.146.139.194/31', 'IPv4');
+INSERT INTO `azure_apimanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.43.96/30', 'IPv4');
 INSERT INTO `azure_apimanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('104.41.217.243/32', 'IPv4');
 INSERT INTO `azure_apimanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('104.41.218.160/32', 'IPv4');
 INSERT INTO `azure_apimanagement.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('134.149.92.118/31', 'IPv4');

@@ -1854,6 +1854,18 @@
     "region": "global"
   },
   {
+    "ip_address": "159.198.136.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
+    "ip_address": "159.198.137.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
     "ip_address": "159.254.0.0/16",
     "ip_type": "IPv4",
     "service": "zscaler-as22616",

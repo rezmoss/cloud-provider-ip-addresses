@@ -36,6 +36,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "57.175.74.168/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "57.175.109.252/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.CentralUS",

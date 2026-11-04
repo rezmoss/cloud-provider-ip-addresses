@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.belgiumcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_apimanagement.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.17.12/30', 'IPv4');
 INSERT INTO `azure_apimanagement.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.43.176/28', 'IPv4');
 INSERT INTO `azure_apimanagement.belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502::520/124', 'IPv6');

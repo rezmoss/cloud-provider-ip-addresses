@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.189.210.116/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "4.216.20.126/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.JapanEast",

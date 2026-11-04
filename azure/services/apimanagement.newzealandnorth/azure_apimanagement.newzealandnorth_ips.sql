@@ -6,5 +6,6 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.newzealandnorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_apimanagement.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.108.136/30', 'IPv4');
 INSERT INTO `azure_apimanagement.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.204.154.240/28', 'IPv4');
 INSERT INTO `azure_apimanagement.newzealandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:502::5a0/124', 'IPv6');

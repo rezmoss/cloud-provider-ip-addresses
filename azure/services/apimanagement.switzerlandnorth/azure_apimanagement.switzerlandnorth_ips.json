@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.250.248.208/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "51.107.0.91/32",
     "ip_type": "IPv4",
     "service": "ApiManagement.SwitzerlandNorth",

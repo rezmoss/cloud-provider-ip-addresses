@@ -1,6 +1,6 @@
 [
   {
-    "ip_address": "4.170.0.0/15",
+    "ip_address": "4.170.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.qatarcentral",
     "region": "qatarcentral"
@@ -57,6 +57,12 @@
     "ip_address": "4.170.31.128/25",
     "ip_type": "IPv4",
     "service": "AzureMonitor.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.0.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
     "region": "qatarcentral"
   },
   {
@@ -144,6 +150,60 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "4.171.32.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.40.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.42.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.43.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.43.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.43.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.43.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.44.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.48.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "4.171.52.120/29",
     "ip_type": "IPv4",
     "service": "StorageSyncService.QatarCentral",
@@ -153,6 +213,18 @@
     "ip_address": "4.171.53.128/25",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.171.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.qatarcentral",
     "region": "qatarcentral"
   },
   {
@@ -183,6 +255,12 @@
     "ip_address": "4.244.56.0/21",
     "ip_type": "IPv4",
     "service": "AzureEventGrid.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "4.244.154.84/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.QatarCentral",
     "region": "qatarcentral"
   },
   {

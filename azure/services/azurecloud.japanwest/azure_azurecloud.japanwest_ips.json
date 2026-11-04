@@ -1,6 +1,66 @@
 [
   {
-    "ip_address": "4.190.128.0/17",
+    "ip_address": "4.190.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.192.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.224.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.240.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.244.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.245.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.245.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.245.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.245.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.246.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japanwest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "4.190.248.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.japanwest",
     "region": "japanwest"

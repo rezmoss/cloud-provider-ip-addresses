@@ -1,18 +1,258 @@
 [
   {
-    "ip_address": "4.172.0.0/15",
+    "ip_address": "4.172.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
   },
   {
-    "ip_address": "4.174.0.0/16",
+    "ip_address": "4.173.0.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
   },
   {
-    "ip_address": "4.204.0.0/15",
+    "ip_address": "4.173.32.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.48.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.56.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.60.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.61.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.61.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.61.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.61.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.62.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.173.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.192.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.224.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.232.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.236.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.238.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.238.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.238.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.238.240/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.239.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.240.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.0.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.16.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.20.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.21.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.21.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.21.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.21.208/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.21.218/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.21.220/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.21.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.22.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.23.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.23.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.24.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.204.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.205.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"
@@ -816,7 +1056,61 @@
     "region": "canadacentral"
   },
   {
-    "ip_address": "130.107.0.0/16",
+    "ip_address": "130.107.0.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "130.107.64.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "130.107.80.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "130.107.88.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "130.107.90.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "130.107.90.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "130.107.91.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "130.107.92.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "130.107.96.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.canadacentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "130.107.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.canadacentral",
     "region": "canadacentral"

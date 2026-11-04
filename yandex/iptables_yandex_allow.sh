@@ -1,6 +1,6 @@
 #!/bin/bash
 # Yandex IP Ranges
-# Updated: 2026-10-19 02:33:51
+# Updated: 2026-11-04 02:22:22
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -15,7 +15,6 @@ iptables -A INPUT -s 37.140.128.0/18 -j ACCEPT
 iptables -A INPUT -s 37.230.168.0/23 -j ACCEPT
 iptables -A INPUT -s 37.230.172.0/22 -j ACCEPT
 iptables -A INPUT -s 46.21.244.0/22 -j ACCEPT
-iptables -A INPUT -s 46.243.209.0/24 -j ACCEPT
 iptables -A INPUT -s 46.243.210.0/23 -j ACCEPT
 iptables -A INPUT -s 51.250.0.0/17 -j ACCEPT
 iptables -A INPUT -s 62.84.112.0/20 -j ACCEPT

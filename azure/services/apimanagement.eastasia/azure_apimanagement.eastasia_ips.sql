@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.eastasia_ips` (
 INSERT INTO `azure_apimanagement.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.75.34.148/31', 'IPv4');
 INSERT INTO `azure_apimanagement.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.75.38.16/28', 'IPv4');
 INSERT INTO `azure_apimanagement.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.75.67.143/32', 'IPv4');
+INSERT INTO `azure_apimanagement.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.6.192.72/30', 'IPv4');
 INSERT INTO `azure_apimanagement.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.6.203.30/31', 'IPv4');
 INSERT INTO `azure_apimanagement.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.6.204.12/30', 'IPv4');
 INSERT INTO `azure_apimanagement.eastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.6.204.32/29', 'IPv4');

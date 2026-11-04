@@ -5165,6 +5165,16 @@
     "region": "SG-05"
   },
   {
+    "ip_address": "201.79.112.0/20",
+    "ip_type": "IPv4",
+    "region": "SG-05"
+  },
+  {
+    "ip_address": "201.79.128.0/20",
+    "ip_type": "IPv4",
+    "region": "US-VA"
+  },
+  {
     "ip_address": "204.48.16.0/20",
     "ip_type": "IPv4",
     "region": "US-NJ"

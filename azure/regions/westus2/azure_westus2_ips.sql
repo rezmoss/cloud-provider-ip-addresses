@@ -335,6 +335,7 @@ INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.150.107.0/
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.152.4.0/23', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.152.96.0/23', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.152.128.0/23', 'IPv4');
+INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.152.134.0/23', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.153.24.0/24', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.153.24.0/24', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.153.47.0/24', 'IPv4');
@@ -901,6 +902,7 @@ INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('70.152.66.0/2
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('72.154.0.0/17', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('72.154.50.32/27', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.128.0/17', 'IPv4');
+INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.135.140/30', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.151.160/27', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.190.244/30', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.191.88/29', 'IPv4');
@@ -961,6 +963,8 @@ INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('145.190.162.0
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('145.190.162.0/24', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('145.190.188.0/24', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('145.190.188.0/24', 'IPv4');
+INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('145.190.199.0/24', 'IPv4');
+INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('145.190.199.0/24', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('151.206.79.0/25', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('151.206.106.0/24', 'IPv4');
 INSERT INTO `azure_westus2_ips` (`ip_address`, `ip_type`) VALUES ('151.206.135.0/24', 'IPv4');

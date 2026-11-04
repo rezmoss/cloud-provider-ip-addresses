@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-10-30 02:19:58
+# Updated: 2026-11-04 02:17:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,7 +9,17 @@
 
 iptables -A INPUT -s 4.198.64.0/18 -j ACCEPT
 iptables -A INPUT -s 4.198.128.0/19 -j ACCEPT
-iptables -A INPUT -s 4.199.0.0/17 -j ACCEPT
+iptables -A INPUT -s 4.199.0.0/19 -j ACCEPT
+iptables -A INPUT -s 4.199.32.0/20 -j ACCEPT
+iptables -A INPUT -s 4.199.48.0/21 -j ACCEPT
+iptables -A INPUT -s 4.199.56.0/22 -j ACCEPT
+iptables -A INPUT -s 4.199.60.0/24 -j ACCEPT
+iptables -A INPUT -s 4.199.61.0/27 -j ACCEPT
+iptables -A INPUT -s 4.199.61.48/28 -j ACCEPT
+iptables -A INPUT -s 4.199.61.64/26 -j ACCEPT
+iptables -A INPUT -s 4.199.61.128/25 -j ACCEPT
+iptables -A INPUT -s 4.199.62.0/23 -j ACCEPT
+iptables -A INPUT -s 4.199.64.0/18 -j ACCEPT
 iptables -A INPUT -s 4.200.128.0/17 -j ACCEPT
 iptables -A INPUT -s 9.129.51.192/26 -j ACCEPT
 iptables -A INPUT -s 9.129.56.0/27 -j ACCEPT
@@ -125,6 +135,7 @@ iptables -A INPUT -s 57.157.168.48/29 -j ACCEPT
 iptables -A INPUT -s 57.157.168.56/30 -j ACCEPT
 iptables -A INPUT -s 57.157.168.60/31 -j ACCEPT
 iptables -A INPUT -s 57.163.56.0/23 -j ACCEPT
+iptables -A INPUT -s 57.163.96.0/23 -j ACCEPT
 iptables -A INPUT -s 68.218.160.0/19 -j ACCEPT
 iptables -A INPUT -s 70.152.1.0/24 -j ACCEPT
 iptables -A INPUT -s 70.152.219.0/24 -j ACCEPT
@@ -139,6 +150,7 @@ iptables -A INPUT -s 135.130.3.0/24 -j ACCEPT
 iptables -A INPUT -s 135.130.40.0/24 -j ACCEPT
 iptables -A INPUT -s 145.190.182.0/24 -j ACCEPT
 iptables -A INPUT -s 145.190.190.0/24 -j ACCEPT
+iptables -A INPUT -s 145.190.201.0/24 -j ACCEPT
 iptables -A INPUT -s 151.206.89.0/24 -j ACCEPT
 iptables -A INPUT -s 151.206.191.0/24 -j ACCEPT
 iptables -A INPUT -s 191.239.160.0/19 -j ACCEPT
@@ -147,7 +159,85 @@ iptables -A INPUT -s 209.199.33.240/28 -j ACCEPT
 iptables -A INPUT -s 209.199.35.128/25 -j ACCEPT
 iptables -A INPUT -s 209.199.45.128/25 -j ACCEPT
 iptables -A INPUT -s 209.199.46.0/25 -j ACCEPT
-ip6tables -A INPUT -s 2603:1010:100::/40 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:100::/48 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101::/62 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:4::/63 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:6::/64 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::/118 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::600/119 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::800/117 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::1000/116 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::2000/115 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::4000/114 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::8000/113 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::1:0/112 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::2:0/111 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::4:0/110 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::8:0/109 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::10:0/108 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::20:0/107 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::40:0/106 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::80:0/105 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::100:0/104 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::200:0/103 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::400:0/102 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::800:0/101 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::1000:0/100 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::2000:0/99 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::4000:0/98 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7::8000:0/97 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:1::/96 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:2::/95 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:4::/94 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:8::/93 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:10::/92 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:20::/91 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:40::/90 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:80::/89 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:100::/88 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:200::/87 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:400::/86 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:800::/85 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:1000::/84 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:2000::/83 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:4000::/82 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:0:8000::/81 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:1::/80 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:2::/79 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:4::/78 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:8::/77 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:10::/76 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:20::/75 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:40::/74 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:80::/73 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:100::/72 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:200::/71 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:400::/70 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:800::/69 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:1000::/68 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:2000::/67 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:4000::/66 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:7:8000::/65 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:8::/61 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:10::/60 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:20::/59 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:40::/58 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:80::/57 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:100::/56 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:200::/55 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:400::/54 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:800::/53 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:1000::/52 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:2000::/51 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:4000::/50 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:101:8000::/49 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:102::/47 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:104::/46 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:108::/45 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:110::/44 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:120::/43 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:140::/42 -j ACCEPT
+ip6tables -A INPUT -s 2603:1010:180::/41 -j ACCEPT
 ip6tables -A INPUT -s 2603:1010:200::/47 -j ACCEPT
 ip6tables -A INPUT -s 2603:1010:202::/48 -j ACCEPT
 ip6tables -A INPUT -s 2603:1010:204::/46 -j ACCEPT

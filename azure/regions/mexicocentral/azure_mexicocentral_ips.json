@@ -468,6 +468,12 @@
     "region": "mexicocentral"
   },
   {
+    "ip_address": "68.155.250.56/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
     "ip_address": "70.152.44.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.mexicocentral",

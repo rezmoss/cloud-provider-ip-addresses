@@ -804,6 +804,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "20.6.192.72/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.6.203.30/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.EastAsia",

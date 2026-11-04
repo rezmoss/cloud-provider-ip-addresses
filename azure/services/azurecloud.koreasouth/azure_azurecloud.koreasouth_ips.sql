@@ -6,7 +6,18 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.koreasouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.0.0/16', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.0.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.32.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.48.0/21', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.56.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.58.0/25', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.58.128/26', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.58.192/27', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.58.224/28', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.59.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.60.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.64.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.128.0/17', 'IPv4');
 INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('13.104.157.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.39.168.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.47.47.0/24', 'IPv4');

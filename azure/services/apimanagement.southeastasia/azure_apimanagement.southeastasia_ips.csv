@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.145.226.12/30,IPv4,ApiManagement.SoutheastAsia,southeastasia
 4.146.0.14/31,IPv4,ApiManagement.SoutheastAsia,southeastasia
 4.146.0.232/29,IPv4,ApiManagement.SoutheastAsia,southeastasia
 4.146.0.240/30,IPv4,ApiManagement.SoutheastAsia,southeastasia

@@ -537,6 +537,8 @@ INSERT INTO `aws_us-east-2_ips` (`ip_address`, `ip_type`) VALUES ('173.83.192.0/
 INSERT INTO `aws_us-east-2_ips` (`ip_address`, `ip_type`) VALUES ('173.83.192.0/22', 'IPv4');
 INSERT INTO `aws_us-east-2_ips` (`ip_address`, `ip_type`) VALUES ('173.83.228.0/22', 'IPv4');
 INSERT INTO `aws_us-east-2_ips` (`ip_address`, `ip_type`) VALUES ('173.83.228.0/22', 'IPv4');
+INSERT INTO `aws_us-east-2_ips` (`ip_address`, `ip_type`) VALUES ('173.83.239.0/24', 'IPv4');
+INSERT INTO `aws_us-east-2_ips` (`ip_address`, `ip_type`) VALUES ('173.83.239.0/24', 'IPv4');
 INSERT INTO `aws_us-east-2_ips` (`ip_address`, `ip_type`) VALUES ('192.43.184.0/24', 'IPv4');
 INSERT INTO `aws_us-east-2_ips` (`ip_address`, `ip_type`) VALUES ('192.43.184.0/24', 'IPv4');
 INSERT INTO `aws_us-east-2_ips` (`ip_address`, `ip_type`) VALUES ('192.189.197.0/24', 'IPv4');

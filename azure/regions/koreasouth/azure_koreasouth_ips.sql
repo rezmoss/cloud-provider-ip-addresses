@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_koreasouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.0.0/16', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.0.0/19', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.0.0/23', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.5.148/30', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.7.64/26', 'IPv4');
@@ -17,6 +17,7 @@ INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.24.4
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.24.56/31', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.28.48/28', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.28.116/30', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.32.0/20', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.41.64/26', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.42.64/27', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.42.96/28', 'IPv4');
@@ -27,7 +28,16 @@ INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.44.2
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.45.128/26', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.45.192/26', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.46.0/25', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.48.0/21', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.51.32/27', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.56.0/23', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.58.0/25', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.58.128/26', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.58.192/27', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.58.224/28', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.59.0/24', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.60.0/22', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.64.0/18', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.83.224/27', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.92.192/26', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.94.0/23', 'IPv4');
@@ -38,6 +48,7 @@ INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.123.
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.123.172/30', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.127.64/26', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.127.128/26', 'IPv4');
+INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.128.0/17', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.130.64/29', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.139.160/28', 'IPv4');
 INSERT INTO `azure_koreasouth_ips` (`ip_address`, `ip_type`) VALUES ('4.243.139.224/27', 'IPv4');

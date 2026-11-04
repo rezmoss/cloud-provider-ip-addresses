@@ -4,6 +4,7 @@ ip_address,ip_type,service,region
 20.97.32.190/31,IPv4,ApiManagement.SouthCentralUS,southcentralus
 20.188.77.119/32,IPv4,ApiManagement.SouthCentralUS,southcentralus
 48.221.128.2/31,IPv4,ApiManagement.SouthCentralUS,southcentralus
+74.145.160.116/30,IPv4,ApiManagement.SouthCentralUS,southcentralus
 74.145.188.190/31,IPv4,ApiManagement.SouthCentralUS,southcentralus
 74.145.198.220/30,IPv4,ApiManagement.SouthCentralUS,southcentralus
 74.145.199.88/29,IPv4,ApiManagement.SouthCentralUS,southcentralus

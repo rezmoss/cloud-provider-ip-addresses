@@ -62,6 +62,7 @@ ip_address,ip_type,service,region
 2.19.144.0/20,IPv4,akamai-as16625,global
 2.19.216.0/22,IPv4,akamai-as16625,global
 2.19.220.0/22,IPv4,akamai-as16625,global
+2.19.228.0/22,IPv4,akamai-as16625,global
 2.19.244.0/22,IPv4,akamai-as16625,global
 2.20.16.0/22,IPv4,akamai-as16625,global
 2.20.20.0/22,IPv4,akamai-as16625,global

@@ -3048,6 +3048,12 @@
     "region": ""
   },
   {
+    "ip_address": "145.133.208.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "157.55.90.64/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
@@ -3217,6 +3223,12 @@
   },
   {
     "ip_address": "172.165.100.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "172.166.7.160/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
     "region": ""

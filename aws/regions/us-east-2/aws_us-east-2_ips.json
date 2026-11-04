@@ -3186,6 +3186,18 @@
     "region": "us-east-2"
   },
   {
+    "ip_address": "173.83.239.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "us-east-2"
+  },
+  {
+    "ip_address": "173.83.239.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-east-2"
+  },
+  {
     "ip_address": "192.43.184.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

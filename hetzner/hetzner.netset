@@ -1,6 +1,6 @@
 # hetzner IP ranges - ipset restore format (hash:net)
-# Version: 8 | Generated: 2026-11-03 | Last changed: 2026-10-26
-# IPv4: 86 merged subnets, 3433984 unique IPs
+# Version: 9 | Generated: 2026-11-04 | Last changed: 2026-11-04
+# IPv4: 87 merged subnets, 3565056 unique IPs
 # IPv6: 5 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -27,6 +27,7 @@ add hetzner_v4 62.238.0.0/17
 add hetzner_v4 65.21.0.0/16
 add hetzner_v4 65.108.0.0/15
 add hetzner_v4 77.42.0.0/17
+add hetzner_v4 78.18.0.0/15
 add hetzner_v4 78.46.0.0/15
 add hetzner_v4 78.138.62.0/24
 add hetzner_v4 85.10.192.0/18

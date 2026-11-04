@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "9.205.13.20/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.DenmarkEast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "9.205.35.176/28",
     "ip_type": "IPv4",
     "service": "ApiManagement.DenmarkEast",

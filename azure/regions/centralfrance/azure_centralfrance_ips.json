@@ -72,7 +72,13 @@
     "region": "centralfrance"
   },
   {
-    "ip_address": "4.178.0.0/16",
+    "ip_address": "4.178.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.128.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
@@ -96,9 +102,45 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "4.178.132.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.133.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.133.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "4.178.133.160/27",
     "ip_type": "IPv4",
     "service": "DataFactory.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.133.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.133.224/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.134.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
   },
   {
@@ -117,6 +159,30 @@
     "ip_address": "4.178.134.128/25",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.136.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.144.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.160.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.178.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
   },
   {
@@ -171,6 +237,12 @@
     "ip_address": "4.211.137.0/24",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.211.144.240/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.FranceCentral",
     "region": "centralfrance"
   },
   {
@@ -264,7 +336,7 @@
     "region": "centralfrance"
   },
   {
-    "ip_address": "4.251.0.0/17",
+    "ip_address": "4.251.0.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
@@ -276,9 +348,69 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "4.251.16.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.251.24.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.251.24.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.251.24.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.251.24.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.251.25.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.251.26.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.251.28.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.251.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "4.251.58.160/27",
     "ip_type": "IPv4",
     "service": "SCCservice.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.251.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
   },
   {
@@ -2604,7 +2736,13 @@
     "region": "centralfrance"
   },
   {
-    "ip_address": "48.220.0.0/17",
+    "ip_address": "48.220.0.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "48.220.16.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
@@ -2613,6 +2751,42 @@
     "ip_address": "48.220.16.2/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "48.220.16.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "48.220.17.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "48.220.18.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "48.220.20.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "48.220.24.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "48.220.32.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
   },
   {
@@ -2649,6 +2823,12 @@
     "ip_address": "48.220.63.64/26",
     "ip_type": "IPv4",
     "service": "Sql.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "48.220.64.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralfrance",
     "region": "centralfrance"
   },
   {

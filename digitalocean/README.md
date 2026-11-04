@@ -1,6 +1,6 @@
 # DigitalOcean IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-11-03** · Total CIDRs: **1,236** · IPv4: **1,088** · IPv6: **148** · Regions: **13**
+> Last updated: **2026-11-04** · Total CIDRs: **1,238** · IPv4: **1,090** · IPv6: **148** · Regions: **13**
 
 Machine-readable, daily-updated, validated public IP ranges for **DigitalOcean**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

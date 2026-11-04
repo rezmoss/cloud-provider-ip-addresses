@@ -243,7 +243,7 @@ INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.12.
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.12.112/30', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.12.116/30', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.12.120/29', 'IPv4');
-INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.0.0/17', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.0.0/19', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.3.192/27', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.3.224/28', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.3.240/28', 'IPv4');
@@ -265,6 +265,16 @@ INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.20.
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.21.0/29', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.21.8/31', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.21.16/28', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.32.0/20', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.48.0/23', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.50.0/24', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.51.0/27', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.51.48/28', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.51.64/26', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.51.128/25', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.52.0/22', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.56.0/21', 'IPv4');
+INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.64.0/18', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.65.64/27', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.67.128/26', 'IPv4');
 INSERT INTO `azure_uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.67.192/27', 'IPv4');

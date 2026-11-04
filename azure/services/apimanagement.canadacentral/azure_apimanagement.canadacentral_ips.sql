@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.canadacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_apimanagement.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.130.4/30', 'IPv4');
 INSERT INTO `azure_apimanagement.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.153.160/29', 'IPv4');
 INSERT INTO `azure_apimanagement.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.153.168/30', 'IPv4');
 INSERT INTO `azure_apimanagement.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.153.172/31', 'IPv4');

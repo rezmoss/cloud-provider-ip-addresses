@@ -126,6 +126,12 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "4.161.168.68/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "4.161.180.64/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.UAENorth",
@@ -2046,6 +2052,12 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "57.157.108.76/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "57.163.54.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",
@@ -2268,7 +2280,7 @@
     "region": "uaenorth"
   },
   {
-    "ip_address": "74.162.0.0/16",
+    "ip_address": "74.162.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",
     "region": "uaenorth"
@@ -2286,6 +2298,36 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "74.162.128.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.162.129.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.162.129.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.162.130.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.162.132.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "74.162.134.192/26",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.UAENorth",
@@ -2298,6 +2340,24 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "74.162.136.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.162.144.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.162.160.0/19",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "74.162.170.64/29",
     "ip_type": "IPv4",
     "service": "AppServiceManagement.UAENorth",
@@ -2307,6 +2367,12 @@
     "ip_address": "74.162.170.96/31",
     "ip_type": "IPv4",
     "service": "AzureDevOps.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.162.192.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
     "region": "uaenorth"
   },
   {
@@ -2340,7 +2406,115 @@
     "region": "uaenorth"
   },
   {
-    "ip_address": "74.243.192.0/18",
+    "ip_address": "74.243.192.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.196.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.196.64/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.196.68/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.196.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.196.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.196.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.196.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.197.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.198.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.200.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.202.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.203.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.203.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.203.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.203.224/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.204.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.208.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "74.243.224.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",
     "region": "uaenorth"
@@ -2382,6 +2556,18 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "145.190.202.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "145.190.202.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "151.206.69.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",
@@ -2400,7 +2586,19 @@
     "region": "uaenorth"
   },
   {
-    "ip_address": "172.164.0.0/16",
+    "ip_address": "172.164.0.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.128.0/18",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.192.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.uaenorth",
     "region": "uaenorth"
@@ -2448,6 +2646,18 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "172.164.224.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.232.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "172.164.232.140/30",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.UAENorth",
@@ -2463,6 +2673,18 @@
     "ip_address": "172.164.234.128/25",
     "ip_type": "IPv4",
     "service": "ServiceBus.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.236.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.238.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
     "region": "uaenorth"
   },
   {
@@ -2493,6 +2715,36 @@
     "ip_address": "172.164.238.224/28",
     "ip_type": "IPv4",
     "service": "DataFactory.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.239.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.239.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.239.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.239.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "172.164.240.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.uaenorth",
     "region": "uaenorth"
   },
   {

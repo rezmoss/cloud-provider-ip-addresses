@@ -12,6 +12,12 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "172.160.160.140/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "2603:1020:1004:1::700/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.SwedenCentral",

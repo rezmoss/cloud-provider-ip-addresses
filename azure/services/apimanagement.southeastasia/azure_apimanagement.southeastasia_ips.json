@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.145.226.12/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "4.146.0.14/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.SoutheastAsia",

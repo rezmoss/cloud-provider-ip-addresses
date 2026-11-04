@@ -768,6 +768,12 @@
     "region": "chilec"
   },
   {
+    "ip_address": "68.211.33.20/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "68.211.128.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.chilec",

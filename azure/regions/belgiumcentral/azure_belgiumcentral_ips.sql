@@ -14,6 +14,7 @@ INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.246.0/27', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.0.0/17', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.17.0/29', 'IPv4');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.17.12/30', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.40.16/30', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.40.20/30', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.40.40/29', 'IPv4');

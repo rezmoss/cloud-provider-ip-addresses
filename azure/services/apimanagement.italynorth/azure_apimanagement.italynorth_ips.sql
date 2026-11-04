@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_apimanagement.italynorth_ips` (
 );
 
 INSERT INTO `azure_apimanagement.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('4.232.28.0/28', 'IPv4');
+INSERT INTO `azure_apimanagement.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('172.213.134.112/30', 'IPv4');
 INSERT INTO `azure_apimanagement.italynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1204::5c0/124', 'IPv6');

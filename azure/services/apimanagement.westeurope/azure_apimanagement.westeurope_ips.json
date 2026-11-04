@@ -30,6 +30,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "74.144.134.0/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "134.149.156.80/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.WestEurope",

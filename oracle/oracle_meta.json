@@ -1,7 +1,7 @@
 {
   "provider": "oracle",
   "version": 4,
-  "generated_date": "2026-11-03",
+  "generated_date": "2026-11-04",
   "last_changed_date": "2026-10-29",
   "sources": [
     "https://docs.oracle.com/iaas/tools/public_ip_ranges.json"

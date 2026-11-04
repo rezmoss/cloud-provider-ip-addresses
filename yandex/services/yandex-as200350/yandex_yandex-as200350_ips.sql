@@ -11,7 +11,6 @@ INSERT INTO `yandex_yandex-as200350_ips` (`ip_address`, `ip_type`) VALUES ('31.4
 INSERT INTO `yandex_yandex-as200350_ips` (`ip_address`, `ip_type`) VALUES ('37.230.168.0/23', 'IPv4');
 INSERT INTO `yandex_yandex-as200350_ips` (`ip_address`, `ip_type`) VALUES ('37.230.172.0/22', 'IPv4');
 INSERT INTO `yandex_yandex-as200350_ips` (`ip_address`, `ip_type`) VALUES ('46.21.244.0/22', 'IPv4');
-INSERT INTO `yandex_yandex-as200350_ips` (`ip_address`, `ip_type`) VALUES ('46.243.209.0/24', 'IPv4');
 INSERT INTO `yandex_yandex-as200350_ips` (`ip_address`, `ip_type`) VALUES ('46.243.210.0/23', 'IPv4');
 INSERT INTO `yandex_yandex-as200350_ips` (`ip_address`, `ip_type`) VALUES ('51.250.0.0/17', 'IPv4');
 INSERT INTO `yandex_yandex-as200350_ips` (`ip_address`, `ip_type`) VALUES ('51.250.48.0/24', 'IPv4');

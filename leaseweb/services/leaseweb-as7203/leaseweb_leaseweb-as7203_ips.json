@@ -420,12 +420,6 @@
     "region": "global"
   },
   {
-    "ip_address": "72.37.224.0/21",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as7203",
-    "region": "global"
-  },
-  {
     "ip_address": "84.75.144.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as7203",

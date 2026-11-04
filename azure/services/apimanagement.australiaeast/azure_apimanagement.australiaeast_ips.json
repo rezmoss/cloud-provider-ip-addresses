@@ -42,6 +42,12 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "51.56.172.36/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "51.56.213.240/29",
     "ip_type": "IPv4",
     "service": "ApiManagement.AustraliaEast",

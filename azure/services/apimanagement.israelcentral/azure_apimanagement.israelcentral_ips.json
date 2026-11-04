@@ -6,6 +6,12 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "51.58.2.96/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "2603:1040:1402::600/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.IsraelCentral",

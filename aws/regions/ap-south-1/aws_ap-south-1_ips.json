@@ -1800,6 +1800,18 @@
     "region": "ap-south-1"
   },
   {
+    "ip_address": "173.83.240.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-south-1"
+  },
+  {
+    "ip_address": "173.83.240.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-south-1"
+  },
+  {
     "ip_address": "216.244.3.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

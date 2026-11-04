@@ -156,12 +156,6 @@
     "region": "global"
   },
   {
-    "ip_address": "46.243.209.0/24",
-    "ip_type": "IPv4",
-    "service": "yandex-as200350",
-    "region": "global"
-  },
-  {
     "ip_address": "46.243.210.0/23",
     "ip_type": "IPv4",
     "service": "yandex-as200350",

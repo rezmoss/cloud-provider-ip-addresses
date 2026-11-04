@@ -1,7 +1,7 @@
 {
   "provider": "googlecloud",
   "version": 26,
-  "generated_date": "2026-11-03",
+  "generated_date": "2026-11-04",
   "last_changed_date": "2026-11-01",
   "sources": [
     "https://www.gstatic.com/ipranges/cloud.json"

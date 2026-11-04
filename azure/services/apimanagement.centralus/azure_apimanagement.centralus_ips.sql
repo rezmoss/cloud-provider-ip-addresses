@@ -12,6 +12,7 @@ INSERT INTO `azure_apimanagement.centralus_ips` (`ip_address`, `ip_type`) VALUES
 INSERT INTO `azure_apimanagement.centralus_ips` (`ip_address`, `ip_type`) VALUES ('13.89.170.204/31', 'IPv4');
 INSERT INTO `azure_apimanagement.centralus_ips` (`ip_address`, `ip_type`) VALUES ('13.89.174.64/28', 'IPv4');
 INSERT INTO `azure_apimanagement.centralus_ips` (`ip_address`, `ip_type`) VALUES ('20.40.231.62/31', 'IPv4');
+INSERT INTO `azure_apimanagement.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.74.168/30', 'IPv4');
 INSERT INTO `azure_apimanagement.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.109.252/30', 'IPv4');
 INSERT INTO `azure_apimanagement.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.110.232/29', 'IPv4');
 INSERT INTO `azure_apimanagement.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.110.240/31', 'IPv4');

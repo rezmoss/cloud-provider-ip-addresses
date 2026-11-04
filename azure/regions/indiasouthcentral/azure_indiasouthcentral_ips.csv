@@ -39,6 +39,7 @@ ip_address,ip_type,service,region
 145.190.154.0/24,IPv4,Storage.IndiaSouthCentral,indiasouthcentral
 172.128.0.0/17,IPv4,AzureCloud.indiasouthcentral,indiasouthcentral
 172.198.0.0/16,IPv4,AzureCloud.indiasouthcentral,indiasouthcentral
+172.198.37.64/30,IPv4,ApiManagement.IndiaSouthCentral,indiasouthcentral
 172.198.80.16/30,IPv4,AzureBotService.IndiaSouthCentral,indiasouthcentral
 172.198.80.20/30,IPv4,AzureAttestation.IndiaSouthCentral,indiasouthcentral
 172.198.80.32/29,IPv4,PowerQueryOnline.IndiaSouthCentral,indiasouthcentral

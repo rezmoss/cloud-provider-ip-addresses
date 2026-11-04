@@ -175,6 +175,7 @@ ip_address,ip_type,service,region
 40.123.137.0/26,IPv4,AzureCloud.israelcentral,israelcentral
 40.123.137.64/28,IPv4,AzureCloud.israelcentral,israelcentral
 40.123.137.80/29,IPv4,AzureCloud.israelcentral,israelcentral
+40.123.137.88/30,IPv4,AzureCloud.israelcentral,israelcentral
 40.123.173.0/24,IPv4,AzureCloud.israelcentral,israelcentral
 48.212.29.0/24,IPv4,AzureCloud.israelcentral,israelcentral
 48.212.155.0/24,IPv4,AzureCloud.israelcentral,israelcentral
@@ -203,6 +204,7 @@ ip_address,ip_type,service,region
 51.5.55.0/24,IPv4,AzureCloud.israelcentral,israelcentral
 51.58.0.0/17,IPv4,AzureCloud.israelcentral,israelcentral
 51.58.2.64/29,IPv4,AppServiceManagement.IsraelCentral,israelcentral
+51.58.2.96/30,IPv4,ApiManagement.IsraelCentral,israelcentral
 51.58.11.128/26,IPv4,PowerPlatformPlex.IsraelCentral,israelcentral
 51.58.11.240/28,IPv4,PowerBI.IsraelCentral,israelcentral
 51.58.24.112/28,IPv4,PowerBI.IsraelCentral,israelcentral
@@ -356,6 +358,7 @@ ip_address,ip_type,service,region
 2603:1061:1007::/56,IPv6,AzureCloud.israelcentral,israelcentral
 2603:1061:1007:100::/59,IPv6,AzureCloud.israelcentral,israelcentral
 2603:1061:1007:120::/62,IPv6,AzureCloud.israelcentral,israelcentral
+2603:1061:1007:124::/63,IPv6,AzureCloud.israelcentral,israelcentral
 2603:1061:1310:800::/54,IPv6,AzureCloud.israelcentral,israelcentral
 2603:1061:1737::/48,IPv6,AzureCloud.israelcentral,israelcentral
 2603:1061:2000:720::/62,IPv6,AzureCloud.israelcentral,israelcentral

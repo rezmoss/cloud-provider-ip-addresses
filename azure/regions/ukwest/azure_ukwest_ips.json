@@ -3186,7 +3186,7 @@
     "region": "ukwest"
   },
   {
-    "ip_address": "172.187.0.0/18",
+    "ip_address": "172.187.0.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.ukwest",
     "region": "ukwest"
@@ -3219,6 +3219,12 @@
     "ip_address": "172.187.17.104/31",
     "ip_type": "IPv4",
     "service": "AzureDevOps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.32.0/20",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
     "region": "ukwest"
   },
   {
@@ -3273,6 +3279,54 @@
     "ip_address": "172.187.41.0/25",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.48.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.52.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.53.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.53.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.53.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.53.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.54.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "172.187.56.0/21",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
     "region": "ukwest"
   },
   {

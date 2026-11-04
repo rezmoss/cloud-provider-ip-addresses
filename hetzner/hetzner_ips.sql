@@ -460,6 +460,7 @@ INSERT INTO `hetzner_ips` (`ip_address`, `ip_type`) VALUES ('65.21.0.0/16', 'IPv
 INSERT INTO `hetzner_ips` (`ip_address`, `ip_type`) VALUES ('65.108.0.0/16', 'IPv4');
 INSERT INTO `hetzner_ips` (`ip_address`, `ip_type`) VALUES ('65.109.0.0/16', 'IPv4');
 INSERT INTO `hetzner_ips` (`ip_address`, `ip_type`) VALUES ('77.42.0.0/17', 'IPv4');
+INSERT INTO `hetzner_ips` (`ip_address`, `ip_type`) VALUES ('78.18.0.0/15', 'IPv4');
 INSERT INTO `hetzner_ips` (`ip_address`, `ip_type`) VALUES ('78.46.0.0/15', 'IPv4');
 INSERT INTO `hetzner_ips` (`ip_address`, `ip_type`) VALUES ('78.138.62.0/24', 'IPv4');
 INSERT INTO `hetzner_ips` (`ip_address`, `ip_type`) VALUES ('85.10.192.0/18', 'IPv4');

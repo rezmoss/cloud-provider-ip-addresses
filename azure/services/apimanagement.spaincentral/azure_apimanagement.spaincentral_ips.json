@@ -6,6 +6,12 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "70.156.216.200/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1020:1403::5c0/124",
     "ip_type": "IPv6",
     "service": "ApiManagement.SpainCentral",

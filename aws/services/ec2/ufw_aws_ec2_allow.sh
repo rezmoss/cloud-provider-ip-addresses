@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-11-03 02:16:45
+# Updated: 2026-11-04 02:15:46
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -560,7 +560,9 @@ ufw allow from 75.3.128.0/18
 ufw allow from 75.22.192.0/18
 ufw allow from 75.45.128.0/18
 ufw allow from 75.47.0.0/18
+ufw allow from 75.47.128.0/18
 ufw allow from 75.101.128.0/17
+ufw allow from 76.197.128.0/18
 ufw allow from 77.112.0.0/14
 ufw allow from 78.12.0.0/14
 ufw allow from 79.125.0.0/17
@@ -676,10 +678,8 @@ ufw allow from 162.222.148.0/22
 ufw allow from 162.250.236.0/22
 ufw allow from 168.185.4.0/22
 ufw allow from 173.83.192.0/19
-ufw allow from 173.83.224.0/21
-ufw allow from 173.83.232.0/22
-ufw allow from 173.83.236.0/23
-ufw allow from 173.83.238.0/24
+ufw allow from 173.83.224.0/20
+ufw allow from 173.83.240.0/24
 ufw allow from 174.129.0.0/16
 ufw allow from 175.41.128.0/17
 ufw allow from 176.32.64.0/19
@@ -1280,6 +1280,7 @@ ufw allow from 2600:1f14:4000::/36
 ufw allow from 2600:1f14:8000::/36
 ufw allow from 2600:1f14:c000::/36
 ufw allow from 2600:1f15::/36
+ufw allow from 2600:1f15:2000::/36
 ufw allow from 2600:1f15:4000::/36
 ufw allow from 2600:1f15:8000::/36
 ufw allow from 2600:1f15:c000::/36
@@ -1292,6 +1293,7 @@ ufw allow from 2600:1f17:c000::/36
 ufw allow from 2600:1f18::/33
 ufw allow from 2600:1f18:8000::/36
 ufw allow from 2600:1f18:c000::/36
+ufw allow from 2600:1f19:2000::/36
 ufw allow from 2600:1f19:4000::/36
 ufw allow from 2600:1f19:8000::/36
 ufw allow from 2600:1f19:c000::/36
@@ -1979,9 +1981,7 @@ ufw allow from 2600:f0f2:7400::/38
 ufw allow from 2600:f0f3:f000::/44
 ufw allow from 2600:f0f3:f010::/56
 ufw allow from 2600:f0f3:f010:200::/55
-ufw allow from 2600:f0f3:f010:800::/55
-ufw allow from 2600:f0f3:f010:a00::/56
-ufw allow from 2600:f0f3:f010:c00::/54
+ufw allow from 2600:f0f3:f010:800::/53
 ufw allow from 2600:f0f3:f010:1000::/56
 ufw allow from 2600:f0f3:f010:1300::/56
 ufw allow from 2600:f0f3:f010:1400::/56

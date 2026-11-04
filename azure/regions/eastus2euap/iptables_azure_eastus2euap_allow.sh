@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-10-30 02:20:00
+# Updated: 2026-11-04 02:17:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -341,14 +341,38 @@ iptables -A INPUT -s 57.157.50.236/30 -j ACCEPT
 iptables -A INPUT -s 68.220.64.0/20 -j ACCEPT
 iptables -A INPUT -s 68.220.80.0/21 -j ACCEPT
 iptables -A INPUT -s 68.220.96.0/19 -j ACCEPT
-iptables -A INPUT -s 72.147.0.0/17 -j ACCEPT
+iptables -A INPUT -s 72.147.0.0/21 -j ACCEPT
+iptables -A INPUT -s 72.147.8.0/25 -j ACCEPT
+iptables -A INPUT -s 72.147.8.144/28 -j ACCEPT
+iptables -A INPUT -s 72.147.8.160/27 -j ACCEPT
+iptables -A INPUT -s 72.147.8.192/26 -j ACCEPT
+iptables -A INPUT -s 72.147.9.0/24 -j ACCEPT
+iptables -A INPUT -s 72.147.10.0/25 -j ACCEPT
+iptables -A INPUT -s 72.147.10.192/26 -j ACCEPT
+iptables -A INPUT -s 72.147.11.0/25 -j ACCEPT
+iptables -A INPUT -s 72.147.11.128/27 -j ACCEPT
+iptables -A INPUT -s 72.147.11.160/28 -j ACCEPT
+iptables -A INPUT -s 72.147.11.176/29 -j ACCEPT
+iptables -A INPUT -s 72.147.11.184/30 -j ACCEPT
+iptables -A INPUT -s 72.147.11.188/31 -j ACCEPT
+iptables -A INPUT -s 72.147.11.192/26 -j ACCEPT
+iptables -A INPUT -s 72.147.12.0/22 -j ACCEPT
+iptables -A INPUT -s 72.147.16.0/20 -j ACCEPT
+iptables -A INPUT -s 72.147.32.0/19 -j ACCEPT
+iptables -A INPUT -s 72.147.64.0/18 -j ACCEPT
 iptables -A INPUT -s 74.151.0.0/17 -j ACCEPT
 iptables -A INPUT -s 104.44.95.208/28 -j ACCEPT
 iptables -A INPUT -s 135.18.0.0/17 -j ACCEPT
 iptables -A INPUT -s 135.130.25.0/25 -j ACCEPT
 iptables -A INPUT -s 135.130.72.0/23 -j ACCEPT
 iptables -A INPUT -s 172.173.0.0/21 -j ACCEPT
-iptables -A INPUT -s 172.173.32.0/19 -j ACCEPT
+iptables -A INPUT -s 172.173.32.0/20 -j ACCEPT
+iptables -A INPUT -s 172.173.48.0/21 -j ACCEPT
+iptables -A INPUT -s 172.173.56.0/23 -j ACCEPT
+iptables -A INPUT -s 172.173.58.0/26 -j ACCEPT
+iptables -A INPUT -s 172.173.58.128/25 -j ACCEPT
+iptables -A INPUT -s 172.173.59.0/24 -j ACCEPT
+iptables -A INPUT -s 172.173.60.0/22 -j ACCEPT
 iptables -A INPUT -s 198.180.97.0/25 -j ACCEPT
 iptables -A INPUT -s 198.180.97.128/26 -j ACCEPT
 iptables -A INPUT -s 198.180.97.192/27 -j ACCEPT

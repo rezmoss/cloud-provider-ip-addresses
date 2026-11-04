@@ -6,7 +6,17 @@ CREATE TABLE IF NOT EXISTS `azure_azurecloud.japanwest_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.128.0/17', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.128.0/18', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.192.0/19', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.224.0/20', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.240.0/22', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.244.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.245.0/26', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.245.64/28', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.245.96/27', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.245.128/25', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.246.0/23', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('4.190.248.0/21', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.43.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.58.0/28', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('9.129.118.64/27', 'IPv4');

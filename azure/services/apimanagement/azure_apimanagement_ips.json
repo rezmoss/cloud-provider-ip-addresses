@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.145.226.12/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "4.146.0.14/31",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -13,6 +19,18 @@
   },
   {
     "ip_address": "4.146.0.240/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "4.161.168.68/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "4.173.130.4/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -36,6 +54,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.177.48.40/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "4.188.129.68/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -49,6 +73,12 @@
   },
   {
     "ip_address": "4.188.129.80/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "4.189.210.116/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -79,6 +109,12 @@
   },
   {
     "ip_address": "4.200.209.200/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "4.211.144.240/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -115,6 +151,12 @@
   },
   {
     "ip_address": "4.216.23.168/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "4.217.144.104/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -180,6 +222,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.244.154.84/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "4.247.39.148/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -198,7 +246,19 @@
     "region": ""
   },
   {
+    "ip_address": "9.160.17.12/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "9.160.43.176/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "9.205.13.20/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -427,6 +487,12 @@
   },
   {
     "ip_address": "13.89.174.64/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.6.192.72/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -786,6 +852,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.197.160.72/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "20.197.175.106/31",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -859,6 +931,12 @@
   },
   {
     "ip_address": "20.226.148.120/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "20.250.248.208/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1086,6 +1164,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.193.0.28/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "48.196.86.16/28",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1099,6 +1183,12 @@
   },
   {
     "ip_address": "48.198.86.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "48.203.177.224/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1146,6 +1236,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.223.123.176/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "51.12.17.0/28",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1182,6 +1278,12 @@
     "region": ""
   },
   {
+    "ip_address": "51.56.172.36/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "51.56.213.240/29",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1195,6 +1297,12 @@
   },
   {
     "ip_address": "51.56.213.252/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "51.58.2.96/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1494,6 +1602,18 @@
     "region": ""
   },
   {
+    "ip_address": "57.167.224.144/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "57.169.129.4/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "57.173.52.2/31",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1507,6 +1627,12 @@
   },
   {
     "ip_address": "57.173.52.72/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "57.175.74.168/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1560,6 +1686,18 @@
     "region": ""
   },
   {
+    "ip_address": "68.155.250.56/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "68.210.1.12/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "68.210.163.176/28",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1572,6 +1710,12 @@
     "region": ""
   },
   {
+    "ip_address": "68.211.33.20/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "68.221.84.128/28",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1579,6 +1723,12 @@
   },
   {
     "ip_address": "70.153.154.240/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "70.156.216.200/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1597,6 +1747,24 @@
   },
   {
     "ip_address": "74.7.180.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "74.144.43.96/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "74.144.134.0/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "74.145.160.116/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1633,6 +1801,12 @@
   },
   {
     "ip_address": "74.146.24.8/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "74.146.135.140/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1717,6 +1891,18 @@
   },
   {
     "ip_address": "74.243.159.232/29",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "74.248.243.208/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "85.211.145.28/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1854,6 +2040,12 @@
     "region": ""
   },
   {
+    "ip_address": "134.138.1.20/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "134.138.70.16/28",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1896,6 +2088,12 @@
     "region": ""
   },
   {
+    "ip_address": "135.235.135.244/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "137.117.160.56/32",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1914,6 +2112,12 @@
     "region": ""
   },
   {
+    "ip_address": "172.160.160.140/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.165.36.182/31",
     "ip_type": "IPv4",
     "service": "ApiManagement",
@@ -1927,6 +2131,18 @@
   },
   {
     "ip_address": "172.165.36.208/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "172.165.41.192/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "172.182.17.152/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1974,7 +2190,19 @@
     "region": ""
   },
   {
+    "ip_address": "172.198.37.64/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.198.86.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "172.204.108.136/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""
@@ -1998,7 +2226,19 @@
     "region": ""
   },
   {
+    "ip_address": "172.209.182.104/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
     "ip_address": "172.209.191.124/31",
+    "ip_type": "IPv4",
+    "service": "ApiManagement",
+    "region": ""
+  },
+  {
+    "ip_address": "172.213.134.112/30",
     "ip_type": "IPv4",
     "service": "ApiManagement",
     "region": ""

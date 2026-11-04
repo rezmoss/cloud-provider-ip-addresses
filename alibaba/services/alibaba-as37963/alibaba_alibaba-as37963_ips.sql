@@ -210,6 +210,9 @@ INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.1
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.169.0.0/16', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.169.0.0/17', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.169.128.0/17', 'IPv4');
+INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.170.0.0/15', 'IPv4');
+INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.170.0.0/16', 'IPv4');
+INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.171.0.0/16', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.176.0.0/19', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.176.0.0/20', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('8.176.16.0/20', 'IPv4');
@@ -358,6 +361,9 @@ INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('47.
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('47.123.0.0/16', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('47.123.0.0/17', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('47.123.128.0/17', 'IPv4');
+INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('47.124.0.0/16', 'IPv4');
+INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('47.124.0.0/17', 'IPv4');
+INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('47.124.128.0/17', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('59.82.0.0/21', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('59.82.0.0/22', 'IPv4');
 INSERT INTO `alibaba_alibaba-as37963_ips` (`ip_address`, `ip_type`) VALUES ('59.82.2.0/24', 'IPv4');

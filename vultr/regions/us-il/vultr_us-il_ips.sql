@@ -23,7 +23,6 @@ INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('68.232.174.0/24
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('68.232.176.0/24', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('68.232.177.0/24', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('68.232.181.0/24', 'IPv4');
-INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('68.232.182.0/24', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('68.232.183.0/24', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('68.232.184.0/24', 'IPv4');
 INSERT INTO `vultr_us-il_ips` (`ip_address`, `ip_type`) VALUES ('104.156.234.0/23', 'IPv4');

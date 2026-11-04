@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "48.193.0.28/30",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.IndonesiaCentral",
+    "region": "indonesiacentral"
+  },
+  {
     "ip_address": "70.153.154.240/28",
     "ip_type": "IPv4",
     "service": "ApiManagement.IndonesiaCentral",

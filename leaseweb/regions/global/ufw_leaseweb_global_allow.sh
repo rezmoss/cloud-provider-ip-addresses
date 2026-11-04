@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-11-03 02:23:04
+# Updated: 2026-11-04 02:22:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -363,7 +363,6 @@ ufw allow from 70.32.40.0/24
 ufw allow from 70.32.43.0/24
 ufw allow from 70.32.45.0/24
 ufw allow from 70.38.0.0/17
-ufw allow from 72.37.224.0/21
 ufw allow from 72.55.128.0/18
 ufw allow from 72.63.8.0/22
 ufw allow from 72.63.24.0/22
@@ -911,7 +910,6 @@ ufw allow from 185.51.192.0/24
 ufw allow from 185.60.164.0/24
 ufw allow from 185.67.4.0/22
 ufw allow from 185.70.240.0/22
-ufw allow from 185.71.60.0/22
 ufw allow from 185.73.32.0/23
 ufw allow from 185.73.34.0/24
 ufw allow from 185.94.166.0/24
@@ -1175,7 +1173,6 @@ ufw allow from 2a02:2870:8000::/33
 ufw allow from 2a02:2871::/32
 ufw allow from 2a02:40c0::/36
 ufw allow from 2a03:f85:2::/48
-ufw allow from 2a03:38a0::/32
 ufw allow from 2a03:7480::/44
 ufw allow from 2a03:ce40::/29
 ufw allow from 2a03:e280::/32
@@ -1348,6 +1345,7 @@ ufw allow from 2a10:3740::/29
 ufw allow from 2a10:6700::/29
 ufw allow from 2a10:67c6::/32
 ufw allow from 2a10:68c0::/32
+ufw allow from 2a10:68c6::/32
 ufw allow from 2a10:6d40::/29
 ufw allow from 2a10:b5c1::/32
 ufw allow from 2a10:fdc0::/29
