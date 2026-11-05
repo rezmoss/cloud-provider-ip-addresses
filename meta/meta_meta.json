@@ -1,23 +1,23 @@
 {
   "provider": "meta",
-  "version": 51,
-  "generated_date": "2026-11-04",
-  "last_changed_date": "2026-11-04",
+  "version": 52,
+  "generated_date": "2026-11-05",
+  "last_changed_date": "2026-11-05",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 342,
+    "cidrs": 343,
     "merged_cidrs": 80,
     "addresses": 478720
   },
   "ipv6": {
-    "cidrs": 416,
+    "cidrs": 417,
     "merged_cidrs": 42,
     "addresses": 79652495476949072433865818112
   },
-  "total_entries": 758,
-  "content_sha256": "eb4df6d491e7bff26da54ea941394bf908a884c6d470c0aa2f83abf85f860131",
+  "total_entries": 760,
+  "content_sha256": "f9789915c4d701d7428f3f40af6f32a23a7ea65cc1eee31fdff691a66ccd7a82",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

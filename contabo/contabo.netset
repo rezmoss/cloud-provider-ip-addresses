@@ -1,5 +1,5 @@
 # contabo IP ranges - ipset restore format (hash:net)
-# Version: 3 | Generated: 2026-11-04 | Last changed: 2026-11-03
+# Version: 3 | Generated: 2026-11-05 | Last changed: 2026-11-03
 # IPv4: 343 merged subnets, 766976 unique IPs
 # IPv6: 6 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

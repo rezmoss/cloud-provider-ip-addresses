@@ -225,6 +225,7 @@ INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('8.176.64.0/20', 'IP
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('8.176.80.0/20', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('8.176.96.0/19', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('8.176.96.0/20', 'IPv4');
+INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('8.176.96.0/24', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('8.176.112.0/20', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('8.176.128.0/19', 'IPv4');
 INSERT INTO `alibaba_ips` (`ip_address`, `ip_type`) VALUES ('8.176.128.0/20', 'IPv4');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-11-04 02:21:57
+# Updated: 2026-11-05 02:22:10
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -104,6 +104,7 @@ ufw deny from 2.23.108.0/22
 ufw deny from 2.23.112.0/20
 ufw deny from 2.23.136.0/21
 ufw deny from 2.23.188.0/22
+ufw deny from 2.23.192.0/20
 ufw deny from 2.23.232.0/22
 ufw deny from 2.23.244.0/22
 ufw deny from 2.23.252.0/22
@@ -200,6 +201,7 @@ ufw deny from 23.13.96.0/19
 ufw deny from 23.13.144.0/20
 ufw deny from 23.13.160.0/20
 ufw deny from 23.13.176.0/21
+ufw deny from 23.13.224.0/19
 ufw deny from 23.14.16.0/20
 ufw deny from 23.14.32.0/20
 ufw deny from 23.14.48.0/22
@@ -268,7 +270,6 @@ ufw deny from 23.35.100.0/22
 ufw deny from 23.35.112.0/20
 ufw deny from 23.35.128.0/20
 ufw deny from 23.35.144.0/23
-ufw deny from 23.35.152.0/21
 ufw deny from 23.35.160.0/20
 ufw deny from 23.35.176.0/21
 ufw deny from 23.35.208.0/22
@@ -806,7 +807,7 @@ ufw deny from 23.205.220.0/23
 ufw deny from 23.205.224.0/20
 ufw deny from 23.205.240.0/21
 ufw deny from 23.205.250.0/23
-ufw deny from 23.206.8.0/21
+ufw deny from 23.206.8.0/22
 ufw deny from 23.206.16.0/20
 ufw deny from 23.206.32.0/20
 ufw deny from 23.206.64.0/19
@@ -1037,7 +1038,6 @@ ufw deny from 72.246.200.0/22
 ufw deny from 72.246.208.0/21
 ufw deny from 72.247.28.0/22
 ufw deny from 72.247.64.0/21
-ufw deny from 72.247.96.0/22
 ufw deny from 72.247.116.0/22
 ufw deny from 72.247.146.0/23
 ufw deny from 72.247.196.0/22
@@ -1201,7 +1201,6 @@ ufw deny from 104.83.64.0/20
 ufw deny from 104.83.80.0/21
 ufw deny from 104.83.96.0/19
 ufw deny from 104.83.196.0/22
-ufw deny from 104.83.204.0/22
 ufw deny from 104.83.236.0/22
 ufw deny from 104.84.144.0/22
 ufw deny from 104.85.8.0/22
@@ -1307,7 +1306,6 @@ ufw deny from 104.120.216.0/21
 ufw deny from 104.120.224.0/21
 ufw deny from 104.121.0.0/19
 ufw deny from 104.122.32.0/21
-ufw deny from 104.122.212.0/22
 ufw deny from 104.122.216.0/22
 ufw deny from 104.123.24.0/21
 ufw deny from 104.123.88.0/21
@@ -1496,7 +1494,6 @@ ufw deny from 184.51.208.0/22
 ufw deny from 184.51.224.0/20
 ufw deny from 184.84.32.0/20
 ufw deny from 184.84.80.0/20
-ufw deny from 184.84.132.0/22
 ufw deny from 184.84.184.0/22
 ufw deny from 184.84.192.0/21
 ufw deny from 184.84.204.0/22

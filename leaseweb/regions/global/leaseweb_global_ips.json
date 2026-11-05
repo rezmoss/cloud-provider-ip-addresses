@@ -11730,6 +11730,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a10:68c7::/32",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as28753",
+    "region": "global"
+  },
+  {
     "ip_address": "2a10:6d40::/29",
     "ip_type": "IPv6",
     "service": "leaseweb-as30633",
@@ -12165,6 +12171,12 @@
     "ip_address": "2a13:d40:2::/48",
     "ip_type": "IPv6",
     "service": "leaseweb-as60781",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a13:d45::/32",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as28753",
     "region": "global"
   },
   {

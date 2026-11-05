@@ -858,6 +858,7 @@ INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('185.101.136.26/32', '
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('185.101.136.27/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('185.105.1.10/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('185.112.81.19/32', 'IPv4');
+INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('185.141.224.7/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('185.158.211.186/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('185.163.3.4/32', 'IPv4');
 INSERT INTO `gcore_ips` (`ip_address`, `ip_type`) VALUES ('185.163.3.5/32', 'IPv4');

@@ -510,6 +510,12 @@
     "region": "af-south-1"
   },
   {
+    "ip_address": "35.54.16.0/20",
+    "ip_type": "IPv4",
+    "service": "GLOBALACCELERATOR",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "35.71.128.0/17",
     "ip_type": "IPv4",
     "service": "GLOBALACCELERATOR",

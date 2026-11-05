@@ -1,14 +1,12 @@
 #!/bin/bash
 # Tencent IP Ranges
-# Updated: 2026-11-04 02:21:06
+# Updated: 2026-11-05 02:21:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW allow rules for tencent
 
-ufw allow from 1.12.0.0/20
-ufw allow from 1.12.34.0/23
 ufw allow from 1.201.184.0/22
 ufw allow from 1.201.188.0/23
 ufw allow from 43.128.0.0/17
@@ -114,6 +112,7 @@ ufw allow from 142.86.128.0/18
 ufw allow from 142.86.192.0/21
 ufw allow from 149.41.0.0/18
 ufw allow from 149.41.128.0/18
+ufw allow from 149.41.192.0/20
 ufw allow from 149.41.224.0/19
 ufw allow from 150.109.0.0/18
 ufw allow from 150.109.64.0/20

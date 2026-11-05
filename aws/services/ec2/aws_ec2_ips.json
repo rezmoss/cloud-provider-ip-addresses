@@ -162,6 +162,12 @@
     "region": "us-west-2"
   },
   {
+    "ip_address": "1.178.86.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-3"
+  },
+  {
     "ip_address": "1.178.88.0/24",
     "ip_type": "IPv4",
     "service": "EC2",
@@ -4810,12 +4816,6 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "ap-southeast-2"
-  },
-  {
-    "ip_address": "35.54.16.0/20",
-    "ip_type": "IPv4",
-    "service": "EC2",
-    "region": "GLOBAL"
   },
   {
     "ip_address": "35.54.32.0/21",
