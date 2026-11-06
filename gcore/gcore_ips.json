@@ -248,6 +248,10 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "37.239.145.5/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "41.210.189.22/32",
     "ip_type": "IPv4"
   },

@@ -1554,6 +1554,12 @@
     "region": "eu-north-1"
   },
   {
+    "ip_address": "2a01:578:0:7b00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "eu-north-1"
+  },
+  {
     "ip_address": "2a05:d000:6000::/40",
     "ip_type": "IPv6",
     "service": "AMAZON",

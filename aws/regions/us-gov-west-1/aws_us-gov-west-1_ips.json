@@ -174,6 +174,12 @@
     "region": "us-gov-west-1"
   },
   {
+    "ip_address": "13.166.0.0/15",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "us-gov-west-1"
+  },
+  {
     "ip_address": "15.200.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",

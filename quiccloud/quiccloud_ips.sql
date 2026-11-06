@@ -152,7 +152,6 @@ INSERT INTO `quiccloud_ips` (`ip_address`, `ip_type`) VALUES ('209.124.84.191', 
 INSERT INTO `quiccloud_ips` (`ip_address`, `ip_type`) VALUES ('209.208.26.218', 'IPv4');
 INSERT INTO `quiccloud_ips` (`ip_address`, `ip_type`) VALUES ('211.23.143.87', 'IPv4');
 INSERT INTO `quiccloud_ips` (`ip_address`, `ip_type`) VALUES ('213.159.1.75', 'IPv4');
-INSERT INTO `quiccloud_ips` (`ip_address`, `ip_type`) VALUES ('213.183.48.170', 'IPv4');
 INSERT INTO `quiccloud_ips` (`ip_address`, `ip_type`) VALUES ('213.184.85.245', 'IPv4');
 INSERT INTO `quiccloud_ips` (`ip_address`, `ip_type`) VALUES ('216.106.177.77', 'IPv4');
 INSERT INTO `quiccloud_ips` (`ip_address`, `ip_type`) VALUES ('216.128.179.195', 'IPv4');

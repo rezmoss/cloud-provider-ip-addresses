@@ -1,6 +1,6 @@
 #!/bin/bash
 # Bingbot IP Ranges
-# Updated: 2026-06-14 03:21:38
+# Updated: 2026-11-06 02:18:01
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -27,6 +27,7 @@ ufw deny from 40.77.202.0/24
 ufw deny from 40.79.131.208/28
 ufw deny from 40.79.186.176/28
 ufw deny from 51.105.67.0/28
+ufw deny from 52.130.224.112/28
 ufw deny from 52.167.144.0/24
 ufw deny from 52.231.148.0/28
 ufw deny from 65.55.210.0/24

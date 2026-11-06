@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zscaler IP Ranges
-# Updated: 2026-11-04 02:22:20
+# Updated: 2026-11-06 02:21:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -89,6 +89,7 @@ iptables -A INPUT -s 164.157.252.0/23 -j DROP
 iptables -A INPUT -s 165.225.0.0/17 -j DROP
 iptables -A INPUT -s 165.225.192.0/18 -j DROP
 iptables -A INPUT -s 167.73.110.0/24 -j DROP
+iptables -A INPUT -s 167.83.4.0/23 -j DROP
 iptables -A INPUT -s 167.103.2.0/23 -j DROP
 iptables -A INPUT -s 167.103.4.0/22 -j DROP
 iptables -A INPUT -s 167.103.8.0/21 -j DROP
@@ -120,6 +121,7 @@ iptables -A INPUT -s 167.103.232.0/22 -j DROP
 iptables -A INPUT -s 167.103.247.0/24 -j DROP
 iptables -A INPUT -s 167.103.248.0/21 -j DROP
 iptables -A INPUT -s 167.106.0.0/16 -j DROP
+iptables -A INPUT -s 168.165.50.0/23 -j DROP
 iptables -A INPUT -s 168.183.170.0/23 -j DROP
 iptables -A INPUT -s 168.183.172.0/22 -j DROP
 iptables -A INPUT -s 168.183.176.0/23 -j DROP
@@ -172,8 +174,7 @@ ip6tables -A INPUT -s 2605:4300:fe00::/47 -j DROP
 ip6tables -A INPUT -s 2605:4300:ff00::/40 -j DROP
 ip6tables -A INPUT -s 2a03:eec0:3210::/46 -j DROP
 ip6tables -A INPUT -s 2a03:eec0:3216::/47 -j DROP
-ip6tables -A INPUT -s 2a03:eec0:3221::/48 -j DROP
-ip6tables -A INPUT -s 2a03:eec0:3222::/47 -j DROP
+ip6tables -A INPUT -s 2a03:eec0:3220::/46 -j DROP
 ip6tables -A INPUT -s 2a03:eec0:3224::/48 -j DROP
 ip6tables -A INPUT -s 2a03:eec0:322b::/48 -j DROP
 ip6tables -A INPUT -s 2a03:eec0:322c::/47 -j DROP

@@ -26,6 +26,7 @@ INSERT INTO `bingbot_ips` (`ip_address`, `ip_type`) VALUES ('40.77.202.0/24', 'I
 INSERT INTO `bingbot_ips` (`ip_address`, `ip_type`) VALUES ('40.79.131.208/28', 'IPv4');
 INSERT INTO `bingbot_ips` (`ip_address`, `ip_type`) VALUES ('40.79.186.176/28', 'IPv4');
 INSERT INTO `bingbot_ips` (`ip_address`, `ip_type`) VALUES ('51.105.67.0/28', 'IPv4');
+INSERT INTO `bingbot_ips` (`ip_address`, `ip_type`) VALUES ('52.130.224.112/28', 'IPv4');
 INSERT INTO `bingbot_ips` (`ip_address`, `ip_type`) VALUES ('52.167.144.0/24', 'IPv4');
 INSERT INTO `bingbot_ips` (`ip_address`, `ip_type`) VALUES ('52.231.148.0/28', 'IPv4');
 INSERT INTO `bingbot_ips` (`ip_address`, `ip_type`) VALUES ('65.55.210.0/24', 'IPv4');

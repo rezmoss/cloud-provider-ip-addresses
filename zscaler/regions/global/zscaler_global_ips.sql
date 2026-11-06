@@ -530,6 +530,8 @@ INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('165.225.244.
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('165.225.245.0/24', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('165.225.246.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.73.110.0/24', 'IPv4');
+INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.83.4.0/24', 'IPv4');
+INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.83.5.0/24', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.103.2.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.103.4.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.103.6.0/23', 'IPv4');
@@ -639,6 +641,8 @@ INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.103.250.
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.103.252.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.103.254.0/23', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('167.106.0.0/16', 'IPv4');
+INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('168.165.50.0/24', 'IPv4');
+INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('168.165.51.0/24', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('168.183.170.0/24', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('168.183.171.0/24', 'IPv4');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('168.183.172.0/24', 'IPv4');
@@ -1026,6 +1030,7 @@ INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:eec0:32
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:eec0:3213::/48', 'IPv6');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:eec0:3216::/48', 'IPv6');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:eec0:3217::/48', 'IPv6');
+INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:eec0:3220::/48', 'IPv6');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:eec0:3221::/48', 'IPv6');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:eec0:3222::/48', 'IPv6');
 INSERT INTO `zscaler_global_ips` (`ip_address`, `ip_type`) VALUES ('2a03:eec0:3223::/48', 'IPv6');

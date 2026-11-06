@@ -1,23 +1,23 @@
 {
   "provider": "play2go",
-  "version": 11,
-  "generated_date": "2026-11-05",
-  "last_changed_date": "2026-11-04",
+  "version": 12,
+  "generated_date": "2026-11-06",
+  "last_changed_date": "2026-11-06",
   "sources": [
     "https://cdn.play2go.cloud/static/geofeed.csv"
   ],
   "ipv4": {
-    "cidrs": 212,
+    "cidrs": 213,
     "merged_cidrs": 99,
-    "addresses": 55808
+    "addresses": 56064
   },
   "ipv6": {
     "cidrs": 0,
     "merged_cidrs": 0,
     "addresses": 0
   },
-  "total_entries": 212,
-  "content_sha256": "f29df1cd3070663fdf5bf73632999bf4c73966bfdcf5bba8fae10cd8e74f925d",
+  "total_entries": 213,
+  "content_sha256": "21528c37990807aafc3418047aa48e5370b8ce2c5d46b8848bea3c5f8fcc0e99",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

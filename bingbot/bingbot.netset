@@ -1,6 +1,6 @@
 # bingbot IP ranges - ipset restore format (hash:net)
-# Version: 1 | Generated: 2026-11-05 | Last changed: 2026-06-18
-# IPv4: 28 merged subnets, 4736 unique IPs
+# Version: 2 | Generated: 2026-11-06 | Last changed: 2026-11-06
+# IPv4: 29 merged subnets, 4752 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -28,6 +28,7 @@ add bingbot_v4 40.77.202.0/24
 add bingbot_v4 40.79.131.208/28
 add bingbot_v4 40.79.186.176/28
 add bingbot_v4 51.105.67.0/28
+add bingbot_v4 52.130.224.112/28
 add bingbot_v4 52.167.144.0/24
 add bingbot_v4 52.231.148.0/28
 add bingbot_v4 65.55.210.0/24

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Contabo IP Ranges
-# Updated: 2026-11-03 02:23:38
+# Updated: 2026-11-06 02:22:02
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -13,8 +13,10 @@ ufw allow from 5.104.80.0/21
 ufw allow from 5.180.148.0/22
 ufw allow from 5.182.17.0/24
 ufw allow from 5.182.33.0/24
+ufw allow from 5.183.32.0/22
 ufw allow from 5.189.128.0/18
 ufw allow from 5.252.52.0/22
+ufw allow from 5.253.232.0/22
 ufw allow from 13.140.32.0/20
 ufw allow from 13.140.56.0/22
 ufw allow from 13.140.64.0/20
@@ -38,11 +40,13 @@ ufw allow from 45.10.154.0/24
 ufw allow from 45.10.160.0/22
 ufw allow from 45.13.59.0/24
 ufw allow from 45.13.192.0/22
+ufw allow from 45.13.232.0/22
 ufw allow from 45.14.194.0/24
 ufw allow from 45.67.216.0/23
 ufw allow from 45.67.221.0/24
 ufw allow from 45.80.29.0/24
 ufw allow from 45.80.30.0/24
+ufw allow from 45.81.4.0/22
 ufw allow from 45.84.138.0/24
 ufw allow from 45.85.146.0/23
 ufw allow from 45.85.249.0/24
@@ -124,6 +128,7 @@ ufw allow from 89.117.144.0/21
 ufw allow from 89.147.100.0/24
 ufw allow from 89.147.102.0/23
 ufw allow from 89.250.64.0/20
+ufw allow from 91.90.80.0/22
 ufw allow from 91.194.90.0/23
 ufw allow from 91.198.138.0/24
 ufw allow from 91.205.104.0/23
@@ -132,6 +137,7 @@ ufw allow from 91.229.245.0/24
 ufw allow from 91.230.110.0/23
 ufw allow from 91.239.43.0/24
 ufw allow from 92.118.56.0/22
+ufw allow from 92.242.188.0/22
 ufw allow from 94.72.96.0/19
 ufw allow from 94.101.113.0/24
 ufw allow from 94.136.184.0/21
@@ -215,6 +221,8 @@ ufw allow from 185.133.248.0/22
 ufw allow from 185.135.137.0/24
 ufw allow from 185.137.122.0/24
 ufw allow from 185.169.252.0/24
+ufw allow from 185.174.252.0/22
+ufw allow from 185.176.252.0/22
 ufw allow from 185.177.116.0/24
 ufw allow from 185.182.8.0/23
 ufw allow from 185.182.184.0/22

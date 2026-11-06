@@ -1,5 +1,5 @@
 # digitalocean IP ranges - ipset restore format (hash:net)
-# Version: 9 | Generated: 2026-11-05 | Last changed: 2026-11-04
+# Version: 9 | Generated: 2026-11-06 | Last changed: 2026-11-04
 # IPv4: 185 merged subnets, 3150592 unique IPs
 # IPv6: 53 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

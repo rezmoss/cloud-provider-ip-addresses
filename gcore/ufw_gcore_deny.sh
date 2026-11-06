@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-11-05 02:22:39
+# Updated: 2026-11-06 02:21:49
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -46,6 +46,7 @@ ufw deny from 37.110.209.228/32
 ufw deny from 37.156.224.13/32
 ufw deny from 37.156.224.15/32
 ufw deny from 37.239.145.2/32
+ufw deny from 37.239.145.5/32
 ufw deny from 41.210.189.22/32
 ufw deny from 41.216.70.58/32
 ufw deny from 41.226.6.202/32

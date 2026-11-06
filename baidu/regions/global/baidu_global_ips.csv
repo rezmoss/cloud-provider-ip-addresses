@@ -69,6 +69,7 @@ ip_address,ip_type,service,region
 120.48.240.0/21,IPv4,baidu-as38365,global
 120.48.248.0/21,IPv4,baidu-as38365,global
 120.49.0.0/18,IPv4,baidu-as38365,global
+120.49.48.0/20,IPv4,baidu-as38365,global
 120.49.64.0/18,IPv4,baidu-as38365,global
 120.49.64.0/19,IPv4,baidu-as38365,global
 120.49.192.0/18,IPv4,baidu-as38365,global

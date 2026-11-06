@@ -3144,6 +3144,18 @@
     "region": "global"
   },
   {
+    "ip_address": "167.83.4.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as53813",
+    "region": "global"
+  },
+  {
+    "ip_address": "167.83.5.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as53813",
+    "region": "global"
+  },
+  {
     "ip_address": "167.103.2.0/23",
     "ip_type": "IPv4",
     "service": "zscaler-as53813",
@@ -3793,6 +3805,18 @@
   },
   {
     "ip_address": "167.106.0.0/16",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
+    "ip_address": "168.165.50.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
+    "ip_address": "168.165.51.0/24",
     "ip_type": "IPv4",
     "service": "zscaler-as22616",
     "region": "global"
@@ -6117,6 +6141,12 @@
     "ip_address": "2a03:eec0:3217::/48",
     "ip_type": "IPv6",
     "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
+    "ip_address": "2a03:eec0:3220::/48",
+    "ip_type": "IPv6",
+    "service": "zscaler-as53813",
     "region": "global"
   },
   {

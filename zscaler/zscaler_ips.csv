@@ -523,6 +523,8 @@ ip_address,ip_type,service,region
 165.225.245.0/24,IPv4,zscaler-as22616,global
 165.225.246.0/23,IPv4,zscaler-as22616,global
 167.73.110.0/24,IPv4,zscaler-as22616,global
+167.83.4.0/24,IPv4,zscaler-as53813,global
+167.83.5.0/24,IPv4,zscaler-as53813,global
 167.103.2.0/23,IPv4,zscaler-as53813,global
 167.103.4.0/23,IPv4,zscaler-as53813,global
 167.103.6.0/23,IPv4,zscaler-as53813,global
@@ -632,6 +634,8 @@ ip_address,ip_type,service,region
 167.103.252.0/23,IPv4,zscaler-as53813,global
 167.103.254.0/23,IPv4,zscaler-as53813,global
 167.106.0.0/16,IPv4,zscaler-as22616,global
+168.165.50.0/24,IPv4,zscaler-as22616,global
+168.165.51.0/24,IPv4,zscaler-as22616,global
 168.183.170.0/24,IPv4,zscaler-as22616,global
 168.183.171.0/24,IPv4,zscaler-as22616,global
 168.183.172.0/24,IPv4,zscaler-as22616,global
@@ -1019,6 +1023,7 @@ ip_address,ip_type,service,region
 2a03:eec0:3213::/48,IPv6,zscaler-as22616,global
 2a03:eec0:3216::/48,IPv6,zscaler-as53813,global
 2a03:eec0:3217::/48,IPv6,zscaler-as22616,global
+2a03:eec0:3220::/48,IPv6,zscaler-as53813,global
 2a03:eec0:3221::/48,IPv6,zscaler-as53813,global
 2a03:eec0:3222::/48,IPv6,zscaler-as53813,global
 2a03:eec0:3223::/48,IPv6,zscaler-as53813,global
