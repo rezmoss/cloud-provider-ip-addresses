@@ -317,6 +317,8 @@ INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('156.77.185.0/24', '
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('156.77.186.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('159.198.136.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('159.198.137.0/24', 'IPv4');
+INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('159.198.168.0/24', 'IPv4');
+INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('159.198.169.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('159.254.0.0/16', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('159.254.30.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('159.254.58.0/23', 'IPv4');
@@ -641,6 +643,7 @@ INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('167.103.250.0/23', 
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('167.103.252.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('167.103.254.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('167.106.0.0/16', 'IPv4');
+INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('167.238.228.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('168.165.50.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('168.165.51.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('168.183.170.0/24', 'IPv4');
@@ -828,6 +831,8 @@ INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('198.14.124.0/22', '
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('199.168.148.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('199.168.149.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('199.168.150.0/24', 'IPv4');
+INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.210.213.0/24', 'IPv4');
+INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.210.214.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.0.0/17', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.0.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('205.220.2.0/23', 'IPv4');

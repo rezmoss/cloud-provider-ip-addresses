@@ -350,6 +350,7 @@ INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('167
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('167.103.152.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('167.103.153.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('167.106.0.0/16', 'IPv4');
+INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('167.238.228.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('168.165.50.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('168.165.51.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('168.183.170.0/24', 'IPv4');
@@ -497,6 +498,8 @@ INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('198
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('198.14.122.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('198.14.123.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('198.14.124.0/22', 'IPv4');
+INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('205.210.213.0/24', 'IPv4');
+INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('205.210.214.0/24', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('205.220.0.0/17', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('205.220.0.0/23', 'IPv4');
 INSERT INTO `zscaler_zscaler-as22616_ips` (`ip_address`, `ip_type`) VALUES ('205.220.2.0/23', 'IPv4');

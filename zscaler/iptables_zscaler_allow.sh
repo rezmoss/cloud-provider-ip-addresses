@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zscaler IP Ranges
-# Updated: 2026-11-06 02:21:40
+# Updated: 2026-11-07 02:21:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -77,6 +77,7 @@ iptables -A INPUT -s 155.95.86.0/24 -j ACCEPT
 iptables -A INPUT -s 156.77.184.0/23 -j ACCEPT
 iptables -A INPUT -s 156.77.186.0/24 -j ACCEPT
 iptables -A INPUT -s 159.198.136.0/23 -j ACCEPT
+iptables -A INPUT -s 159.198.168.0/23 -j ACCEPT
 iptables -A INPUT -s 159.254.0.0/16 -j ACCEPT
 iptables -A INPUT -s 161.107.92.0/22 -j ACCEPT
 iptables -A INPUT -s 161.151.200.0/22 -j ACCEPT
@@ -121,6 +122,7 @@ iptables -A INPUT -s 167.103.232.0/22 -j ACCEPT
 iptables -A INPUT -s 167.103.247.0/24 -j ACCEPT
 iptables -A INPUT -s 167.103.248.0/21 -j ACCEPT
 iptables -A INPUT -s 167.106.0.0/16 -j ACCEPT
+iptables -A INPUT -s 167.238.228.0/24 -j ACCEPT
 iptables -A INPUT -s 168.165.50.0/23 -j ACCEPT
 iptables -A INPUT -s 168.183.170.0/23 -j ACCEPT
 iptables -A INPUT -s 168.183.172.0/22 -j ACCEPT
@@ -136,6 +138,8 @@ iptables -A INPUT -s 175.107.128.0/18 -j ACCEPT
 iptables -A INPUT -s 198.14.64.0/18 -j ACCEPT
 iptables -A INPUT -s 199.168.148.0/23 -j ACCEPT
 iptables -A INPUT -s 199.168.150.0/24 -j ACCEPT
+iptables -A INPUT -s 205.210.213.0/24 -j ACCEPT
+iptables -A INPUT -s 205.210.214.0/24 -j ACCEPT
 iptables -A INPUT -s 205.220.0.0/17 -j ACCEPT
 iptables -A INPUT -s 209.55.128.0/18 -j ACCEPT
 iptables -A INPUT -s 209.55.192.0/19 -j ACCEPT

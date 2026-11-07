@@ -120,6 +120,24 @@
     "region": "au"
   },
   {
+    "ip_address": "158.173.123.2/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "au"
+  },
+  {
+    "ip_address": "158.173.123.81/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "au"
+  },
+  {
+    "ip_address": "158.173.123.161/32",
+    "ip_type": "IPv4",
+    "service": "mullvad-wireguard",
+    "region": "au"
+  },
+  {
     "ip_address": "163.47.16.146/32",
     "ip_type": "IPv4",
     "service": "mullvad-wireguard",
@@ -217,6 +235,24 @@
   },
   {
     "ip_address": "2406:d501:f:dfc::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "au"
+  },
+  {
+    "ip_address": "2406:d501:f:dfe::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "au"
+  },
+  {
+    "ip_address": "2406:d501:f:dff::f001/128",
+    "ip_type": "IPv6",
+    "service": "mullvad-wireguard",
+    "region": "au"
+  },
+  {
+    "ip_address": "2406:d501:f:e00::f001/128",
     "ip_type": "IPv6",
     "service": "mullvad-wireguard",
     "region": "au"

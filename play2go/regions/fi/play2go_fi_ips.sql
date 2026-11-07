@@ -40,6 +40,7 @@ INSERT INTO `play2go_fi_ips` (`ip_address`, `ip_type`) VALUES ('177.3.220.0/24',
 INSERT INTO `play2go_fi_ips` (`ip_address`, `ip_type`) VALUES ('177.202.65.0/24', 'IPv4');
 INSERT INTO `play2go_fi_ips` (`ip_address`, `ip_type`) VALUES ('177.202.69.0/24', 'IPv4');
 INSERT INTO `play2go_fi_ips` (`ip_address`, `ip_type`) VALUES ('177.202.75.0/24', 'IPv4');
+INSERT INTO `play2go_fi_ips` (`ip_address`, `ip_type`) VALUES ('177.202.79.0/24', 'IPv4');
 INSERT INTO `play2go_fi_ips` (`ip_address`, `ip_type`) VALUES ('185.216.71.0/24', 'IPv4');
 INSERT INTO `play2go_fi_ips` (`ip_address`, `ip_type`) VALUES ('193.23.201.0/24', 'IPv4');
 INSERT INTO `play2go_fi_ips` (`ip_address`, `ip_type`) VALUES ('193.35.17.0/24', 'IPv4');

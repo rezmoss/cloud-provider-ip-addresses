@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-11-04 02:21:02
+# Updated: 2026-11-07 02:20:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -46,13 +46,7 @@ iptables -A INPUT -s 8.210.0.0/15 -j ACCEPT
 iptables -A INPUT -s 8.212.0.0/14 -j ACCEPT
 iptables -A INPUT -s 8.216.0.0/13 -j ACCEPT
 iptables -A INPUT -s 14.1.112.0/22 -j ACCEPT
-iptables -A INPUT -s 38.47.128.0/23 -j ACCEPT
-iptables -A INPUT -s 38.47.131.0/24 -j ACCEPT
-iptables -A INPUT -s 38.47.132.0/22 -j ACCEPT
-iptables -A INPUT -s 38.47.136.0/22 -j ACCEPT
-iptables -A INPUT -s 38.47.140.0/23 -j ACCEPT
-iptables -A INPUT -s 38.47.142.0/24 -j ACCEPT
-iptables -A INPUT -s 38.47.144.0/24 -j ACCEPT
+iptables -A INPUT -s 38.47.128.0/19 -j ACCEPT
 iptables -A INPUT -s 39.96.0.0/13 -j ACCEPT
 iptables -A INPUT -s 39.104.0.0/14 -j ACCEPT
 iptables -A INPUT -s 39.108.0.0/16 -j ACCEPT
@@ -125,13 +119,11 @@ iptables -A INPUT -s 43.122.0.0/16 -j ACCEPT
 iptables -A INPUT -s 43.123.0.0/17 -j ACCEPT
 iptables -A INPUT -s 43.123.128.0/18 -j ACCEPT
 iptables -A INPUT -s 43.124.0.0/16 -j ACCEPT
-iptables -A INPUT -s 43.125.0.0/19 -j ACCEPT
-iptables -A INPUT -s 43.125.32.0/20 -j ACCEPT
-iptables -A INPUT -s 43.125.48.0/21 -j ACCEPT
+iptables -A INPUT -s 43.125.0.0/18 -j ACCEPT
+iptables -A INPUT -s 43.125.64.0/21 -j ACCEPT
 iptables -A INPUT -s 43.126.0.0/17 -j ACCEPT
 iptables -A INPUT -s 45.113.40.0/22 -j ACCEPT
-iptables -A INPUT -s 45.194.58.0/23 -j ACCEPT
-iptables -A INPUT -s 45.194.63.0/24 -j ACCEPT
+iptables -A INPUT -s 45.194.56.0/21 -j ACCEPT
 iptables -A INPUT -s 45.199.179.0/24 -j ACCEPT
 iptables -A INPUT -s 47.52.0.0/16 -j ACCEPT
 iptables -A INPUT -s 47.56.0.0/15 -j ACCEPT
@@ -205,6 +197,7 @@ iptables -A INPUT -s 101.200.0.0/15 -j ACCEPT
 iptables -A INPUT -s 103.52.196.0/22 -j ACCEPT
 iptables -A INPUT -s 103.81.186.0/23 -j ACCEPT
 iptables -A INPUT -s 103.135.210.0/23 -j ACCEPT
+iptables -A INPUT -s 103.173.12.0/23 -j ACCEPT
 iptables -A INPUT -s 103.206.40.0/22 -j ACCEPT
 iptables -A INPUT -s 106.11.0.0/16 -j ACCEPT
 iptables -A INPUT -s 106.14.0.0/15 -j ACCEPT
@@ -317,11 +310,11 @@ iptables -A INPUT -s 203.119.168.0/21 -j ACCEPT
 iptables -A INPUT -s 203.119.176.0/20 -j ACCEPT
 iptables -A INPUT -s 203.119.192.0/18 -j ACCEPT
 iptables -A INPUT -s 203.209.224.0/19 -j ACCEPT
+iptables -A INPUT -s 205.198.40.0/23 -j ACCEPT
 iptables -A INPUT -s 205.198.43.0/24 -j ACCEPT
-iptables -A INPUT -s 205.198.45.0/24 -j ACCEPT
-iptables -A INPUT -s 205.198.46.0/23 -j ACCEPT
+iptables -A INPUT -s 205.198.44.0/22 -j ACCEPT
 iptables -A INPUT -s 205.204.96.0/19 -j ACCEPT
-iptables -A INPUT -s 209.146.118.0/24 -j ACCEPT
+iptables -A INPUT -s 209.146.118.0/23 -j ACCEPT
 iptables -A INPUT -s 218.244.128.0/19 -j ACCEPT
 iptables -A INPUT -s 223.4.0.0/14 -j ACCEPT
 ip6tables -A INPUT -s 2400:3200::/32 -j ACCEPT
@@ -350,9 +343,6 @@ ip6tables -A INPUT -s 240b:4007::/32 -j ACCEPT
 ip6tables -A INPUT -s 240b:4009::/32 -j ACCEPT
 ip6tables -A INPUT -s 240b:400b::/32 -j ACCEPT
 ip6tables -A INPUT -s 240b:400c::/30 -j ACCEPT
-ip6tables -A INPUT -s 240b:4010:fffe::/47 -j ACCEPT
-ip6tables -A INPUT -s 240b:4011::/32 -j ACCEPT
-ip6tables -A INPUT -s 240b:4012::/31 -j ACCEPT
-ip6tables -A INPUT -s 240b:4014::/30 -j ACCEPT
+ip6tables -A INPUT -s 240b:4010::/29 -j ACCEPT
 ip6tables -A INPUT -s 240b:4018::/30 -j ACCEPT
 ip6tables -A INPUT -s 240b:401f::/32 -j ACCEPT

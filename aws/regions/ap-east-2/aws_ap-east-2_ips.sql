@@ -156,3 +156,5 @@ INSERT INTO `aws_ap-east-2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f0:c12
 INSERT INTO `aws_ap-east-2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7025::/48', 'IPv6');
 INSERT INTO `aws_ap-east-2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7025::/48', 'IPv6');
 INSERT INTO `aws_ap-east-2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f2:7025::/48', 'IPv6');
+INSERT INTO `aws_ap-east-2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2e00::/56', 'IPv6');
+INSERT INTO `aws_ap-east-2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2e00::/56', 'IPv6');

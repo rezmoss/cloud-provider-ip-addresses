@@ -1,7 +1,7 @@
 {
   "provider": "upcloud",
   "version": 8,
-  "generated_date": "2026-11-06",
+  "generated_date": "2026-11-07",
   "last_changed_date": "2026-10-22",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

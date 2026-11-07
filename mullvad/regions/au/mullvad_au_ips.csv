@@ -19,6 +19,9 @@ ip_address,ip_type,service,region
 146.70.141.194/32,IPv4,mullvad-wireguard,au
 146.70.200.2/32,IPv4,mullvad-wireguard,au
 146.70.200.194/32,IPv4,mullvad-wireguard,au
+158.173.123.2/32,IPv4,mullvad-wireguard,au
+158.173.123.81/32,IPv4,mullvad-wireguard,au
+158.173.123.161/32,IPv4,mullvad-wireguard,au
 163.47.16.146/32,IPv4,mullvad-wireguard,au
 163.47.16.150/32,IPv4,mullvad-wireguard,au
 163.47.16.154/32,IPv4,mullvad-wireguard,au
@@ -36,6 +39,9 @@ ip_address,ip_type,service,region
 2406:d501:f:dfa::f001/128,IPv6,mullvad-wireguard,au
 2406:d501:f:dfb::f001/128,IPv6,mullvad-wireguard,au
 2406:d501:f:dfc::f001/128,IPv6,mullvad-wireguard,au
+2406:d501:f:dfe::f001/128,IPv6,mullvad-wireguard,au
+2406:d501:f:dff::f001/128,IPv6,mullvad-wireguard,au
+2406:d501:f:e00::f001/128,IPv6,mullvad-wireguard,au
 2a06:3040:18:210::f001/128,IPv6,mullvad-wireguard,au
 2a06:3040:18:210::f101/128,IPv6,mullvad-wireguard,au
 2a06:3040:18:210::f201/128,IPv6,mullvad-wireguard,au

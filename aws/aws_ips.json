@@ -63006,6 +63006,12 @@
     "region": "mx-central-1"
   },
   {
+    "ip_address": "191.166.0.0/16",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "mx-central-1"
+  },
+  {
     "ip_address": "192.16.64.0/21",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -93558,6 +93564,18 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f3:f010:500::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:500::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "2600:f0f3:f010:800::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -93940,6 +93958,18 @@
     "ip_type": "IPv6",
     "service": "EC2",
     "region": "il-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2e00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-east-2"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2e00::/56",
+    "ip_type": "IPv6",
+    "service": "EC2",
+    "region": "ap-east-2"
   },
   {
     "ip_address": "2600:f0f3:f010:2f00::/56",

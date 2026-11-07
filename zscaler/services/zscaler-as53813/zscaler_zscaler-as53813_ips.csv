@@ -114,6 +114,8 @@ ip_address,ip_type,service,region
 153.69.26.0/24,IPv4,zscaler-as53813,global
 153.69.28.0/24,IPv4,zscaler-as53813,global
 153.69.30.0/24,IPv4,zscaler-as53813,global
+159.198.168.0/24,IPv4,zscaler-as53813,global
+159.198.169.0/24,IPv4,zscaler-as53813,global
 159.254.98.0/24,IPv4,zscaler-as53813,global
 159.254.103.0/24,IPv4,zscaler-as53813,global
 159.254.204.0/24,IPv4,zscaler-as53813,global

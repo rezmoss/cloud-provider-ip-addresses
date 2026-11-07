@@ -1,8 +1,8 @@
 {
   "provider": "mullvad",
-  "version": 35,
-  "generated_date": "2026-11-06",
-  "last_changed_date": "2026-10-29",
+  "version": 36,
+  "generated_date": "2026-11-07",
+  "last_changed_date": "2026-11-07",
   "sources": [
     "https://api.mullvad.net/www/relays/all/"
   ],
@@ -17,7 +17,7 @@
     "addresses": 556
   },
   "total_entries": 1122,
-  "content_sha256": "4c4597f26c0147b8564b6bece53bca78df78a584df7ac4c959b4ef2d6c4026c4",
+  "content_sha256": "744844397632f134242d801671bc0b53a1a5011d64467cf1d03d20118df9e345",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

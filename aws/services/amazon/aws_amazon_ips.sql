@@ -8288,6 +8288,7 @@ INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f000::
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:200::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:300::/56', 'IPv6');
+INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:500::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:800::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:900::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:a00::/56', 'IPv6');
@@ -8320,6 +8321,7 @@ INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2b00::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2c00::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2d00::/56', 'IPv6');
+INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2e00::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2f00::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:3000::/56', 'IPv6');
 INSERT INTO `aws_amazon_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:3100::/56', 'IPv6');

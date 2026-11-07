@@ -1,6 +1,6 @@
 # zscaler IP ranges - ipset restore format (hash:net)
-# Version: 46 | Generated: 2026-11-06 | Last changed: 2026-11-06
-# IPv4: 133 merged subnets, 818176 unique IPs
+# Version: 47 | Generated: 2026-11-07 | Last changed: 2026-11-07
+# IPv4: 137 merged subnets, 819456 unique IPs
 # IPv6: 39 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -78,6 +78,7 @@ add zscaler_v4 155.95.86.0/24
 add zscaler_v4 156.77.184.0/23
 add zscaler_v4 156.77.186.0/24
 add zscaler_v4 159.198.136.0/23
+add zscaler_v4 159.198.168.0/23
 add zscaler_v4 159.254.0.0/16
 add zscaler_v4 161.107.92.0/22
 add zscaler_v4 161.151.200.0/22
@@ -122,6 +123,7 @@ add zscaler_v4 167.103.232.0/22
 add zscaler_v4 167.103.247.0/24
 add zscaler_v4 167.103.248.0/21
 add zscaler_v4 167.106.0.0/16
+add zscaler_v4 167.238.228.0/24
 add zscaler_v4 168.165.50.0/23
 add zscaler_v4 168.183.170.0/23
 add zscaler_v4 168.183.172.0/22
@@ -137,6 +139,8 @@ add zscaler_v4 175.107.128.0/18
 add zscaler_v4 198.14.64.0/18
 add zscaler_v4 199.168.148.0/23
 add zscaler_v4 199.168.150.0/24
+add zscaler_v4 205.210.213.0/24
+add zscaler_v4 205.210.214.0/24
 add zscaler_v4 205.220.0.0/17
 add zscaler_v4 209.55.128.0/18
 add zscaler_v4 209.55.192.0/19

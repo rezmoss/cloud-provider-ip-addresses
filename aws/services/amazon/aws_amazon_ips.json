@@ -49692,6 +49692,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:f0f3:f010:500::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-southeast-6"
+  },
+  {
     "ip_address": "2600:f0f3:f010:800::/56",
     "ip_type": "IPv6",
     "service": "AMAZON",
@@ -49882,6 +49888,12 @@
     "ip_type": "IPv6",
     "service": "AMAZON",
     "region": "il-central-1"
+  },
+  {
+    "ip_address": "2600:f0f3:f010:2e00::/56",
+    "ip_type": "IPv6",
+    "service": "AMAZON",
+    "region": "ap-east-2"
   },
   {
     "ip_address": "2600:f0f3:f010:2f00::/56",

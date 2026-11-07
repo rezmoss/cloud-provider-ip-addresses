@@ -73,6 +73,7 @@ INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.53
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.53.160/27', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('150.222.53.192/27', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('191.166.0.0/16', 'IPv4');
+INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('191.166.0.0/16', 'IPv4');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f00:7400::/40', 'IPv6');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f00:7400::/40', 'IPv6');
 INSERT INTO `aws_mx-central-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:1f17:4000::/36', 'IPv6');

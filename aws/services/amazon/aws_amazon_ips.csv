@@ -8281,6 +8281,7 @@ ip_address,ip_type,service,region
 2600:f0f3:f010::/56,IPv6,AMAZON,us-east-1
 2600:f0f3:f010:200::/56,IPv6,AMAZON,us-west-1
 2600:f0f3:f010:300::/56,IPv6,AMAZON,us-east-1
+2600:f0f3:f010:500::/56,IPv6,AMAZON,ap-southeast-6
 2600:f0f3:f010:800::/56,IPv6,AMAZON,eu-north-1
 2600:f0f3:f010:900::/56,IPv6,AMAZON,me-south-1
 2600:f0f3:f010:a00::/56,IPv6,AMAZON,cn-north-1
@@ -8313,6 +8314,7 @@ ip_address,ip_type,service,region
 2600:f0f3:f010:2b00::/56,IPv6,AMAZON,ap-southeast-2
 2600:f0f3:f010:2c00::/56,IPv6,AMAZON,eusc-de-east-1
 2600:f0f3:f010:2d00::/56,IPv6,AMAZON,il-central-1
+2600:f0f3:f010:2e00::/56,IPv6,AMAZON,ap-east-2
 2600:f0f3:f010:2f00::/56,IPv6,AMAZON,ca-central-1
 2600:f0f3:f010:3000::/56,IPv6,AMAZON,ca-west-1
 2600:f0f3:f010:3100::/56,IPv6,AMAZON,eu-south-2

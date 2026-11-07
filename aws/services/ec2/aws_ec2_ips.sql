@@ -1824,6 +1824,7 @@ INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('184.73.0.0/16', 'IP
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('184.169.128.0/17', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('184.192.0.0/12', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('185.48.120.0/22', 'IPv4');
+INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('191.166.0.0/16', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('192.31.212.0/24', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('192.31.213.0/24', 'IPv4');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('192.43.175.0/24', 'IPv4');
@@ -3629,6 +3630,7 @@ INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f000::/44
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:200::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:300::/56', 'IPv6');
+INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:500::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:800::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:900::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:a00::/56', 'IPv6');
@@ -3661,6 +3663,7 @@ INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2a00
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2b00::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2c00::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2d00::/56', 'IPv6');
+INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2e00::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:2f00::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:3000::/56', 'IPv6');
 INSERT INTO `aws_ec2_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f3:f010:3100::/56', 'IPv6');

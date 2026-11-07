@@ -410,6 +410,9 @@ INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('156.59.50.194/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('156.59.50.226/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('156.59.127.194/32', 'IPv4');
+INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('158.173.123.2/32', 'IPv4');
+INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('158.173.123.81/32', 'IPv4');
+INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('158.173.123.161/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('162.128.129.98/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('163.47.16.146/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('163.47.16.150/32', 'IPv4');
@@ -421,9 +424,6 @@ INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('169.150.196.28/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('169.150.198.66/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('169.150.198.79/32', 'IPv4');
-INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('169.150.201.2/32', 'IPv4');
-INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('169.150.201.15/32', 'IPv4');
-INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('169.150.201.28/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('169.150.203.2/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('169.150.203.15/32', 'IPv4');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('169.150.203.28/32', 'IPv4');
@@ -629,6 +629,9 @@ INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2406:d501:f:dfa::f001/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2406:d501:f:dfb::f001/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2406:d501:f:dfc::f001/128', 'IPv6');
+INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2406:d501:f:dfe::f001/128', 'IPv6');
+INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2406:d501:f:dff::f001/128', 'IPv6');
+INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2406:d501:f:e00::f001/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2602:f99d::f001/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2602:f99d::f101/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2602:fa19::f001/128', 'IPv6');
@@ -861,9 +864,6 @@ INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c61f::b63f/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c61f:1::b64f/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c61f:2::f001/128', 'IPv6');
-INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c762:1::a35f/128', 'IPv6');
-INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c762:2::a36f/128', 'IPv6');
-INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c762:3::a37f/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c859:1::a01f/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c859:2::a02f/128', 'IPv6');
 INSERT INTO `mullvad_mullvad-wireguard_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6ea0:c859:3::a03f/128', 'IPv6');
