@@ -1,6 +1,6 @@
 # github IP ranges - ipset restore format (hash:net)
-# Version: 23 | Generated: 2026-11-06 | Last changed: 2026-10-31
-# IPv4: 3926 merged subnets, 28658781 unique IPs
+# Version: 24 | Generated: 2026-11-08 | Last changed: 2026-11-08
+# IPv4: 3935 merged subnets, 28658925 unique IPs
 # IPv6: 2547 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -16,6 +16,10 @@ add github_v4 4.152.0.0/14
 add github_v4 4.156.0.0/15
 add github_v4 4.172.0.0/14
 add github_v4 4.180.0.0/16
+add github_v4 4.186.157.192/28
+add github_v4 4.187.247.160/28
+add github_v4 4.195.217.80/28
+add github_v4 4.196.32.112/28
 add github_v4 4.204.0.0/14
 add github_v4 4.208.0.0/15
 add github_v4 4.210.0.0/16
@@ -24,6 +28,7 @@ add github_v4 4.225.11.194/32
 add github_v4 4.225.11.196/32
 add github_v4 4.225.11.199/32
 add github_v4 4.225.11.200/31
+add github_v4 4.225.187.240/28
 add github_v4 4.227.0.0/16
 add github_v4 4.228.31.144/31
 add github_v4 4.228.31.149/32
@@ -353,6 +358,7 @@ add github_v4 20.26.156.210/31
 add github_v4 20.26.156.213/32
 add github_v4 20.26.156.214/31
 add github_v4 20.26.156.217/32
+add github_v4 20.27.163.208/28
 add github_v4 20.27.177.113/32
 add github_v4 20.27.177.116/30
 add github_v4 20.27.177.121/32
@@ -3663,6 +3669,7 @@ add github_v4 135.222.0.0/16
 add github_v4 135.224.0.0/16
 add github_v4 135.232.0.0/15
 add github_v4 135.234.0.0/16
+add github_v4 135.235.149.144/28
 add github_v4 135.236.0.0/15
 add github_v4 137.116.0.0/18
 add github_v4 137.116.64.0/19
@@ -3824,6 +3831,8 @@ add github_v4 168.63.88.0/23
 add github_v4 168.63.92.0/22
 add github_v4 168.63.96.0/19
 add github_v4 172.129.128.0/17
+add github_v4 172.130.153.16/28
+add github_v4 172.130.201.80/28
 add github_v4 172.131.0.0/16
 add github_v4 172.132.0.0/17
 add github_v4 172.134.0.0/16

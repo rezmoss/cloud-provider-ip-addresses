@@ -1,6 +1,6 @@
 # digitalocean IP ranges - ipset restore format (hash:net)
-# Version: 9 | Generated: 2026-11-07 | Last changed: 2026-11-04
-# IPv4: 185 merged subnets, 3150592 unique IPs
+# Version: 10 | Generated: 2026-11-08 | Last changed: 2026-11-08
+# IPv4: 185 merged subnets, 3151616 unique IPs
 # IPv6: 53 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -182,7 +182,7 @@ add digitalocean_v4 198.211.108.0/23
 add digitalocean_v4 198.211.110.0/24
 add digitalocean_v4 198.211.112.0/20
 add digitalocean_v4 201.79.0.0/18
-add digitalocean_v4 201.79.64.0/22
+add digitalocean_v4 201.79.64.0/21
 add digitalocean_v4 201.79.80.0/20
 add digitalocean_v4 201.79.96.0/19
 add digitalocean_v4 201.79.128.0/20

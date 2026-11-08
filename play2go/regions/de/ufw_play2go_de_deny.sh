@@ -1,6 +1,6 @@
 #!/bin/bash
 # Play2go IP Ranges
-# Updated: 2026-11-04 02:22:41
+# Updated: 2026-11-08 02:22:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -45,6 +45,8 @@ ufw deny from 31.77.156.0/24
 ufw deny from 31.77.159.0/24
 ufw deny from 45.66.228.0/24
 ufw deny from 45.133.251.0/24
+ufw deny from 48.102.163.0/24
+ufw deny from 48.102.164.0/24
 ufw deny from 64.188.64.0/22
 ufw deny from 77.239.125.0/24
 ufw deny from 84.21.173.0/24

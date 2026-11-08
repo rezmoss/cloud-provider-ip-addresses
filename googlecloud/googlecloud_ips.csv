@@ -610,6 +610,7 @@ ip_address,ip_type,service,region
 34.183.170.0/24,IPv4,Google Cloud,asia-southeast1
 34.183.171.0/24,IPv4,Google Cloud,northamerica-south1
 34.183.172.0/23,IPv4,Google Cloud,asia-northeast3
+34.183.174.0/24,IPv4,Google Cloud,northamerica-northeast1
 34.184.0.0/24,IPv4,Google Cloud,europe-west8
 34.184.1.0/24,IPv4,Google Cloud,southamerica-west1
 34.184.2.0/24,IPv4,Google Cloud,australia-southeast1
@@ -691,6 +692,7 @@ ip_address,ip_type,service,region
 34.184.164.0/22,IPv4,Google Cloud,europe-west3
 34.184.168.0/23,IPv4,Google Cloud,asia-southeast1
 34.184.170.0/24,IPv4,Google Cloud,northamerica-south1
+34.184.171.0/24,IPv4,Google Cloud,northamerica-northeast1
 34.184.172.0/23,IPv4,Google Cloud,asia-northeast3
 34.185.64.0/18,IPv4,Google Cloud,us-west3
 34.185.128.0/17,IPv4,Google Cloud,europe-west3

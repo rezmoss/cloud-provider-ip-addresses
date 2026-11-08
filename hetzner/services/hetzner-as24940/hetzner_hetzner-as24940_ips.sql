@@ -10,6 +10,7 @@ INSERT INTO `hetzner_hetzner-as24940_ips` (`ip_address`, `ip_type`) VALUES ('2.2
 INSERT INTO `hetzner_hetzner-as24940_ips` (`ip_address`, `ip_type`) VALUES ('2.29.0.0/16', 'IPv4');
 INSERT INTO `hetzner_hetzner-as24940_ips` (`ip_address`, `ip_type`) VALUES ('2.31.0.0/16', 'IPv4');
 INSERT INTO `hetzner_hetzner-as24940_ips` (`ip_address`, `ip_type`) VALUES ('5.9.0.0/16', 'IPv4');
+INSERT INTO `hetzner_hetzner-as24940_ips` (`ip_address`, `ip_type`) VALUES ('5.9.61.0/24', 'IPv4');
 INSERT INTO `hetzner_hetzner-as24940_ips` (`ip_address`, `ip_type`) VALUES ('5.75.128.0/17', 'IPv4');
 INSERT INTO `hetzner_hetzner-as24940_ips` (`ip_address`, `ip_type`) VALUES ('23.88.0.0/17', 'IPv4');
 INSERT INTO `hetzner_hetzner-as24940_ips` (`ip_address`, `ip_type`) VALUES ('31.58.88.0/24', 'IPv4');

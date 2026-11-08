@@ -6320,6 +6320,8 @@ INSERT INTO `akamai_ips` (`ip_address`, `ip_type`) VALUES ('165.254.238.128/25',
 INSERT INTO `akamai_ips` (`ip_address`, `ip_type`) VALUES ('165.254.247.128/25', 'IPv4');
 INSERT INTO `akamai_ips` (`ip_address`, `ip_type`) VALUES ('167.140.240.0/24', 'IPv4');
 INSERT INTO `akamai_ips` (`ip_address`, `ip_type`) VALUES ('168.143.242.0/23', 'IPv4');
+INSERT INTO `akamai_ips` (`ip_address`, `ip_type`) VALUES ('168.143.254.0/24', 'IPv4');
+INSERT INTO `akamai_ips` (`ip_address`, `ip_type`) VALUES ('168.143.255.0/24', 'IPv4');
 INSERT INTO `akamai_ips` (`ip_address`, `ip_type`) VALUES ('170.74.16.0/24', 'IPv4');
 INSERT INTO `akamai_ips` (`ip_address`, `ip_type`) VALUES ('170.187.128.0/24', 'IPv4');
 INSERT INTO `akamai_ips` (`ip_address`, `ip_type`) VALUES ('170.187.129.0/24', 'IPv4');

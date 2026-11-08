@@ -1,5 +1,5 @@
 # gabia IP ranges - ipset restore format (hash:net)
-# Version: 8 | Generated: 2026-11-07 | Last changed: 2026-11-05
+# Version: 8 | Generated: 2026-11-08 | Last changed: 2026-11-05
 # IPv4: 59 merged subnets, 53888 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

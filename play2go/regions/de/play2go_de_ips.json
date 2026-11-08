@@ -288,6 +288,18 @@
     "region": "de"
   },
   {
+    "ip_address": "48.102.163.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
+    "ip_address": "48.102.164.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "de"
+  },
+  {
     "ip_address": "64.188.64.0/22",
     "ip_type": "IPv4",
     "service": "play2go",

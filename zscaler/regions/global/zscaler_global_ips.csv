@@ -525,6 +525,8 @@ ip_address,ip_type,service,region
 165.225.245.0/24,IPv4,zscaler-as22616,global
 165.225.246.0/23,IPv4,zscaler-as22616,global
 167.73.110.0/24,IPv4,zscaler-as22616,global
+167.83.0.0/24,IPv4,zscaler-as22616,global
+167.83.1.0/24,IPv4,zscaler-as22616,global
 167.83.4.0/24,IPv4,zscaler-as53813,global
 167.83.5.0/24,IPv4,zscaler-as53813,global
 167.103.2.0/23,IPv4,zscaler-as53813,global

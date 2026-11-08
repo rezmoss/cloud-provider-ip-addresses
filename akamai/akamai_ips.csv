@@ -6313,6 +6313,8 @@ ip_address,ip_type,service,region
 165.254.247.128/25,IPv4,akamai-as20940,global
 167.140.240.0/24,IPv4,akamai-as32787,global
 168.143.242.0/23,IPv4,akamai-as20940,global
+168.143.254.0/24,IPv4,akamai-as393560,global
+168.143.255.0/24,IPv4,akamai-as393560,global
 170.74.16.0/24,IPv4,akamai-as32787,global
 170.187.128.0/24,IPv4,akamai-as63949,global
 170.187.129.0/24,IPv4,akamai-as63949,global

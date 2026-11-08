@@ -1,6 +1,6 @@
 #!/bin/bash
 # Github IP Ranges
-# Updated: 2026-10-31 02:17:14
+# Updated: 2026-11-08 02:17:54
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -15,6 +15,10 @@ iptables -A INPUT -s 4.152.0.0/14 -j ACCEPT
 iptables -A INPUT -s 4.156.0.0/15 -j ACCEPT
 iptables -A INPUT -s 4.172.0.0/14 -j ACCEPT
 iptables -A INPUT -s 4.180.0.0/16 -j ACCEPT
+iptables -A INPUT -s 4.186.157.192/28 -j ACCEPT
+iptables -A INPUT -s 4.187.247.160/28 -j ACCEPT
+iptables -A INPUT -s 4.195.217.80/28 -j ACCEPT
+iptables -A INPUT -s 4.196.32.112/28 -j ACCEPT
 iptables -A INPUT -s 4.204.0.0/14 -j ACCEPT
 iptables -A INPUT -s 4.208.0.0/15 -j ACCEPT
 iptables -A INPUT -s 4.210.0.0/16 -j ACCEPT
@@ -23,6 +27,7 @@ iptables -A INPUT -s 4.225.11.194/32 -j ACCEPT
 iptables -A INPUT -s 4.225.11.196/32 -j ACCEPT
 iptables -A INPUT -s 4.225.11.199/32 -j ACCEPT
 iptables -A INPUT -s 4.225.11.200/31 -j ACCEPT
+iptables -A INPUT -s 4.225.187.240/28 -j ACCEPT
 iptables -A INPUT -s 4.227.0.0/16 -j ACCEPT
 iptables -A INPUT -s 4.228.31.144/31 -j ACCEPT
 iptables -A INPUT -s 4.228.31.149/32 -j ACCEPT
@@ -352,6 +357,7 @@ iptables -A INPUT -s 20.26.156.210/31 -j ACCEPT
 iptables -A INPUT -s 20.26.156.213/32 -j ACCEPT
 iptables -A INPUT -s 20.26.156.214/31 -j ACCEPT
 iptables -A INPUT -s 20.26.156.217/32 -j ACCEPT
+iptables -A INPUT -s 20.27.163.208/28 -j ACCEPT
 iptables -A INPUT -s 20.27.177.113/32 -j ACCEPT
 iptables -A INPUT -s 20.27.177.116/30 -j ACCEPT
 iptables -A INPUT -s 20.27.177.121/32 -j ACCEPT
@@ -3662,6 +3668,7 @@ iptables -A INPUT -s 135.222.0.0/16 -j ACCEPT
 iptables -A INPUT -s 135.224.0.0/16 -j ACCEPT
 iptables -A INPUT -s 135.232.0.0/15 -j ACCEPT
 iptables -A INPUT -s 135.234.0.0/16 -j ACCEPT
+iptables -A INPUT -s 135.235.149.144/28 -j ACCEPT
 iptables -A INPUT -s 135.236.0.0/15 -j ACCEPT
 iptables -A INPUT -s 137.116.0.0/18 -j ACCEPT
 iptables -A INPUT -s 137.116.64.0/19 -j ACCEPT
@@ -3823,6 +3830,8 @@ iptables -A INPUT -s 168.63.88.0/23 -j ACCEPT
 iptables -A INPUT -s 168.63.92.0/22 -j ACCEPT
 iptables -A INPUT -s 168.63.96.0/19 -j ACCEPT
 iptables -A INPUT -s 172.129.128.0/17 -j ACCEPT
+iptables -A INPUT -s 172.130.153.16/28 -j ACCEPT
+iptables -A INPUT -s 172.130.201.80/28 -j ACCEPT
 iptables -A INPUT -s 172.131.0.0/16 -j ACCEPT
 iptables -A INPUT -s 172.132.0.0/17 -j ACCEPT
 iptables -A INPUT -s 172.134.0.0/16 -j ACCEPT
