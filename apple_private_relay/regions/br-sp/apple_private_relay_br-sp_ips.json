@@ -1080,12 +1080,27 @@
     "region": "BR-SP"
   },
   {
+    "ip_address": "104.28.138.246/32",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
     "ip_address": "104.28.139.134/32",
     "ip_type": "IPv4",
     "region": "BR-SP"
   },
   {
     "ip_address": "104.28.140.3/32",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
+    "ip_address": "104.28.140.53/32",
+    "ip_type": "IPv4",
+    "region": "BR-SP"
+  },
+  {
+    "ip_address": "104.28.140.54/32",
     "ip_type": "IPv4",
     "region": "BR-SP"
   },

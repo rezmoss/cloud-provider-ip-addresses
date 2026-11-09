@@ -170,6 +170,21 @@
     "region": "ES"
   },
   {
+    "ip_address": "104.28.143.24/32",
+    "ip_type": "IPv4",
+    "region": "ES"
+  },
+  {
+    "ip_address": "104.28.143.25/32",
+    "ip_type": "IPv4",
+    "region": "ES"
+  },
+  {
+    "ip_address": "104.28.143.45/32",
+    "ip_type": "IPv4",
+    "region": "ES"
+  },
+  {
     "ip_address": "104.28.143.95/32",
     "ip_type": "IPv4",
     "region": "ES"
@@ -191,6 +206,11 @@
   },
   {
     "ip_address": "104.28.143.198/32",
+    "ip_type": "IPv4",
+    "region": "ES"
+  },
+  {
+    "ip_address": "104.28.144.26/32",
     "ip_type": "IPv4",
     "region": "ES"
   },

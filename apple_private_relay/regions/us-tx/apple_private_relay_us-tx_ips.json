@@ -1935,6 +1935,11 @@
     "region": "US-TX"
   },
   {
+    "ip_address": "104.28.140.58/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
     "ip_address": "104.28.140.123/32",
     "ip_type": "IPv4",
     "region": "US-TX"

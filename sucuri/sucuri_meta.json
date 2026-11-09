@@ -1,7 +1,7 @@
 {
   "provider": "sucuri",
   "version": 8,
-  "generated_date": "2026-11-08",
+  "generated_date": "2026-11-09",
   "last_changed_date": "2026-10-30",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"

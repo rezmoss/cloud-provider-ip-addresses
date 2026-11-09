@@ -300,6 +300,26 @@
     "region": "JP-12"
   },
   {
+    "ip_address": "104.28.140.48/32",
+    "ip_type": "IPv4",
+    "region": "JP-12"
+  },
+  {
+    "ip_address": "104.28.140.49/32",
+    "ip_type": "IPv4",
+    "region": "JP-12"
+  },
+  {
+    "ip_address": "104.28.140.50/32",
+    "ip_type": "IPv4",
+    "region": "JP-12"
+  },
+  {
+    "ip_address": "104.28.140.55/32",
+    "ip_type": "IPv4",
+    "region": "JP-12"
+  },
+  {
     "ip_address": "104.28.140.82/32",
     "ip_type": "IPv4",
     "region": "JP-12"
@@ -426,6 +446,11 @@
   },
   {
     "ip_address": "104.28.141.141/32",
+    "ip_type": "IPv4",
+    "region": "JP-12"
+  },
+  {
+    "ip_address": "104.28.141.144/32",
     "ip_type": "IPv4",
     "region": "JP-12"
   },

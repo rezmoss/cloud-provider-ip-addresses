@@ -2540,6 +2540,26 @@
     "region": "US-NY"
   },
   {
+    "ip_address": "104.28.145.9/32",
+    "ip_type": "IPv4",
+    "region": "US-NY"
+  },
+  {
+    "ip_address": "104.28.145.12/32",
+    "ip_type": "IPv4",
+    "region": "US-NY"
+  },
+  {
+    "ip_address": "104.28.145.19/32",
+    "ip_type": "IPv4",
+    "region": "US-NY"
+  },
+  {
+    "ip_address": "104.28.145.46/32",
+    "ip_type": "IPv4",
+    "region": "US-NY"
+  },
+  {
     "ip_address": "104.28.145.118/32",
     "ip_type": "IPv4",
     "region": "US-NY"

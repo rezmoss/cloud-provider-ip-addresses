@@ -1070,6 +1070,11 @@
     "region": "US-PA"
   },
   {
+    "ip_address": "104.28.140.56/32",
+    "ip_type": "IPv4",
+    "region": "US-PA"
+  },
+  {
     "ip_address": "104.28.140.192/32",
     "ip_type": "IPv4",
     "region": "US-PA"

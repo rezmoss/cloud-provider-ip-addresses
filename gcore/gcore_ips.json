@@ -640,10 +640,6 @@
     "ip_type": "IPv4"
   },
   {
-    "ip_address": "80.15.248.1/32",
-    "ip_type": "IPv4"
-  },
-  {
     "ip_address": "80.15.248.3/32",
     "ip_type": "IPv4"
   },
@@ -4473,10 +4469,6 @@
   },
   {
     "ip_address": "2a01:c9c0:c01a::5/128",
-    "ip_type": "IPv6"
-  },
-  {
-    "ip_address": "2a01:c9c0:c01c::1/128",
     "ip_type": "IPv6"
   },
   {

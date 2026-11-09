@@ -590,6 +590,31 @@
     "region": "FR-IDF"
   },
   {
+    "ip_address": "104.28.144.160/32",
+    "ip_type": "IPv4",
+    "region": "FR-IDF"
+  },
+  {
+    "ip_address": "104.28.144.161/32",
+    "ip_type": "IPv4",
+    "region": "FR-IDF"
+  },
+  {
+    "ip_address": "104.28.145.2/32",
+    "ip_type": "IPv4",
+    "region": "FR-IDF"
+  },
+  {
+    "ip_address": "104.28.145.5/32",
+    "ip_type": "IPv4",
+    "region": "FR-IDF"
+  },
+  {
+    "ip_address": "104.28.145.7/32",
+    "ip_type": "IPv4",
+    "region": "FR-IDF"
+  },
+  {
     "ip_address": "104.28.147.112/32",
     "ip_type": "IPv4",
     "region": "FR-IDF"

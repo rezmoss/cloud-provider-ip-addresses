@@ -3810,6 +3810,11 @@
     "region": "US-CA"
   },
   {
+    "ip_address": "104.28.141.145/32",
+    "ip_type": "IPv4",
+    "region": "US-CA"
+  },
+  {
     "ip_address": "104.28.142.72/32",
     "ip_type": "IPv4",
     "region": "US-CA"

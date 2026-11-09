@@ -335,6 +335,26 @@
     "region": "CA-QC"
   },
   {
+    "ip_address": "104.28.138.249/32",
+    "ip_type": "IPv4",
+    "region": "CA-QC"
+  },
+  {
+    "ip_address": "104.28.138.250/32",
+    "ip_type": "IPv4",
+    "region": "CA-QC"
+  },
+  {
+    "ip_address": "104.28.138.251/32",
+    "ip_type": "IPv4",
+    "region": "CA-QC"
+  },
+  {
+    "ip_address": "104.28.138.252/32",
+    "ip_type": "IPv4",
+    "region": "CA-QC"
+  },
+  {
     "ip_address": "104.28.141.180/32",
     "ip_type": "IPv4",
     "region": "CA-QC"

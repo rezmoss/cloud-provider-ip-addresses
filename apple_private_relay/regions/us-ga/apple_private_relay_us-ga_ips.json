@@ -845,6 +845,16 @@
     "region": "US-GA"
   },
   {
+    "ip_address": "104.28.138.253/32",
+    "ip_type": "IPv4",
+    "region": "US-GA"
+  },
+  {
+    "ip_address": "104.28.138.254/32",
+    "ip_type": "IPv4",
+    "region": "US-GA"
+  },
+  {
     "ip_address": "104.28.139.112/32",
     "ip_type": "IPv4",
     "region": "US-GA"
