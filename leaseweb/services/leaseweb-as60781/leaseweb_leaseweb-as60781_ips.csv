@@ -48,7 +48,6 @@ ip_address,ip_type,service,region
 45.132.79.0/24,IPv4,leaseweb-as60781,global
 45.133.208.0/24,IPv4,leaseweb-as60781,global
 45.133.211.0/24,IPv4,leaseweb-as60781,global
-45.134.186.0/24,IPv4,leaseweb-as60781,global
 45.136.229.0/24,IPv4,leaseweb-as60781,global
 45.136.230.0/24,IPv4,leaseweb-as60781,global
 45.136.231.0/24,IPv4,leaseweb-as60781,global
@@ -61,7 +60,6 @@ ip_address,ip_type,service,region
 45.140.15.0/24,IPv4,leaseweb-as60781,global
 45.140.248.0/22,IPv4,leaseweb-as60781,global
 45.141.176.0/24,IPv4,leaseweb-as60781,global
-45.141.179.0/24,IPv4,leaseweb-as60781,global
 45.142.29.0/24,IPv4,leaseweb-as60781,global
 45.142.116.0/22,IPv4,leaseweb-as60781,global
 45.145.15.0/24,IPv4,leaseweb-as60781,global
@@ -323,7 +321,6 @@ ip_address,ip_type,service,region
 193.8.56.0/24,IPv4,leaseweb-as60781,global
 193.8.127.0/24,IPv4,leaseweb-as60781,global
 193.9.249.0/24,IPv4,leaseweb-as60781,global
-193.23.245.0/24,IPv4,leaseweb-as60781,global
 193.23.249.0/24,IPv4,leaseweb-as60781,global
 193.23.250.0/24,IPv4,leaseweb-as60781,global
 193.25.167.0/24,IPv4,leaseweb-as60781,global

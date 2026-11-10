@@ -4656,18 +4656,6 @@
     "region": "us-east-2"
   },
   {
-    "ip_address": "2606:f40:8800::/40",
-    "ip_type": "IPv6",
-    "service": "AMAZON",
-    "region": "us-east-2"
-  },
-  {
-    "ip_address": "2606:f40:8800::/40",
-    "ip_type": "IPv6",
-    "service": "EC2",
-    "region": "us-east-2"
-  },
-  {
     "ip_address": "2606:f40:ffe0::/48",
     "ip_type": "IPv6",
     "service": "AMAZON",

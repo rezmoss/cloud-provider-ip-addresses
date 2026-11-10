@@ -930,6 +930,12 @@
     "region": "global"
   },
   {
+    "ip_address": "199.67.90.0/24",
+    "ip_type": "IPv4",
+    "service": "zoho-as205111",
+    "region": "global"
+  },
+  {
     "ip_address": "199.67.92.0/23",
     "ip_type": "IPv4",
     "service": "zoho-as401636",

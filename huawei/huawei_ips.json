@@ -3372,6 +3372,12 @@
     "region": "global"
   },
   {
+    "ip_address": "190.92.247.0/24",
+    "ip_type": "IPv4",
+    "service": "huawei-as136907",
+    "region": "global"
+  },
+  {
     "ip_address": "190.92.248.0/24",
     "ip_type": "IPv4",
     "service": "huawei-as136907",

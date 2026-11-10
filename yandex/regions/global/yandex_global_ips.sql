@@ -97,6 +97,7 @@ INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('141.8.134.0/2
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('153.51.32.0/19', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('153.51.96.0/19', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('153.51.96.0/23', 'IPv4');
+INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('153.51.160.0/19', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('158.160.0.0/16', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('178.154.128.0/19', 'IPv4');
 INSERT INTO `yandex_global_ips` (`ip_address`, `ip_type`) VALUES ('178.154.131.0/24', 'IPv4');

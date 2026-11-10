@@ -27,6 +27,7 @@ INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('66.
 INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('66.94.118.0/24', 'IPv4');
 INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('66.94.119.0/24', 'IPv4');
 INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('66.94.120.0/21', 'IPv4');
+INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('77.73.21.0/24', 'IPv4');
 INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('80.190.72.0/21', 'IPv4');
 INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('81.22.38.0/24', 'IPv4');
 INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('82.197.64.0/22', 'IPv4');

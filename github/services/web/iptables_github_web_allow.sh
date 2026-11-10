@@ -1,6 +1,6 @@
 #!/bin/bash
 # Github IP Ranges
-# Updated: 2026-11-08 02:17:54
+# Updated: 2026-11-10 02:17:09
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,6 +8,8 @@
 # iptables allow rules for github
 
 iptables -A INPUT -s 4.149.173.80/28 -j ACCEPT
+iptables -A INPUT -s 4.159.108.160/28 -j ACCEPT
+iptables -A INPUT -s 4.159.197.192/28 -j ACCEPT
 iptables -A INPUT -s 4.186.157.192/28 -j ACCEPT
 iptables -A INPUT -s 4.187.247.160/28 -j ACCEPT
 iptables -A INPUT -s 4.195.217.80/28 -j ACCEPT
@@ -19,10 +21,13 @@ iptables -A INPUT -s 4.225.11.199/32 -j ACCEPT
 iptables -A INPUT -s 4.225.187.240/28 -j ACCEPT
 iptables -A INPUT -s 4.228.31.144/32 -j ACCEPT
 iptables -A INPUT -s 4.228.31.150/32 -j ACCEPT
+iptables -A INPUT -s 4.234.31.32/28 -j ACCEPT
 iptables -A INPUT -s 4.236.95.112/28 -j ACCEPT
 iptables -A INPUT -s 4.237.22.36/32 -j ACCEPT
 iptables -A INPUT -s 4.237.22.38/32 -j ACCEPT
 iptables -A INPUT -s 4.249.131.164/32 -j ACCEPT
+iptables -A INPUT -s 20.26.58.32/28 -j ACCEPT
+iptables -A INPUT -s 20.26.68.64/28 -j ACCEPT
 iptables -A INPUT -s 20.26.156.213/32 -j ACCEPT
 iptables -A INPUT -s 20.26.156.215/32 -j ACCEPT
 iptables -A INPUT -s 20.27.163.208/28 -j ACCEPT

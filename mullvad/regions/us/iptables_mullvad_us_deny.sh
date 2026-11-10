@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-08-28 04:57:58
+# Updated: 2026-11-10 02:22:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -137,6 +137,7 @@ iptables -A INPUT -s 45.134.142.206/32 -j DROP
 iptables -A INPUT -s 45.134.142.219/32 -j DROP
 iptables -A INPUT -s 45.153.102.3/32 -j DROP
 iptables -A INPUT -s 62.133.44.202/32 -j DROP
+iptables -A INPUT -s 66.234.159.130/32 -j DROP
 iptables -A INPUT -s 68.235.46.2/32 -j DROP
 iptables -A INPUT -s 68.235.46.33/32 -j DROP
 iptables -A INPUT -s 68.235.46.64/32 -j DROP
@@ -168,6 +169,8 @@ iptables -A INPUT -s 103.251.27.127/32 -j DROP
 iptables -A INPUT -s 104.36.50.3/32 -j DROP
 iptables -A INPUT -s 104.36.50.33/32 -j DROP
 iptables -A INPUT -s 135.136.36.2/32 -j DROP
+iptables -A INPUT -s 135.136.54.2/32 -j DROP
+iptables -A INPUT -s 135.136.54.130/32 -j DROP
 iptables -A INPUT -s 138.199.43.65/32 -j DROP
 iptables -A INPUT -s 138.199.43.78/32 -j DROP
 iptables -A INPUT -s 138.199.43.91/32 -j DROP
@@ -437,3 +440,6 @@ ip6tables -A INPUT -s 2a0d:5600:24:1377::f001/128 -j DROP
 ip6tables -A INPUT -s 2a0d:5600:24:1378::f001/128 -j DROP
 ip6tables -A INPUT -s 2a0d:5600:24:1379::f001/128 -j DROP
 ip6tables -A INPUT -s 2a0d:5600:24:1383::f1f/128 -j DROP
+ip6tables -A INPUT -s 2a0d:5600:144:30::f001/128 -j DROP
+ip6tables -A INPUT -s 2a0d:5600:144:31::f001/128 -j DROP
+ip6tables -A INPUT -s 2a0d:5600:144:32::f001/128 -j DROP

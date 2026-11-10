@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-11-08 02:22:18
+# Updated: 2026-11-10 02:22:31
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -221,7 +221,6 @@ ufw deny from 45.131.181.0/24
 ufw deny from 45.132.76.0/22
 ufw deny from 45.133.208.0/24
 ufw deny from 45.133.211.0/24
-ufw deny from 45.134.186.0/24
 ufw deny from 45.135.37.0/24
 ufw deny from 45.135.136.0/24
 ufw deny from 45.136.229.0/24
@@ -236,7 +235,6 @@ ufw deny from 45.140.12.0/24
 ufw deny from 45.140.15.0/24
 ufw deny from 45.140.248.0/22
 ufw deny from 45.141.176.0/24
-ufw deny from 45.141.179.0/24
 ufw deny from 45.142.29.0/24
 ufw deny from 45.142.116.0/22
 ufw deny from 45.145.15.0/24
@@ -988,7 +986,6 @@ ufw deny from 193.8.56.0/24
 ufw deny from 193.8.127.0/24
 ufw deny from 193.8.234.0/24
 ufw deny from 193.9.249.0/24
-ufw deny from 193.23.245.0/24
 ufw deny from 193.23.249.0/24
 ufw deny from 193.23.250.0/24
 ufw deny from 193.25.167.0/24
@@ -1254,6 +1251,7 @@ ufw deny from 2a0e:15c7:22::/48
 ufw deny from 2a0e:15c7:33::/48
 ufw deny from 2a0e:15c7:55::/48
 ufw deny from 2a0e:1a80:33::/48
+ufw deny from 2a0e:1a80:2541::/48
 ufw deny from 2a0e:1a83:33::/48
 ufw deny from 2a0e:1a83:44::/48
 ufw deny from 2a0e:5800::/29
@@ -1311,6 +1309,7 @@ ufw deny from 2a0f:6280:1053::/48
 ufw deny from 2a0f:68c0::/29
 ufw deny from 2a0f:7d02:1::/48
 ufw deny from 2a0f:7d06:33::/48
+ufw deny from 2a0f:7d06:66::/48
 ufw deny from 2a0f:8100::/29
 ufw deny from 2a0f:8680::/29
 ufw deny from 2a0f:a940::/29
@@ -1323,8 +1322,9 @@ ufw deny from 2a0f:e040::/29
 ufw deny from 2a0f:e0c0::/29
 ufw deny from 2a0f:e1c1:11::/48
 ufw deny from 2a0f:e1c6::/32
+ufw deny from 2a0f:e1c7:1::/48
 ufw deny from 2a0f:e1c7:2::/48
-ufw deny from 2a0f:e1c7:23::/48
+ufw deny from 2a0f:e1c7:22::/47
 ufw deny from 2a0f:e1c7:33::/48
 ufw deny from 2a0f:e1c7:44::/48
 ufw deny from 2a0f:e200::/48
@@ -1350,6 +1350,7 @@ ufw deny from 2a10:31c0::/29
 ufw deny from 2a10:32c0::/29
 ufw deny from 2a10:35c0::/29
 ufw deny from 2a10:3740::/29
+ufw deny from 2a10:37c0::/29
 ufw deny from 2a10:6700::/29
 ufw deny from 2a10:67c6::/32
 ufw deny from 2a10:68c0::/32
@@ -1442,6 +1443,7 @@ ufw deny from 2a13:5c80::/29
 ufw deny from 2a13:7900::/29
 ufw deny from 2a13:7d80::/29
 ufw deny from 2a13:8200::/29
+ufw deny from 2a13:8c82:3::/48
 ufw deny from 2a13:8c86:33::/48
 ufw deny from 2a13:8c86:44::/48
 ufw deny from 2a13:8c86:55::/48
@@ -1452,7 +1454,10 @@ ufw deny from 2a13:c905::/32
 ufw deny from 2a13:d100::/29
 ufw deny from 2a13:d700::/29
 ufw deny from 2a13:d900::/29
+ufw deny from 2a13:e101:2::/48
+ufw deny from 2a13:e102:3::/48
 ufw deny from 2a13:e107:a::/48
+ufw deny from 2a13:e107:22::/48
 ufw deny from 2a13:e107:44::/48
 ufw deny from 2a13:f900::/29
 ufw deny from 2a13:fb00::/29

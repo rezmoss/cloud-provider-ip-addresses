@@ -1,6 +1,6 @@
 #!/bin/bash
 # Github IP Ranges
-# Updated: 2026-11-08 02:17:54
+# Updated: 2026-11-10 02:17:09
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -8,6 +8,8 @@
 # UFW allow rules for github
 
 ufw allow from 4.149.173.80/28
+ufw allow from 4.159.108.160/28
+ufw allow from 4.159.197.192/28
 ufw allow from 4.172.7.153/32
 ufw allow from 4.186.157.192/28
 ufw allow from 4.187.247.160/28
@@ -18,10 +20,13 @@ ufw allow from 4.208.26.201/32
 ufw allow from 4.225.11.192/32
 ufw allow from 4.225.187.240/28
 ufw allow from 4.228.31.153/32
+ufw allow from 4.234.31.32/28
 ufw allow from 4.236.95.112/28
 ufw allow from 4.237.22.41/32
 ufw allow from 4.249.131.160/32
 ufw allow from 13.107.5.93/32
+ufw allow from 20.26.58.32/28
+ufw allow from 20.26.68.64/28
 ufw allow from 20.26.156.217/32
 ufw allow from 20.27.163.208/28
 ufw allow from 20.27.177.121/32

@@ -5424,6 +5424,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.2.240.0/20",
+    "ip_type": "IPv4",
+    "service": "akamai-as16625",
+    "region": "global"
+  },
+  {
     "ip_address": "23.3.12.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",

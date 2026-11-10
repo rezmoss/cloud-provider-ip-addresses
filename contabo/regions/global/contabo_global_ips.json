@@ -960,6 +960,12 @@
     "region": "global"
   },
   {
+    "ip_address": "77.73.21.0/24",
+    "ip_type": "IPv4",
+    "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
     "ip_address": "77.237.232.0/21",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
