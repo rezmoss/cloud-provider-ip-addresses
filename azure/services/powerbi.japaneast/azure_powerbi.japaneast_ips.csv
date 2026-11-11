@@ -1,6 +1,9 @@
 ip_address,ip_type,service,region
 4.189.206.176/28,IPv4,PowerBI.JapanEast,japaneast
 4.189.206.192/29,IPv4,PowerBI.JapanEast,japaneast
+4.215.34.8/29,IPv4,PowerBI.JapanEast,japaneast
+4.215.34.16/30,IPv4,PowerBI.JapanEast,japaneast
+4.215.34.64/26,IPv4,PowerBI.JapanEast,japaneast
 20.43.65.152/31,IPv4,PowerBI.JapanEast,japaneast
 20.43.65.176/29,IPv4,PowerBI.JapanEast,japaneast
 20.43.65.192/28,IPv4,PowerBI.JapanEast,japaneast

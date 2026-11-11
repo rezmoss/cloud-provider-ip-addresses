@@ -93,6 +93,7 @@ ip_address,ip_type,service,region
 20.207.175.102/31,IPv4,AzureArcInfrastructure.WestIndia,westindia
 20.207.175.120/29,IPv4,AzureMonitor.WestIndia,westindia
 20.207.175.176/30,IPv4,ActionGroup.WestIndia,westindia
+20.207.181.160/27,IPv4,AzureMonitor.WestIndia,westindia
 40.64.146.0/28,IPv4,AzureCloud.westindia,westindia
 40.64.146.0/28,IPv4,WindowsVirtualDesktop.WestIndia,westindia
 40.64.150.0/27,IPv4,AzureCloud.westindia,westindia

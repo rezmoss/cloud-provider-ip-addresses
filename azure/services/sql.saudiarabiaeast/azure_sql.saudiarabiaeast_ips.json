@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "48.197.92.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.92.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.92.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::400/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::480/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

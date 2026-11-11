@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+48.197.94.24/29,IPv4,MicrosoftContainerRegistry.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:3::690/125,IPv6,MicrosoftContainerRegistry.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:400::/125,IPv6,MicrosoftContainerRegistry.SaudiArabiaEast,saudiarabiaeast

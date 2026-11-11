@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.197.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:1::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

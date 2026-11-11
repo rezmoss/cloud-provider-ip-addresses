@@ -90,6 +90,24 @@
     "region": "canadaeast"
   },
   {
+    "ip_address": "145.191.210.58/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.211.112/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
+    "ip_address": "145.191.211.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CanadaEast",
+    "region": "canadaeast"
+  },
+  {
     "ip_address": "2603:1030:1005::620/123",
     "ip_type": "IPv6",
     "service": "PowerBI.CanadaEast",

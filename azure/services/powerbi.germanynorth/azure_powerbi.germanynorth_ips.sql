@@ -16,5 +16,8 @@ INSERT INTO `azure_powerbi.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_powerbi.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.48.136/29', 'IPv4');
 INSERT INTO `azure_powerbi.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.55.168/30', 'IPv4');
 INSERT INTO `azure_powerbi.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('51.116.75.72/29', 'IPv4');
+INSERT INTO `azure_powerbi.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('98.67.30.216/29', 'IPv4');
+INSERT INTO `azure_powerbi.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('98.67.31.16/30', 'IPv4');
+INSERT INTO `azure_powerbi.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('98.67.31.32/27', 'IPv4');
 INSERT INTO `azure_powerbi.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04::620/123', 'IPv6');
 INSERT INTO `azure_powerbi.germanynorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:d04::640/122', 'IPv6');

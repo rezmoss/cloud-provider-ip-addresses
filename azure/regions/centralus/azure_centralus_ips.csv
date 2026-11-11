@@ -809,6 +809,7 @@ ip_address,ip_type,service,region
 52.113.129.0/24,IPv4,AzureCloud.centralus,centralus
 52.114.2.0/24,IPv4,AzureCloud.centralus,centralus
 52.114.128.0/22,IPv4,AzureCloud.centralus,centralus
+52.114.190.0/24,IPv4,AzureCloud.centralus,centralus
 52.115.76.0/22,IPv4,AzureCloud.centralus,centralus
 52.115.88.0/22,IPv4,AzureCloud.centralus,centralus
 52.115.92.0/24,IPv4,AzureCloud.centralus,centralus
@@ -1294,6 +1295,11 @@ ip_address,ip_type,service,region
 172.131.106.64/26,IPv4,AzureMonitor.CentralUS,centralus
 172.134.0.0/16,IPv4,AzureCloud.centralus,centralus
 172.134.20.128/25,IPv4,AzureMonitor.CentralUS,centralus
+172.134.109.48/30,IPv4,PowerBI.CentralUS,centralus
+172.134.109.52/31,IPv4,PowerBI.CentralUS,centralus
+172.134.110.96/27,IPv4,PowerBI.CentralUS,centralus
+172.134.110.128/25,IPv4,PowerBI.CentralUS,centralus
+172.134.111.0/26,IPv4,PowerBI.CentralUS,centralus
 172.149.128.0/17,IPv4,AzureCloud.centralus,centralus
 172.168.0.0/15,IPv4,AzureCloud.centralus,centralus
 172.168.217.10/31,IPv4,MicrosoftCloudAppSecurity.CentralUS,centralus

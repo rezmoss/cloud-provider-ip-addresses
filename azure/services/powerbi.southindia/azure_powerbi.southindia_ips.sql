@@ -6,6 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.southindia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.1.0/29', 'IPv4');
+INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.49.156/30', 'IPv4');
+INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('4.247.49.192/26', 'IPv4');
 INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.41.192.122/31', 'IPv4');
 INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.41.192.124/30', 'IPv4');
 INSERT INTO `azure_powerbi.southindia_ips` (`ip_address`, `ip_type`) VALUES ('20.41.193.144/29', 'IPv4');

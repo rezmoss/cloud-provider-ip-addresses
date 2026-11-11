@@ -6,6 +6,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "4.230.59.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "20.41.65.146/31",
     "ip_type": "IPv4",
     "service": "PowerBI.KoreaCentral",

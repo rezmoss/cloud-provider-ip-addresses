@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.koreacentral_ips` (
 );
 
 INSERT INTO `azure_powerbi.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.218.236.192/27', 'IPv4');
+INSERT INTO `azure_powerbi.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.230.59.0/28', 'IPv4');
 INSERT INTO `azure_powerbi.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.41.65.146/31', 'IPv4');
 INSERT INTO `azure_powerbi.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.41.65.148/30', 'IPv4');
 INSERT INTO `azure_powerbi.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.41.65.152/29', 'IPv4');

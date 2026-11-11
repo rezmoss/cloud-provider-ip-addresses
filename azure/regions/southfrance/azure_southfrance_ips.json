@@ -1794,6 +1794,48 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "98.66.42.122/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "98.66.42.124/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "98.66.42.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "98.66.43.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "98.66.43.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "98.66.43.208/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceSouth",
+    "region": "southfrance"
+  },
+  {
+    "ip_address": "98.66.43.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "151.206.194.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southfrance",

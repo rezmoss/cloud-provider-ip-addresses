@@ -1,0 +1,62 @@
+[
+  {
+    "ip_address": "48.197.89.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.89.160/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.91.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.149.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.149.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.150.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.150.64/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::/120",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::298/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::2a0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

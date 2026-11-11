@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.211.125.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "20.43.44.240/28",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.FranceCentral",

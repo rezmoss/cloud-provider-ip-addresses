@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.switzerlandwest_ips` (
 
 INSERT INTO `azure_powerplatforminfra.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.206.120/29', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.207.48/28', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.234.128/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.96.36/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.96.48/29', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.96.104/32', 'IPv4');

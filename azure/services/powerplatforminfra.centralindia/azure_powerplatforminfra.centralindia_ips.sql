@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatforminfra.centralindia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerplatforminfra.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.248.128/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.213.29.160/29', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.213.29.192/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.213.80.0/24', 'IPv4');

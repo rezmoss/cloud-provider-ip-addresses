@@ -1,7 +1,7 @@
 # digitalocean IP ranges - ipset restore format (hash:net)
-# Version: 10 | Generated: 2026-11-10 | Last changed: 2026-11-08
-# IPv4: 185 merged subnets, 3151616 unique IPs
-# IPv6: 53 merged subnets
+# Version: 11 | Generated: 2026-11-11 | Last changed: 2026-11-11
+# IPv4: 187 merged subnets, 3158784 unique IPs
+# IPv6: 54 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < digitalocean.netset
@@ -153,6 +153,8 @@ add digitalocean_v4 168.144.0.0/17
 add digitalocean_v4 168.144.128.0/18
 add digitalocean_v4 168.144.192.0/21
 add digitalocean_v4 168.144.208.0/20
+add digitalocean_v4 168.144.228.0/22
+add digitalocean_v4 168.144.232.0/21
 add digitalocean_v4 168.144.240.0/20
 add digitalocean_v4 170.64.128.0/17
 add digitalocean_v4 174.138.0.0/17
@@ -185,7 +187,7 @@ add digitalocean_v4 201.79.0.0/18
 add digitalocean_v4 201.79.64.0/21
 add digitalocean_v4 201.79.80.0/20
 add digitalocean_v4 201.79.96.0/19
-add digitalocean_v4 201.79.128.0/20
+add digitalocean_v4 201.79.128.0/19
 add digitalocean_v4 204.48.16.0/20
 add digitalocean_v4 206.81.0.0/19
 add digitalocean_v4 206.189.0.0/16
@@ -215,6 +217,7 @@ add digitalocean_v6 2604:a880:5:1::/64
 add digitalocean_v6 2604:a880:6:7::/64
 add digitalocean_v6 2604:a880:7:7::/64
 add digitalocean_v6 2604:a880:8:7::/64
+add digitalocean_v6 2604:a880:9:1::/64
 add digitalocean_v6 2604:a880:400:d0::/63
 add digitalocean_v6 2604:a880:800:10::/62
 add digitalocean_v6 2604:a880:800:14::/64

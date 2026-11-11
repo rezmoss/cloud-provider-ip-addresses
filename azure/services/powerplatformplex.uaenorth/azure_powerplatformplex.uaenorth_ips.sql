@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatformplex.uaenorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerplatformplex.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('4.161.191.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.74.196.12/30', 'IPv4');
 INSERT INTO `azure_powerplatformplex.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.74.196.64/30', 'IPv4');
 INSERT INTO `azure_powerplatformplex.uaenorth_ips` (`ip_address`, `ip_type`) VALUES ('20.74.196.104/29', 'IPv4');

@@ -14,6 +14,7 @@ INSERT INTO `azure_powerplatformplex.switzerlandwest_ips` (`ip_address`, `ip_typ
 INSERT INTO `azure_powerplatformplex.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.201.144/30', 'IPv4');
 INSERT INTO `azure_powerplatformplex.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.207.168/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.207.176/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.235.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.230.128/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('74.242.7.136/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2004:5100::/57', 'IPv6');

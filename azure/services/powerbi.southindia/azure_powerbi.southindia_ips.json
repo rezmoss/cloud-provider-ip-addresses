@@ -1,5 +1,23 @@
 [
   {
+    "ip_address": "4.247.1.0/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "4.247.49.156/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "4.247.49.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "20.41.192.122/31",
     "ip_type": "IPv4",
     "service": "PowerBI.SouthIndia",

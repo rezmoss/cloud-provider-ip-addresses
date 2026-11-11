@@ -930,7 +930,7 @@
     "region": "westcentralus"
   },
   {
-    "ip_address": "57.157.82.32/30",
+    "ip_address": "57.157.82.32/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
     "region": "westcentralus"

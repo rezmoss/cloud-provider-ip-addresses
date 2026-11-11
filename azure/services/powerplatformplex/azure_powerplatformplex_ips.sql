@@ -17,11 +17,13 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.1
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.150.253.0/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.150.253.64/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.150.253.80/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.161.191.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.171.31.160/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.174.144.8/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.181.26.80/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.182.42.232/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.184.2.8/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.186.249.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.190.136.184/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.190.136.192/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.190.143.216/29', 'IPv4');
@@ -45,6 +47,7 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.2
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.207.251.72/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.209.232.0/23', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.209.234.0/25', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.211.126.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.213.28.0/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.216.21.96/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.216.21.112/29', 'IPv4');
@@ -52,6 +55,7 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.2
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.216.203.208/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.216.204.192/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.218.236.128/28', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.219.41.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.219.249.200/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.219.249.208/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.220.137.8/29', 'IPv4');
@@ -73,6 +77,7 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.2
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.243.127.64/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.243.127.128/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.244.11.64/26', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.247.0.128/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.248.98.160/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.160/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('9.205.179.128/25', 'IPv4');
@@ -189,6 +194,7 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('20.
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('20.199.201.144/30', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('20.199.207.168/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('20.199.207.176/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('20.199.235.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('20.200.160.28/30', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('20.200.160.208/30', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('20.200.160.236/30', 'IPv4');
@@ -336,11 +342,13 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('70.
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('70.157.170.128/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('72.155.105.192/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('72.155.106.0/26', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.150.26.128/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.161.173.192/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.161.174.0/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.162.134.192/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.162.135.0/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.163.253.0/24', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.240.19.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.240.192.32/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.241.226.96/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.242.7.136/29', 'IPv4');
@@ -348,6 +356,7 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.243.6.40/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.243.165.192/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('74.243.166.0/26', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('98.66.43.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('98.66.132.224/28', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('98.66.147.160/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('98.67.183.168/29', 'IPv4');
@@ -385,6 +394,7 @@ INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('145
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('145.191.38.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('158.158.139.128/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.160.216.16/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.161.115.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.164.208.152/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.164.208.208/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex_ips` (`ip_address`, `ip_type`) VALUES ('172.164.238.24/29', 'IPv4');

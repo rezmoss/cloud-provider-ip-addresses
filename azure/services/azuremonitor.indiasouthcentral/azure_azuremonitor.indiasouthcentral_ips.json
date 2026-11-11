@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "172.128.3.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.IndiaSouthCentral",
+    "region": "indiasouthcentral"
+  },
+  {
     "ip_address": "172.198.96.216/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.IndiaSouthCentral",

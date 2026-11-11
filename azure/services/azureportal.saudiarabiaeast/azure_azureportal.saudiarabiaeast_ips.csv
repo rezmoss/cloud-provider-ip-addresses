@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+48.197.89.196/30,IPv4,AzurePortal.SaudiArabiaEast,saudiarabiaeast
+48.197.90.224/27,IPv4,AzurePortal.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:3::200/121,IPv6,AzurePortal.SaudiArabiaEast,saudiarabiaeast

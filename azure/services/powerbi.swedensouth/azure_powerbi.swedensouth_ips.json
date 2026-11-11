@@ -42,6 +42,18 @@
     "region": "swedensouth"
   },
   {
+    "ip_address": "74.241.78.32/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "74.241.78.48/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
     "ip_address": "2603:1020:1104::6a0/123",
     "ip_type": "IPv6",
     "service": "PowerBI.SwedenSouth",

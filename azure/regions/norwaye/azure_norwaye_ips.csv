@@ -28,6 +28,9 @@ ip_address,ip_type,service,region
 4.219.29.48/28,IPv4,AzureBackup.NorwayEast,norwaye
 4.219.29.176/29,IPv4,AzureAttestation.NorwayEast,norwaye
 4.219.29.184/30,IPv4,AzureAttestation.NorwayEast,norwaye
+4.219.40.48/28,IPv4,PowerBI.NorwayEast,norwaye
+4.219.40.128/25,IPv4,PowerPlatformInfra.NorwayEast,norwaye
+4.219.41.0/25,IPv4,PowerPlatformPlex.NorwayEast,norwaye
 4.219.249.200/29,IPv4,PowerPlatformPlex.NorwayEast,norwaye
 4.219.249.208/29,IPv4,PowerPlatformPlex.NorwayEast,norwaye
 4.219.249.220/30,IPv4,ActionGroup.NorwayEast,norwaye

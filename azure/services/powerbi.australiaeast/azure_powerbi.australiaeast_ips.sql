@@ -17,8 +17,14 @@ INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.70.221.224/27', 'IPv4');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('20.213.198.0/26', 'IPv4');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.96.224/27', 'IPv4');
+INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.246.231/32', 'IPv4');
+INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.246.236/31', 'IPv4');
+INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('51.56.246.240/28', 'IPv4');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.218.123.134/31', 'IPv4');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('68.218.134.44/30', 'IPv4');
+INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('172.146.2.128/26', 'IPv4');
+INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('172.146.2.192/27', 'IPv4');
+INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('172.146.2.224/29', 'IPv4');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:6::/122', 'IPv6');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:6::40/123', 'IPv6');
 INSERT INTO `azure_powerbi.australiaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:6:1::5e0/123', 'IPv6');

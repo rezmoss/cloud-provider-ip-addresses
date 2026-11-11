@@ -30,6 +30,24 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "20.162.50.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.50.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.50.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "51.137.160.70/31",
     "ip_type": "IPv4",
     "service": "PowerBI.UKWest",

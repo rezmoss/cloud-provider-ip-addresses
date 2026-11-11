@@ -2076,7 +2076,13 @@
     "region": "switzerlandn"
   },
   {
-    "ip_address": "57.157.156.56/31",
+    "ip_address": "57.157.156.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "57.157.156.60/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
     "region": "switzerlandn"
@@ -2589,6 +2595,30 @@
     "ip_address": "172.161.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "172.161.114.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "172.161.115.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "172.161.115.196/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "172.161.115.208/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SwitzerlandNorth",
     "region": "switzerlandn"
   },
   {

@@ -41,6 +41,7 @@ ip_address,ip_type,service,region
 4.218.246.0/23,IPv4,AzureCloud.koreacentral,koreacentral
 4.218.248.0/21,IPv4,AzureCloud.koreacentral,koreacentral
 4.230.0.0/17,IPv4,AzureCloud.koreacentral,koreacentral
+4.230.59.0/28,IPv4,PowerBI.KoreaCentral,koreacentral
 4.230.123.96/28,IPv4,AzureMonitor.KoreaCentral,koreacentral
 4.230.126.26/32,IPv4,AzureArcInfrastructure.KoreaCentral,koreacentral
 4.230.126.142/31,IPv4,AzureMachineLearning.KoreaCentral,koreacentral

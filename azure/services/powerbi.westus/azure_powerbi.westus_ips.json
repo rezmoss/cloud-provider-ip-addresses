@@ -72,6 +72,24 @@
     "region": "westus"
   },
   {
+    "ip_address": "74.146.68.184/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "74.146.68.192/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "74.146.69.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "172.185.241.128/27",
     "ip_type": "IPv4",
     "service": "PowerBI.WestUS",

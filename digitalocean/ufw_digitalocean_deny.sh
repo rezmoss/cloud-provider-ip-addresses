@@ -1,6 +1,6 @@
 #!/bin/bash
 # Digitalocean IP Ranges
-# Updated: 2026-11-08 02:17:48
+# Updated: 2026-11-11 02:16:24
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -152,6 +152,8 @@ ufw deny from 168.144.0.0/17
 ufw deny from 168.144.128.0/18
 ufw deny from 168.144.192.0/21
 ufw deny from 168.144.208.0/20
+ufw deny from 168.144.228.0/22
+ufw deny from 168.144.232.0/21
 ufw deny from 168.144.240.0/20
 ufw deny from 170.64.128.0/17
 ufw deny from 174.138.0.0/17
@@ -184,7 +186,7 @@ ufw deny from 201.79.0.0/18
 ufw deny from 201.79.64.0/21
 ufw deny from 201.79.80.0/20
 ufw deny from 201.79.96.0/19
-ufw deny from 201.79.128.0/20
+ufw deny from 201.79.128.0/19
 ufw deny from 204.48.16.0/20
 ufw deny from 206.81.0.0/19
 ufw deny from 206.189.0.0/16
@@ -212,6 +214,7 @@ ufw deny from 2604:a880:5:1::/64
 ufw deny from 2604:a880:6:7::/64
 ufw deny from 2604:a880:7:7::/64
 ufw deny from 2604:a880:8:7::/64
+ufw deny from 2604:a880:9:1::/64
 ufw deny from 2604:a880:400:d0::/63
 ufw deny from 2604:a880:800:10::/62
 ufw deny from 2604:a880:800:14::/64

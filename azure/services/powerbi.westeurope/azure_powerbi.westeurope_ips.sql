@@ -23,6 +23,10 @@ INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('48
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('48.222.186.224/27', 'IPv4');
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('48.222.187.0/26', 'IPv4');
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('68.219.160.0/25', 'IPv4');
+INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.176.20/31', 'IPv4');
+INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.176.128/26', 'IPv4');
+INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.176.192/27', 'IPv4');
+INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.177.0/24', 'IPv4');
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.178.240.160/28', 'IPv4');
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('134.149.156.0/26', 'IPv4');
 INSERT INTO `azure_powerbi.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('172.199.129.128/26', 'IPv4');

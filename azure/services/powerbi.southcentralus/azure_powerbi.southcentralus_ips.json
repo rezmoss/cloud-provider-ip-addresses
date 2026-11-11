@@ -114,6 +114,30 @@
     "region": "southcentralus"
   },
   {
+    "ip_address": "74.155.59.20/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "74.155.59.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "74.155.59.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
+    "ip_address": "74.155.60.0/23",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthCentralUS",
+    "region": "southcentralus"
+  },
+  {
     "ip_address": "145.132.193.64/27",
     "ip_type": "IPv4",
     "service": "PowerBI.SouthCentralUS",

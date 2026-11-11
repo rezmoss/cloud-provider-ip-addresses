@@ -816,6 +816,18 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "40.120.170.56/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "40.120.170.60/31",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "48.212.54.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.malaysiawest",
@@ -1789,6 +1801,18 @@
   },
   {
     "ip_address": "2603:1061:100d:110::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1061:100d:114::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.malaysiawest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1061:100d:116::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.malaysiawest",
     "region": "malaysiawest"

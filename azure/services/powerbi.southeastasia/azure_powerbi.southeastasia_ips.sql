@@ -7,6 +7,11 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.southeastasia_ips` (
 );
 
 INSERT INTO `azure_powerbi.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.79.96/28', 'IPv4');
+INSERT INTO `azure_powerbi.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.146.106.116/30', 'IPv4');
+INSERT INTO `azure_powerbi.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.146.106.120/31', 'IPv4');
+INSERT INTO `azure_powerbi.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.146.106.224/27', 'IPv4');
+INSERT INTO `azure_powerbi.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.146.107.0/26', 'IPv4');
+INSERT INTO `azure_powerbi.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.146.107.64/28', 'IPv4');
 INSERT INTO `azure_powerbi.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.130.192/31', 'IPv4');
 INSERT INTO `azure_powerbi.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.130.196/30', 'IPv4');
 INSERT INTO `azure_powerbi.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.130.200/29', 'IPv4');

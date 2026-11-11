@@ -16,4 +16,5 @@ INSERT INTO `azure_powerplatformplex.switzerlandnorth_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_powerplatformplex.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.161.173.192/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.161.174.0/26', 'IPv4');
 INSERT INTO `azure_powerplatformplex.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('74.242.188.32/29', 'IPv4');
+INSERT INTO `azure_powerplatformplex.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('172.161.115.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2004:5000::/57', 'IPv6');

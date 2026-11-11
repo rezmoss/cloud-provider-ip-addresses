@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-11-10 02:21:21
+# Updated: 2026-11-11 02:18:46
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -43,6 +43,7 @@ ufw allow from 8.30.208.0/21
 ufw allow from 8.33.96.0/21
 ufw allow from 8.33.128.0/21
 ufw allow from 8.33.136.0/23
+ufw allow from 9.247.146.0/24
 ufw allow from 9.247.164.0/24
 ufw allow from 15.204.0.0/16
 ufw allow from 15.235.0.0/16
@@ -185,6 +186,7 @@ ufw allow from 79.182.137.0/24
 ufw allow from 80.86.211.0/24
 ufw allow from 80.87.206.0/24
 ufw allow from 80.240.94.0/24
+ufw allow from 81.29.158.0/24
 ufw allow from 81.168.32.0/24
 ufw allow from 81.168.80.0/24
 ufw allow from 81.201.183.0/24
@@ -237,7 +239,6 @@ ufw allow from 82.41.224.0/21
 ufw allow from 82.47.63.0/24
 ufw allow from 82.47.98.0/24
 ufw allow from 82.47.180.0/24
-ufw allow from 82.109.144.0/24
 ufw allow from 82.117.230.0/23
 ufw allow from 82.117.245.0/24
 ufw allow from 82.129.0.0/22
@@ -268,6 +269,7 @@ ufw allow from 85.118.166.0/24
 ufw allow from 85.217.144.0/23
 ufw allow from 86.54.26.0/24
 ufw allow from 86.54.42.0/24
+ufw allow from 86.107.51.0/24
 ufw allow from 87.76.137.0/24
 ufw allow from 87.76.140.0/24
 ufw allow from 87.76.189.0/24
@@ -283,6 +285,7 @@ ufw allow from 88.218.34.0/24
 ufw allow from 89.19.44.0/24
 ufw allow from 89.40.83.0/24
 ufw allow from 89.125.172.0/24
+ufw allow from 89.125.186.0/24
 ufw allow from 89.126.233.0/24
 ufw allow from 89.213.67.0/24
 ufw allow from 91.121.0.0/16
@@ -318,6 +321,7 @@ ufw allow from 103.199.80.0/24
 ufw allow from 103.206.156.0/23
 ufw allow from 103.239.50.0/24
 ufw allow from 103.244.227.0/24
+ufw allow from 104.143.214.0/24
 ufw allow from 104.153.82.0/24
 ufw allow from 104.164.137.0/24
 ufw allow from 104.167.16.0/24
@@ -462,6 +466,7 @@ ufw allow from 151.247.112.0/24
 ufw allow from 151.247.192.0/24
 ufw allow from 151.247.205.0/24
 ufw allow from 152.228.128.0/17
+ufw allow from 153.52.115.0/24
 ufw allow from 153.52.116.0/24
 ufw allow from 155.117.5.0/24
 ufw allow from 155.117.6.0/24
@@ -495,6 +500,7 @@ ufw allow from 166.0.112.0/24
 ufw allow from 166.1.85.0/24
 ufw allow from 166.1.88.0/24
 ufw allow from 166.1.90.0/24
+ufw allow from 167.17.44.0/24
 ufw allow from 167.114.0.0/16
 ufw allow from 167.148.125.0/24
 ufw allow from 167.148.193.0/24
@@ -531,6 +537,7 @@ ufw allow from 185.6.28.0/24
 ufw allow from 185.10.200.0/22
 ufw allow from 185.12.32.0/23
 ufw allow from 185.30.212.0/23
+ufw allow from 185.36.127.0/24
 ufw allow from 185.45.160.0/22
 ufw allow from 185.68.137.0/24
 ufw allow from 185.95.157.0/24
@@ -593,6 +600,7 @@ ufw allow from 193.149.28.0/22
 ufw allow from 193.151.166.0/24
 ufw allow from 193.243.147.0/24
 ufw allow from 194.31.205.0/24
+ufw allow from 194.58.67.0/24
 ufw allow from 194.61.44.0/23
 ufw allow from 194.76.36.0/23
 ufw allow from 194.76.173.0/24
@@ -611,6 +619,7 @@ ufw allow from 195.38.19.0/24
 ufw allow from 195.62.72.0/23
 ufw allow from 195.66.30.0/23
 ufw allow from 195.123.191.0/24
+ufw allow from 195.133.7.0/24
 ufw allow from 195.144.5.0/24
 ufw allow from 195.252.178.0/24
 ufw allow from 198.17.79.0/24
@@ -643,6 +652,7 @@ ufw allow from 205.234.176.0/24
 ufw allow from 206.168.95.0/24
 ufw allow from 206.168.174.0/23
 ufw allow from 206.206.126.0/24
+ufw allow from 206.245.151.0/24
 ufw allow from 207.166.205.0/24
 ufw allow from 207.166.206.0/24
 ufw allow from 207.180.13.0/24
@@ -653,6 +663,7 @@ ufw allow from 208.122.8.0/24
 ufw allow from 209.112.80.0/22
 ufw allow from 209.126.71.0/24
 ufw allow from 209.151.124.0/24
+ufw allow from 209.236.208.0/24
 ufw allow from 209.251.24.0/24
 ufw allow from 212.69.8.0/24
 ufw allow from 212.74.39.0/24

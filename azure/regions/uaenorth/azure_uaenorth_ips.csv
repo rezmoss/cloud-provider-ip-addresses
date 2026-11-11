@@ -22,6 +22,8 @@ ip_address,ip_type,service,region
 4.161.165.80/30,IPv4,AzureAttestation.UAENorth,uaenorth
 4.161.168.68/30,IPv4,ApiManagement.UAENorth,uaenorth
 4.161.180.64/26,IPv4,AzureBackup.UAENorth,uaenorth
+4.161.190.128/25,IPv4,PowerPlatformInfra.UAENorth,uaenorth
+4.161.191.0/25,IPv4,PowerPlatformPlex.UAENorth,uaenorth
 4.162.0.0/16,IPv4,AzureCloud.uaenorth,uaenorth
 9.129.65.128/26,IPv4,AzureCloud.uaenorth,uaenorth
 9.129.67.0/27,IPv4,AzureCloud.uaenorth,uaenorth

@@ -60,6 +60,12 @@
     "region": "westindia"
   },
   {
+    "ip_address": "20.207.181.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.WestIndia",
+    "region": "westindia"
+  },
+  {
     "ip_address": "52.136.53.96/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.WestIndia",

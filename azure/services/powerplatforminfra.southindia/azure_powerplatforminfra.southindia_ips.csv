@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.247.0.0/25,IPv4,PowerPlatformInfra.SouthIndia,southindia
 20.40.1.97/32,IPv4,PowerPlatformInfra.SouthIndia,southindia
 20.40.1.101/32,IPv4,PowerPlatformInfra.SouthIndia,southindia
 20.40.1.191/32,IPv4,PowerPlatformInfra.SouthIndia,southindia

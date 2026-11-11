@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "48.197.76.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.78.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

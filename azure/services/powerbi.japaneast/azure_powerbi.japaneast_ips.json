@@ -12,6 +12,24 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.215.34.8/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.215.34.16/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.215.34.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "20.43.65.152/31",
     "ip_type": "IPv4",
     "service": "PowerBI.JapanEast",

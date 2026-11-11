@@ -1,23 +1,23 @@
 {
   "provider": "azure",
-  "version": 22,
-  "generated_date": "2026-11-10",
-  "last_changed_date": "2026-11-04",
+  "version": 23,
+  "generated_date": "2026-11-11",
+  "last_changed_date": "2026-11-11",
   "sources": [
     "https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519"
   ],
   "ipv4": {
-    "cidrs": 73972,
-    "merged_cidrs": 2782,
-    "addresses": 65988557
+    "cidrs": 76208,
+    "merged_cidrs": 2746,
+    "addresses": 65993997
   },
   "ipv6": {
-    "cidrs": 29046,
-    "merged_cidrs": 2303,
-    "addresses": 10749130591836934113740190109
+    "cidrs": 29138,
+    "merged_cidrs": 2300,
+    "addresses": 10749130610283678187449741725
   },
-  "total_entries": 103018,
-  "content_sha256": "71e97d82ba23ad86b0ccd4d02990fa84c5e42788f054b4fc33fc72fcba26d6e3",
+  "total_entries": 105346,
+  "content_sha256": "1183c131b20c8db6566d8bcd3a9f9ffb51ca8b06cf5f85cc576cd8fd103d6505",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

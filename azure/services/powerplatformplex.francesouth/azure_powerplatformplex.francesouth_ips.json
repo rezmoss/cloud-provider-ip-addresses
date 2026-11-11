@@ -48,6 +48,12 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "98.66.43.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "2603:1061:2004:4100::/57",
     "ip_type": "IPv6",
     "service": "PowerPlatformPlex.FranceSouth",

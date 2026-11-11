@@ -1,0 +1,7 @@
+ip_address,ip_type,service,region
+48.197.84.96/27,IPv4,PowerBI.SaudiArabiaEast,saudiarabiaeast
+48.197.87.142/31,IPv4,PowerBI.SaudiArabiaEast,saudiarabiaeast
+48.197.89.192/30,IPv4,PowerBI.SaudiArabiaEast,saudiarabiaeast
+48.197.89.200/29,IPv4,PowerBI.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:2::740/122,IPv6,PowerBI.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:3::100/123,IPv6,PowerBI.SaudiArabiaEast,saudiarabiaeast

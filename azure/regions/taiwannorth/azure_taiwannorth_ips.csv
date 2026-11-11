@@ -5,6 +5,7 @@ ip_address,ip_type,service,region
 20.20.38.0/25,IPv4,AzureCloud.taiwannorth,taiwannorth
 20.20.54.192/26,IPv4,AzureCloud.taiwannorth,taiwannorth
 20.20.106.0/25,IPv4,AzureCloud.taiwannorth,taiwannorth
+20.20.106.128/30,IPv4,AzureCloud.taiwannorth,taiwannorth
 20.38.19.0/24,IPv4,AzureCloud.taiwannorth,taiwannorth
 20.60.113.0/24,IPv4,AzureCloud.taiwannorth,taiwannorth
 20.60.113.0/24,IPv4,Storage.TaiwanNorth,taiwannorth
@@ -193,6 +194,7 @@ ip_address,ip_type,service,region
 70.157.192.40/30,IPv4,AzureAttestation.TaiwanNorth,taiwannorth
 70.157.193.0/26,IPv4,AzureBackup.TaiwanNorth,taiwannorth
 70.157.200.40/29,IPv4,AzureArcInfrastructure.TaiwanNorth,taiwannorth
+70.157.200.128/28,IPv4,PowerBI.TaiwanNorth,taiwannorth
 135.130.35.0/24,IPv4,AzureCloud.taiwannorth,taiwannorth
 135.130.35.0/24,IPv4,Storage.TaiwanNorth,taiwannorth
 135.130.41.0/24,IPv4,AzureCloud.taiwannorth,taiwannorth
@@ -378,6 +380,7 @@ ip_address,ip_type,service,region
 2603:1061:1005:a0::/60,IPv6,AzureCloud.taiwannorth,taiwannorth
 2603:1061:1005:b0::/61,IPv6,AzureCloud.taiwannorth,taiwannorth
 2603:1061:1005:b8::/62,IPv6,AzureCloud.taiwannorth,taiwannorth
+2603:1061:1005:bc::/63,IPv6,AzureCloud.taiwannorth,taiwannorth
 2603:1061:1310:3400::/54,IPv6,AzureCloud.taiwannorth,taiwannorth
 2603:1061:1734::/48,IPv6,AzureCloud.taiwannorth,taiwannorth
 2603:1061:2002:e000::/57,IPv6,AzureCloud.taiwannorth,taiwannorth

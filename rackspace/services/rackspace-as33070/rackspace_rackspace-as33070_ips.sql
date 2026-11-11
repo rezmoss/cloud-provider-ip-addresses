@@ -70,6 +70,7 @@ INSERT INTO `rackspace_rackspace-as33070_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `rackspace_rackspace-as33070_ips` (`ip_address`, `ip_type`) VALUES ('147.75.4.0/22', 'IPv4');
 INSERT INTO `rackspace_rackspace-as33070_ips` (`ip_address`, `ip_type`) VALUES ('147.75.16.0/24', 'IPv4');
 INSERT INTO `rackspace_rackspace-as33070_ips` (`ip_address`, `ip_type`) VALUES ('148.62.0.0/16', 'IPv4');
+INSERT INTO `rackspace_rackspace-as33070_ips` (`ip_address`, `ip_type`) VALUES ('148.62.86.0/24', 'IPv4');
 INSERT INTO `rackspace_rackspace-as33070_ips` (`ip_address`, `ip_type`) VALUES ('151.106.224.0/22', 'IPv4');
 INSERT INTO `rackspace_rackspace-as33070_ips` (`ip_address`, `ip_type`) VALUES ('162.209.64.0/20', 'IPv4');
 INSERT INTO `rackspace_rackspace-as33070_ips` (`ip_address`, `ip_type`) VALUES ('162.218.136.0/22', 'IPv4');

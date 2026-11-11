@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.197.73.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::400/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

@@ -7,6 +7,10 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.switzerlandwest_ips` (
 );
 
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.201.80/29', 'IPv4');
+INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.234.67/32', 'IPv4');
+INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.234.72/29', 'IPv4');
+INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.235.160/28', 'IPv4');
+INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('20.199.235.176/30', 'IPv4');
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.144.122/31', 'IPv4');
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.144.124/30', 'IPv4');
 INSERT INTO `azure_powerbi.switzerlandwest_ips` (`ip_address`, `ip_type`) VALUES ('51.107.144.208/29', 'IPv4');

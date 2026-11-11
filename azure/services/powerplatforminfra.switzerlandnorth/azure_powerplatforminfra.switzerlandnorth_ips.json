@@ -126,6 +126,12 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "172.161.114.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1061:2002:5800::/57",
     "ip_type": "IPv6",
     "service": "PowerPlatformInfra.SwitzerlandNorth",

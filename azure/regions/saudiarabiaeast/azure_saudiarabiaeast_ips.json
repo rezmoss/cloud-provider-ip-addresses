@@ -1,0 +1,1118 @@
+[
+  {
+    "ip_address": "13.104.169.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "13.105.47.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "13.106.2.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.20.56.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.20.56.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.38.56.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.143.140.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.143.148.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.153.114.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.153.114.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.201.181.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.201.183.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.201.184.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.231.152.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "20.231.152.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "40.90.143.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "40.90.150.96/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "40.98.29.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "40.98.30.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.0.0/16",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.72.16/30",
+    "ip_type": "IPv4",
+    "service": "AzureBotService.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.72.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.72.32/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.72.64/26",
+    "ip_type": "IPv4",
+    "service": "GatewayManager.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.72.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.73.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMachineLearning.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.73.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.76.0/27",
+    "ip_type": "IPv4",
+    "service": "BatchNodeManagement.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.76.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.76.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureCosmosDB.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.76.152/29",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.76.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.78.16/28",
+    "ip_type": "IPv4",
+    "service": "ApiManagement.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.78.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureDigitalTwins.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.78.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.78.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureBackup.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.80.0/24",
+    "ip_type": "IPv4",
+    "service": "EventHub.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.81.0/25",
+    "ip_type": "IPv4",
+    "service": "ServiceBus.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.81.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureDataExplorerManagement.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.81.208/29",
+    "ip_type": "IPv4",
+    "service": "HDInsight.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.81.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.81.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.82.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.84.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.84.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureConnectors.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.85.0/24",
+    "ip_type": "IPv4",
+    "service": "AppService.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.86.164/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.86.192/26",
+    "ip_type": "IPv4",
+    "service": "AppServiceManagement.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.87.142/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.87.144/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.88.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.89.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.89.160/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.89.192/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.89.196/30",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.89.200/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.90.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.90.224/27",
+    "ip_type": "IPv4",
+    "service": "AzurePortal.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.91.0/24",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.92.0/31",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.92.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.92.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.92.96/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.92.128/27",
+    "ip_type": "IPv4",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.92.192/26",
+    "ip_type": "IPv4",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.94.0/28",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.94.24/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.94.32/27",
+    "ip_type": "IPv4",
+    "service": "LogicApps.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.94.96/30",
+    "ip_type": "IPv4",
+    "service": "ActionGroup.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.94.104/29",
+    "ip_type": "IPv4",
+    "service": "ServiceFabric.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.94.184/29",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.95.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.100.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.100.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.102.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.128.0/22",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.132.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureEventGrid.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.139.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.139.176/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.144.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.149.112/28",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.149.128/25",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.150.0/26",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.150.64/27",
+    "ip_type": "IPv4",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.151.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.151.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerQueryOnline.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.151.176/28",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.153.169/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.156.64/26",
+    "ip_type": "IPv4",
+    "service": "AzureSignalR.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.157.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "52.106.188.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "52.108.131.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "52.123.92.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "57.157.112.0/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "57.157.112.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "57.157.112.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "57.157.112.176/30",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "57.171.19.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "135.130.101.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "135.130.101.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "135.130.132.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "135.130.132.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "135.130.151.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "135.130.151.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "135.130.152.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "135.130.152.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "145.190.63.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "145.190.152.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "145.190.152.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "209.199.47.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1026:900:59::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1026:900:5a::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a01::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::/47",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::20/123",
+    "ip_type": "IPv6",
+    "service": "AzureBotService.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::40/122",
+    "ip_type": "IPv6",
+    "service": "GatewayManager.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::1a0/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::400/122",
+    "ip_type": "IPv6",
+    "service": "AzureMachineLearning.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::480/121",
+    "ip_type": "IPv6",
+    "service": "AzureEventGrid.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::500/122",
+    "ip_type": "IPv6",
+    "service": "BatchNodeManagement.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::5c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureCosmosDB.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::700/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::740/124",
+    "ip_type": "IPv6",
+    "service": "ApiManagement.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::760/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::780/121",
+    "ip_type": "IPv6",
+    "service": "AzureDigitalTwins.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:1::/121",
+    "ip_type": "IPv6",
+    "service": "AzureBackup.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:1::180/121",
+    "ip_type": "IPv6",
+    "service": "ServiceBus.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:1::200/120",
+    "ip_type": "IPv6",
+    "service": "EventHub.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:1::428/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:1::440/123",
+    "ip_type": "IPv6",
+    "service": "AzureDataExplorerManagement.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:1::4d0/124",
+    "ip_type": "IPv6",
+    "service": "HDInsight.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:1::500/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:2::/120",
+    "ip_type": "IPv6",
+    "service": "AppService.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:2::100/122",
+    "ip_type": "IPv6",
+    "service": "AzureConnectors.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:2::380/124",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:2::3c0/122",
+    "ip_type": "IPv6",
+    "service": "AppServiceManagement.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:2::480/123",
+    "ip_type": "IPv6",
+    "service": "StorageSyncService.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:2::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:2::740/122",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::/120",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::100/123",
+    "ip_type": "IPv6",
+    "service": "PowerBI.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::120/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::200/121",
+    "ip_type": "IPv6",
+    "service": "AzurePortal.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::2c0/123",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::400/123",
+    "ip_type": "IPv6",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::480/121",
+    "ip_type": "IPv6",
+    "service": "Sql.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::680/124",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::690/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::698/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::6a0/123",
+    "ip_type": "IPv6",
+    "service": "LogicApps.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::700/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::740/123",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:4::400/122",
+    "ip_type": "IPv6",
+    "service": "PowerQueryOnline.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:5::200/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:5::400/119",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:5::680/122",
+    "ip_type": "IPv6",
+    "service": "AzureMonitor.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:5::6d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::1cf/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::298/125",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::2a0/124",
+    "ip_type": "IPv6",
+    "service": "DataFactory.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::394/126",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::3a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::3bc/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::400/122",
+    "ip_type": "IPv6",
+    "service": "AzureSignalR.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:400::10/125",
+    "ip_type": "IPv6",
+    "service": "ServiceFabric.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:400::18/125",
+    "ip_type": "IPv6",
+    "service": "ActionGroup.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:400::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a03::/49",
+    "ip_type": "IPv6",
+    "service": "Storage.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a04::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a05::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1046:2000:2e0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1047:1:2e0::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1061:101d::/58",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1061:101d:40::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1061:101d:50::/61",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1061:1310:6000::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1061:174e::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1063:4e::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1063:63c::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1063:2202:7c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1063:2206:5c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.saudiarabiaeast",
+    "region": "saudiarabiaeast"
+  }
+]

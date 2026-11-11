@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.161.190.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "20.38.140.32/27",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.UAENorth",

@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+48.197.76.192/26,IPv4,AzureContainerRegistry.SaudiArabiaEast,saudiarabiaeast
+48.197.88.128/26,IPv4,AzureContainerRegistry.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02::700/125,IPv6,AzureContainerRegistry.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:2::580/121,IPv6,AzureContainerRegistry.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:400::8/125,IPv6,AzureContainerRegistry.SaudiArabiaEast,saudiarabiaeast

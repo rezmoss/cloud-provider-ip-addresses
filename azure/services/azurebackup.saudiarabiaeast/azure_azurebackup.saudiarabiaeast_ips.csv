@@ -1,0 +1,4 @@
+ip_address,ip_type,service,region
+48.197.78.80/28,IPv4,AzureBackup.SaudiArabiaEast,saudiarabiaeast
+48.197.78.128/26,IPv4,AzureBackup.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:1::/121,IPv6,AzureBackup.SaudiArabiaEast,saudiarabiaeast

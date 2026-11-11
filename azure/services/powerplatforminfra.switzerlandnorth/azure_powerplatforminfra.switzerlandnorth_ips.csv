@@ -20,4 +20,5 @@ ip_address,ip_type,service,region
 74.242.149.192/26,IPv4,PowerPlatformInfra.SwitzerlandNorth,switzerlandn
 74.242.150.0/25,IPv4,PowerPlatformInfra.SwitzerlandNorth,switzerlandn
 74.242.150.128/26,IPv4,PowerPlatformInfra.SwitzerlandNorth,switzerlandn
+172.161.114.128/25,IPv4,PowerPlatformInfra.SwitzerlandNorth,switzerlandn
 2603:1061:2002:5800::/57,IPv6,PowerPlatformInfra.SwitzerlandNorth,switzerlandn

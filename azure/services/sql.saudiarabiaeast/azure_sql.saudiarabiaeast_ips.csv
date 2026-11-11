@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+48.197.92.96/27,IPv4,Sql.SaudiArabiaEast,saudiarabiaeast
+48.197.92.128/27,IPv4,Sql.SaudiArabiaEast,saudiarabiaeast
+48.197.92.192/26,IPv4,Sql.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:3::400/123,IPv6,Sql.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:3::480/121,IPv6,Sql.SaudiArabiaEast,saudiarabiaeast

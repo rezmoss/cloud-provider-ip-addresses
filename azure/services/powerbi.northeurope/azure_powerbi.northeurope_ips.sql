@@ -25,6 +25,11 @@ INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('4
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.146.140.128/25', 'IPv4');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.178.76.224/28', 'IPv4');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('134.149.92.128/26', 'IPv4');
+INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('172.129.191.114/31', 'IPv4');
+INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('172.129.191.120/29', 'IPv4');
+INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('172.129.191.224/28', 'IPv4');
+INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('172.129.194.0/24', 'IPv4');
+INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('172.129.195.0/25', 'IPv4');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5::/122', 'IPv6');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5::40/123', 'IPv6');
 INSERT INTO `azure_powerbi.northeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:5:1::5e0/123', 'IPv6');

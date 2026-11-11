@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.250.18.149/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "20.26.18.114/31",
     "ip_type": "IPv4",
     "service": "PowerBI.UKSouth",
@@ -67,6 +73,24 @@
   },
   {
     "ip_address": "131.145.145.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "145.133.208.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "145.133.209.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "145.133.209.64/28",
     "ip_type": "IPv4",
     "service": "PowerBI.UKSouth",
     "region": "uksouth"

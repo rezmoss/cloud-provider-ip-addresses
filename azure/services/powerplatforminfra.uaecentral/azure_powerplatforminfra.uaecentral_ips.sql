@@ -19,5 +19,6 @@ INSERT INTO `azure_powerplatforminfra.uaecentral_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_powerplatforminfra.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.1.94/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.1.96/32', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('40.120.2.208/31', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.26.0/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.160.64/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:7100::/57', 'IPv6');

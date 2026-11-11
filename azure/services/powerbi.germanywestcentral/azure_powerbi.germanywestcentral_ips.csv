@@ -1,6 +1,11 @@
 ip_address,ip_type,service,region
+4.182.147.5/32,IPv4,PowerBI.GermanyWestCentral,germanywc
 20.52.89.48/30,IPv4,PowerBI.GermanyWestCentral,germanywc
 20.52.95.0/29,IPv4,PowerBI.GermanyWestCentral,germanywc
+20.170.50.70/31,IPv4,PowerBI.GermanyWestCentral,germanywc
+20.170.50.76/30,IPv4,PowerBI.GermanyWestCentral,germanywc
+20.170.50.128/28,IPv4,PowerBI.GermanyWestCentral,germanywc
+20.170.50.144/29,IPv4,PowerBI.GermanyWestCentral,germanywc
 20.218.189.224/28,IPv4,PowerBI.GermanyWestCentral,germanywc
 48.201.167.128/28,IPv4,PowerBI.GermanyWestCentral,germanywc
 51.116.144.68/31,IPv4,PowerBI.GermanyWestCentral,germanywc

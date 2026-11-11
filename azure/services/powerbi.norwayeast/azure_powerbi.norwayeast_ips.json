@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.219.40.48/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "4.219.252.64/27",
     "ip_type": "IPv4",
     "service": "PowerBI.NorwayEast",

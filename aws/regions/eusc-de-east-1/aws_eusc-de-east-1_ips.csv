@@ -51,6 +51,7 @@ ip_address,ip_type,service,region
 51.74.16.0/24,IPv4,EC2,eusc-de-east-1
 51.74.17.0/24,IPv4,AMAZON,eusc-de-east-1
 51.74.17.0/24,IPv4,EC2,eusc-de-east-1
+51.74.17.0/24,IPv4,S3,eusc-de-east-1
 51.74.20.0/24,IPv4,AMAZON,eusc-de-east-1
 51.74.20.0/24,IPv4,CLOUDFRONT,eusc-de-east-1
 51.74.20.0/24,IPv4,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1
@@ -123,6 +124,7 @@ ip_address,ip_type,service,region
 2001:3fc6:1::/48,IPv6,EC2,eusc-de-east-1
 2001:3fc6:2::/48,IPv6,AMAZON,eusc-de-east-1
 2001:3fc6:2::/48,IPv6,EC2,eusc-de-east-1
+2001:3fc6:2::/48,IPv6,S3,eusc-de-east-1
 2001:3fc6:4::/48,IPv6,AMAZON,eusc-de-east-1
 2001:3fc6:4::/48,IPv6,CLOUDFRONT,eusc-de-east-1
 2001:3fc6:4::/48,IPv6,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1

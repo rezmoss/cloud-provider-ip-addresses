@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+48.197.81.216/30,IPv4,AzureKeyVault.SaudiArabiaEast,saudiarabiaeast
+48.197.81.224/29,IPv4,AzureKeyVault.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:1::428/125,IPv6,AzureKeyVault.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:400::80/125,IPv6,AzureKeyVault.SaudiArabiaEast,saudiarabiaeast

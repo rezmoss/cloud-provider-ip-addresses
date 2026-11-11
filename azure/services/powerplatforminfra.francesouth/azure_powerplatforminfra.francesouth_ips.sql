@@ -27,4 +27,5 @@ INSERT INTO `azure_powerplatforminfra.francesouth_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_powerplatforminfra.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('52.136.189.96/27', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('52.136.189.128/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('52.136.190.176/29', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.42.128/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:4900::/57', 'IPv6');

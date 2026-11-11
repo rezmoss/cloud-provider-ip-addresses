@@ -2,6 +2,7 @@ ip_address,ip_type,service,region
 4.226.250.64/28,IPv4,AzureMonitor.SwitzerlandWest,switzerlandw
 4.226.252.176/28,IPv4,AzureMonitor.SwitzerlandWest,switzerlandw
 20.199.203.80/29,IPv4,AzureMonitor.SwitzerlandWest,switzerlandw
+20.199.234.96/27,IPv4,AzureMonitor.SwitzerlandWest,switzerlandw
 51.107.147.16/28,IPv4,AzureMonitor.SwitzerlandWest,switzerlandw
 51.107.147.116/30,IPv4,AzureMonitor.SwitzerlandWest,switzerlandw
 51.107.148.0/28,IPv4,AzureMonitor.SwitzerlandWest,switzerlandw

@@ -6,6 +6,24 @@
     "region": "southindia"
   },
   {
+    "ip_address": "4.247.0.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "4.247.0.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "4.247.1.0/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "4.247.39.32/27",
     "ip_type": "IPv4",
     "service": "Dynamics365ForMarketingEmail.SouthIndia",
@@ -39,6 +57,18 @@
     "ip_address": "4.247.40.64/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "4.247.49.156/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "4.247.49.192/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthIndia",
     "region": "southindia"
   },
   {

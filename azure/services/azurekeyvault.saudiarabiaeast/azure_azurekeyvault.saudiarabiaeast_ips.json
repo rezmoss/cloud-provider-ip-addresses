@@ -1,0 +1,26 @@
+[
+  {
+    "ip_address": "48.197.81.216/30",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.81.224/29",
+    "ip_type": "IPv4",
+    "service": "AzureKeyVault.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:1::428/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:400::80/125",
+    "ip_type": "IPv6",
+    "service": "AzureKeyVault.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

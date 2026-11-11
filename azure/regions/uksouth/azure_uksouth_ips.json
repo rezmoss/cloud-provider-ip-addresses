@@ -576,6 +576,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "4.250.18.149/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "4.250.20.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
@@ -4845,6 +4851,24 @@
     "ip_address": "145.133.208.0/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "145.133.208.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "145.133.209.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "145.133.209.64/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKSouth",
     "region": "uksouth"
   },
   {

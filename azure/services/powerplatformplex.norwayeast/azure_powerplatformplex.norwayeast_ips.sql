@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatformplex.norwayeast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerplatformplex.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.219.41.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.219.249.200/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.219.249.208/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('20.100.4.136/29', 'IPv4');

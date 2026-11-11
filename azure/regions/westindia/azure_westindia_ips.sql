@@ -100,6 +100,7 @@ INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.175.
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.175.102/31', 'IPv4');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.175.120/29', 'IPv4');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.175.176/30', 'IPv4');
+INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.181.160/27', 'IPv4');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('40.64.146.0/28', 'IPv4');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('40.64.146.0/28', 'IPv4');
 INSERT INTO `azure_westindia_ips` (`ip_address`, `ip_type`) VALUES ('40.64.150.0/27', 'IPv4');

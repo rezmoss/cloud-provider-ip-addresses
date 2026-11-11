@@ -17,4 +17,5 @@ INSERT INTO `azure_powerplatforminfra.norwaywest_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_powerplatforminfra.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.228.48/28', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.228.64/26', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('51.120.228.128/28', 'IPv4');
+INSERT INTO `azure_powerplatforminfra.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('74.240.18.128/25', 'IPv4');
 INSERT INTO `azure_powerplatforminfra.norwaywest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:1900::/57', 'IPv6');

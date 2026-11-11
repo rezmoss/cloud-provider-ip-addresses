@@ -834,6 +834,8 @@ INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.192.0/
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.196.0/23', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.198.0/23', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.208.0/20', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.228.0/22', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.232.0/21', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('168.144.240.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('170.64.128.0/18', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('170.64.192.0/19', 'IPv4');
@@ -1042,6 +1044,7 @@ INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('201.79.80.0/20
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('201.79.96.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('201.79.112.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('201.79.128.0/20', 'IPv4');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('201.79.144.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('204.48.16.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('206.81.0.0/20', 'IPv4');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('206.81.16.0/20', 'IPv4');
@@ -1153,6 +1156,7 @@ INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('2604:a880:5:1:
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('2604:a880:6:7::/64', 'IPv6');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('2604:a880:7:7::/64', 'IPv6');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('2604:a880:8:7::/64', 'IPv6');
+INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('2604:a880:9:1::/64', 'IPv6');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('2604:a880:400:d0::/64', 'IPv6');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('2604:a880:400:d1::/64', 'IPv6');
 INSERT INTO `digitalocean_ips` (`ip_address`, `ip_type`) VALUES ('2604:a880:800:10::/64', 'IPv6');

@@ -3552,6 +3552,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "20.202.253.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westeurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "20.209.10.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.westeurope",
@@ -8889,6 +8895,30 @@
     "ip_address": "74.144.163.0/27",
     "ip_type": "IPv4",
     "service": "DataFactory.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "74.144.176.20/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "74.144.176.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "74.144.176.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "74.144.177.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestEurope",
     "region": "westeurope"
   },
   {

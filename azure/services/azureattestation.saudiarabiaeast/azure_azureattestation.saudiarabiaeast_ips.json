@@ -1,0 +1,56 @@
+[
+  {
+    "ip_address": "48.197.72.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.100.72/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.100.80/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.139.168/29",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.139.176/30",
+    "ip_type": "IPv4",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::760/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:5::6d0/124",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::394/126",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:7::3a0/125",
+    "ip_type": "IPv6",
+    "service": "AzureAttestation.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

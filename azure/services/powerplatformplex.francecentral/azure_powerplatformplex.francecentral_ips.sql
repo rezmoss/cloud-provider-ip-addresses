@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerplatformplex.francecentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerplatformplex.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.126.0/25', 'IPv4');
 INSERT INTO `azure_powerplatformplex.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.111.3.152/29', 'IPv4');
 INSERT INTO `azure_powerplatformplex.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.111.3.204/30', 'IPv4');
 INSERT INTO `azure_powerplatformplex.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.111.3.216/30', 'IPv4');

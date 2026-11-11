@@ -6,8 +6,13 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.germanywestcentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('4.182.147.5/32', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.52.89.48/30', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.52.95.0/29', 'IPv4');
+INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.170.50.70/31', 'IPv4');
+INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.170.50.76/30', 'IPv4');
+INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.170.50.128/28', 'IPv4');
+INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.170.50.144/29', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.218.189.224/28', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('48.201.167.128/28', 'IPv4');
 INSERT INTO `azure_powerbi.germanywestcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.116.144.68/31', 'IPv4');

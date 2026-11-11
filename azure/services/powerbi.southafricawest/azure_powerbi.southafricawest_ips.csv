@@ -1,5 +1,7 @@
 ip_address,ip_type,service,region
 40.117.25.224/28,IPv4,PowerBI.SouthAfricaWest,southafricawest
+74.160.20.148/30,IPv4,PowerBI.SouthAfricaWest,southafricawest
+74.160.20.208/28,IPv4,PowerBI.SouthAfricaWest,southafricawest
 102.37.81.140/30,IPv4,PowerBI.SouthAfricaWest,southafricawest
 102.37.85.208/29,IPv4,PowerBI.SouthAfricaWest,southafricawest
 102.133.56.98/31,IPv4,PowerBI.SouthAfricaWest,southafricawest

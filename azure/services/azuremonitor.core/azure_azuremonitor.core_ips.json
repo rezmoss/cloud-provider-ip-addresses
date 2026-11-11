@@ -390,6 +390,12 @@
     "region": ""
   },
   {
+    "ip_address": "4.240.138.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "4.240.149.32/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
@@ -445,6 +451,12 @@
   },
   {
     "ip_address": "4.253.155.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "4.254.142.64/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
     "region": ""
@@ -1422,6 +1434,12 @@
     "region": ""
   },
   {
+    "ip_address": "20.199.234.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "20.205.77.184/29",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
@@ -1441,6 +1459,12 @@
   },
   {
     "ip_address": "20.205.192.248/29",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "20.207.181.160/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
     "region": ""
@@ -1867,6 +1891,12 @@
   },
   {
     "ip_address": "48.219.9.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "48.219.53.96/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
     "region": ""
@@ -2448,6 +2478,12 @@
     "region": ""
   },
   {
+    "ip_address": "68.154.178.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "68.210.59.224/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
@@ -2736,6 +2772,12 @@
     "region": ""
   },
   {
+    "ip_address": "74.150.19.192/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "74.151.8.0/26",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
@@ -2820,7 +2862,19 @@
     "region": ""
   },
   {
+    "ip_address": "74.240.19.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
     "ip_address": "74.240.192.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "74.241.71.224/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
     "region": ""
@@ -2851,6 +2905,12 @@
   },
   {
     "ip_address": "85.211.235.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "98.66.43.128/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
     "region": ""
@@ -3319,6 +3379,12 @@
   },
   {
     "ip_address": "172.196.109.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.Core",
+    "region": ""
+  },
+  {
+    "ip_address": "172.197.53.32/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.Core",
     "region": ""

@@ -14,5 +14,9 @@ INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('5
 INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('51.105.88.208/28', 'IPv4');
 INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('52.136.186.112/30', 'IPv4');
 INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('52.136.190.184/29', 'IPv4');
+INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.42.122/31', 'IPv4');
+INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.42.124/30', 'IPv4');
+INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.43.208/32', 'IPv4');
+INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('98.66.43.224/27', 'IPv4');
 INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905::620/123', 'IPv6');
 INSERT INTO `azure_powerbi.francesouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905::640/122', 'IPv6');

@@ -16,6 +16,7 @@ INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.175.98/31', 'IPv4');
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.175.100/31', 'IPv4');
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.175.120/29', 'IPv4');
+INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('20.207.181.160/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('52.136.53.96/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('104.211.147.128/28', 'IPv4');
 INSERT INTO `azure_azuremonitor.westindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:806::780/121', 'IPv6');

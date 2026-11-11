@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.186.248.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.CentralIndia",
+    "region": "centralindia"
+  },
+  {
     "ip_address": "4.213.29.160/29",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.CentralIndia",

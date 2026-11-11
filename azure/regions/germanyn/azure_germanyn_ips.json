@@ -1722,6 +1722,24 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "98.67.30.216/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "98.67.31.16/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "98.67.31.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "98.67.64.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanyn",

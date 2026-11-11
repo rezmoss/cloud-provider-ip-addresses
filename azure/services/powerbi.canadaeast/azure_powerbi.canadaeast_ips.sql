@@ -21,5 +21,8 @@ INSERT INTO `azure_powerbi.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52
 INSERT INTO `azure_powerbi.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.40.96/29', 'IPv4');
 INSERT INTO `azure_powerbi.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.47.40/30', 'IPv4');
 INSERT INTO `azure_powerbi.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('52.242.47.96/29', 'IPv4');
+INSERT INTO `azure_powerbi.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.210.58/32', 'IPv4');
+INSERT INTO `azure_powerbi.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.211.112/28', 'IPv4');
+INSERT INTO `azure_powerbi.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('145.191.211.128/26', 'IPv4');
 INSERT INTO `azure_powerbi.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::620/123', 'IPv6');
 INSERT INTO `azure_powerbi.canadaeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1005::640/122', 'IPv6');

@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.francecentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerbi.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.124.225/32', 'IPv4');
+INSERT INTO `azure_powerbi.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('4.211.126.128/27', 'IPv4');
 INSERT INTO `azure_powerbi.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.43.41.176/31', 'IPv4');
 INSERT INTO `azure_powerbi.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.43.41.184/29', 'IPv4');
 INSERT INTO `azure_powerbi.francecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.43.41.192/26', 'IPv4');

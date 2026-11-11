@@ -1,6 +1,6 @@
 # Akamai IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-11-10** · Total CIDRs: **10,795** · IPv4: **7,766** · IPv6: **3,029** · Services: **18** · Regions: **1**
+> Last updated: **2026-11-11** · Total CIDRs: **10,798** · IPv4: **7,768** · IPv6: **3,030** · Services: **19** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Akamai**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -44,9 +44,9 @@ This provider ships per-service files under [`./services/`](./services/). Exampl
 - [`./services/akamai-as12222/`](./services/akamai-as12222/)
 - [`./services/akamai-as16625/`](./services/akamai-as16625/)
 - [`./services/akamai-as17204/`](./services/akamai-as17204/)
+- [`./services/akamai-as18680/`](./services/akamai-as18680/)
 - [`./services/akamai-as200005/`](./services/akamai-as200005/)
 - [`./services/akamai-as20940/`](./services/akamai-as20940/)
-- [`./services/akamai-as213120/`](./services/akamai-as213120/)
 
 ## Why these ranges change
 

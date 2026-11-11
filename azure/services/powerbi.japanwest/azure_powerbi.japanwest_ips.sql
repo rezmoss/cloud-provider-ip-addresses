@@ -14,10 +14,15 @@ INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('20.
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.80.56.122/31', 'IPv4');
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.80.57.144/29', 'IPv4');
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('40.80.57.160/28', 'IPv4');
+INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('74.226.10.27/32', 'IPv4');
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('74.226.38.112/28', 'IPv4');
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('74.226.38.160/27', 'IPv4');
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('135.149.130.48/28', 'IPv4');
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('135.149.219.240/28', 'IPv4');
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.194.32/27', 'IPv4');
+INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.242.136/29', 'IPv4');
+INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.242.144/28', 'IPv4');
+INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.242.160/30', 'IPv4');
+INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('172.192.242.164/31', 'IPv4');
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606::620/123', 'IPv6');
 INSERT INTO `azure_powerbi.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:606::640/122', 'IPv6');

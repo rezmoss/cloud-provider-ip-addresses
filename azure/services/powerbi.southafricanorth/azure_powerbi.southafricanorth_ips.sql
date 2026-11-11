@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.southafricanorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerbi.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.222.15.174/31', 'IPv4');
+INSERT INTO `azure_powerbi.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('4.222.15.192/28', 'IPv4');
 INSERT INTO `azure_powerbi.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.87.80.8/29', 'IPv4');
 INSERT INTO `azure_powerbi.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.164.154.16/28', 'IPv4');
 INSERT INTO `azure_powerbi.southafricanorth_ips` (`ip_address`, `ip_type`) VALUES ('20.164.154.56/29', 'IPv4');

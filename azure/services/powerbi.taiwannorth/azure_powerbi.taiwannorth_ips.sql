@@ -13,5 +13,6 @@ INSERT INTO `azure_powerbi.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('7
 INSERT INTO `azure_powerbi.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.3.32/28', 'IPv4');
 INSERT INTO `azure_powerbi.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.11.16/28', 'IPv4');
 INSERT INTO `azure_powerbi.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.12.16/28', 'IPv4');
+INSERT INTO `azure_powerbi.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.200.128/28', 'IPv4');
 INSERT INTO `azure_powerbi.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:1::680/122', 'IPv6');
 INSERT INTO `azure_powerbi.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:1::6c0/123', 'IPv6');

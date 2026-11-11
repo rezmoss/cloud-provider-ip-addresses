@@ -4140,6 +4140,16 @@
     "region": "IN-KA"
   },
   {
+    "ip_address": "168.144.228.0/22",
+    "ip_type": "IPv4",
+    "region": "global"
+  },
+  {
+    "ip_address": "168.144.232.0/21",
+    "ip_type": "IPv4",
+    "region": "global"
+  },
+  {
     "ip_address": "168.144.240.0/20",
     "ip_type": "IPv4",
     "region": "SG-05"
@@ -5180,6 +5190,11 @@
     "region": "US-VA"
   },
   {
+    "ip_address": "201.79.144.0/20",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
     "ip_address": "204.48.16.0/20",
     "ip_type": "IPv4",
     "region": "US-NJ"
@@ -5733,6 +5748,11 @@
     "ip_address": "2604:a880:8:7::/64",
     "ip_type": "IPv6",
     "region": "US-MEM"
+  },
+  {
+    "ip_address": "2604:a880:9:1::/64",
+    "ip_type": "IPv6",
+    "region": "global"
   },
   {
     "ip_address": "2604:a880:400:d0::/64",

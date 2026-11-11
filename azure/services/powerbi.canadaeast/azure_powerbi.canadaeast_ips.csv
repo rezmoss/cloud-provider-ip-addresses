@@ -14,5 +14,8 @@ ip_address,ip_type,service,region
 52.242.40.96/29,IPv4,PowerBI.CanadaEast,canadaeast
 52.242.47.40/30,IPv4,PowerBI.CanadaEast,canadaeast
 52.242.47.96/29,IPv4,PowerBI.CanadaEast,canadaeast
+145.191.210.58/32,IPv4,PowerBI.CanadaEast,canadaeast
+145.191.211.112/28,IPv4,PowerBI.CanadaEast,canadaeast
+145.191.211.128/26,IPv4,PowerBI.CanadaEast,canadaeast
 2603:1030:1005::620/123,IPv6,PowerBI.CanadaEast,canadaeast
 2603:1030:1005::640/122,IPv6,PowerBI.CanadaEast,canadaeast

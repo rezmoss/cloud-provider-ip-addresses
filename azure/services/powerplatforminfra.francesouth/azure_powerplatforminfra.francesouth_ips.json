@@ -126,6 +126,12 @@
     "region": "southfrance"
   },
   {
+    "ip_address": "98.66.42.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.FranceSouth",
+    "region": "southfrance"
+  },
+  {
     "ip_address": "2603:1061:2002:4900::/57",
     "ip_type": "IPv6",
     "service": "PowerPlatformInfra.FranceSouth",

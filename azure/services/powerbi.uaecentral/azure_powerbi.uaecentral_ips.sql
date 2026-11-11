@@ -12,6 +12,8 @@ INSERT INTO `azure_powerbi.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('20
 INSERT INTO `azure_powerbi.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.45.90.88/30', 'IPv4');
 INSERT INTO `azure_powerbi.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.45.94.80/29', 'IPv4');
 INSERT INTO `azure_powerbi.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('20.203.94.224/28', 'IPv4');
+INSERT INTO `azure_powerbi.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.19.166/31', 'IPv4');
+INSERT INTO `azure_powerbi.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.150.27.0/28', 'IPv4');
 INSERT INTO `azure_powerbi.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('74.243.127.224/27', 'IPv4');
 INSERT INTO `azure_powerbi.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04::620/123', 'IPv6');
 INSERT INTO `azure_powerbi.uaecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:b04::640/122', 'IPv6');

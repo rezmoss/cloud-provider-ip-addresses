@@ -2586,6 +2586,12 @@
     "region": "japanwest"
   },
   {
+    "ip_address": "74.226.10.27/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.JapanWest",
+    "region": "japanwest"
+  },
+  {
     "ip_address": "74.226.38.112/28",
     "ip_type": "IPv4",
     "service": "PowerBI.JapanWest",
@@ -3129,6 +3135,30 @@
     "ip_address": "172.192.234.128/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.242.136/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.242.144/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.242.160/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.JapanWest",
+    "region": "japanwest"
+  },
+  {
+    "ip_address": "172.192.242.164/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.JapanWest",
     "region": "japanwest"
   },
   {

@@ -1,0 +1,32 @@
+[
+  {
+    "ip_address": "48.197.76.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "48.197.88.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::700/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:2::580/121",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:400::8/125",
+    "ip_type": "IPv6",
+    "service": "AzureContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

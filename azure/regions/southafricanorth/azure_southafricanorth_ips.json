@@ -156,6 +156,18 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "4.222.15.174/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.222.15.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "4.222.128.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.southafricanorth",

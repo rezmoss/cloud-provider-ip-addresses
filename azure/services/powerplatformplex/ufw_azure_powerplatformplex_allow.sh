@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-07-11 03:11:39
+# Updated: 2026-11-11 02:15:56
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -18,11 +18,13 @@ ufw allow from 4.150.249.64/26
 ufw allow from 4.150.253.0/26
 ufw allow from 4.150.253.64/28
 ufw allow from 4.150.253.80/29
+ufw allow from 4.161.191.0/25
 ufw allow from 4.171.31.160/28
 ufw allow from 4.174.144.8/29
 ufw allow from 4.181.26.80/29
 ufw allow from 4.182.42.232/29
 ufw allow from 4.184.2.8/29
+ufw allow from 4.186.249.0/25
 ufw allow from 4.190.136.184/29
 ufw allow from 4.190.136.192/28
 ufw allow from 4.190.143.216/29
@@ -46,6 +48,7 @@ ufw allow from 4.207.240.64/28
 ufw allow from 4.207.251.72/29
 ufw allow from 4.209.232.0/23
 ufw allow from 4.209.234.0/25
+ufw allow from 4.211.126.0/25
 ufw allow from 4.213.28.0/29
 ufw allow from 4.216.21.96/28
 ufw allow from 4.216.21.112/29
@@ -53,6 +56,7 @@ ufw allow from 4.216.22.64/26
 ufw allow from 4.216.203.208/28
 ufw allow from 4.216.204.192/29
 ufw allow from 4.218.236.128/28
+ufw allow from 4.219.41.0/25
 ufw allow from 4.219.249.200/29
 ufw allow from 4.219.249.208/29
 ufw allow from 4.220.137.8/29
@@ -74,6 +78,7 @@ ufw allow from 4.243.44.208/29
 ufw allow from 4.243.127.64/26
 ufw allow from 4.243.127.128/26
 ufw allow from 4.244.11.64/26
+ufw allow from 4.247.0.128/25
 ufw allow from 4.248.98.160/29
 ufw allow from 4.251.224.160/29
 ufw allow from 9.205.179.128/25
@@ -190,6 +195,7 @@ ufw allow from 20.199.201.76/30
 ufw allow from 20.199.201.144/30
 ufw allow from 20.199.207.168/29
 ufw allow from 20.199.207.176/29
+ufw allow from 20.199.235.0/25
 ufw allow from 20.200.160.28/30
 ufw allow from 20.200.160.208/30
 ufw allow from 20.200.160.236/30
@@ -337,11 +343,13 @@ ufw allow from 70.153.66.0/26
 ufw allow from 70.157.170.128/25
 ufw allow from 72.155.105.192/26
 ufw allow from 72.155.106.0/26
+ufw allow from 74.150.26.128/25
 ufw allow from 74.161.173.192/26
 ufw allow from 74.161.174.0/26
 ufw allow from 74.162.134.192/26
 ufw allow from 74.162.135.0/26
 ufw allow from 74.163.253.0/24
+ufw allow from 74.240.19.0/25
 ufw allow from 74.240.192.32/29
 ufw allow from 74.241.226.96/29
 ufw allow from 74.242.7.136/29
@@ -349,6 +357,7 @@ ufw allow from 74.242.188.32/29
 ufw allow from 74.243.6.40/29
 ufw allow from 74.243.165.192/26
 ufw allow from 74.243.166.0/26
+ufw allow from 98.66.43.0/25
 ufw allow from 98.66.132.224/28
 ufw allow from 98.66.147.160/29
 ufw allow from 98.67.183.168/29
@@ -386,6 +395,7 @@ ufw allow from 145.191.36.128/25
 ufw allow from 145.191.38.0/25
 ufw allow from 158.158.139.128/25
 ufw allow from 172.160.216.16/29
+ufw allow from 172.161.115.0/25
 ufw allow from 172.164.208.152/29
 ufw allow from 172.164.208.208/29
 ufw allow from 172.164.238.24/29

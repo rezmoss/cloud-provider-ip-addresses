@@ -240,6 +240,12 @@
     "region": "southeastasia3"
   },
   {
+    "ip_address": "48.198.92.112/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
     "ip_address": "48.198.92.188/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.SoutheastAsia3",
@@ -507,6 +513,12 @@
     "ip_address": "48.198.203.36/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
+    "ip_address": "48.198.203.96/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia3",
     "region": "southeastasia3"
   },
   {

@@ -270,6 +270,18 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "4.252.17.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "4.252.17.64/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "4.252.138.0/26",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.EastAsia",
@@ -837,6 +849,24 @@
     "ip_address": "20.6.204.128/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.6.209.162/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.6.209.216/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.6.209.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastAsia",
     "region": "eastasia"
   },
   {

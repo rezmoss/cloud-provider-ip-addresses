@@ -1,0 +1,6 @@
+ip_address,ip_type,service,region
+48.197.73.128/25,IPv4,AzureEventGrid.SaudiArabiaEast,saudiarabiaeast
+48.197.102.0/23,IPv4,AzureEventGrid.SaudiArabiaEast,saudiarabiaeast
+48.197.128.0/22,IPv4,AzureEventGrid.SaudiArabiaEast,saudiarabiaeast
+48.197.132.0/23,IPv4,AzureEventGrid.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02::480/121,IPv6,AzureEventGrid.SaudiArabiaEast,saudiarabiaeast

@@ -9006,6 +9006,36 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "172.129.191.114/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "172.129.191.120/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "172.129.191.224/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "172.129.194.0/24",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "172.129.195.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "172.150.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",

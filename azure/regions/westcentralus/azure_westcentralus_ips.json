@@ -3030,7 +3030,7 @@
     "region": "westcentralus"
   },
   {
-    "ip_address": "57.157.82.32/30",
+    "ip_address": "57.157.82.32/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
     "region": "westcentralus"
@@ -3411,6 +3411,30 @@
     "ip_address": "172.132.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westcentralus",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.132.59.174/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.132.59.180/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.132.60.0/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "172.132.60.32/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.WestCentralUS",
     "region": "westcentralus"
   },
   {

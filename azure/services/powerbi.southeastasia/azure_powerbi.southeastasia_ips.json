@@ -6,6 +6,36 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "4.146.106.116/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.146.106.120/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.146.106.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.146.107.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "4.146.107.64/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "20.43.130.192/31",
     "ip_type": "IPv4",
     "service": "PowerBI.SoutheastAsia",

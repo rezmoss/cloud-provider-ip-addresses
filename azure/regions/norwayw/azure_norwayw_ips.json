@@ -1548,6 +1548,36 @@
     "region": "norwayw"
   },
   {
+    "ip_address": "74.240.18.106/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "74.240.18.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "74.240.19.0/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformPlex.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "74.240.19.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "74.240.19.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.NorwayWest",
+    "region": "norwayw"
+  },
+  {
     "ip_address": "74.240.128.0/21",
     "ip_type": "IPv4",
     "service": "AzureCloud.norwayw",

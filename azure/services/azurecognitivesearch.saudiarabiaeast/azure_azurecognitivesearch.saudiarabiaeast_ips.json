@@ -1,0 +1,14 @@
+[
+  {
+    "ip_address": "48.197.72.192/26",
+    "ip_type": "IPv4",
+    "service": "AzureCognitiveSearch.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02::100/121",
+    "ip_type": "IPv6",
+    "service": "AzureCognitiveSearch.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

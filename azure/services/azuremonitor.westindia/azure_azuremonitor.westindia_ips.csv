@@ -9,6 +9,7 @@ ip_address,ip_type,service,region
 20.207.175.98/31,IPv4,AzureMonitor.WestIndia,westindia
 20.207.175.100/31,IPv4,AzureMonitor.WestIndia,westindia
 20.207.175.120/29,IPv4,AzureMonitor.WestIndia,westindia
+20.207.181.160/27,IPv4,AzureMonitor.WestIndia,westindia
 52.136.53.96/27,IPv4,AzureMonitor.WestIndia,westindia
 104.211.147.128/28,IPv4,AzureMonitor.WestIndia,westindia
 2603:1040:806::780/121,IPv6,AzureMonitor.WestIndia,westindia

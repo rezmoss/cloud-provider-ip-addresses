@@ -79,6 +79,13 @@ ip_address,ip_type,service,region
 20.199.219.21/32,IPv4,LogicApps.SwitzerlandWest,switzerlandw
 20.199.219.154/32,IPv4,LogicApps.SwitzerlandWest,switzerlandw
 20.199.219.180/32,IPv4,LogicApps.SwitzerlandWest,switzerlandw
+20.199.234.67/32,IPv4,PowerBI.SwitzerlandWest,switzerlandw
+20.199.234.72/29,IPv4,PowerBI.SwitzerlandWest,switzerlandw
+20.199.234.96/27,IPv4,AzureMonitor.SwitzerlandWest,switzerlandw
+20.199.234.128/25,IPv4,PowerPlatformInfra.SwitzerlandWest,switzerlandw
+20.199.235.0/25,IPv4,PowerPlatformPlex.SwitzerlandWest,switzerlandw
+20.199.235.160/28,IPv4,PowerBI.SwitzerlandWest,switzerlandw
+20.199.235.176/30,IPv4,PowerBI.SwitzerlandWest,switzerlandw
 20.208.192.0/18,IPv4,AzureCloud.switzerlandw,switzerlandw
 20.208.230.30/32,IPv4,LogicApps.SwitzerlandWest,switzerlandw
 20.208.231.200/32,IPv4,LogicApps.SwitzerlandWest,switzerlandw

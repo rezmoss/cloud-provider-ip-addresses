@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.222.15.174/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "4.222.15.192/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "20.87.80.8/29",
     "ip_type": "IPv4",
     "service": "PowerBI.SouthAfricaNorth",

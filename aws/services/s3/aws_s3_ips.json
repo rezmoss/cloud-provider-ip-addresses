@@ -1980,6 +1980,12 @@
     "region": "il-central-1"
   },
   {
+    "ip_address": "51.74.17.0/24",
+    "ip_type": "IPv4",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.112.11.64/28",
     "ip_type": "IPv4",
     "service": "S3",
@@ -2905,6 +2911,12 @@
   },
   {
     "ip_address": "2001:3fc5:800::/40",
+    "ip_type": "IPv6",
+    "service": "S3",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "2001:3fc6:2::/48",
     "ip_type": "IPv6",
     "service": "S3",
     "region": "eusc-de-east-1"

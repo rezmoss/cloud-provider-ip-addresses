@@ -95,6 +95,7 @@ ip_address,ip_type,service,region
 4.250.17.176/28,IPv4,AzureCloud.uksouth,uksouth
 4.250.17.192/26,IPv4,AzureCloud.uksouth,uksouth
 4.250.18.0/23,IPv4,AzureCloud.uksouth,uksouth
+4.250.18.149/32,IPv4,PowerBI.UKSouth,uksouth
 4.250.20.0/22,IPv4,AzureCloud.uksouth,uksouth
 4.250.24.0/21,IPv4,AzureCloud.uksouth,uksouth
 4.250.32.0/21,IPv4,AzureCloud.uksouth,uksouth
@@ -807,6 +808,9 @@ ip_address,ip_type,service,region
 145.133.35.64/29,IPv4,AppServiceManagement.UKSouth,uksouth
 145.133.35.96/27,IPv4,AzureDevOps.UKSouth,uksouth
 145.133.208.0/26,IPv4,AzureMonitor.UKSouth,uksouth
+145.133.208.96/27,IPv4,PowerBI.UKSouth,uksouth
+145.133.209.0/26,IPv4,PowerBI.UKSouth,uksouth
+145.133.209.64/28,IPv4,PowerBI.UKSouth,uksouth
 145.190.156.0/24,IPv4,AzureCloud.uksouth,uksouth
 145.190.156.0/24,IPv4,Storage.UKSouth,uksouth
 151.206.111.0/24,IPv4,AzureCloud.uksouth,uksouth

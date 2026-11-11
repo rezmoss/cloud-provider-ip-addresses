@@ -6912,6 +6912,12 @@
     "region": "eastus2"
   },
   {
+    "ip_address": "52.114.204.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
     "ip_address": "52.114.206.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
@@ -11151,6 +11157,42 @@
     "ip_address": "172.147.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.eastus2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "172.147.128.158/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "172.147.128.248/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "172.147.130.224/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "172.147.131.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "172.147.131.16/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
+    "region": "eastus2"
+  },
+  {
+    "ip_address": "172.147.131.20/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.EastUS2",
     "region": "eastus2"
   },
   {

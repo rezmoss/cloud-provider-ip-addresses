@@ -90,6 +90,9 @@ INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.150.110.0/2
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.157.46.0/24', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.157.46.0/24', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.162.0.0/17', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.162.50.16/28', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.162.50.32/27', 'IPv4');
+INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.162.50.64/26', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.162.80.198/32', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.162.84.125/32', 'IPv4');
 INSERT INTO `azure_ukwest_ips` (`ip_address`, `ip_type`) VALUES ('20.162.86.120/32', 'IPv4');

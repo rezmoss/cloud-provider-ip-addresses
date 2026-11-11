@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_powerbi.uksouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('4.250.18.149/32', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('20.26.18.114/31', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('20.26.18.120/30', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('20.90.131.116/30', 'IPv4');
@@ -18,6 +19,9 @@ INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.10
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('74.177.72.32/28', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('74.177.108.64/26', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('131.145.145.192/27', 'IPv4');
+INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('145.133.208.96/27', 'IPv4');
+INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('145.133.209.0/26', 'IPv4');
+INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('145.133.209.64/28', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.165.73.32/27', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.167.62.96/27', 'IPv4');
 INSERT INTO `azure_powerbi.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.187.71.96/27', 'IPv4');

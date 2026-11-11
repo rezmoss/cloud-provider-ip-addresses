@@ -366,6 +366,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "4.243.188.240/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "13.104.157.0/25",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreasouth",

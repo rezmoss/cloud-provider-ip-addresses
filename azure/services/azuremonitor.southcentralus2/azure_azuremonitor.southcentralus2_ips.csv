@@ -7,6 +7,7 @@ ip_address,ip_type,service,region
 48.216.33.192/26,IPv4,AzureMonitor.SouthCentralUS2,southcentralus2
 48.219.9.32/27,IPv4,AzureMonitor.SouthCentralUS2,southcentralus2
 48.219.9.64/27,IPv4,AzureMonitor.SouthCentralUS2,southcentralus2
+48.219.53.96/27,IPv4,AzureMonitor.SouthCentralUS2,southcentralus2
 2603:1030:1102:2::3e0/123,IPv6,AzureMonitor.SouthCentralUS2,southcentralus2
 2603:1030:1102:2::4c0/122,IPv6,AzureMonitor.SouthCentralUS2,southcentralus2
 2603:1030:1102:2::580/123,IPv6,AzureMonitor.SouthCentralUS2,southcentralus2

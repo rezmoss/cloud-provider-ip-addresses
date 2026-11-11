@@ -3366,31 +3366,13 @@
     "region": "australiaeast"
   },
   {
-    "ip_address": "40.120.179.0/27",
+    "ip_address": "40.120.179.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiaeast",
     "region": "australiaeast"
   },
   {
-    "ip_address": "40.120.179.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.179.48/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.179.56/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiaeast",
-    "region": "australiaeast"
-  },
-  {
-    "ip_address": "40.120.179.60/31",
+    "ip_address": "40.120.179.64/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiaeast",
     "region": "australiaeast"
@@ -3687,6 +3669,24 @@
     "ip_address": "51.56.231.128/25",
     "ip_type": "IPv4",
     "service": "AzureMonitor.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "51.56.246.231/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "51.56.246.236/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "51.56.246.240/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaEast",
     "region": "australiaeast"
   },
   {
@@ -4395,6 +4395,24 @@
     "ip_address": "172.146.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "172.146.2.128/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "172.146.2.192/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "172.146.2.224/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.AustraliaEast",
     "region": "australiaeast"
   },
   {

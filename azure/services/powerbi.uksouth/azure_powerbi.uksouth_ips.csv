@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+4.250.18.149/32,IPv4,PowerBI.UKSouth,uksouth
 20.26.18.114/31,IPv4,PowerBI.UKSouth,uksouth
 20.26.18.120/30,IPv4,PowerBI.UKSouth,uksouth
 20.90.131.116/30,IPv4,PowerBI.UKSouth,uksouth
@@ -11,6 +12,9 @@ ip_address,ip_type,service,region
 74.177.72.32/28,IPv4,PowerBI.UKSouth,uksouth
 74.177.108.64/26,IPv4,PowerBI.UKSouth,uksouth
 131.145.145.192/27,IPv4,PowerBI.UKSouth,uksouth
+145.133.208.96/27,IPv4,PowerBI.UKSouth,uksouth
+145.133.209.0/26,IPv4,PowerBI.UKSouth,uksouth
+145.133.209.64/28,IPv4,PowerBI.UKSouth,uksouth
 172.165.73.32/27,IPv4,PowerBI.UKSouth,uksouth
 172.167.62.96/27,IPv4,PowerBI.UKSouth,uksouth
 172.187.71.96/27,IPv4,PowerBI.UKSouth,uksouth

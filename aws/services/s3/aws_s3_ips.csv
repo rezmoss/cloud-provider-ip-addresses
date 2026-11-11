@@ -329,6 +329,7 @@ ip_address,ip_type,service,region
 44.192.140.64/28,IPv4,S3,us-east-1
 51.17.129.160/28,IPv4,S3,il-central-1
 51.17.129.176/28,IPv4,S3,il-central-1
+51.74.17.0/24,IPv4,S3,eusc-de-east-1
 51.112.11.64/28,IPv4,S3,me-central-1
 51.112.11.80/28,IPv4,S3,me-central-1
 52.82.164.0/22,IPv4,S3,cn-northwest-1
@@ -484,6 +485,7 @@ ip_address,ip_type,service,region
 140.179.36.240/28,IPv4,S3,cn-north-1
 2001:3fc4:1000::/40,IPv6,S3,eusc-de-east-1
 2001:3fc5:800::/40,IPv6,S3,eusc-de-east-1
+2001:3fc6:2::/48,IPv6,S3,eusc-de-east-1
 2001:3fc7:800::/40,IPv6,S3,eusc-de-east-1
 2001:3fc7:8800::/40,IPv6,S3,eusc-de-east-1
 2001:3fc7:9800::/40,IPv6,S3,eusc-de-east-1

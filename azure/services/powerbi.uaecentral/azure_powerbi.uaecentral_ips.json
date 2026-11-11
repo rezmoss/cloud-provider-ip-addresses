@@ -36,6 +36,18 @@
     "region": "uaecentral"
   },
   {
+    "ip_address": "74.150.19.166/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "74.150.27.0/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UAECentral",
+    "region": "uaecentral"
+  },
+  {
     "ip_address": "74.243.127.224/27",
     "ip_type": "IPv4",
     "service": "PowerBI.UAECentral",

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_address": "48.197.94.24/29",
+    "ip_type": "IPv4",
+    "service": "MicrosoftContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:3::690/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  },
+  {
+    "ip_address": "2603:1040:1a02:400::/125",
+    "ip_type": "IPv6",
+    "service": "MicrosoftContainerRegistry.SaudiArabiaEast",
+    "region": "saudiarabiaeast"
+  }
+]

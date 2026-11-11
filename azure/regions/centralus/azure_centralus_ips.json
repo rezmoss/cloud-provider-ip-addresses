@@ -4860,6 +4860,12 @@
     "region": "centralus"
   },
   {
+    "ip_address": "52.114.190.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.centralus",
+    "region": "centralus"
+  },
+  {
     "ip_address": "52.115.76.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud.centralus",
@@ -7767,6 +7773,36 @@
     "ip_address": "172.134.20.128/25",
     "ip_type": "IPv4",
     "service": "AzureMonitor.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.134.109.48/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.134.109.52/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.134.110.96/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.134.110.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "172.134.111.0/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.CentralUS",
     "region": "centralus"
   },
   {

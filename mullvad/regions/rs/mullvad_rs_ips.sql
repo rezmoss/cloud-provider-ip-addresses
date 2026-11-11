@@ -7,6 +7,6 @@ CREATE TABLE IF NOT EXISTS `mullvad_rs_ips` (
 );
 
 INSERT INTO `mullvad_rs_ips` (`ip_address`, `ip_type`) VALUES ('146.70.193.2/32', 'IPv4');
-INSERT INTO `mullvad_rs_ips` (`ip_address`, `ip_type`) VALUES ('146.70.193.66/32', 'IPv4');
-INSERT INTO `mullvad_rs_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:7d:37::a01f/128', 'IPv6');
-INSERT INTO `mullvad_rs_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:7d:38::a02f/128', 'IPv6');
+INSERT INTO `mullvad_rs_ips` (`ip_address`, `ip_type`) VALUES ('146.70.193.130/32', 'IPv4');
+INSERT INTO `mullvad_rs_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:7d:37::f001/128', 'IPv6');
+INSERT INTO `mullvad_rs_ips` (`ip_address`, `ip_type`) VALUES ('2001:ac8:7d:38::f001/128', 'IPv6');

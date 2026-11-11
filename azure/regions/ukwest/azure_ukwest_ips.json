@@ -504,6 +504,24 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "20.162.50.16/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.50.32/27",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "20.162.50.64/26",
+    "ip_type": "IPv4",
+    "service": "PowerBI.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "20.162.80.198/32",
     "ip_type": "IPv4",
     "service": "LogicApps.UKWest",

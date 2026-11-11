@@ -14,6 +14,7 @@ INSERT INTO `azure_azuremonitor.southcentralus2_ips` (`ip_address`, `ip_type`) V
 INSERT INTO `azure_azuremonitor.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('48.216.33.192/26', 'IPv4');
 INSERT INTO `azure_azuremonitor.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('48.219.9.32/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('48.219.9.64/27', 'IPv4');
+INSERT INTO `azure_azuremonitor.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('48.219.53.96/27', 'IPv4');
 INSERT INTO `azure_azuremonitor.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:2::3e0/123', 'IPv6');
 INSERT INTO `azure_azuremonitor.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:2::4c0/122', 'IPv6');
 INSERT INTO `azure_azuremonitor.southcentralus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1102:2::580/123', 'IPv6');

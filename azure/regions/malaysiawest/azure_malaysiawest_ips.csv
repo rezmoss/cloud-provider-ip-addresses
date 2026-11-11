@@ -135,6 +135,8 @@ ip_address,ip_type,service,region
 40.120.170.0/27,IPv4,AzureCloud.malaysiawest,malaysiawest
 40.120.170.32/28,IPv4,AzureCloud.malaysiawest,malaysiawest
 40.120.170.48/29,IPv4,AzureCloud.malaysiawest,malaysiawest
+40.120.170.56/30,IPv4,AzureCloud.malaysiawest,malaysiawest
+40.120.170.60/31,IPv4,AzureCloud.malaysiawest,malaysiawest
 48.212.54.0/24,IPv4,AzureCloud.malaysiawest,malaysiawest
 48.212.182.0/24,IPv4,AzureCloud.malaysiawest,malaysiawest
 48.213.54.0/24,IPv4,AzureCloud.malaysiawest,malaysiawest
@@ -298,6 +300,8 @@ ip_address,ip_type,service,region
 2603:1061:100d::/56,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:100d:100::/60,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:100d:110::/62,IPv6,AzureCloud.malaysiawest,malaysiawest
+2603:1061:100d:114::/63,IPv6,AzureCloud.malaysiawest,malaysiawest
+2603:1061:100d:116::/64,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:1310:2400::/54,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:173a::/48,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:2002:d880::/57,IPv6,AzureCloud.malaysiawest,malaysiawest

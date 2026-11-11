@@ -144,6 +144,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "4.182.147.5/32",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "4.182.152.0/23",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
@@ -1029,6 +1035,30 @@
     "ip_address": "20.170.36.209/32",
     "ip_type": "IPv4",
     "service": "MicrosoftCloudAppSecurity.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.170.50.70/31",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.170.50.76/30",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.170.50.128/28",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "20.170.50.144/29",
+    "ip_type": "IPv4",
+    "service": "PowerBI.GermanyWestCentral",
     "region": "germanywc"
   },
   {

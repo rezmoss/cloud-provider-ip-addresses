@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.219.40.128/25",
+    "ip_type": "IPv4",
+    "service": "PowerPlatformInfra.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "20.100.0.160/27",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.NorwayEast",

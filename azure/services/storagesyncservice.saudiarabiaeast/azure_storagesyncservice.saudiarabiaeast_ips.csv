@@ -1,0 +1,3 @@
+ip_address,ip_type,service,region
+48.197.87.144/29,IPv4,StorageSyncService.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:2::480/123,IPv6,StorageSyncService.SaudiArabiaEast,saudiarabiaeast

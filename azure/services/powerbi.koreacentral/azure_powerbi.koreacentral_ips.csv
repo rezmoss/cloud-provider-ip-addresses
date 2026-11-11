@@ -1,5 +1,6 @@
 ip_address,ip_type,service,region
 4.218.236.192/27,IPv4,PowerBI.KoreaCentral,koreacentral
+4.230.59.0/28,IPv4,PowerBI.KoreaCentral,koreacentral
 20.41.65.146/31,IPv4,PowerBI.KoreaCentral,koreacentral
 20.41.65.148/30,IPv4,PowerBI.KoreaCentral,koreacentral
 20.41.65.152/29,IPv4,PowerBI.KoreaCentral,koreacentral

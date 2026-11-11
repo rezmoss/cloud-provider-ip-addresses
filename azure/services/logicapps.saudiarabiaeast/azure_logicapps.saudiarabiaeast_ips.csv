@@ -1,0 +1,5 @@
+ip_address,ip_type,service,region
+48.197.94.0/28,IPv4,LogicApps.SaudiArabiaEast,saudiarabiaeast
+48.197.94.32/27,IPv4,LogicApps.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:3::680/124,IPv6,LogicApps.SaudiArabiaEast,saudiarabiaeast
+2603:1040:1a02:3::6a0/123,IPv6,LogicApps.SaudiArabiaEast,saudiarabiaeast

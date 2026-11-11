@@ -12,6 +12,12 @@
     "region": "jioindiacentral"
   },
   {
+    "ip_address": "4.240.138.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "4.240.144.50/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.JioIndiaCentral",

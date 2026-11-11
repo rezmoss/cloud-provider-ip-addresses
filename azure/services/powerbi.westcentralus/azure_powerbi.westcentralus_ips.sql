@@ -18,5 +18,9 @@ INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES (
 INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.150.139.128/28', 'IPv4');
 INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.150.139.160/27', 'IPv4');
 INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('128.24.203.128/26', 'IPv4');
+INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('172.132.59.174/31', 'IPv4');
+INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('172.132.59.180/30', 'IPv4');
+INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('172.132.60.0/27', 'IPv4');
+INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('172.132.60.32/29', 'IPv4');
 INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04::620/123', 'IPv6');
 INSERT INTO `azure_powerbi.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04::640/122', 'IPv6');

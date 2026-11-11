@@ -11,4 +11,5 @@ INSERT INTO `azure_storage.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `azure_storage.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.23.0/24', 'IPv4');
 INSERT INTO `azure_storage.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.24.0/23', 'IPv4');
 INSERT INTO `azure_storage.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('57.150.93.0/24', 'IPv4');
+INSERT INTO `azure_storage.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.102.0/23', 'IPv4');
 INSERT INTO `azure_storage.southeastus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:903::/48', 'IPv6');

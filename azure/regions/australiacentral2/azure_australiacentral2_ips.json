@@ -48,6 +48,12 @@
     "region": "australiacentral2"
   },
   {
+    "ip_address": "4.254.142.64/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor.AustraliaCentral2",
+    "region": "australiacentral2"
+  },
+  {
     "ip_address": "13.104.158.224/27",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiacentral2",
