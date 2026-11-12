@@ -1787,6 +1787,7 @@ ip_address,ip_type,service,region
 2a06:1780::/32,IPv6,leaseweb-as60781,global
 2a06:35c0:2123::/48,IPv6,leaseweb-as30633,global
 2a06:35c2::/32,IPv6,leaseweb-as30633,global
+2a06:3600::/29,IPv6,leaseweb-as60781,global
 2a06:3bc0::/29,IPv6,leaseweb-as28753,global
 2a06:a5c0::/29,IPv6,leaseweb-as60781,global
 2a06:ab00::/32,IPv6,leaseweb-as60781,global

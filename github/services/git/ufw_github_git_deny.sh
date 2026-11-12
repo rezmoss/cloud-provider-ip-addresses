@@ -1,6 +1,6 @@
 #!/bin/bash
 # Github IP Ranges
-# Updated: 2026-11-10 02:17:09
+# Updated: 2026-11-12 02:17:28
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -10,17 +10,22 @@
 ufw deny from 4.149.173.80/28
 ufw deny from 4.159.108.160/28
 ufw deny from 4.159.197.192/28
+ufw deny from 4.163.8.144/28
 ufw deny from 4.186.157.192/28
 ufw deny from 4.187.247.160/28
 ufw deny from 4.195.217.80/28
 ufw deny from 4.196.32.112/28
+ufw deny from 4.207.215.240/28
 ufw deny from 4.208.26.193/32
 ufw deny from 4.208.26.197/32
 ufw deny from 4.208.26.198/32
+ufw deny from 4.209.111.112/28
+ufw deny from 4.209.112.0/28
 ufw deny from 4.225.11.194/32
 ufw deny from 4.225.11.199/32
 ufw deny from 4.225.11.200/32
 ufw deny from 4.225.187.240/28
+ufw deny from 4.225.189.240/28
 ufw deny from 4.228.31.144/31
 ufw deny from 4.228.31.150/32
 ufw deny from 4.234.31.32/28
@@ -30,6 +35,7 @@ ufw deny from 4.237.22.38/32
 ufw deny from 4.237.22.40/32
 ufw deny from 4.249.131.163/32
 ufw deny from 4.249.131.164/32
+ufw deny from 20.6.7.16/28
 ufw deny from 20.26.58.32/28
 ufw deny from 20.26.68.64/28
 ufw deny from 20.26.156.213/32
@@ -50,16 +56,16 @@ ufw deny from 20.199.39.232/32
 ufw deny from 20.200.245.244/32
 ufw deny from 20.200.245.247/32
 ufw deny from 20.200.245.248/32
-ufw deny from 20.201.28.151/32
-ufw deny from 20.201.28.152/32
 ufw deny from 20.205.243.160/31
 ufw deny from 20.205.243.166/32
 ufw deny from 20.207.73.81/32
 ufw deny from 20.207.73.82/31
+ufw deny from 20.208.89.80/28
 ufw deny from 20.217.135.1/32
 ufw deny from 20.217.135.4/31
 ufw deny from 20.233.83.145/32
 ufw deny from 20.233.83.148/31
+ufw deny from 20.247.166.64/28
 ufw deny from 20.250.119.67/32
 ufw deny from 20.250.119.68/32
 ufw deny from 40.121.125.32/28
@@ -71,11 +77,16 @@ ufw deny from 48.202.248.38/32
 ufw deny from 48.202.248.40/32
 ufw deny from 48.204.201.5/32
 ufw deny from 48.204.201.6/32
+ufw deny from 57.155.223.240/28
+ufw deny from 74.161.79.192/28
 ufw deny from 135.235.149.144/28
 ufw deny from 140.82.112.0/20
 ufw deny from 143.55.64.0/20
+ufw deny from 172.130.18.192/28
+ufw deny from 172.130.45.112/28
 ufw deny from 172.130.153.16/28
 ufw deny from 172.130.201.80/28
+ufw deny from 172.139.64.112/28
 ufw deny from 172.182.252.130/32
 ufw deny from 172.182.252.133/32
 ufw deny from 172.182.252.135/32

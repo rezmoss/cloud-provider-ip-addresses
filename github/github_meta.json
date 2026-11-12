@@ -1,23 +1,23 @@
 {
   "provider": "github",
-  "version": 25,
-  "generated_date": "2026-11-11",
-  "last_changed_date": "2026-11-10",
+  "version": 26,
+  "generated_date": "2026-11-12",
+  "last_changed_date": "2026-11-12",
   "sources": [
     "https://api.github.com/meta"
   ],
   "ipv4": {
-    "cidrs": 5927,
-    "merged_cidrs": 3940,
-    "addresses": 28659005
+    "cidrs": 5959,
+    "merged_cidrs": 3945,
+    "addresses": 28659144
   },
   "ipv6": {
     "cidrs": 2744,
     "merged_cidrs": 2547,
     "addresses": 713312323851057276740219959360
   },
-  "total_entries": 8671,
-  "content_sha256": "c8e7bfbe2d87383bbd225cdb34f0c1c8cf2b38411de7d38946993fce0d15da7d",
+  "total_entries": 8703,
+  "content_sha256": "e234c32d566d4288af348ed824b85581b799b2073b50933dd9c7994c0835fda0",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

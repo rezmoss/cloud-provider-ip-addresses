@@ -25,6 +25,7 @@ INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.66.0.0
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.66.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.66.4.0/22', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.66.84.0/23', 'IPv4');
+INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.66.86.0/23', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.67.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.152.0.0/16', 'IPv4');
 INSERT INTO `aws_us-gov-east-1_ips` (`ip_address`, `ip_type`) VALUES ('16.153.0.0/16', 'IPv4');

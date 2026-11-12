@@ -135,6 +135,7 @@ INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.107.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.108.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.109.0/24', 'IPv4');
+INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.110.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('99.83.128.0/17', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('159.248.133.0/24', 'IPv4');
 INSERT INTO `aws_globalaccelerator_ips` (`ip_address`, `ip_type`) VALUES ('166.117.0.0/16', 'IPv4');

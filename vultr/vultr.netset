@@ -1,5 +1,5 @@
 # vultr IP ranges - ipset restore format (hash:net)
-# Version: 19 | Generated: 2026-11-11 | Last changed: 2026-11-04
+# Version: 19 | Generated: 2026-11-12 | Last changed: 2026-11-04
 # IPv4: 121 merged subnets, 1044224 unique IPs
 # IPv6: 21 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

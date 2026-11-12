@@ -65,11 +65,6 @@
     "service": "packages"
   },
   {
-    "ip_address": "20.201.28.144/32",
-    "ip_type": "IPv4",
-    "service": "packages"
-  },
-  {
     "ip_address": "20.205.243.164/32",
     "ip_type": "IPv4",
     "service": "packages"

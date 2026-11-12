@@ -1,6 +1,6 @@
 #!/bin/bash
 # Zscaler IP Ranges
-# Updated: 2026-11-11 02:19:28
+# Updated: 2026-11-12 02:21:59
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -53,6 +53,7 @@ ufw allow from 149.24.90.0/23
 ufw allow from 149.24.92.0/24
 ufw allow from 149.117.100.0/24
 ufw allow from 149.117.102.0/24
+ufw allow from 151.152.93.0/24
 ufw allow from 151.152.94.0/23
 ufw allow from 153.69.16.0/24
 ufw allow from 153.69.18.0/24

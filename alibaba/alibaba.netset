@@ -1,6 +1,6 @@
 # alibaba IP ranges - ipset restore format (hash:net)
-# Version: 75 | Generated: 2026-11-11 | Last changed: 2026-11-11
-# IPv4: 308 merged subnets, 15352576 unique IPs
+# Version: 76 | Generated: 2026-11-12 | Last changed: 2026-11-12
+# IPv4: 307 merged subnets, 15352320 unique IPs
 # IPv6: 29 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -252,7 +252,6 @@ add alibaba_v4 155.102.102.0/24
 add alibaba_v4 155.102.105.0/24
 add alibaba_v4 156.227.20.0/24
 add alibaba_v4 156.236.17.0/24
-add alibaba_v4 156.245.1.0/24
 add alibaba_v4 161.117.0.0/16
 add alibaba_v4 163.181.41.0/24
 add alibaba_v4 163.181.208.0/24

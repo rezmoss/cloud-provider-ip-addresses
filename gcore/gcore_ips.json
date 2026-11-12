@@ -3368,10 +3368,6 @@
     "ip_type": "IPv4"
   },
   {
-    "ip_address": "185.101.136.24/32",
-    "ip_type": "IPv4"
-  },
-  {
     "ip_address": "185.101.136.25/32",
     "ip_type": "IPv4"
   },

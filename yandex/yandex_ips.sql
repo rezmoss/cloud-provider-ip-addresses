@@ -152,6 +152,7 @@ INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:8000::/34',
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:8000::/35', 'IPv6');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:8005::/48', 'IPv6');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:8006::/48', 'IPv6');
+INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:80b0::/48', 'IPv6');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:a000::/35', 'IPv6');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:a005::/48', 'IPv6');
 INSERT INTO `yandex_ips` (`ip_address`, `ip_type`) VALUES ('2a02:6bf:a008::/48', 'IPv6');

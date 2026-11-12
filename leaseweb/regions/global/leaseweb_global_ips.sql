@@ -1794,6 +1794,7 @@ INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a06:1184:a
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a06:1780::/32', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a06:35c0:2123::/48', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a06:35c2::/32', 'IPv6');
+INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a06:3600::/29', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a06:3bc0::/29', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a06:a5c0::/29', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a06:ab00::/32', 'IPv6');

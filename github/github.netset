@@ -1,6 +1,6 @@
 # github IP ranges - ipset restore format (hash:net)
-# Version: 25 | Generated: 2026-11-11 | Last changed: 2026-11-10
-# IPv4: 3940 merged subnets, 28659005 unique IPs
+# Version: 26 | Generated: 2026-11-12 | Last changed: 2026-11-12
+# IPv4: 3945 merged subnets, 28659144 unique IPs
 # IPv6: 2547 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -16,6 +16,7 @@ add github_v4 4.152.0.0/14
 add github_v4 4.156.0.0/15
 add github_v4 4.159.108.160/28
 add github_v4 4.159.197.192/28
+add github_v4 4.163.8.144/28
 add github_v4 4.172.0.0/14
 add github_v4 4.180.0.0/16
 add github_v4 4.186.157.192/28
@@ -31,6 +32,7 @@ add github_v4 4.225.11.196/32
 add github_v4 4.225.11.199/32
 add github_v4 4.225.11.200/31
 add github_v4 4.225.187.240/28
+add github_v4 4.225.189.240/28
 add github_v4 4.227.0.0/16
 add github_v4 4.228.31.144/31
 add github_v4 4.228.31.149/32
@@ -312,6 +314,7 @@ add github_v4 18.233.87.154/32
 add github_v4 20.1.128.0/17
 add github_v4 20.3.0.0/16
 add github_v4 20.4.0.0/16
+add github_v4 20.6.7.16/28
 add github_v4 20.7.0.0/16
 add github_v4 20.8.0.0/15
 add github_v4 20.10.0.0/16
@@ -945,10 +948,6 @@ add github_v4 20.200.245.241/32
 add github_v4 20.200.245.244/31
 add github_v4 20.200.245.247/32
 add github_v4 20.200.245.248/31
-add github_v4 20.201.28.144/32
-add github_v4 20.201.28.148/32
-add github_v4 20.201.28.151/32
-add github_v4 20.201.28.152/31
 add github_v4 20.201.135.0/24
 add github_v4 20.201.136.0/24
 add github_v4 20.201.147.0/24
@@ -1016,6 +1015,7 @@ add github_v4 20.207.73.82/31
 add github_v4 20.207.73.85/32
 add github_v4 20.207.73.86/32
 add github_v4 20.207.73.89/32
+add github_v4 20.208.89.80/28
 add github_v4 20.209.0.0/23
 add github_v4 20.209.4.0/23
 add github_v4 20.209.10.0/23
@@ -1089,6 +1089,7 @@ add github_v4 20.241.0.0/16
 add github_v4 20.242.0.0/16
 add github_v4 20.245.0.0/16
 add github_v4 20.246.0.0/16
+add github_v4 20.247.166.64/28
 add github_v4 20.250.119.64/32
 add github_v4 20.250.119.67/32
 add github_v4 20.250.119.68/32
@@ -3056,6 +3057,7 @@ add github_v4 57.151.128.0/19
 add github_v4 57.152.0.0/17
 add github_v4 57.153.0.0/16
 add github_v4 57.154.0.0/16
+add github_v4 57.155.223.240/28
 add github_v4 57.157.0.0/25
 add github_v4 57.157.0.128/26
 add github_v4 57.157.0.192/27
@@ -3413,6 +3415,7 @@ add github_v4 74.155.0.0/16
 add github_v4 74.157.0.0/16
 add github_v4 74.158.128.0/17
 add github_v4 74.159.0.0/16
+add github_v4 74.161.79.192/28
 add github_v4 74.178.0.0/15
 add github_v4 74.234.0.0/15
 add github_v4 74.249.0.0/16
@@ -3836,6 +3839,8 @@ add github_v4 168.63.88.0/23
 add github_v4 168.63.92.0/22
 add github_v4 168.63.96.0/19
 add github_v4 172.129.128.0/17
+add github_v4 172.130.18.192/28
+add github_v4 172.130.45.112/28
 add github_v4 172.130.153.16/28
 add github_v4 172.130.201.80/28
 add github_v4 172.131.0.0/16

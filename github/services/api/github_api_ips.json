@@ -60,11 +60,6 @@
     "service": "api"
   },
   {
-    "ip_address": "20.201.28.148/32",
-    "ip_type": "IPv4",
-    "service": "api"
-  },
-  {
     "ip_address": "20.205.243.168/32",
     "ip_type": "IPv4",
     "service": "api"

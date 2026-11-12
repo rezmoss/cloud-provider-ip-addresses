@@ -19,7 +19,6 @@ INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.87.245.1
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.175.192.150/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.199.39.231/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.200.245.241/32', 'IPv4');
-INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.201.28.144/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.205.243.164/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.207.73.86/32', 'IPv4');
 INSERT INTO `github_packages_ips` (`ip_address`, `ip_type`) VALUES ('20.217.135.1/32', 'IPv4');

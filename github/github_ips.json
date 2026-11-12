@@ -130,6 +130,21 @@
     "service": "web"
   },
   {
+    "ip_address": "4.163.8.144/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "4.163.8.144/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "4.163.8.144/28",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
     "ip_address": "4.172.0.0/15",
     "ip_type": "IPv4",
     "service": "actions"
@@ -237,7 +252,17 @@
   {
     "ip_address": "4.207.215.240/28",
     "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "4.207.215.240/28",
+    "ip_type": "IPv4",
     "service": "packages"
+  },
+  {
+    "ip_address": "4.207.215.240/28",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "4.208.0.0/15",
@@ -283,6 +308,36 @@
     "ip_address": "4.208.26.201/32",
     "ip_type": "IPv4",
     "service": "copilot"
+  },
+  {
+    "ip_address": "4.209.111.112/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "4.209.111.112/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "4.209.111.112/28",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
+    "ip_address": "4.209.112.0/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "4.209.112.0/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "4.209.112.0/28",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "4.210.0.0/17",
@@ -346,6 +401,21 @@
   },
   {
     "ip_address": "4.225.187.240/28",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
+    "ip_address": "4.225.189.240/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "4.225.189.240/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "4.225.189.240/28",
     "ip_type": "IPv4",
     "service": "web"
   },
@@ -2473,6 +2543,21 @@
     "ip_address": "20.4.0.0/16",
     "ip_type": "IPv4",
     "service": "actions"
+  },
+  {
+    "ip_address": "20.6.7.16/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.6.7.16/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "20.6.7.16/28",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "20.7.0.0/16",
@@ -7945,36 +8030,6 @@
     "service": "copilot"
   },
   {
-    "ip_address": "20.201.28.144/32",
-    "ip_type": "IPv4",
-    "service": "packages"
-  },
-  {
-    "ip_address": "20.201.28.148/32",
-    "ip_type": "IPv4",
-    "service": "api"
-  },
-  {
-    "ip_address": "20.201.28.151/32",
-    "ip_type": "IPv4",
-    "service": "git"
-  },
-  {
-    "ip_address": "20.201.28.151/32",
-    "ip_type": "IPv4",
-    "service": "web"
-  },
-  {
-    "ip_address": "20.201.28.152/32",
-    "ip_type": "IPv4",
-    "service": "git"
-  },
-  {
-    "ip_address": "20.201.28.153/32",
-    "ip_type": "IPv4",
-    "service": "copilot"
-  },
-  {
     "ip_address": "20.201.135.0/24",
     "ip_type": "IPv4",
     "service": "actions"
@@ -8635,6 +8690,21 @@
     "service": "copilot"
   },
   {
+    "ip_address": "20.208.89.80/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.208.89.80/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "20.208.89.80/28",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
     "ip_address": "20.209.0.0/23",
     "ip_type": "IPv4",
     "service": "actions"
@@ -9193,6 +9263,21 @@
     "ip_address": "20.246.128.0/17",
     "ip_type": "IPv4",
     "service": "actions"
+  },
+  {
+    "ip_address": "20.247.166.64/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.247.166.64/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "20.247.166.64/28",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "20.250.119.64/32",
@@ -23405,6 +23490,21 @@
     "service": "actions"
   },
   {
+    "ip_address": "57.155.223.240/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "57.155.223.240/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "57.155.223.240/28",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
     "ip_address": "57.157.0.0/25",
     "ip_type": "IPv4",
     "service": "actions"
@@ -25563,6 +25663,21 @@
     "ip_address": "74.159.128.0/17",
     "ip_type": "IPv4",
     "service": "actions"
+  },
+  {
+    "ip_address": "74.161.79.192/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "74.161.79.192/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "74.161.79.192/28",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "74.178.0.0/17",
@@ -28690,6 +28805,36 @@
     "service": "actions"
   },
   {
+    "ip_address": "172.130.18.192/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "172.130.18.192/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "172.130.18.192/28",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
+    "ip_address": "172.130.45.112/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "172.130.45.112/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "172.130.45.112/28",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
     "ip_address": "172.130.153.16/28",
     "ip_type": "IPv4",
     "service": "copilot"
@@ -28743,6 +28888,21 @@
     "ip_address": "172.139.0.0/17",
     "ip_type": "IPv4",
     "service": "actions"
+  },
+  {
+    "ip_address": "172.139.64.112/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "172.139.64.112/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "172.139.64.112/28",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "172.139.128.0/17",

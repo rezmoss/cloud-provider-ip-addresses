@@ -11,6 +11,7 @@ ip_address,ip_type,service,region
 45.8.93.0/24,IPv4,play2go,se
 48.102.161.0/24,IPv4,play2go,se
 48.102.166.0/24,IPv4,play2go,se
+48.102.172.0/24,IPv4,play2go,se
 87.121.105.0/24,IPv4,play2go,se
 144.31.230.0/24,IPv4,play2go,se
 144.31.235.0/24,IPv4,play2go,se

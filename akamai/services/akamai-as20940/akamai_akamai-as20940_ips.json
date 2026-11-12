@@ -6222,6 +6222,12 @@
     "region": "global"
   },
   {
+    "ip_address": "23.43.164.0/24",
+    "ip_type": "IPv4",
+    "service": "akamai-as20940",
+    "region": "global"
+  },
+  {
     "ip_address": "23.43.165.0/24",
     "ip_type": "IPv4",
     "service": "akamai-as20940",
