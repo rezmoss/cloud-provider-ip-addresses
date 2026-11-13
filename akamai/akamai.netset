@@ -1,7 +1,7 @@
 # akamai IP ranges - ipset restore format (hash:net)
-# Version: 97 | Generated: 2026-11-12 | Last changed: 2026-11-12
+# Version: 98 | Generated: 2026-11-13 | Last changed: 2026-11-13
 # IPv4: 347 merged subnets, 14649296 unique IPs
-# IPv6: 242 merged subnets
+# IPv6: 241 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < akamai.netset
@@ -373,7 +373,6 @@ add akamai_v6 2001:668:108:400::/56
 add akamai_v6 2001:668:108:6000::/64
 add akamai_v6 2001:c38:500a::/48
 add akamai_v6 2001:df4:4c40::/48
-add akamai_v6 2001:41a8:806:200::/56
 add akamai_v6 2001:41a8:807:100::/56
 add akamai_v6 2001:4450:40::/48
 add akamai_v6 2001:4457:ff0::/48

@@ -2098,6 +2098,8 @@ INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:f40:fffe
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:f40:fffe::/48', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1a2f::/60', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1a2f::/60', 'IPv6');
+INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1a2f:340::/60', 'IPv6');
+INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1a2f:340::/60', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1a4f::/60', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1a4f::/60', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2606:7b40:1a4f:340::/60', 'IPv6');

@@ -420,6 +420,12 @@
     "region": "global"
   },
   {
+    "ip_address": "38.4.232.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "40.27.29.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",

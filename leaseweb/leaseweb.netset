@@ -1,6 +1,6 @@
 # leaseweb IP ranges - ipset restore format (hash:net)
-# Version: 79 | Generated: 2026-11-12 | Last changed: 2026-11-12
-# IPv4: 1134 merged subnets, 2343680 unique IPs
+# Version: 80 | Generated: 2026-11-13 | Last changed: 2026-11-13
+# IPv4: 1132 merged subnets, 2342912 unique IPs
 # IPv6: 320 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -241,7 +241,6 @@ add leaseweb_v4 45.142.116.0/22
 add leaseweb_v4 45.145.15.0/24
 add leaseweb_v4 45.145.57.0/24
 add leaseweb_v4 45.145.58.0/24
-add leaseweb_v4 45.146.89.0/24
 add leaseweb_v4 45.146.180.0/24
 add leaseweb_v4 45.146.182.0/23
 add leaseweb_v4 45.146.220.0/24
@@ -252,7 +251,7 @@ add leaseweb_v4 45.147.100.0/22
 add leaseweb_v4 45.147.180.0/22
 add leaseweb_v4 45.148.7.0/24
 add leaseweb_v4 45.151.103.0/24
-add leaseweb_v4 45.151.104.0/23
+add leaseweb_v4 45.151.105.0/24
 add leaseweb_v4 45.151.107.0/24
 add leaseweb_v4 45.152.197.0/24
 add leaseweb_v4 45.152.199.0/24
@@ -646,7 +645,6 @@ add leaseweb_v4 139.28.227.0/24
 add leaseweb_v4 140.233.166.0/24
 add leaseweb_v4 141.11.118.0/24
 add leaseweb_v4 141.11.232.0/23
-add leaseweb_v4 141.193.20.0/24
 add leaseweb_v4 141.193.22.0/24
 add leaseweb_v4 141.193.99.0/24
 add leaseweb_v4 142.91.0.0/21
@@ -740,6 +738,7 @@ add leaseweb_v4 152.163.104.0/22
 add leaseweb_v4 152.163.112.0/22
 add leaseweb_v4 152.163.120.0/21
 add leaseweb_v4 152.163.128.0/17
+add leaseweb_v4 153.79.64.0/24
 add leaseweb_v4 154.17.148.0/24
 add leaseweb_v4 154.17.163.0/24
 add leaseweb_v4 154.27.210.0/23
@@ -888,7 +887,6 @@ add leaseweb_v4 179.61.166.0/24
 add leaseweb_v4 179.61.245.0/24
 add leaseweb_v4 180.210.220.0/24
 add leaseweb_v4 184.107.0.0/16
-add leaseweb_v4 185.9.52.0/24
 add leaseweb_v4 185.14.48.0/22
 add leaseweb_v4 185.17.32.0/22
 add leaseweb_v4 185.17.120.0/22

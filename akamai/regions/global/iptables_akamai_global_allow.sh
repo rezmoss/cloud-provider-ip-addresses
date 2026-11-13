@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-11-12 02:21:16
+# Updated: 2026-11-13 02:19:47
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -370,7 +370,6 @@ ip6tables -A INPUT -s 2001:668:108:400::/56 -j ACCEPT
 ip6tables -A INPUT -s 2001:668:108:6000::/64 -j ACCEPT
 ip6tables -A INPUT -s 2001:c38:500a::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:df4:4c40::/48 -j ACCEPT
-ip6tables -A INPUT -s 2001:41a8:806:200::/56 -j ACCEPT
 ip6tables -A INPUT -s 2001:41a8:807:100::/56 -j ACCEPT
 ip6tables -A INPUT -s 2001:4450:40::/48 -j ACCEPT
 ip6tables -A INPUT -s 2001:4457:ff0::/48 -j ACCEPT

@@ -10896,12 +10896,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2001:41a8:806:200::/56",
-    "ip_type": "IPv6",
-    "service": "akamai-as16625",
-    "region": "global"
-  },
-  {
     "ip_address": "2001:41a8:807:100::/56",
     "ip_type": "IPv6",
     "service": "akamai-as16625",
