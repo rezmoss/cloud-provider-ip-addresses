@@ -660,12 +660,6 @@
     "region": "global"
   },
   {
-    "ip_address": "80.238.168.0/24",
-    "ip_type": "IPv4",
-    "service": "huawei-as136907",
-    "region": "global"
-  },
-  {
     "ip_address": "80.238.169.0/24",
     "ip_type": "IPv4",
     "service": "huawei-as136907",

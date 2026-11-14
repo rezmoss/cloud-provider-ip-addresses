@@ -1,6 +1,6 @@
 #!/bin/bash
 # Aws IP Ranges
-# Updated: 2026-11-13 02:15:11
+# Updated: 2026-11-14 02:16:16
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -444,11 +444,8 @@ ufw allow from 16.12.88.0/21
 ufw allow from 16.12.96.0/20
 ufw allow from 16.12.112.0/21
 ufw allow from 16.12.120.0/22
-ufw allow from 16.15.0.0/18
-ufw allow from 16.15.64.0/19
-ufw allow from 16.15.96.0/20
-ufw allow from 16.15.112.0/21
-ufw allow from 16.15.120.0/22
+ufw allow from 16.15.0.0/17
+ufw allow from 16.15.128.0/21
 ufw allow from 16.15.156.0/22
 ufw allow from 16.15.160.0/19
 ufw allow from 16.15.192.0/18
@@ -1333,9 +1330,8 @@ ufw allow from 71.152.0.0/17
 ufw allow from 72.21.192.0/19
 ufw allow from 72.41.0.0/20
 ufw allow from 72.44.32.0/19
-ufw allow from 72.150.0.0/20
-ufw allow from 72.150.16.0/22
-ufw allow from 72.150.20.0/24
+ufw allow from 72.150.20.0/23
+ufw allow from 72.150.22.0/24
 ufw allow from 72.242.0.0/15
 ufw allow from 75.2.0.0/17
 ufw allow from 75.2.128.0/18
@@ -3213,8 +3209,6 @@ ufw allow from 2600:f0f0:1100::/40
 ufw allow from 2600:f0f0:4000::/48
 ufw allow from 2600:f0f0:4100::/40
 ufw allow from 2600:f0f0:4200::/40
-ufw allow from 2600:f0f0:4300::/43
-ufw allow from 2600:f0f0:4320::/45
 ufw allow from 2600:f0f0:5400::/45
 ufw allow from 2600:f0f0:5408::/47
 ufw allow from 2600:f0f0:540a::/48
@@ -3243,6 +3237,7 @@ ufw allow from 2600:f0f0:c004::/47
 ufw allow from 2600:f0f0:c040::/45
 ufw allow from 2600:f0f0:c048::/47
 ufw allow from 2600:f0f0:c100::/48
+ufw allow from 2600:f0f0:c102::/48
 ufw allow from 2600:f0f0:c106::/47
 ufw allow from 2600:f0f0:c109::/48
 ufw allow from 2600:f0f0:c10a::/47
@@ -3266,7 +3261,6 @@ ufw allow from 2600:f0f0:c143::/48
 ufw allow from 2600:f0f0:c144::/46
 ufw allow from 2600:f0f0:c148::/46
 ufw allow from 2600:f0f0:c14c::/47
-ufw allow from 2600:f0f0:c14e::/48
 ufw allow from 2600:f0f1:10::/45
 ufw allow from 2600:f0f1:18::/46
 ufw allow from 2600:f0f1:80::/44

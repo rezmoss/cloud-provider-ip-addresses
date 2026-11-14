@@ -1908,6 +1908,18 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "72.150.21.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "GLOBAL"
+  },
+  {
+    "ip_address": "72.150.21.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "GLOBAL"
+  },
+  {
     "ip_address": "75.2.0.0/17",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -1,7 +1,7 @@
 # zscaler IP ranges - ipset restore format (hash:net)
-# Version: 52 | Generated: 2026-11-13 | Last changed: 2026-11-12
-# IPv4: 142 merged subnets, 821760 unique IPs
-# IPv6: 39 merged subnets
+# Version: 53 | Generated: 2026-11-14 | Last changed: 2026-11-14
+# IPv4: 141 merged subnets, 821248 unique IPs
+# IPv6: 37 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < zscaler.netset
@@ -142,8 +142,7 @@ add zscaler_v4 168.246.8.0/23
 add zscaler_v4 170.85.0.0/16
 add zscaler_v4 175.107.128.0/18
 add zscaler_v4 198.14.64.0/18
-add zscaler_v4 199.168.148.0/23
-add zscaler_v4 199.168.150.0/24
+add zscaler_v4 199.168.148.0/24
 add zscaler_v4 205.210.213.0/24
 add zscaler_v4 205.210.214.0/24
 add zscaler_v4 205.220.0.0/17
@@ -182,8 +181,6 @@ add zscaler_v6 2605:4300:3d00::/40
 add zscaler_v6 2605:4300:e200::/39
 add zscaler_v6 2605:4300:e400::/39
 add zscaler_v6 2605:4300:e700::/40
-add zscaler_v6 2605:4300:fe00::/47
-add zscaler_v6 2605:4300:ff00::/40
 add zscaler_v6 2a03:eec0:3210::/46
 add zscaler_v6 2a03:eec0:3216::/47
 add zscaler_v6 2a03:eec0:3220::/46

@@ -1,6 +1,6 @@
 # Zscaler IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-11-13** · Total CIDRs: **1,048** · IPv4: **963** · IPv6: **85** · Services: **4** · Regions: **1**
+> Last updated: **2026-11-14** · Total CIDRs: **1,043** · IPv4: **962** · IPv6: **81** · Services: **3** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Zscaler**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -44,7 +44,6 @@ This provider ships per-service files under [`./services/`](./services/). Exampl
 - [`./services/zscaler-as22616/`](./services/zscaler-as22616/)
 - [`./services/zscaler-as53444/`](./services/zscaler-as53444/)
 - [`./services/zscaler-as53813/`](./services/zscaler-as53813/)
-- [`./services/zscaler-as62907/`](./services/zscaler-as62907/)
 
 ## Why these ranges change
 

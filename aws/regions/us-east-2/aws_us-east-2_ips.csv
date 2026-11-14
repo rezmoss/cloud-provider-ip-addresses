@@ -282,6 +282,15 @@ ip_address,ip_type,service,region
 16.15.28.0/22,IPv4,AMAZON,us-east-2
 16.15.28.0/22,IPv4,EC2,us-east-2
 16.15.28.0/22,IPv4,S3,us-east-2
+16.15.124.0/22,IPv4,AMAZON,us-east-2
+16.15.124.0/22,IPv4,EC2,us-east-2
+16.15.124.0/22,IPv4,S3,us-east-2
+16.15.128.0/22,IPv4,AMAZON,us-east-2
+16.15.128.0/22,IPv4,EC2,us-east-2
+16.15.128.0/22,IPv4,S3,us-east-2
+16.15.132.0/22,IPv4,AMAZON,us-east-2
+16.15.132.0/22,IPv4,EC2,us-east-2
+16.15.132.0/22,IPv4,S3,us-east-2
 16.58.0.0/16,IPv4,AMAZON,us-east-2
 16.58.0.0/16,IPv4,EC2,us-east-2
 16.58.2.0/23,IPv4,AMAZON,us-east-2

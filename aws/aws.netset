@@ -1,7 +1,7 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 119 | Generated: 2026-11-13 | Last changed: 2026-11-13
-# IPv4: 1755 merged subnets, 102098091 unique IPs
-# IPv6: 2365 merged subnets
+# Version: 120 | Generated: 2026-11-14 | Last changed: 2026-11-14
+# IPv4: 1751 merged subnets, 102096555 unique IPs
+# IPv6: 2363 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < aws.netset
@@ -445,11 +445,8 @@ add aws_v4 16.12.88.0/21
 add aws_v4 16.12.96.0/20
 add aws_v4 16.12.112.0/21
 add aws_v4 16.12.120.0/22
-add aws_v4 16.15.0.0/18
-add aws_v4 16.15.64.0/19
-add aws_v4 16.15.96.0/20
-add aws_v4 16.15.112.0/21
-add aws_v4 16.15.120.0/22
+add aws_v4 16.15.0.0/17
+add aws_v4 16.15.128.0/21
 add aws_v4 16.15.156.0/22
 add aws_v4 16.15.160.0/19
 add aws_v4 16.15.192.0/18
@@ -1334,9 +1331,8 @@ add aws_v4 71.152.0.0/17
 add aws_v4 72.21.192.0/19
 add aws_v4 72.41.0.0/20
 add aws_v4 72.44.32.0/19
-add aws_v4 72.150.0.0/20
-add aws_v4 72.150.16.0/22
-add aws_v4 72.150.20.0/24
+add aws_v4 72.150.20.0/23
+add aws_v4 72.150.22.0/24
 add aws_v4 72.242.0.0/15
 add aws_v4 75.2.0.0/17
 add aws_v4 75.2.128.0/18
@@ -3216,8 +3212,6 @@ add aws_v6 2600:f0f0:1100::/40
 add aws_v6 2600:f0f0:4000::/48
 add aws_v6 2600:f0f0:4100::/40
 add aws_v6 2600:f0f0:4200::/40
-add aws_v6 2600:f0f0:4300::/43
-add aws_v6 2600:f0f0:4320::/45
 add aws_v6 2600:f0f0:5400::/45
 add aws_v6 2600:f0f0:5408::/47
 add aws_v6 2600:f0f0:540a::/48
@@ -3246,6 +3240,7 @@ add aws_v6 2600:f0f0:c004::/47
 add aws_v6 2600:f0f0:c040::/45
 add aws_v6 2600:f0f0:c048::/47
 add aws_v6 2600:f0f0:c100::/48
+add aws_v6 2600:f0f0:c102::/48
 add aws_v6 2600:f0f0:c106::/47
 add aws_v6 2600:f0f0:c109::/48
 add aws_v6 2600:f0f0:c10a::/47
@@ -3269,7 +3264,6 @@ add aws_v6 2600:f0f0:c143::/48
 add aws_v6 2600:f0f0:c144::/46
 add aws_v6 2600:f0f0:c148::/46
 add aws_v6 2600:f0f0:c14c::/47
-add aws_v6 2600:f0f0:c14e::/48
 add aws_v6 2600:f0f1:10::/45
 add aws_v6 2600:f0f1:18::/46
 add aws_v6 2600:f0f1:80::/44

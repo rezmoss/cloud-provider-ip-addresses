@@ -118,7 +118,6 @@ INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('80.238.164.0/22', 'I
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('80.238.164.0/24', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('80.238.165.0/24', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('80.238.168.0/22', 'IPv4');
-INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('80.238.168.0/24', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('80.238.169.0/24', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('80.238.170.0/24', 'IPv4');
 INSERT INTO `huawei_ips` (`ip_address`, `ip_type`) VALUES ('80.238.171.0/24', 'IPv4');

@@ -453,8 +453,6 @@ ip_address,ip_type,service,region
 69.107.11.160/29,IPv4,AMAZON,eu-central-1
 69.107.13.32/29,IPv4,AMAZON,eu-central-1
 69.107.13.40/29,IPv4,AMAZON,eu-central-1
-72.150.8.0/23,IPv4,AMAZON,eu-central-1
-72.150.8.0/23,IPv4,EC2,eu-central-1
 75.45.128.0/18,IPv4,AMAZON,eu-central-1
 75.45.128.0/18,IPv4,EC2,eu-central-1
 83.119.128.0/18,IPv4,AMAZON,eu-central-1
@@ -647,8 +645,6 @@ ip_address,ip_type,service,region
 2600:f0f0:1111::/48,IPv6,IVS_REALTIME,eu-central-1
 2600:f0f0:410f::/48,IPv6,AMAZON,eu-central-1
 2600:f0f0:410f::/48,IPv6,EC2,eu-central-1
-2600:f0f0:4310::/46,IPv6,AMAZON,eu-central-1
-2600:f0f0:4310::/46,IPv6,EC2,eu-central-1
 2600:f0f0:5524::/48,IPv6,AMAZON,eu-central-1
 2600:f0f0:5524::/48,IPv6,EC2,eu-central-1
 2600:f0f0:5524::/48,IPv6,IVS_REALTIME,eu-central-1

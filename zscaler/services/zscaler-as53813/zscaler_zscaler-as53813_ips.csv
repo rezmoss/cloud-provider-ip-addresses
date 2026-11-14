@@ -374,6 +374,7 @@ ip_address,ip_type,service,region
 209.55.212.0/24,IPv4,zscaler-as53813,global
 209.55.213.0/24,IPv4,zscaler-as53813,global
 209.55.219.0/24,IPv4,zscaler-as53813,global
+220.42.18.0/23,IPv4,zscaler-as53813,global
 2400:7aa0:1200::/40,IPv6,zscaler-as53813,global
 2400:7aa0:1300::/40,IPv6,zscaler-as53813,global
 2400:7aa0:1400::/40,IPv6,zscaler-as53813,global

@@ -1,23 +1,23 @@
 {
   "provider": "zscaler",
-  "version": 52,
-  "generated_date": "2026-11-13",
-  "last_changed_date": "2026-11-12",
+  "version": 53,
+  "generated_date": "2026-11-14",
+  "last_changed_date": "2026-11-14",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 963,
-    "merged_cidrs": 142,
-    "addresses": 821760
+    "cidrs": 962,
+    "merged_cidrs": 141,
+    "addresses": 821248
   },
   "ipv6": {
-    "cidrs": 85,
-    "merged_cidrs": 39,
-    "addresses": 19831219144958376981880111104
+    "cidrs": 81,
+    "merged_cidrs": 37,
+    "addresses": 19519316283497802654805917696
   },
-  "total_entries": 1048,
-  "content_sha256": "3d7d34dce07813a38b844f76de322a31939e34b1690f358d65d540e012dc3937",
+  "total_entries": 1043,
+  "content_sha256": "7559f186771c15dcedca73e94c7726b13b793e25873f9ffaac106e9d007c79ae",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }
