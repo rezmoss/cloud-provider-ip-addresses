@@ -498,6 +498,18 @@
     "region": "global"
   },
   {
+    "ip_address": "45.94.64.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.94.66.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
     "ip_address": "45.94.209.0/24",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
@@ -547,6 +559,18 @@
   },
   {
     "ip_address": "45.140.185.0/24",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.140.200.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.140.202.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
     "region": "global"
@@ -2238,6 +2262,18 @@
     "region": "global"
   },
   {
+    "ip_address": "155.133.196.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "155.133.198.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
     "ip_address": "156.67.24.0/22",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
@@ -2251,6 +2287,18 @@
   },
   {
     "ip_address": "156.67.80.0/22",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "156.67.100.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "156.67.102.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
     "region": "global"
@@ -2307,6 +2355,18 @@
     "ip_address": "157.173.192.0/20",
     "ip_type": "IPv4",
     "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
+    "ip_address": "158.220.72.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "158.220.74.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
     "region": "global"
   },
   {
@@ -3246,6 +3306,18 @@
     "region": "global"
   },
   {
+    "ip_address": "185.133.48.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.133.50.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
     "ip_address": "185.133.248.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
@@ -3288,6 +3360,18 @@
     "region": "global"
   },
   {
+    "ip_address": "185.176.228.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.176.230.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
     "ip_address": "185.176.252.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
@@ -3306,6 +3390,18 @@
     "region": "global"
   },
   {
+    "ip_address": "185.181.120.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.181.122.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
     "ip_address": "185.182.8.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
@@ -3319,6 +3415,18 @@
   },
   {
     "ip_address": "185.182.186.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.183.52.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.183.54.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
     "region": "global"
@@ -3385,6 +3493,18 @@
   },
   {
     "ip_address": "185.188.250.0/24",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.189.0.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as51167",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.189.2.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as51167",
     "region": "global"

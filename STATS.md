@@ -1,15 +1,15 @@
 # IP Range Statistics
 
-Generated: 2026-11-14T02:23:46.897941
+Generated: 2026-11-15T02:23:36.370011
 
-Total IPv4 addresses: 473,148,348
-Total IPv6 addresses: 636,330,427,409,269,897,680,084,312,705,029
+Total IPv4 addresses: 473,148,604
+Total IPv6 addresses: 636,330,426,200,344,078,065,455,137,998,853
 IPv4 space coverage: 11.0163%
 
 | Provider | IPv4 CIDRs | IPv6 CIDRs | Total CIDRs | IPv4 Addresses | Services | Regions |
 |----------|-----------|-----------|------------|---------------|----------|--------|
 | akamai | 7,768 | 3,029 | 10,797 | 21,608,656 | 19 | 1 |
-| alibaba | 2,236 | 272 | 2,508 | 32,166,912 | 3 | 1 |
+| alibaba | 2,197 | 272 | 2,469 | 32,156,928 | 3 | 1 |
 | amazonbot | 3,131 | 0 | 3,131 | 3,131 | 3 | 0 |
 | apple_private_relay | 41,814 | 243,361 | 285,175 | 105,727 | 0 | 1284 |
 | applebot | 24 | 0 | 24 | 4,752 | 1 | 0 |
@@ -25,7 +25,7 @@ IPv4 space coverage: 11.0163%
 | claudebot | 14 | 0 | 14 | 1,037 | 1 | 0 |
 | cloudflare | 15 | 7 | 22 | 1,524,736 | 0 | 0 |
 | commoncrawl | 4 | 1 | 5 | 28 | 1 | 0 |
-| contabo | 768 | 14 | 782 | 781,056 | 3 | 1 |
+| contabo | 788 | 14 | 802 | 791,296 | 3 | 1 |
 | datadog | 154 | 10 | 164 | 38,362 | 11 | 0 |
 | digitalocean | 1,094 | 149 | 1,243 | 3,159,424 | 0 | 14 |
 | discord | 20 | 0 | 20 | 20 | 2 | 0 |
@@ -65,7 +65,7 @@ IPv4 space coverage: 11.0163%
 | sucuri | 18 | 14 | 32 | 6,144 | 1 | 1 |
 | teamcity | 11 | 0 | 11 | 11 | 2 | 1 |
 | telegram | 9 | 5 | 14 | 11,008 | 0 | 0 |
-| tencent | 3,347 | 73 | 3,420 | 14,992,384 | 2 | 1 |
+| tencent | 3,347 | 72 | 3,419 | 14,992,384 | 2 | 1 |
 | tor | 1,258 | 0 | 1,258 | 1,258 | 1 | 1 |
 | upcloud | 91 | 21 | 112 | 104,448 | 2 | 1 |
 | uptimerobot | 103 | 103 | 206 | 103 | 1 | 4 |

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-14T02:23:46.897941",
+  "generated": "2026-11-15T02:23:36.370011",
   "provider_count": 67,
-  "total_ipv4_addresses": 473148348,
-  "total_ipv6_addresses": 636330427409269897680084312705029,
+  "total_ipv4_addresses": 473148604,
+  "total_ipv6_addresses": 636330426200344078065455137998853,
   "ipv4_space_coverage_pct": 11.0163,
   "providers": {
     "cloudflare": {
@@ -285,20 +285,20 @@
       "regions": 1
     },
     "alibaba": {
-      "ipv4_cidrs": 2236,
+      "ipv4_cidrs": 2197,
       "ipv6_cidrs": 272,
-      "total_cidrs": 2508,
-      "ipv4_addresses": 32166912,
+      "total_cidrs": 2469,
+      "ipv4_addresses": 32156928,
       "ipv6_addresses": 88355213953125295766406661406720,
       "services": 3,
       "regions": 1
     },
     "tencent": {
       "ipv4_cidrs": 3347,
-      "ipv6_cidrs": 73,
-      "total_cidrs": 3420,
+      "ipv6_cidrs": 72,
+      "total_cidrs": 3419,
       "ipv4_addresses": 14992384,
-      "ipv6_addresses": 192334053271589428549879070720,
+      "ipv6_addresses": 192332844345769813920704364544,
       "services": 2,
       "regions": 1
     },
@@ -591,10 +591,10 @@
       "regions": 0
     },
     "contabo": {
-      "ipv4_cidrs": 768,
+      "ipv4_cidrs": 788,
       "ipv6_cidrs": 14,
-      "total_cidrs": 782,
-      "ipv4_addresses": 781056,
+      "total_cidrs": 802,
+      "ipv4_addresses": 791296,
       "ipv6_addresses": 1109194275199700726309615304704,
       "services": 3,
       "regions": 1
