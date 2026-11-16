@@ -3858,6 +3858,12 @@
     "region": "global"
   },
   {
+    "ip_address": "185.148.117.0/24",
+    "ip_type": "IPv4",
+    "service": "ovhcloud-as16276",
+    "region": "global"
+  },
+  {
     "ip_address": "185.155.218.0/24",
     "ip_type": "IPv4",
     "service": "ovhcloud-as16276",
