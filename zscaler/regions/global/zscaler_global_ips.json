@@ -5766,6 +5766,12 @@
     "region": "global"
   },
   {
+    "ip_address": "220.42.20.0/23",
+    "ip_type": "IPv4",
+    "service": "zscaler-as22616",
+    "region": "global"
+  },
+  {
     "ip_address": "220.43.0.0/16",
     "ip_type": "IPv4",
     "service": "zscaler-as22616",

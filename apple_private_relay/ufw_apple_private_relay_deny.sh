@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-11-09 02:19:46
+# Updated: 2026-11-17 02:19:10
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1827,42 +1827,18 @@ ufw deny from 104.28.145.2/31
 ufw deny from 104.28.145.4/30
 ufw deny from 104.28.145.8/29
 ufw deny from 104.28.145.16/28
-ufw deny from 104.28.145.32/29
-ufw deny from 104.28.145.40/30
-ufw deny from 104.28.145.44/31
-ufw deny from 104.28.145.46/32
-ufw deny from 104.28.145.48/28
-ufw deny from 104.28.145.64/28
-ufw deny from 104.28.145.80/31
-ufw deny from 104.28.145.83/32
-ufw deny from 104.28.145.84/30
-ufw deny from 104.28.145.88/29
-ufw deny from 104.28.145.96/31
-ufw deny from 104.28.145.98/32
-ufw deny from 104.28.145.104/30
-ufw deny from 104.28.145.108/32
-ufw deny from 104.28.145.114/31
-ufw deny from 104.28.145.116/30
-ufw deny from 104.28.145.120/29
-ufw deny from 104.28.145.128/26
-ufw deny from 104.28.145.192/27
-ufw deny from 104.28.145.224/28
-ufw deny from 104.28.145.240/29
-ufw deny from 104.28.145.248/30
-ufw deny from 104.28.145.252/32
-ufw deny from 104.28.145.254/31
+ufw deny from 104.28.145.32/27
+ufw deny from 104.28.145.64/26
+ufw deny from 104.28.145.128/25
 ufw deny from 104.28.146.1/32
 ufw deny from 104.28.146.2/31
 ufw deny from 104.28.146.4/30
 ufw deny from 104.28.146.8/29
 ufw deny from 104.28.146.16/28
-ufw deny from 104.28.146.32/29
-ufw deny from 104.28.146.40/32
-ufw deny from 104.28.146.42/31
-ufw deny from 104.28.146.45/32
-ufw deny from 104.28.146.46/31
+ufw deny from 104.28.146.32/28
 ufw deny from 104.28.146.48/30
-ufw deny from 104.28.146.52/32
+ufw deny from 104.28.146.52/31
+ufw deny from 104.28.146.54/32
 ufw deny from 104.28.146.63/32
 ufw deny from 104.28.146.64/30
 ufw deny from 104.28.146.69/32
@@ -13983,8 +13959,7 @@ ufw deny from 2a09:bac2:c000::/36
 ufw deny from 2a09:bac2:d000::/38
 ufw deny from 2a09:bac2:d400::/40
 ufw deny from 2a09:bac2:d500::/41
-ufw deny from 2a09:bac2:d580::/44
-ufw deny from 2a09:bac2:d590::/45
+ufw deny from 2a09:bac2:d580::/43
 ufw deny from 2a09:bac3::/35
 ufw deny from 2a09:bac3:2000::/38
 ufw deny from 2a09:bac3:2400::/39
@@ -14025,5 +14000,4 @@ ufw deny from 2a09:bac3:c000::/36
 ufw deny from 2a09:bac3:d000::/38
 ufw deny from 2a09:bac3:d400::/40
 ufw deny from 2a09:bac3:d500::/41
-ufw deny from 2a09:bac3:d580::/44
-ufw deny from 2a09:bac3:d590::/45
+ufw deny from 2a09:bac3:d580::/43

@@ -540,6 +540,56 @@
     "region": "SG"
   },
   {
+    "ip_address": "104.28.145.99/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.100/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.101/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.102/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.103/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.109/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.110/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.111/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.112/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.113/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
     "ip_address": "104.28.147.173/32",
     "ip_type": "IPv4",
     "region": "SG"

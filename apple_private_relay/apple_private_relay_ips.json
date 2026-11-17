@@ -90880,6 +90880,11 @@
     "region": "US-NY"
   },
   {
+    "ip_address": "104.28.145.47/32",
+    "ip_type": "IPv4",
+    "region": "IN-AS"
+  },
+  {
     "ip_address": "104.28.145.48/32",
     "ip_type": "IPv4",
     "region": "GY-DE"
@@ -91050,6 +91055,11 @@
     "region": "US-FL"
   },
   {
+    "ip_address": "104.28.145.82/32",
+    "ip_type": "IPv4",
+    "region": "IN-AS"
+  },
+  {
     "ip_address": "104.28.145.83/32",
     "ip_type": "IPv4",
     "region": "US-GA"
@@ -91130,6 +91140,31 @@
     "region": "US-GA"
   },
   {
+    "ip_address": "104.28.145.99/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.100/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.101/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.102/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.103/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
     "ip_address": "104.28.145.104/32",
     "ip_type": "IPv4",
     "region": "US-GA"
@@ -91153,6 +91188,31 @@
     "ip_address": "104.28.145.108/32",
     "ip_type": "IPv4",
     "region": "US-GA"
+  },
+  {
+    "ip_address": "104.28.145.109/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.110/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.111/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.112/32",
+    "ip_type": "IPv4",
+    "region": "SG"
+  },
+  {
+    "ip_address": "104.28.145.113/32",
+    "ip_type": "IPv4",
+    "region": "SG"
   },
   {
     "ip_address": "104.28.145.114/32",
@@ -91850,6 +91910,11 @@
     "region": "US-VA"
   },
   {
+    "ip_address": "104.28.145.253/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
     "ip_address": "104.28.145.254/32",
     "ip_type": "IPv4",
     "region": "US-DE"
@@ -92060,6 +92125,11 @@
     "region": "GH-AA"
   },
   {
+    "ip_address": "104.28.146.41/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
     "ip_address": "104.28.146.42/32",
     "ip_type": "IPv4",
     "region": "SN-DK"
@@ -92068,6 +92138,11 @@
     "ip_address": "104.28.146.43/32",
     "ip_type": "IPv4",
     "region": "BF-03"
+  },
+  {
+    "ip_address": "104.28.146.44/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
   },
   {
     "ip_address": "104.28.146.45/32",
@@ -92108,6 +92183,16 @@
     "ip_address": "104.28.146.52/32",
     "ip_type": "IPv4",
     "region": "ES"
+  },
+  {
+    "ip_address": "104.28.146.53/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
+  },
+  {
+    "ip_address": "104.28.146.54/32",
+    "ip_type": "IPv4",
+    "region": "US-TX"
   },
   {
     "ip_address": "104.28.146.63/32",
@@ -1391755,6 +1391840,11 @@
     "region": "XK"
   },
   {
+    "ip_address": "2a09:bac2:d598::/45",
+    "ip_type": "IPv6",
+    "region": "IN-AS"
+  },
+  {
     "ip_address": "2a09:bac3::/45",
     "ip_type": "IPv6",
     "region": "AD-07"
@@ -1425873,5 +1425963,10 @@
     "ip_address": "2a09:bac3:d590::/45",
     "ip_type": "IPv6",
     "region": "XK"
+  },
+  {
+    "ip_address": "2a09:bac3:d598::/45",
+    "ip_type": "IPv6",
+    "region": "IN-AS"
   }
 ]

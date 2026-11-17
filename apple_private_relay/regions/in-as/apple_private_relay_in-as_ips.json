@@ -60,6 +60,16 @@
     "region": "IN-AS"
   },
   {
+    "ip_address": "104.28.145.47/32",
+    "ip_type": "IPv4",
+    "region": "IN-AS"
+  },
+  {
+    "ip_address": "104.28.145.82/32",
+    "ip_type": "IPv4",
+    "region": "IN-AS"
+  },
+  {
     "ip_address": "2606:54c0:3b40::/45",
     "ip_type": "IPv6",
     "region": "IN-AS"
@@ -570,6 +580,11 @@
     "region": "IN-AS"
   },
   {
+    "ip_address": "2a09:bac2:d598::/45",
+    "ip_type": "IPv6",
+    "region": "IN-AS"
+  },
+  {
     "ip_address": "2a09:bac3:3b40::/45",
     "ip_type": "IPv6",
     "region": "IN-AS"
@@ -596,6 +611,11 @@
   },
   {
     "ip_address": "2a09:bac3:3b68::/45",
+    "ip_type": "IPv6",
+    "region": "IN-AS"
+  },
+  {
+    "ip_address": "2a09:bac3:d598::/45",
     "ip_type": "IPv6",
     "region": "IN-AS"
   }

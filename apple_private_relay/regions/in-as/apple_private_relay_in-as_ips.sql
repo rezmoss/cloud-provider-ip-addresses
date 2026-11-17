@@ -18,6 +18,8 @@ INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('104.28.118.44/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('104.28.121.43/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('104.28.121.44/32', 'IPv4');
+INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('104.28.145.47/32', 'IPv4');
+INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('104.28.145.82/32', 'IPv4');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3b40::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3b48::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2606:54c0:3b50::/45', 'IPv6');
@@ -120,9 +122,11 @@ INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3b58::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3b60::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:3b68::/45', 'IPv6');
+INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac2:d598::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:3b40::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:3b48::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:3b50::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:3b58::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:3b60::/45', 'IPv6');
 INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:3b68::/45', 'IPv6');
+INSERT INTO `apple_private_relay_in-as_ips` (`ip_address`, `ip_type`) VALUES ('2a09:bac3:d598::/45', 'IPv6');

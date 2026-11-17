@@ -127,6 +127,8 @@ INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.169.
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.170.0/24', 'IPv4');
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.171.0/24', 'IPv4');
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.172.0/24', 'IPv4');
+INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.173.0/24', 'IPv4');
+INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.174.0/24', 'IPv4');
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('64.188.64.0/22', 'IPv4');
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('77.239.125.0/24', 'IPv4');
 INSERT INTO `play2go_play2go_ips` (`ip_address`, `ip_type`) VALUES ('83.143.112.0/24', 'IPv4');
