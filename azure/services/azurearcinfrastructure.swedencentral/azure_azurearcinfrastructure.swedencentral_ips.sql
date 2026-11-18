@@ -11,4 +11,6 @@ INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_
 INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('20.91.152.84/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.75.188/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('51.12.229.232/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('172.135.74.140/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:d::285/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.swedencentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1004:19::3e4/126', 'IPv6');

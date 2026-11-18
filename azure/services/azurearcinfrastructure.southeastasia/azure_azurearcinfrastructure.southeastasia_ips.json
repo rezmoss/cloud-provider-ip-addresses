@@ -18,6 +18,12 @@
     "region": "southeastasia"
   },
   {
+    "ip_address": "4.146.109.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "13.67.15.1/32",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.SoutheastAsia",
@@ -55,6 +61,12 @@
   },
   {
     "ip_address": "2603:1040:5:16::42e/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:24::2e4/126",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.SoutheastAsia",
     "region": "southeastasia"

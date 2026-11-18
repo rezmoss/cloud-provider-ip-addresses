@@ -474,6 +474,12 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "57.163.112.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "104.214.243.32/28",
     "ip_type": "IPv4",
     "service": "Storage.WestEurope",

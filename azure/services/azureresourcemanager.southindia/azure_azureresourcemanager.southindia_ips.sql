@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.southindia_ips` (
 INSERT INTO `azure_azureresourcemanager.southindia_ips` (`ip_address`, `ip_type`) VALUES ('40.78.196.32/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southindia_ips` (`ip_address`, `ip_type`) VALUES ('40.78.198.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southindia_ips` (`ip_address`, `ip_type`) VALUES ('52.172.114.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.southindia_ips` (`ip_address`, `ip_type`) VALUES ('74.224.241.226/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06::6c0/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:6::/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.southindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:c06:800::34/127', 'IPv6');

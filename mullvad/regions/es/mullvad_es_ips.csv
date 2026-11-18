@@ -6,12 +6,8 @@ ip_address,ip_type,service,region
 146.70.74.98/32,IPv4,mullvad-wireguard,es
 185.188.61.195/32,IPv4,mullvad-wireguard,es
 185.188.61.225/32,IPv4,mullvad-wireguard,es
-185.253.99.30/32,IPv4,mullvad-wireguard,es
-185.253.99.98/32,IPv4,mullvad-wireguard,es
 193.19.207.195/32,IPv4,mullvad-wireguard,es
 193.19.207.225/32,IPv4,mullvad-wireguard,es
-2001:ac8:17:20::f001/128,IPv6,mullvad-wireguard,es
-2001:ac8:17:20::f101/128,IPv6,mullvad-wireguard,es
 2001:ac8:23:84::f001/128,IPv6,mullvad-wireguard,es
 2001:ac8:23:85::f001/128,IPv6,mullvad-wireguard,es
 2001:ac8:23:86::f001/128,IPv6,mullvad-wireguard,es

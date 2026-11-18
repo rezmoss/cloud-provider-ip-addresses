@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_norwayw_ips` (
 
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.128.0/20', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.129.64/29', 'IPv4');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.129.96/31', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.136.0/24', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.137.8/29', 'IPv4');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('4.220.138.96/29', 'IPv4');
@@ -358,6 +359,7 @@ INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:402::500/121', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:402::580/122', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:402::600/121', 'IPv6');
+INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f04:800::2/127', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f05::/48', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:f06::/48', 'IPv6');
 INSERT INTO `azure_norwayw_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:900:33::/64', 'IPv6');

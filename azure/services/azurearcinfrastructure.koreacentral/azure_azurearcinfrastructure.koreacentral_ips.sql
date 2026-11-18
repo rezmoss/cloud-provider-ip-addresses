@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.koreacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.230.60.160/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.230.126.26/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.41.67.84/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.41.69.52/30', 'IPv4');
@@ -16,3 +17,4 @@ INSERT INTO `azure_azurearcinfrastructure.koreacentral_ips` (`ip_address`, `ip_t
 INSERT INTO `azure_azurearcinfrastructure.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.214.135.224/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.231.23.10/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:c::414/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.koreacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:f05:15::21c/127', 'IPv6');

@@ -72,6 +72,12 @@
     "region": "norwaye"
   },
   {
+    "ip_address": "4.177.48.38/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "4.177.48.40/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.NorwayEast",
@@ -171,6 +177,12 @@
     "ip_address": "4.219.29.184/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "4.219.40.40/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorwayEast",
     "region": "norwaye"
   },
   {
@@ -2754,6 +2766,12 @@
     "region": "norwaye"
   },
   {
+    "ip_address": "2603:1020:e04:11::5e/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NorwayEast",
+    "region": "norwaye"
+  },
+  {
     "ip_address": "2603:1020:e04:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.NorwayEast",
@@ -3129,6 +3147,12 @@
     "ip_address": "2603:1020:e04:c02::400/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.NorwayEast",
+    "region": "norwaye"
+  },
+  {
+    "ip_address": "2603:1020:e04:1000::2/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NorwayEast",
     "region": "norwaye"
   },
   {

@@ -10,6 +10,8 @@ INSERT INTO `azure_azureresourcemanager.ukwest_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azureresourcemanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('51.11.96.0/24', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('51.140.212.16/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('51.140.214.0/24', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('172.187.17.242/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605::6c0/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:3::700/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.ukwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:605:800::18/127', 'IPv6');

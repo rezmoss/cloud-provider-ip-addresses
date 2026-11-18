@@ -90,6 +90,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "4.189.210.114/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "4.189.210.116/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.JapanEast",
@@ -189,6 +195,12 @@
     "ip_address": "4.215.34.64/26",
     "ip_type": "IPv4",
     "service": "PowerBI.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "4.215.35.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JapanEast",
     "region": "japaneast"
   },
   {
@@ -409,6 +421,24 @@
   },
   {
     "ip_address": "9.129.247.160/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "9.129.255.144/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "9.129.255.160/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.japaneast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "9.129.255.192/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.japaneast",
     "region": "japaneast"
@@ -4128,6 +4158,12 @@
     "region": "japaneast"
   },
   {
+    "ip_address": "2603:1040:407::c30/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JapanEast",
+    "region": "japaneast"
+  },
+  {
     "ip_address": "2603:1040:407:1::20/123",
     "ip_type": "IPv6",
     "service": "AzureBotService.JapanEast",
@@ -4773,6 +4809,12 @@
     "ip_address": "2603:1040:407:c02::400/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.JapanEast",
+    "region": "japaneast"
+  },
+  {
+    "ip_address": "2603:1040:407:1000::a/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.JapanEast",
     "region": "japaneast"
   },
   {

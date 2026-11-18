@@ -8,4 +8,6 @@ ip_address,ip_type,service,region
 20.49.125.188/30,IPv4,AzureArcInfrastructure.WestUS,westus
 20.189.171.108/30,IPv4,AzureArcInfrastructure.WestUS,westus
 20.189.173.48/30,IPv4,AzureArcInfrastructure.WestUS,westus
+74.146.69.166/31,IPv4,AzureArcInfrastructure.WestUS,westus
+2603:1030:a07:33::4ca/127,IPv6,AzureArcInfrastructure.WestUS,westus
 2603:1030:a09:100::/63,IPv6,AzureArcInfrastructure.WestUS,westus

@@ -1379,6 +1379,7 @@ ip_address,ip_type,service,region
 74.144.26.144/30,IPv4,AzureIoTHub.NorthEurope,northeurope
 74.144.26.160/27,IPv4,AzureMonitor.NorthEurope,northeurope
 74.144.43.96/30,IPv4,ApiManagement.NorthEurope,northeurope
+74.144.43.100/30,IPv4,AzureResourceManager.NorthEurope,northeurope
 74.144.69.32/27,IPv4,AzureMonitor.NorthEurope,northeurope
 74.144.85.112/29,IPv4,AzureAttestation.NorthEurope,northeurope
 74.144.85.120/30,IPv4,AzureAttestation.NorthEurope,northeurope
@@ -1505,6 +1506,7 @@ ip_address,ip_type,service,region
 172.129.191.224/28,IPv4,PowerBI.NorthEurope,northeurope
 172.129.194.0/24,IPv4,PowerBI.NorthEurope,northeurope
 172.129.195.0/25,IPv4,PowerBI.NorthEurope,northeurope
+172.129.196.164/30,IPv4,AzureArcInfrastructure.NorthEurope,northeurope
 172.150.0.0/17,IPv4,AzureCloud.northeurope,northeurope
 172.205.0.0/17,IPv4,AzureCloud.northeurope,northeurope
 172.205.48.0/21,IPv4,PowerPlatformInfra.NorthEurope,northeurope
@@ -1569,6 +1571,7 @@ ip_address,ip_type,service,region
 2603:1020:5:1::300/123,IPv6,StorageSyncService.NorthEurope,northeurope
 2603:1020:5:1::340/122,IPv6,BatchNodeManagement.NorthEurope,northeurope
 2603:1020:5:1::380/121,IPv6,AzureEventGrid.NorthEurope,northeurope
+2603:1020:5:1::438/126,IPv6,AzureArcInfrastructure.NorthEurope,northeurope
 2603:1020:5:1::480/121,IPv6,DataFactory.NorthEurope,northeurope
 2603:1020:5:1::500/122,IPv6,DataFactory.NorthEurope,northeurope
 2603:1020:5:1::5e0/123,IPv6,PowerBI.NorthEurope,northeurope
@@ -1676,6 +1679,7 @@ ip_address,ip_type,service,region
 2603:1020:5:c02::400/121,IPv6,AzureContainerRegistry.NorthEurope,northeurope
 2603:1020:5:c02::480/121,IPv6,AzureMonitor.NorthEurope,northeurope
 2603:1020:5:1000::2/128,IPv6,AzureDevOps.NorthEurope,northeurope
+2603:1020:5:1000::cc/126,IPv6,AzureResourceManager.NorthEurope,northeurope
 2603:1020:6::/47,IPv6,AzureCloud.northeurope,northeurope
 2603:1020:6::/49,IPv6,Storage.NorthEurope,northeurope
 2603:1020:6:8000::/63,IPv6,Storage.NorthEurope,northeurope

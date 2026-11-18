@@ -816,6 +816,12 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "20.250.248.212/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "40.64.147.32/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.switzerlandn",
@@ -2622,6 +2628,12 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "172.161.116.162/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "172.161.216.44/30",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.SwitzerlandNorth",
@@ -3090,6 +3102,12 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "2603:1020:a04:12::6e8/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1020:a04:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.SwitzerlandNorth",
@@ -3453,6 +3471,12 @@
     "ip_address": "2603:1020:a04:c02::480/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:1000::a/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SwitzerlandNorth",
     "region": "switzerlandn"
   },
   {

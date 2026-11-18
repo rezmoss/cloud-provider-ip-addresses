@@ -6,6 +6,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "4.252.17.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "20.6.141.126/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.EastAsia",
@@ -55,6 +61,12 @@
   },
   {
     "ip_address": "2603:1040:207:11::356/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:1a::464/126",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.EastAsia",
     "region": "eastasia"

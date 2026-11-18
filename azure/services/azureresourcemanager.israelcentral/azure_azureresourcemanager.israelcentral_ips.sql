@@ -8,5 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.israelcentral_ips` (
 
 INSERT INTO `azure_azureresourcemanager.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.50.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.217.60.0/26', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('51.58.2.100/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:1::400/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:400::1c0/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.israelcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1402:1000::2/127', 'IPv6');

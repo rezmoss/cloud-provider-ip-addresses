@@ -12,6 +12,18 @@
     "region": "denmarkeast"
   },
   {
+    "ip_address": "9.129.254.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.denmarkeast",
+    "region": "denmarkeast"
+  },
+  {
+    "ip_address": "9.129.254.208/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.denmarkeast",
+    "region": "denmarkeast"
+  },
+  {
     "ip_address": "9.205.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.denmarkeast",

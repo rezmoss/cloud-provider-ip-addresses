@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.200.192.84/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "13.77.53.32/28",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.AustraliaSoutheast",
@@ -37,6 +43,12 @@
   },
   {
     "ip_address": "2603:1010:101:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:c00::4/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.AustraliaSoutheast",
     "region": "australiasoutheast"

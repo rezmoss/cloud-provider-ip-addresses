@@ -8,5 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.malaysiasouth_ips` (
 
 INSERT INTO `azure_azureresourcemanager.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.60.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('20.17.68.0/26', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('85.211.69.18/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:1::600/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:400::1c0/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.malaysiasouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1503:800::2/127', 'IPv6');

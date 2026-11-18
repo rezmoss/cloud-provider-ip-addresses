@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-11-17 02:22:49
+# Updated: 2026-11-18 02:23:30
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -143,7 +143,8 @@ ufw allow from 172.225.136.0/23
 ufw allow from 172.225.140.0/24
 ufw allow from 172.225.142.0/24
 ufw allow from 172.225.144.0/23
-ufw allow from 172.225.154.0/23
+ufw allow from 172.225.151.0/24
+ufw allow from 172.225.152.0/22
 ufw allow from 172.225.156.0/24
 ufw allow from 172.225.158.0/23
 ufw allow from 172.225.160.0/21
@@ -375,6 +376,7 @@ ufw allow from 2a02:26f7:b234::/46
 ufw allow from 2a02:26f7:b238::/46
 ufw allow from 2a02:26f7:b240::/44
 ufw allow from 2a02:26f7:b250::/45
+ufw allow from 2a02:26f7:b258::/48
 ufw allow from 2a02:26f7:b26c::/46
 ufw allow from 2a02:26f7:b270::/46
 ufw allow from 2a02:26f7:b278::/45
@@ -383,6 +385,7 @@ ufw allow from 2a02:26f7:b28c::/46
 ufw allow from 2a02:26f7:b340::/43
 ufw allow from 2a02:26f7:b360::/44
 ufw allow from 2a02:26f7:b370::/45
+ufw allow from 2a02:26f7:b378::/48
 ufw allow from 2a02:26f7:b380::/47
 ufw allow from 2a02:26f7:b384::/47
 ufw allow from 2a02:26f7:b388::/47
@@ -494,7 +497,7 @@ ufw allow from 2a02:26f7:ba80::/48
 ufw allow from 2a02:26f7:ba84::/47
 ufw allow from 2a02:26f7:ba88::/48
 ufw allow from 2a02:26f7:bac2::/48
-ufw allow from 2a02:26f7:bac4::/48
+ufw allow from 2a02:26f7:bac4::/47
 ufw allow from 2a02:26f7:bac8::/48
 ufw allow from 2a02:26f7:bacc::/48
 ufw allow from 2a02:26f7:bb02::/48

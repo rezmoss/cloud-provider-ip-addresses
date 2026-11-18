@@ -30,6 +30,12 @@
     "region": "westus3"
   },
   {
+    "ip_address": "172.182.17.150/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.WestUS3",
+    "region": "westus3"
+  },
+  {
     "ip_address": "2603:1030:504::400/120",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.WestUS3",
@@ -37,6 +43,12 @@
   },
   {
     "ip_address": "2603:1030:504:402::180/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.WestUS3",
+    "region": "westus3"
+  },
+  {
+    "ip_address": "2603:1030:504:1400::12/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.WestUS3",
     "region": "westus3"

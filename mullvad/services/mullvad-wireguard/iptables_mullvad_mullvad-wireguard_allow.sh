@@ -1,6 +1,6 @@
 #!/bin/bash
 # Mullvad IP Ranges
-# Updated: 2026-11-11 02:19:35
+# Updated: 2026-11-18 02:24:38
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -507,8 +507,6 @@ iptables -A INPUT -s 185.213.155.74/32 -j ACCEPT
 iptables -A INPUT -s 185.213.193.3/32 -j ACCEPT
 iptables -A INPUT -s 185.213.193.127/32 -j ACCEPT
 iptables -A INPUT -s 185.244.213.2/32 -j ACCEPT
-iptables -A INPUT -s 185.253.99.30/32 -j ACCEPT
-iptables -A INPUT -s 185.253.99.98/32 -j ACCEPT
 iptables -A INPUT -s 188.241.176.194/32 -j ACCEPT
 iptables -A INPUT -s 193.19.207.195/32 -j ACCEPT
 iptables -A INPUT -s 193.19.207.225/32 -j ACCEPT
@@ -549,8 +547,6 @@ iptables -A INPUT -s 213.232.112.209/32 -j ACCEPT
 ip6tables -A INPUT -s 2001:ac8:a:f::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2001:ac8:a:19::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2001:ac8:a:1b::f001/128 -j ACCEPT
-ip6tables -A INPUT -s 2001:ac8:17:20::f001/128 -j ACCEPT
-ip6tables -A INPUT -s 2001:ac8:17:20::f101/128 -j ACCEPT
 ip6tables -A INPUT -s 2001:ac8:20:269::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2001:ac8:20:270::f001/128 -j ACCEPT
 ip6tables -A INPUT -s 2001:ac8:20:271::f001/128 -j ACCEPT

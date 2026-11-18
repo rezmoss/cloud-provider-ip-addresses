@@ -8,5 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.westus3_ips` (
 
 INSERT INTO `azure_azurearcinfrastructure.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.165.140/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.westus3_ips` (`ip_address`, `ip_type`) VALUES ('20.150.190.84/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.westus3_ips` (`ip_address`, `ip_type`) VALUES ('172.147.11.24/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.westus3_ips` (`ip_address`, `ip_type`) VALUES ('172.182.155.194/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.westus3_ips` (`ip_address`, `ip_type`) VALUES ('172.182.155.200/29', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.westus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:504:25::cc/126', 'IPv6');

@@ -1,3 +1,5 @@
 ip_address,ip_type,service,region
+68.155.250.54/31,IPv4,AzureResourceManager.MexicoCentral,mexicocentral
 158.23.106.0/23,IPv4,AzureResourceManager.MexicoCentral,mexicocentral
 2603:1030:702:1::400/120,IPv6,AzureResourceManager.MexicoCentral,mexicocentral
+2603:1030:702:1000::16/127,IPv6,AzureResourceManager.MexicoCentral,mexicocentral

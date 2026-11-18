@@ -468,6 +468,12 @@
     "region": "mexicocentral"
   },
   {
+    "ip_address": "68.155.250.54/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
     "ip_address": "68.155.250.56/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.MexicoCentral",
@@ -1785,6 +1791,12 @@
     "ip_address": "2603:1030:702:c00::280/124",
     "ip_type": "IPv6",
     "service": "DataFactory.MexicoCentral",
+    "region": "mexicocentral"
+  },
+  {
+    "ip_address": "2603:1030:702:1000::16/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.MexicoCentral",
     "region": "mexicocentral"
   },
   {

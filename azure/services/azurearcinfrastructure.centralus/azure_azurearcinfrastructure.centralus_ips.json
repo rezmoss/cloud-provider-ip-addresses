@@ -48,8 +48,20 @@
     "region": "centralus"
   },
   {
+    "ip_address": "172.134.133.0/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUS",
+    "region": "centralus"
+  },
+  {
     "ip_address": "172.202.64.0/22",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CentralUS",
+    "region": "centralus"
+  },
+  {
+    "ip_address": "2603:1030:10:30::77c/126",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.CentralUS",
     "region": "centralus"
   },

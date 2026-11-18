@@ -11,8 +11,10 @@ INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('13.86.222.0/24', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.0.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('20.189.168.0/24', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('48.195.92.100/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07::6c0/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:9::200/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:402::900/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:1000::106/127', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0b::/48', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a0c::/48', 'IPv6');

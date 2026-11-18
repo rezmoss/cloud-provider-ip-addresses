@@ -30,7 +30,19 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "172.135.74.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "2603:1020:1004:d::285/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:19::3e4/126",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.SwedenCentral",
     "region": "swedencentral"

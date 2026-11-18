@@ -36,6 +36,18 @@
     "region": "southeastus"
   },
   {
+    "ip_address": "57.163.104.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "145.190.204.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
     "ip_address": "2603:1030:903::/48",
     "ip_type": "IPv6",
     "service": "Storage.SoutheastUS",

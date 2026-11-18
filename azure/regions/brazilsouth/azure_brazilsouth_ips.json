@@ -12,6 +12,18 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "4.160.12.10/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "4.160.12.12/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "4.160.32.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
@@ -564,6 +576,24 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "9.129.253.112/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilsouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "9.129.253.128/25",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilsouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "9.129.254.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.brazilsouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "13.105.52.80/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.brazilsouth",
@@ -921,6 +951,12 @@
     "ip_address": "20.197.160.72/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "20.197.160.76/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.BrazilSouth",
     "region": "brazilsouth"
   },
   {
@@ -3858,6 +3894,12 @@
     "region": "brazilsouth"
   },
   {
+    "ip_address": "2603:1050:6:8::19c/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "2603:1050:6:a::300/120",
     "ip_type": "IPv6",
     "service": "AzureDevOps.BrazilSouth",
@@ -4347,6 +4389,12 @@
     "ip_address": "2603:1050:6:1000::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:1000::52/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.BrazilSouth",
     "region": "brazilsouth"
   },
   {

@@ -2028,6 +2028,12 @@
     "region": "southindia"
   },
   {
+    "ip_address": "74.224.241.226/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SouthIndia",
+    "region": "southindia"
+  },
+  {
     "ip_address": "74.225.0.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.southindia",
@@ -2907,6 +2913,12 @@
     "ip_address": "2603:1040:c06:800::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.SouthIndia",
+    "region": "southindia"
+  },
+  {
+    "ip_address": "2603:1040:c06:800::34/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SouthIndia",
     "region": "southindia"
   },
   {

@@ -28584,12 +28584,6 @@
     "region": "us-east-1"
   },
   {
-    "ip_address": "72.150.21.0/24",
-    "ip_type": "IPv4",
-    "service": "AMAZON",
-    "region": "GLOBAL"
-  },
-  {
     "ip_address": "72.150.22.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",

@@ -6,8 +6,10 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.brazilsouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureresourcemanager.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.197.160.76/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.233.205.16/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.140.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.158.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:1000::52/127', 'IPv6');

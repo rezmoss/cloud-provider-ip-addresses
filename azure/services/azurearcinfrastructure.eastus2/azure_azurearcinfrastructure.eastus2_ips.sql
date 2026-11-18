@@ -15,4 +15,6 @@ INSERT INTO `azure_azurearcinfrastructure.eastus2_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azurearcinfrastructure.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('52.167.111.168/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.249.120.4/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('74.249.127.128/29', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('172.147.134.84/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:23::1a0/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.eastus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40c:3d::2f0/126', 'IPv6');

@@ -8,5 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.jioindiawest_ips` (
 
 INSERT INTO `azure_azureresourcemanager.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.193.196.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.193.204.0/26', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.244.251.20/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:1::400/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:400::180/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:1000::2/127', 'IPv6');

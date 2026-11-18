@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.220.129.96/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
     "ip_address": "51.120.220.32/28",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.NorwayWest",
@@ -31,6 +37,12 @@
   },
   {
     "ip_address": "2603:1020:f04:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NorwayWest",
+    "region": "norwayw"
+  },
+  {
+    "ip_address": "2603:1020:f04:800::2/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.NorwayWest",
     "region": "norwayw"

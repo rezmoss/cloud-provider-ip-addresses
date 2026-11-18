@@ -14,3 +14,5 @@ INSERT INTO `azure_azurearcinfrastructure.northcentralus_ips` (`ip_address`, `ip
 INSERT INTO `azure_azurearcinfrastructure.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.241.119.104/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.162.111.132/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.240.244.228/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('172.149.7.92/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608::c60/126', 'IPv6');

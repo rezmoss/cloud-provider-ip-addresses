@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.250.248.212/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "51.107.54.0/23",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.SwitzerlandNorth",
@@ -31,6 +37,12 @@
   },
   {
     "ip_address": "2603:1020:a04:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:1000::a/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.SwitzerlandNorth",
     "region": "switzerlandn"

@@ -9,7 +9,6 @@ CREATE TABLE IF NOT EXISTS `huawei_huawei-as141180_ips` (
 INSERT INTO `huawei_huawei-as141180_ips` (`ip_address`, `ip_type`) VALUES ('87.119.3.0/24', 'IPv4');
 INSERT INTO `huawei_huawei-as141180_ips` (`ip_address`, `ip_type`) VALUES ('87.119.4.0/24', 'IPv4');
 INSERT INTO `huawei_huawei-as141180_ips` (`ip_address`, `ip_type`) VALUES ('87.119.7.0/24', 'IPv4');
-INSERT INTO `huawei_huawei-as141180_ips` (`ip_address`, `ip_type`) VALUES ('87.119.8.0/24', 'IPv4');
 INSERT INTO `huawei_huawei-as141180_ips` (`ip_address`, `ip_type`) VALUES ('87.119.9.0/24', 'IPv4');
 INSERT INTO `huawei_huawei-as141180_ips` (`ip_address`, `ip_type`) VALUES ('87.119.10.0/24', 'IPv4');
 INSERT INTO `huawei_huawei-as141180_ips` (`ip_address`, `ip_type`) VALUES ('87.119.11.0/24', 'IPv4');

@@ -13,6 +13,9 @@ INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VA
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.119.96/27', 'IPv4');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.218.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.242.64/26', 'IPv4');
+INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.254.160/28', 'IPv4');
+INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.254.224/27', 'IPv4');
+INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.255.0/28', 'IPv4');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.30.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.31.0/26', 'IPv4');
 INSERT INTO `azure_azurecloud.indonesiacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.31.64/27', 'IPv4');

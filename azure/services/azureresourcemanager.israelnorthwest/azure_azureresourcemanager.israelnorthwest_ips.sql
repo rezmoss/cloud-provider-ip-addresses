@@ -7,4 +7,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.israelnorthwest_ips` (
 );
 
 INSERT INTO `azure_azureresourcemanager.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.128.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('51.4.172.18/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:1::300/120', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.israelnorthwest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1702:1000::a/127', 'IPv6');

@@ -439,6 +439,7 @@ ip_address,ip_type,service,region
 5.161.253.0/24,IPv4,hetzner-as213230,global
 5.161.254.0/24,IPv4,hetzner-as213230,global
 5.161.255.0/24,IPv4,hetzner-as213230,global
+5.222.0.0/16,IPv4,hetzner-as24940,global
 23.88.0.0/17,IPv4,hetzner-as24940,global
 31.58.88.0/24,IPv4,hetzner-as24940,global
 37.27.0.0/16,IPv4,hetzner-as24940,global

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.145.226.20/30",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
     "ip_address": "13.67.18.0/23",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.SoutheastAsia",
@@ -43,6 +49,12 @@
   },
   {
     "ip_address": "2603:1040:5:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SoutheastAsia",
+    "region": "southeastasia"
+  },
+  {
+    "ip_address": "2603:1040:5:1000::6c/126",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.SoutheastAsia",
     "region": "southeastasia"

@@ -6,7 +6,19 @@
     "region": "spaincentral"
   },
   {
+    "ip_address": "70.156.216.204/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
     "ip_address": "2603:1020:1403:1::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SpainCentral",
+    "region": "spaincentral"
+  },
+  {
+    "ip_address": "2603:1020:1403:1000::2/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.SpainCentral",
     "region": "spaincentral"

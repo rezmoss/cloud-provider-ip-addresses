@@ -8,6 +8,8 @@ CREATE TABLE IF NOT EXISTS `azure_brazilsouth_ips` (
 
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.160.0.0/19', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.160.3.192/26', 'IPv4');
+INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.160.12.10/31', 'IPv4');
+INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.160.12.12/31', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.160.32.0/20', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.160.48.0/21', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.160.56.0/23', 'IPv4');
@@ -100,6 +102,9 @@ INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.116
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.119.0/27', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.198.0/23', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.246.224/27', 'IPv4');
+INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.253.112/28', 'IPv4');
+INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.253.128/25', 'IPv4');
+INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('9.129.254.0/26', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.52.80/28', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.52.128/26', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.57.144/28', 'IPv4');
@@ -160,6 +165,7 @@ INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.195.20
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.195.200.28/32', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.197.128.0/17', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.197.160.72/30', 'IPv4');
+INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.197.160.76/31', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.197.175.106/31', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.201.0.0/17', 'IPv4');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.201.0.58/32', 'IPv4');
@@ -649,6 +655,7 @@ INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:3::4c0/122', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:7::/122', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:7::40/123', 'IPv6');
+INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:8::19c/127', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:a::300/120', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:b::400/120', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:b::720/123', 'IPv6');
@@ -731,6 +738,7 @@ INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:c02::2a0/123', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:c02::400/121', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:1000::a/128', 'IPv6');
+INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:1000::52/127', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:7::/48', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:9::/48', 'IPv6');
 INSERT INTO `azure_brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1056:1400::/48', 'IPv6');

@@ -174,6 +174,18 @@
     "region": "westus2"
   },
   {
+    "ip_address": "9.129.251.32/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "9.131.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
     "ip_address": "13.66.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
@@ -5052,25 +5064,13 @@
     "region": "westus2"
   },
   {
-    "ip_address": "57.157.74.0/25",
+    "ip_address": "57.157.74.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"
   },
   {
-    "ip_address": "57.157.74.128/26",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus2",
-    "region": "westus2"
-  },
-  {
-    "ip_address": "57.157.74.192/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.westus2",
-    "region": "westus2"
-  },
-  {
-    "ip_address": "57.157.74.224/31",
+    "ip_address": "57.157.75.0/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
     "region": "westus2"
@@ -5391,6 +5391,12 @@
     "ip_address": "74.146.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "74.146.135.138/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.WestUS2",
     "region": "westus2"
   },
   {
@@ -5877,6 +5883,12 @@
     "ip_address": "172.140.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.westus2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "172.140.134.156/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestUS2",
     "region": "westus2"
   },
   {
@@ -6774,6 +6786,12 @@
     "region": "westus2"
   },
   {
+    "ip_address": "2603:1030:c06:35::394/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.WestUS2",
+    "region": "westus2"
+  },
+  {
     "ip_address": "2603:1030:c06:400::880/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.WestUS2",
@@ -7131,6 +7149,12 @@
     "ip_address": "2603:1030:c06:1000::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.WestUS2",
+    "region": "westus2"
+  },
+  {
+    "ip_address": "2603:1030:c06:1000::1c/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.WestUS2",
     "region": "westus2"
   },
   {

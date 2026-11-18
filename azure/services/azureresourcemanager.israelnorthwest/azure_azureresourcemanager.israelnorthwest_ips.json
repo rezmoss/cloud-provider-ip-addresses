@@ -6,7 +6,19 @@
     "region": "israelnorthwest"
   },
   {
+    "ip_address": "51.4.172.18/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
     "ip_address": "2603:1040:1702:1::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.IsraelNorthwest",
+    "region": "israelnorthwest"
+  },
+  {
+    "ip_address": "2603:1040:1702:1000::a/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.IsraelNorthwest",
     "region": "israelnorthwest"

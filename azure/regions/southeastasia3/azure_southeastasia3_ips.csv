@@ -86,6 +86,7 @@ ip_address,ip_type,service,region
 48.198.203.34/32,IPv4,AzureArcInfrastructure.SoutheastAsia3,southeastasia3
 48.198.203.36/30,IPv4,AzureArcInfrastructure.SoutheastAsia3,southeastasia3
 48.198.203.96/28,IPv4,PowerBI.SoutheastAsia3,southeastasia3
+48.198.210.192/29,IPv4,StorageSyncService.SoutheastAsia3,southeastasia3
 57.157.124.0/25,IPv4,AzureCloud.southeastasia3,southeastasia3
 57.157.124.128/26,IPv4,AzureCloud.southeastasia3,southeastasia3
 57.157.124.192/29,IPv4,AzureCloud.southeastasia3,southeastasia3

@@ -24,6 +24,12 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.187.17.242/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "2603:1020:605::6c0/122",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.UKWest",
@@ -37,6 +43,12 @@
   },
   {
     "ip_address": "2603:1020:605:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:800::18/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.UKWest",
     "region": "ukwest"

@@ -4763,7 +4763,6 @@ ip_address,ip_type,service,region
 72.41.0.0/20,IPv4,AMAZON,us-east-1
 72.44.32.0/19,IPv4,AMAZON,us-east-1
 72.150.20.0/24,IPv4,AMAZON,us-east-1
-72.150.21.0/24,IPv4,AMAZON,GLOBAL
 72.150.22.0/24,IPv4,AMAZON,us-east-1
 72.242.0.0/15,IPv4,AMAZON,ap-east-2
 75.2.0.0/17,IPv4,AMAZON,GLOBAL

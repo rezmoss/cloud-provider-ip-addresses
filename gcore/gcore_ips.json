@@ -1872,7 +1872,23 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "92.223.107.151/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "92.223.107.152/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "92.223.107.154/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "92.223.107.155/32",
+    "ip_type": "IPv4"
+  },
+  {
+    "ip_address": "92.223.107.156/32",
     "ip_type": "IPv4"
   },
   {
@@ -3824,10 +3840,6 @@
     "ip_type": "IPv4"
   },
   {
-    "ip_address": "212.232.103.73/32",
-    "ip_type": "IPv4"
-  },
-  {
     "ip_address": "212.232.104.191/32",
     "ip_type": "IPv4"
   },
@@ -4177,10 +4189,6 @@
   },
   {
     "ip_address": "2a01:c500:1:6::d4e8:670b/128",
-    "ip_type": "IPv6"
-  },
-  {
-    "ip_address": "2a01:c500:1:6::d4e8:6749/128",
     "ip_type": "IPv6"
   },
   {
@@ -5361,6 +5369,10 @@
   },
   {
     "ip_address": "2a03:90c0:c1:2801::150/128",
+    "ip_type": "IPv6"
+  },
+  {
+    "ip_address": "2a03:90c0:c1:2801::151/128",
     "ip_type": "IPv6"
   },
   {

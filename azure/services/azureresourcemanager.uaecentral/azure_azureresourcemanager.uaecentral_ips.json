@@ -18,6 +18,12 @@
     "region": "uaecentral"
   },
   {
+    "ip_address": "20.216.121.86/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UAECentral",
+    "region": "uaecentral"
+  },
+  {
     "ip_address": "2603:1040:b04::6c0/122",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.UAECentral",
@@ -31,6 +37,12 @@
   },
   {
     "ip_address": "2603:1040:b04:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.UAECentral",
+    "region": "uaecentral"
+  },
+  {
+    "ip_address": "2603:1040:b04:c00::4/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.UAECentral",
     "region": "uaecentral"

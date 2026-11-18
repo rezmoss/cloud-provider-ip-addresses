@@ -167,6 +167,11 @@ INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.122.208.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.8.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.15.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.66.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.68.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.70.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.72.0/24', 'IPv4');
+INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.74.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.170.0/23', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.172.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.japanwest_ips` (`ip_address`, `ip_type`) VALUES ('52.123.219.0/24', 'IPv4');

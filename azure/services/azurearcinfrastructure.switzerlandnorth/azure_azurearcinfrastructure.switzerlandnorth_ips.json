@@ -54,7 +54,19 @@
     "region": "switzerlandn"
   },
   {
+    "ip_address": "172.161.116.162/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
     "ip_address": "2603:1020:a04:b::81/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SwitzerlandNorth",
+    "region": "switzerlandn"
+  },
+  {
+    "ip_address": "2603:1020:a04:12::6e8/127",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.SwitzerlandNorth",
     "region": "switzerlandn"

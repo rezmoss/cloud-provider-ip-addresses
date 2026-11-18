@@ -432,6 +432,18 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "9.129.248.128/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "9.129.248.192/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.australiaeast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "13.70.64.0/18",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiaeast",

@@ -1,4 +1,5 @@
 ip_address,ip_type,service,region
+20.170.50.184/30,IPv4,AzureArcInfrastructure.GermanyWestCentral,germanywc
 20.218.190.20/31,IPv4,AzureArcInfrastructure.GermanyWestCentral,germanywc
 20.218.190.88/29,IPv4,AzureArcInfrastructure.GermanyWestCentral,germanywc
 48.201.165.111/32,IPv4,AzureArcInfrastructure.GermanyWestCentral,germanywc
@@ -8,4 +9,5 @@ ip_address,ip_type,service,region
 51.116.243.218/31,IPv4,AzureArcInfrastructure.GermanyWestCentral,germanywc
 51.116.251.186/32,IPv4,AzureArcInfrastructure.GermanyWestCentral,germanywc
 51.116.253.164/30,IPv4,AzureArcInfrastructure.GermanyWestCentral,germanywc
+2603:1020:c04:6::124/126,IPv6,AzureArcInfrastructure.GermanyWestCentral,germanywc
 2603:1020:c04:b::1e8/128,IPv6,AzureArcInfrastructure.GermanyWestCentral,germanywc

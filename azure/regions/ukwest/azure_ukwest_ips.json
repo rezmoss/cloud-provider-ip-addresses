@@ -42,6 +42,12 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "9.129.255.80/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.ukwest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "20.33.134.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.ukwest",
@@ -3240,6 +3246,12 @@
     "region": "ukwest"
   },
   {
+    "ip_address": "172.187.17.242/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UKWest",
+    "region": "ukwest"
+  },
+  {
     "ip_address": "172.187.32.0/20",
     "ip_type": "IPv4",
     "service": "AzureCloud.ukwest",
@@ -3927,6 +3939,12 @@
     "ip_address": "2603:1020:605:800::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.UKWest",
+    "region": "ukwest"
+  },
+  {
+    "ip_address": "2603:1020:605:800::18/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.UKWest",
     "region": "ukwest"
   },
   {

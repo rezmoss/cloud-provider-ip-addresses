@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.westus2_ips` (
 INSERT INTO `azure_azureresourcemanager.westus2_ips` (`ip_address`, `ip_type`) VALUES ('13.66.141.176/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westus2_ips` (`ip_address`, `ip_type`) VALUES ('20.51.10.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westus2_ips` (`ip_address`, `ip_type`) VALUES ('40.78.254.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.westus2_ips` (`ip_address`, `ip_type`) VALUES ('74.146.135.138/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:2::40/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:18::240/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:400::a80/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.westus2_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:c06:1000::1c/127', 'IPv6');

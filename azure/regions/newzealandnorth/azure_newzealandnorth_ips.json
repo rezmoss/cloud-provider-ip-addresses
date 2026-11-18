@@ -654,6 +654,12 @@
     "region": "newzealandnorth"
   },
   {
+    "ip_address": "172.204.108.140/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
     "ip_address": "172.204.131.225/32",
     "ip_type": "IPv4",
     "service": "LogicApps.NewZealandNorth",
@@ -1797,6 +1803,12 @@
     "ip_address": "2603:1010:502:c00::80/121",
     "ip_type": "IPv6",
     "service": "AzureContainerRegistry.NewZealandNorth",
+    "region": "newzealandnorth"
+  },
+  {
+    "ip_address": "2603:1010:502:1000::a/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NewZealandNorth",
     "region": "newzealandnorth"
   },
   {

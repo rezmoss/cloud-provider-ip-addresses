@@ -2262,25 +2262,7 @@
     "region": "swedencentral"
   },
   {
-    "ip_address": "57.157.188.128/27",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.swedencentral",
-    "region": "swedencentral"
-  },
-  {
-    "ip_address": "57.157.188.160/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.swedencentral",
-    "region": "swedencentral"
-  },
-  {
-    "ip_address": "57.157.188.176/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.swedencentral",
-    "region": "swedencentral"
-  },
-  {
-    "ip_address": "57.157.188.184/30",
+    "ip_address": "57.157.188.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
     "region": "swedencentral"
@@ -2952,6 +2934,12 @@
     "region": "swedencentral"
   },
   {
+    "ip_address": "172.135.74.140/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
     "ip_address": "172.141.0.0/16",
     "ip_type": "IPv4",
     "service": "AzureCloud.swedencentral",
@@ -2991,6 +2979,12 @@
     "ip_address": "172.160.154.192/26",
     "ip_type": "IPv4",
     "service": "AzureMachineLearning.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "172.160.160.138/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SwedenCentral",
     "region": "swedencentral"
   },
   {
@@ -3441,6 +3435,12 @@
     "ip_address": "2603:1020:1004:14::110/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:19::3e4/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SwedenCentral",
     "region": "swedencentral"
   },
   {
@@ -3903,6 +3903,12 @@
     "ip_address": "2603:1020:1004:1000::a/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.SwedenCentral",
+    "region": "swedencentral"
+  },
+  {
+    "ip_address": "2603:1020:1004:1000::36/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SwedenCentral",
     "region": "swedencentral"
   },
   {

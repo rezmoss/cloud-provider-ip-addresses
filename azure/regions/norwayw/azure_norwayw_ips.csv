@@ -1,6 +1,7 @@
 ip_address,ip_type,service,region
 4.220.128.0/20,IPv4,AzureCloud.norwayw,norwayw
 4.220.129.64/29,IPv4,AppServiceManagement.NorwayWest,norwayw
+4.220.129.96/31,IPv4,AzureResourceManager.NorwayWest,norwayw
 4.220.136.0/24,IPv4,DataFactory.NorwayWest,norwayw
 4.220.137.8/29,IPv4,PowerPlatformPlex.NorwayWest,norwayw
 4.220.138.96/29,IPv4,PowerPlatformPlex.NorwayWest,norwayw
@@ -351,6 +352,7 @@ ip_address,ip_type,service,region
 2603:1020:f04:402::500/121,IPv6,AzureMonitor.NorwayWest,norwayw
 2603:1020:f04:402::580/122,IPv6,AzureContainerRegistry.NorwayWest,norwayw
 2603:1020:f04:402::600/121,IPv6,AzureContainerRegistry.NorwayWest,norwayw
+2603:1020:f04:800::2/127,IPv6,AzureResourceManager.NorwayWest,norwayw
 2603:1020:f05::/48,IPv6,Storage.NorwayWest,norwayw
 2603:1020:f06::/48,IPv6,AzureCloud.norwayw,norwayw
 2603:1026:900:33::/64,IPv6,AzureCloud.norwayw,norwayw

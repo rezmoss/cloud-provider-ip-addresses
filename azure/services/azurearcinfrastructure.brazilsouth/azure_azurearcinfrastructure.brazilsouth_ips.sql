@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.brazilsouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.160.12.10/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('4.160.12.12/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.211.158/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('20.226.212.160/29', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('74.163.252.230/32', 'IPv4');
@@ -16,4 +18,5 @@ INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.149.138/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.157.42/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('191.234.157.172/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:8::19c/127', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure.brazilsouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:6:c::61/128', 'IPv6');

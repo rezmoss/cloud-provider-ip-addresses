@@ -5836,10 +5836,13 @@ ip_address,ip_type,service,region
 51.72.26.64/28,IPv4,CODEBUILD,eusc-de-east-1
 51.72.26.128/25,IPv4,EFS,eusc-de-east-1
 51.72.40.128/28,IPv4,CLOUDFRONT,eusc-de-east-1
+51.72.40.128/28,IPv4,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1
 51.72.40.144/28,IPv4,CLOUDFRONT,eusc-de-east-1
+51.72.40.144/28,IPv4,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1
 51.72.56.0/22,IPv4,EFS,eusc-de-east-1
 51.72.74.0/23,IPv4,AMAZON,eusc-de-east-1
 51.72.96.0/23,IPv4,CLOUDFRONT,eusc-de-east-1
+51.72.96.0/23,IPv4,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1
 51.72.98.0/23,IPv4,AMAZON,eusc-de-east-1
 51.72.100.0/23,IPv4,AMAZON,eusc-de-east-1
 51.72.102.0/24,IPv4,AMAZON,eusc-de-east-1
@@ -8703,8 +8706,6 @@ ip_address,ip_type,service,region
 72.44.32.0/19,IPv4,EC2,us-east-1
 72.150.20.0/24,IPv4,AMAZON,us-east-1
 72.150.20.0/24,IPv4,EC2,us-east-1
-72.150.21.0/24,IPv4,AMAZON,GLOBAL
-72.150.21.0/24,IPv4,EC2,GLOBAL
 72.150.22.0/24,IPv4,AMAZON,us-east-1
 72.150.22.0/24,IPv4,EC2,us-east-1
 72.242.0.0/15,IPv4,AMAZON,ap-east-2

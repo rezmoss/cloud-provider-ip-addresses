@@ -70,6 +70,7 @@ ip_address,ip_type,service,region
 20.157.229.0/24,IPv4,Storage.GermanyNorth,germanyn
 20.170.160.0/19,IPv4,AzureCloud.germanyn,germanyn
 20.170.161.64/29,IPv4,AppServiceManagement.GermanyNorth,germanyn
+20.170.161.100/31,IPv4,AzureResourceManager.GermanyNorth,germanyn
 20.170.168.160/29,IPv4,AzureMonitor.GermanyNorth,germanyn
 20.170.170.0/23,IPv4,DataFactory.GermanyNorth,germanyn
 20.170.175.0/29,IPv4,AzureArcInfrastructure.GermanyNorth,germanyn
@@ -380,9 +381,11 @@ ip_address,ip_type,service,region
 2603:1020:d04:402::3e0/123,IPv6,LogicApps.GermanyNorth,germanyn
 2603:1020:d04:402::500/121,IPv6,AzureMonitor.GermanyNorth,germanyn
 2603:1020:d04:402::580/122,IPv6,AzureContainerRegistry.GermanyNorth,germanyn
+2603:1020:d04:800::2/127,IPv6,AzureResourceManager.GermanyNorth,germanyn
 2603:1020:d05::/48,IPv6,Storage.GermanyNorth,germanyn
 2603:1020:d06::/48,IPv6,AzureCloud.germanyn,germanyn
 2603:1026:900:2c::/64,IPv6,AzureCloud.germanyn,germanyn
+2603:1026:900:5c::/64,IPv6,AzureCloud.germanyn,germanyn
 2603:1026:2411::/48,IPv6,AzureCloud.germanyn,germanyn
 2603:1026:2500:34::/64,IPv6,AzureCloud.germanyn,germanyn
 2603:1026:3000:220::/59,IPv6,AzureCloud.germanyn,germanyn

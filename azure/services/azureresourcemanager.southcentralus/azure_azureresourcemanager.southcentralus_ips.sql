@@ -9,7 +9,9 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.southcentralus_ips` (
 INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.73.240.224/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.73.246.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.65.128.0/23', 'IPv4');
-INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.160.112/31', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.160.112/30', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.145.160.120/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:402::280/122', 'IPv6');
-INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:1400::1c/127', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:1400::1c/126', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:1400::20/127', 'IPv6');

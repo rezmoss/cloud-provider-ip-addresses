@@ -148,7 +148,6 @@ ip_address,ip_type,service,region
 87.119.3.0/24,IPv4,huawei-as141180,global
 87.119.4.0/24,IPv4,huawei-as141180,global
 87.119.7.0/24,IPv4,huawei-as141180,global
-87.119.8.0/24,IPv4,huawei-as141180,global
 87.119.9.0/24,IPv4,huawei-as141180,global
 87.119.10.0/24,IPv4,huawei-as141180,global
 87.119.11.0/24,IPv4,huawei-as141180,global

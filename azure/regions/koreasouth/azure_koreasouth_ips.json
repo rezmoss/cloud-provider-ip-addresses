@@ -264,6 +264,12 @@
     "region": "koreasouth"
   },
   {
+    "ip_address": "4.243.130.76/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
     "ip_address": "4.243.139.160/28",
     "ip_type": "IPv4",
     "service": "PowerBI.KoreaSouth",
@@ -2379,6 +2385,12 @@
     "ip_address": "2603:1040:e05:402::430/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.KoreaSouth",
+    "region": "koreasouth"
+  },
+  {
+    "ip_address": "2603:1040:e05:800::2/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.KoreaSouth",
     "region": "koreasouth"
   },
   {

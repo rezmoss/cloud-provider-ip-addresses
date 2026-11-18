@@ -1,3 +1,4 @@
 ip_address,ip_type,service,region
 48.198.95.152/29,IPv4,StorageSyncService.SoutheastAsia3,southeastasia3
+48.198.210.192/29,IPv4,StorageSyncService.SoutheastAsia3,southeastasia3
 2603:1040:1b02:2::480/123,IPv6,StorageSyncService.SoutheastAsia3,southeastasia3

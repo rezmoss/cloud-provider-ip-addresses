@@ -462,6 +462,12 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "2603:1026:900:5c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "2603:1026:2411::/48",
     "ip_type": "IPv6",
     "service": "AzureCloud.germanyn",

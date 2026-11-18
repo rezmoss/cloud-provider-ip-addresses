@@ -7,3 +7,5 @@ ip_address,ip_type,service,region
 20.241.119.104/29,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
 52.162.111.132/32,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
 52.240.244.228/30,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
+172.149.7.92/30,IPv4,AzureArcInfrastructure.NorthCentralUS,northcentralus
+2603:1030:608::c60/126,IPv6,AzureArcInfrastructure.NorthCentralUS,northcentralus

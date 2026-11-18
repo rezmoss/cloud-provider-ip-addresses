@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.174.6.32/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "4.174.6.36/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "13.71.175.129/32",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.CanadaCentral",
@@ -60,7 +72,19 @@
     "region": "canadacentral"
   },
   {
+    "ip_address": "2603:1030:f05:7::758/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "2603:1030:f05:d::6f5/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:16::3eb/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.CanadaCentral",
     "region": "canadacentral"

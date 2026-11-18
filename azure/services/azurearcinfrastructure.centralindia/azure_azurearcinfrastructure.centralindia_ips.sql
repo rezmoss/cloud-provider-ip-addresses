@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.centralindia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.251.41/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('4.186.251.44/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.121.252/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.43.123.220/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('20.192.101.26/31', 'IPv4');
@@ -16,3 +18,5 @@ INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_t
 INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('52.140.110.108/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('57.159.92.207/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:c::2bf/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:15::a7/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.centralindia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:a06:15::284/126', 'IPv6');

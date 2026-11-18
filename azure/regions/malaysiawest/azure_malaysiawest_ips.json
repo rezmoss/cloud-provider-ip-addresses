@@ -798,31 +798,13 @@
     "region": "malaysiawest"
   },
   {
-    "ip_address": "40.120.170.0/27",
+    "ip_address": "40.120.170.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.malaysiawest",
     "region": "malaysiawest"
   },
   {
-    "ip_address": "40.120.170.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.malaysiawest",
-    "region": "malaysiawest"
-  },
-  {
-    "ip_address": "40.120.170.48/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.malaysiawest",
-    "region": "malaysiawest"
-  },
-  {
-    "ip_address": "40.120.170.56/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.malaysiawest",
-    "region": "malaysiawest"
-  },
-  {
-    "ip_address": "40.120.170.60/31",
+    "ip_address": "40.120.170.64/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.malaysiawest",
     "region": "malaysiawest"
@@ -993,6 +975,12 @@
     "ip_address": "85.211.145.28/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "85.211.145.128/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.MalaysiaWest",
     "region": "malaysiawest"
   },
   {
@@ -1734,6 +1722,12 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "2603:1040:1602:1000::2/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "2603:1040:1603::/48",
     "ip_type": "IPv6",
     "service": "Storage.MalaysiaWest",
@@ -1800,19 +1794,13 @@
     "region": "malaysiawest"
   },
   {
-    "ip_address": "2603:1061:100d:110::/62",
+    "ip_address": "2603:1061:100d:110::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.malaysiawest",
     "region": "malaysiawest"
   },
   {
-    "ip_address": "2603:1061:100d:114::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.malaysiawest",
-    "region": "malaysiawest"
-  },
-  {
-    "ip_address": "2603:1061:100d:116::/64",
+    "ip_address": "2603:1061:100d:118::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud.malaysiawest",
     "region": "malaysiawest"

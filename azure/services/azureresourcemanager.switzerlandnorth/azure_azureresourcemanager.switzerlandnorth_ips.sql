@@ -6,9 +6,11 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.switzerlandnorth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureresourcemanager.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('20.250.248.212/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.54.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.60.32/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('51.107.62.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:2::700/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.switzerlandnorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:a04:1000::a/127', 'IPv6');

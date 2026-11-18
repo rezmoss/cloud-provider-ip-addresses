@@ -1062,6 +1062,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "20.170.50.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "20.170.128.0/19",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
@@ -1497,6 +1503,12 @@
     "ip_address": "48.203.174.48/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "48.203.176.222/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.GermanyWestCentral",
     "region": "germanywc"
   },
   {
@@ -2610,31 +2622,13 @@
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.61.128/27",
+    "ip_address": "57.157.61.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.61.160/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.germanywc",
-    "region": "germanywc"
-  },
-  {
-    "ip_address": "57.157.61.176/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.germanywc",
-    "region": "germanywc"
-  },
-  {
-    "ip_address": "57.157.61.184/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.germanywc",
-    "region": "germanywc"
-  },
-  {
-    "ip_address": "57.157.61.188/31",
+    "ip_address": "57.157.61.192/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"
@@ -3240,6 +3234,12 @@
     "region": "germanywc"
   },
   {
+    "ip_address": "2603:1020:c04:6::124/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "2603:1020:c04:7::/120",
     "ip_type": "IPv6",
     "service": "AppService.GermanyWestCentral",
@@ -3705,6 +3705,12 @@
     "ip_address": "2603:1020:c04:c02::480/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:1000::2/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.GermanyWestCentral",
     "region": "germanywc"
   },
   {

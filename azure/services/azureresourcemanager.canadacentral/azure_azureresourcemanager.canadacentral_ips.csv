@@ -1,6 +1,8 @@
 ip_address,ip_type,service,region
+4.173.130.2/31,IPv4,AzureResourceManager.CanadaCentral,canadacentral
 13.71.173.192/28,IPv4,AzureResourceManager.CanadaCentral,canadacentral
 20.38.150.0/23,IPv4,AzureResourceManager.CanadaCentral,canadacentral
 20.48.194.0/23,IPv4,AzureResourceManager.CanadaCentral,canadacentral
 2603:1030:f05::180/122,IPv6,AzureResourceManager.CanadaCentral,canadacentral
 2603:1030:f05:402::280/122,IPv6,AzureResourceManager.CanadaCentral,canadacentral
+2603:1030:f05:1000::10/127,IPv6,AzureResourceManager.CanadaCentral,canadacentral

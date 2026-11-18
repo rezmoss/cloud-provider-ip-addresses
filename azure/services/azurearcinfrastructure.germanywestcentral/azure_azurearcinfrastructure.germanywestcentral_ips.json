@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.170.50.184/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
     "ip_address": "20.218.190.20/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.GermanyWestCentral",
@@ -50,6 +56,12 @@
   {
     "ip_address": "51.116.253.164/30",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.GermanyWestCentral",
+    "region": "germanywc"
+  },
+  {
+    "ip_address": "2603:1020:c04:6::124/126",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.GermanyWestCentral",
     "region": "germanywc"
   },

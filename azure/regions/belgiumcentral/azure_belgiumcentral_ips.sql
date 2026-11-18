@@ -15,6 +15,7 @@ INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.0.0/17', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.17.0/29', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.17.12/30', 'IPv4');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.17.32/31', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.40.16/30', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.40.20/30', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.40.40/29', 'IPv4');
@@ -125,14 +126,9 @@ INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.160.220.160/28', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.32/27', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.52.64/26', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.120.0/24', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.0/25', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.128/26', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.192/27', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.224/28', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.240/29', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.248/30', 'IPv4');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.121.252/31', 'IPv4');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.120.0/23', 'IPv4');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.122.0/29', 'IPv4');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.122.8/31', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.33.113.0/24', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.49.0/24', 'IPv4');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.143.96.0/23', 'IPv4');
@@ -238,6 +234,7 @@ INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:c00::18/125', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:c00::50/124', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:c00::80/121', 'IPv6');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1502:1000::2/127', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1503::/48', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1504::/48', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1505::/48', 'IPv6');
@@ -251,9 +248,9 @@ INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:80::/58', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:c0::/59', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:e0::/60', 'IPv6');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:f0::/62', 'IPv6');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:f4::/63', 'IPv6');
-INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:f6::/64', 'IPv6');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:f0::/61', 'IPv6');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:f8::/62', 'IPv6');
+INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1016:fc::/64', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1311:400::/54', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:173f::/48', 'IPv6');
 INSERT INTO `azure_belgiumcentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2010:3f::/64', 'IPv6');

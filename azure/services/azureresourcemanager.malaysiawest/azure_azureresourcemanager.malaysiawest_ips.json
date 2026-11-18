@@ -6,7 +6,19 @@
     "region": "malaysiawest"
   },
   {
+    "ip_address": "85.211.145.128/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
     "ip_address": "2603:1040:1602:1::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.MalaysiaWest",
+    "region": "malaysiawest"
+  },
+  {
+    "ip_address": "2603:1040:1602:1000::2/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.MalaysiaWest",
     "region": "malaysiawest"

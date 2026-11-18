@@ -4872,6 +4872,24 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "145.133.209.248/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "145.133.209.252/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "145.133.209.254/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "145.190.156.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.uksouth",
@@ -4971,6 +4989,12 @@
     "ip_address": "172.165.41.192/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "172.165.41.196/30",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UKSouth",
     "region": "uksouth"
   },
   {
@@ -7266,6 +7290,12 @@
     "region": "uksouth"
   },
   {
+    "ip_address": "2603:1020:705:1f::751/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
     "ip_address": "2603:1020:705:20::/59",
     "ip_type": "IPv6",
     "service": "AzureCloud.uksouth",
@@ -7275,6 +7305,18 @@
     "ip_address": "2603:1020:705:20::400/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:21::7e0/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:21::7e4/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.UKSouth",
     "region": "uksouth"
   },
   {
@@ -7689,6 +7731,12 @@
     "ip_address": "2603:1020:705:1000::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.UKSouth",
+    "region": "uksouth"
+  },
+  {
+    "ip_address": "2603:1020:705:1000::14/126",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.UKSouth",
     "region": "uksouth"
   },
   {

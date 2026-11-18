@@ -7,4 +7,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.chilecentral_ips` (
 );
 
 INSERT INTO `azure_azureresourcemanager.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.10.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('68.211.33.24/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:1::400/120', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.chilecentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1050:301:1000::a/127', 'IPv6');

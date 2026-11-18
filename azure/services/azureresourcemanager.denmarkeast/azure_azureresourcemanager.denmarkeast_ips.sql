@@ -6,5 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.denmarkeast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureresourcemanager.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.13.18/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.40.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1::300/120', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1000::a/127', 'IPv6');

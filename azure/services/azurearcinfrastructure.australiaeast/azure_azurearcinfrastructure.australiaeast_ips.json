@@ -48,7 +48,43 @@
     "region": "australiaeast"
   },
   {
+    "ip_address": "172.146.5.128/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "172.146.5.132/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "172.146.5.134/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
     "ip_address": "2603:1010:6:e::686/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:1a::5d5/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:1b::71c/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.AustraliaEast",
+    "region": "australiaeast"
+  },
+  {
+    "ip_address": "2603:1010:6:1b::7d0/127",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.AustraliaEast",
     "region": "australiaeast"

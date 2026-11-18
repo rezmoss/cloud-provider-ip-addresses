@@ -15,4 +15,6 @@ INSERT INTO `azure_azurearcinfrastructure.westus_ips` (`ip_address`, `ip_type`) 
 INSERT INTO `azure_azurearcinfrastructure.westus_ips` (`ip_address`, `ip_type`) VALUES ('20.49.125.188/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.westus_ips` (`ip_address`, `ip_type`) VALUES ('20.189.171.108/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.westus_ips` (`ip_address`, `ip_type`) VALUES ('20.189.173.48/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.westus_ips` (`ip_address`, `ip_type`) VALUES ('74.146.69.166/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a07:33::4ca/127', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure.westus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:a09:100::/63', 'IPv6');

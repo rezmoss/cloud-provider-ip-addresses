@@ -570,6 +570,12 @@
     "region": "southeastus3"
   },
   {
+    "ip_address": "74.7.100.16/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
     "ip_address": "74.7.113.168/29",
     "ip_type": "IPv4",
     "service": "AzureAttestation.SoutheastUS3",
@@ -939,6 +945,12 @@
     "ip_address": "2603:1030:1302:400::220/124",
     "ip_type": "IPv6",
     "service": "DataFactory.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "2603:1030:1302:800::a/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SoutheastUS3",
     "region": "southeastus3"
   },
   {

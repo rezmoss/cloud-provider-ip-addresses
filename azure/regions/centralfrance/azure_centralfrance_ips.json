@@ -228,6 +228,12 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "4.211.127.100/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "4.211.136.48/29",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.FranceCentral",
@@ -261,6 +267,12 @@
     "ip_address": "4.211.137.0/24",
     "ip_type": "IPv4",
     "service": "AzureIoTHub.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "4.211.144.238/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.FranceCentral",
     "region": "centralfrance"
   },
   {
@@ -4314,6 +4326,12 @@
     "region": "centralfrance"
   },
   {
+    "ip_address": "2603:1020:805:18::67c/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
     "ip_address": "2603:1020:805:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.FranceCentral",
@@ -4677,6 +4695,12 @@
     "ip_address": "2603:1020:805:c02::480/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.FranceCentral",
+    "region": "centralfrance"
+  },
+  {
+    "ip_address": "2603:1020:805:1000::16/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.FranceCentral",
     "region": "centralfrance"
   },
   {

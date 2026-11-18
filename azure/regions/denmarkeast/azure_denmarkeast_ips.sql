@@ -8,7 +8,10 @@ CREATE TABLE IF NOT EXISTS `azure_denmarkeast_ips` (
 
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.59.0/24', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.219.0/24', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.254.128/27', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.129.254.208/28', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.0.0/16', 'IPv4');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.13.18/31', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.13.20/30', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.32.16/30', 'IPv4');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('9.205.32.20/30', 'IPv4');
@@ -294,6 +297,7 @@ INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:c00::50/124', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:c00::80/121', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1000::/52', 'IPv6');
+INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:1000::a/127', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:2000::/51', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:4000::/50', 'IPv6');
 INSERT INTO `azure_denmarkeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1602:8000::/49', 'IPv6');

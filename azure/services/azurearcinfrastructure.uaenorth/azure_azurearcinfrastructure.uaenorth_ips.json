@@ -6,6 +6,12 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "4.161.190.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "20.38.138.56/30",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.UAENorth",
@@ -43,6 +49,12 @@
   },
   {
     "ip_address": "2603:1040:904:8::743/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:11::50/126",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.UAENorth",
     "region": "uaenorth"

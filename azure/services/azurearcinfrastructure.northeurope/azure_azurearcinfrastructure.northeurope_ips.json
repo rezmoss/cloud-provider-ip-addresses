@@ -54,6 +54,18 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "172.129.196.164/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1::438/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "2603:1020:5:1b::5f4/128",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.NorthEurope",

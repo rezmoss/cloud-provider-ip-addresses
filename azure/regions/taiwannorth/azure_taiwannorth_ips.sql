@@ -12,7 +12,7 @@ INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('13.105.11
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.38.0/25', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.54.192/26', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.106.0/25', 'IPv4');
-INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.106.128/30', 'IPv4');
+INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.106.128/29', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.19.0/24', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.60.113.0/24', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.60.113.0/24', 'IPv4');
@@ -172,6 +172,7 @@ INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.26
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.78.144/28', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.78.240/29', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.83.32/29', 'IPv4');
+INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.83.68/31', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.88.0/29', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.88.8/30', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.88.12/30', 'IPv4');
@@ -202,6 +203,7 @@ INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.19
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.193.0/26', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.200.40/29', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.200.128/28', 'IPv4');
+INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('70.157.200.208/30', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('135.130.35.0/24', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('135.130.35.0/24', 'IPv4');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('135.130.41.0/24', 'IPv4');
@@ -337,6 +339,7 @@ INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:8::/61', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:8::400/118', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:9::a0/124', 'IPv6');
+INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:b::4ec/126', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:10::/60', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:20::/59', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:40::/58', 'IPv6');
@@ -371,6 +374,7 @@ INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:c00::28/125', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:c00::240/124', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:1000::/52', 'IPv6');
+INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:1000::2/127', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:2000::/51', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:4000::/50', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1302:8000::/49', 'IPv6');
@@ -383,11 +387,7 @@ INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:c0::/59', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1:200::/59', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005::/57', 'IPv6');
-INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:80::/59', 'IPv6');
-INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:a0::/60', 'IPv6');
-INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:b0::/61', 'IPv6');
-INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:b8::/62', 'IPv6');
-INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:bc::/63', 'IPv6');
+INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:80::/58', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:3400::/54', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1734::/48', 'IPv6');
 INSERT INTO `azure_taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:e000::/57', 'IPv6');

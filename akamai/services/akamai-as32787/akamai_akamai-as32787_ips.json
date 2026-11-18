@@ -2142,6 +2142,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2606:6c00:212::/48",
+    "ip_type": "IPv6",
+    "service": "akamai-as32787",
+    "region": "global"
+  },
+  {
     "ip_address": "2606:6c00:213::/48",
     "ip_type": "IPv6",
     "service": "akamai-as32787",

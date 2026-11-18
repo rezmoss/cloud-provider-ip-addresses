@@ -8280,6 +8280,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "74.144.43.100/30",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "74.144.69.32/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.NorthEurope",
@@ -9036,6 +9042,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "172.129.196.164/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "172.150.0.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.northeurope",
@@ -9417,6 +9429,12 @@
     "ip_address": "2603:1020:5:1::380/121",
     "ip_type": "IPv6",
     "service": "AzureEventGrid.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1::438/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NorthEurope",
     "region": "northeurope"
   },
   {
@@ -10059,6 +10077,12 @@
     "ip_address": "2603:1020:5:1000::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1000::cc/126",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NorthEurope",
     "region": "northeurope"
   },
   {

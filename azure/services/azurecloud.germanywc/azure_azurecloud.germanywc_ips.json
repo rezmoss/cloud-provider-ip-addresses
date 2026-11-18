@@ -876,31 +876,13 @@
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.61.128/27",
+    "ip_address": "57.157.61.128/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"
   },
   {
-    "ip_address": "57.157.61.160/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.germanywc",
-    "region": "germanywc"
-  },
-  {
-    "ip_address": "57.157.61.176/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.germanywc",
-    "region": "germanywc"
-  },
-  {
-    "ip_address": "57.157.61.184/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.germanywc",
-    "region": "germanywc"
-  },
-  {
-    "ip_address": "57.157.61.188/31",
+    "ip_address": "57.157.61.192/31",
     "ip_type": "IPv4",
     "service": "AzureCloud.germanywc",
     "region": "germanywc"

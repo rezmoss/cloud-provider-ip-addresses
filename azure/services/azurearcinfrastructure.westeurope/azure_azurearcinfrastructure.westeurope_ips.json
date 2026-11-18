@@ -60,7 +60,19 @@
     "region": "westeurope"
   },
   {
+    "ip_address": "74.144.178.252/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestEurope",
+    "region": "westeurope"
+  },
+  {
     "ip_address": "2603:1020:206:22::3b5/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.WestEurope",
+    "region": "westeurope"
+  },
+  {
+    "ip_address": "2603:1020:206:37::24/126",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.WestEurope",
     "region": "westeurope"

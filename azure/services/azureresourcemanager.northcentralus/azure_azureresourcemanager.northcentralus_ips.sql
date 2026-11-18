@@ -7,8 +7,11 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.northcentralus_ips` (
 );
 
 INSERT INTO `azure_azureresourcemanager.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.49.116.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.192.58/31', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('20.66.192.60/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.162.110.224/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.240.242.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608::6c0/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:4::100/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.northcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:608:1000::20/126', 'IPv6');

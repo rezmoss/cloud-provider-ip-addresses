@@ -6,8 +6,10 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.canadacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureresourcemanager.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.173.130.2/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.173.192/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.150.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.48.194.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:1000::10/127', 'IPv6');

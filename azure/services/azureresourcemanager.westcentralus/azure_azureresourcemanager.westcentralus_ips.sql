@@ -10,5 +10,7 @@ INSERT INTO `azure_azureresourcemanager.westcentralus_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azureresourcemanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('13.71.198.0/24', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('40.67.120.0/24', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('52.150.158.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('128.24.235.168/30', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04::6c0/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.westcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:b04:1000::3c/126', 'IPv6');

@@ -54,6 +54,18 @@
     "region": "westus"
   },
   {
+    "ip_address": "74.146.69.166/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestUS",
+    "region": "westus"
+  },
+  {
+    "ip_address": "2603:1030:a07:33::4ca/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.WestUS",
+    "region": "westus"
+  },
+  {
     "ip_address": "2603:1030:a09:100::/63",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.WestUS",

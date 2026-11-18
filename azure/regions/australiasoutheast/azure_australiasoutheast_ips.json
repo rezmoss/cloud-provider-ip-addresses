@@ -336,6 +336,12 @@
     "region": "australiasoutheast"
   },
   {
+    "ip_address": "4.200.192.84/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
     "ip_address": "4.200.209.92/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.AustraliaSoutheast",
@@ -2970,31 +2976,13 @@
     "region": "australiasoutheast"
   },
   {
-    "ip_address": "57.157.168.0/27",
+    "ip_address": "57.157.168.0/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"
   },
   {
-    "ip_address": "57.157.168.32/28",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiasoutheast",
-    "region": "australiasoutheast"
-  },
-  {
-    "ip_address": "57.157.168.48/29",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiasoutheast",
-    "region": "australiasoutheast"
-  },
-  {
-    "ip_address": "57.157.168.56/30",
-    "ip_type": "IPv4",
-    "service": "AzureCloud.australiasoutheast",
-    "region": "australiasoutheast"
-  },
-  {
-    "ip_address": "57.157.168.60/31",
+    "ip_address": "57.157.168.64/30",
     "ip_type": "IPv4",
     "service": "AzureCloud.australiasoutheast",
     "region": "australiasoutheast"
@@ -4413,6 +4401,12 @@
     "ip_address": "2603:1010:101:c00::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.AustraliaSoutheast",
+    "region": "australiasoutheast"
+  },
+  {
+    "ip_address": "2603:1010:101:c00::4/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.AustraliaSoutheast",
     "region": "australiasoutheast"
   },
   {

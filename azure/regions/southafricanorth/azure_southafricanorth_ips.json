@@ -162,6 +162,12 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "4.222.15.190/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "4.222.15.192/28",
     "ip_type": "IPv4",
     "service": "PowerBI.SouthAfricaNorth",
@@ -2556,6 +2562,12 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "172.209.182.108/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "172.209.191.124/31",
     "ip_type": "IPv4",
     "service": "ApiManagement.SouthAfricaNorth",
@@ -3012,6 +3024,12 @@
     "region": "southafricanorth"
   },
   {
+    "ip_address": "2603:1000:104:12::510/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
     "ip_address": "2603:1000:104:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.SouthAfricaNorth",
@@ -3393,6 +3411,12 @@
     "ip_address": "2603:1000:104:c02::480/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.SouthAfricaNorth",
+    "region": "southafricanorth"
+  },
+  {
+    "ip_address": "2603:1000:104:1000::a/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SouthAfricaNorth",
     "region": "southafricanorth"
   },
   {

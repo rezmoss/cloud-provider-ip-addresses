@@ -176,6 +176,7 @@ ip_address,ip_type,service,region
 20.170.50.76/30,IPv4,PowerBI.GermanyWestCentral,germanywc
 20.170.50.128/28,IPv4,PowerBI.GermanyWestCentral,germanywc
 20.170.50.144/29,IPv4,PowerBI.GermanyWestCentral,germanywc
+20.170.50.184/30,IPv4,AzureArcInfrastructure.GermanyWestCentral,germanywc
 20.170.128.0/19,IPv4,AzureCloud.germanywc,germanywc
 20.190.190.64/26,IPv4,AzureCloud.germanywc,germanywc
 20.209.32.0/23,IPv4,AzureCloud.germanywc,germanywc
@@ -249,6 +250,7 @@ ip_address,ip_type,service,region
 48.203.154.128/26,IPv4,AzureIoTHub.GermanyWestCentral,germanywc
 48.203.160.0/19,IPv4,AzureCloud.germanywc,germanywc
 48.203.174.48/28,IPv4,AzureMonitor.GermanyWestCentral,germanywc
+48.203.176.222/31,IPv4,AzureResourceManager.GermanyWestCentral,germanywc
 48.203.177.224/30,IPv4,ApiManagement.GermanyWestCentral,germanywc
 48.203.190.186/31,IPv4,ApiManagement.GermanyWestCentral,germanywc
 48.203.191.104/29,IPv4,ApiManagement.GermanyWestCentral,germanywc
@@ -434,11 +436,8 @@ ip_address,ip_type,service,region
 57.150.218.0/23,IPv4,Storage.GermanyWestCentral,germanywc
 57.157.60.0/24,IPv4,AzureCloud.germanywc,germanywc
 57.157.61.0/25,IPv4,AzureCloud.germanywc,germanywc
-57.157.61.128/27,IPv4,AzureCloud.germanywc,germanywc
-57.157.61.160/28,IPv4,AzureCloud.germanywc,germanywc
-57.157.61.176/29,IPv4,AzureCloud.germanywc,germanywc
-57.157.61.184/30,IPv4,AzureCloud.germanywc,germanywc
-57.157.61.188/31,IPv4,AzureCloud.germanywc,germanywc
+57.157.61.128/26,IPv4,AzureCloud.germanywc,germanywc
+57.157.61.192/31,IPv4,AzureCloud.germanywc,germanywc
 70.152.12.0/24,IPv4,AzureCloud.germanywc,germanywc
 72.144.0.0/16,IPv4,AzureCloud.germanywc,germanywc
 72.144.226.160/27,IPv4,AzureSignalR.GermanyWestCentral,germanywc
@@ -539,6 +538,7 @@ ip_address,ip_type,service,region
 2603:1020:c04:5::5a0/123,IPv6,AppService.GermanyWestCentral,germanywc
 2603:1020:c04:5::5c0/122,IPv6,AzureMonitor.GermanyWestCentral,germanywc
 2603:1020:c04:5::600/122,IPv6,AzureMonitor.GermanyWestCentral,germanywc
+2603:1020:c04:6::124/126,IPv6,AzureArcInfrastructure.GermanyWestCentral,germanywc
 2603:1020:c04:7::/120,IPv6,AppService.GermanyWestCentral,germanywc
 2603:1020:c04:7::300/120,IPv6,AppService.GermanyWestCentral,germanywc
 2603:1020:c04:a::500/120,IPv6,AzureMonitor.GermanyWestCentral,germanywc
@@ -617,6 +617,7 @@ ip_address,ip_type,service,region
 2603:1020:c04:c02::240/123,IPv6,AzureIoTHub.GermanyWestCentral,germanywc
 2603:1020:c04:c02::400/121,IPv6,AzureContainerRegistry.GermanyWestCentral,germanywc
 2603:1020:c04:c02::480/121,IPv6,AzureMonitor.GermanyWestCentral,germanywc
+2603:1020:c04:1000::2/127,IPv6,AzureResourceManager.GermanyWestCentral,germanywc
 2603:1020:c05::/48,IPv6,Storage.GermanyWestCentral,germanywc
 2603:1020:c07::/48,IPv6,AzureCloud.germanywc,germanywc
 2603:1020:c40::/48,IPv6,AzureCloud.germanywc,germanywc

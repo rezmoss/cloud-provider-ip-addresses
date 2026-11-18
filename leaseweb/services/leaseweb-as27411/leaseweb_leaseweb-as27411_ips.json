@@ -588,12 +588,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2a10:68c6::/32",
-    "ip_type": "IPv6",
-    "service": "leaseweb-as27411",
-    "region": "global"
-  },
-  {
     "ip_address": "2a11:ac40::/29",
     "ip_type": "IPv6",
     "service": "leaseweb-as27411",

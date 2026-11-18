@@ -1,6 +1,6 @@
 #!/bin/bash
 # Hetzner IP Ranges
-# Updated: 2026-11-04 02:21:33
+# Updated: 2026-11-18 02:22:32
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -13,6 +13,7 @@ iptables -A INPUT -s 5.9.0.0/16 -j DROP
 iptables -A INPUT -s 5.75.128.0/17 -j DROP
 iptables -A INPUT -s 5.78.0.0/16 -j DROP
 iptables -A INPUT -s 5.161.0.0/16 -j DROP
+iptables -A INPUT -s 5.222.0.0/16 -j DROP
 iptables -A INPUT -s 23.88.0.0/17 -j DROP
 iptables -A INPUT -s 31.58.88.0/24 -j DROP
 iptables -A INPUT -s 37.27.0.0/16 -j DROP

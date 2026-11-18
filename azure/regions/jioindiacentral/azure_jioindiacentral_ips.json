@@ -18,6 +18,18 @@
     "region": "jioindiacentral"
   },
   {
+    "ip_address": "4.240.138.176/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "4.240.138.178/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "4.240.144.50/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.JioIndiaCentral",
@@ -882,6 +894,12 @@
     "region": "jioindiacentral"
   },
   {
+    "ip_address": "20.207.9.12/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "20.207.24.148/30",
     "ip_type": "IPv4",
     "service": "AzureAttestation.JioIndiaCentral",
@@ -1116,6 +1134,12 @@
     "region": "jioindiacentral"
   },
   {
+    "ip_address": "2603:1040:1104::3aa/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "2603:1040:1104::500/123",
     "ip_type": "IPv6",
     "service": "Sql.JioIndiaCentral",
@@ -1326,6 +1350,30 @@
     "region": "jioindiacentral"
   },
   {
+    "ip_address": "2603:1040:1104:b::6ac/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:b::6b0/125",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:b::6b8/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:b::6ba/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "2603:1040:1104:400::80/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.JioIndiaCentral",
@@ -1485,6 +1533,12 @@
     "ip_address": "2603:1040:1104:402::/123",
     "ip_type": "IPv6",
     "service": "Sql.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:800::a/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.JioIndiaCentral",
     "region": "jioindiacentral"
   },
   {

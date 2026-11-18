@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-11-11 02:16:18
+# Updated: 2026-11-18 02:18:16
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -28,6 +28,11 @@ ufw deny from 9.129.229.0/24
 ufw deny from 9.129.244.128/26
 ufw deny from 9.129.246.64/27
 ufw deny from 9.129.248.96/28
+ufw deny from 9.129.250.240/28
+ufw deny from 9.129.251.0/27
+ufw deny from 9.129.251.48/28
+ufw deny from 9.129.251.64/26
+ufw deny from 9.129.251.128/26
 ufw deny from 13.104.253.48/28
 ufw deny from 13.105.66.32/27
 ufw deny from 13.105.66.128/28
@@ -76,6 +81,7 @@ ufw deny from 20.152.74.0/23
 ufw deny from 20.152.76.0/22
 ufw deny from 20.152.86.0/23
 ufw deny from 20.152.106.0/23
+ufw deny from 20.152.136.0/23
 ufw deny from 20.153.3.0/24
 ufw deny from 20.153.5.0/24
 ufw deny from 20.153.13.0/24
@@ -165,11 +171,9 @@ ufw deny from 57.150.252.0/23
 ufw deny from 57.154.0.0/17
 ufw deny from 57.157.8.0/22
 ufw deny from 57.157.128.0/23
-ufw deny from 57.157.130.0/25
-ufw deny from 57.157.130.128/26
-ufw deny from 57.157.130.192/28
-ufw deny from 57.157.130.208/29
-ufw deny from 57.157.130.216/30
+ufw deny from 57.157.130.0/24
+ufw deny from 57.157.131.0/28
+ufw deny from 57.157.131.16/30
 ufw deny from 57.163.18.0/23
 ufw deny from 57.163.46.0/23
 ufw deny from 57.163.82.0/23
@@ -196,6 +200,7 @@ ufw deny from 145.190.172.0/24
 ufw deny from 145.190.186.0/24
 ufw deny from 145.190.200.0/24
 ufw deny from 145.190.203.0/24
+ufw deny from 145.190.205.0/24
 ufw deny from 151.206.160.0/24
 ufw deny from 151.206.186.0/24
 ufw deny from 172.147.0.0/17

@@ -36,6 +36,7 @@ ip_address,ip_type,service,region
 40.90.142.96/27,IPv4,AzureCloud.australiacentral,australiacentral
 40.90.149.64/27,IPv4,AzureCloud.australiacentral,australiacentral
 40.100.59.0/26,IPv4,AzureCloud.australiacentral,australiacentral
+40.100.81.0/26,IPv4,AzureCloud.australiacentral,australiacentral
 40.126.61.64/26,IPv4,AzureCloud.australiacentral,australiacentral
 48.212.34.0/24,IPv4,AzureCloud.australiacentral,australiacentral
 48.212.161.0/24,IPv4,AzureCloud.australiacentral,australiacentral
@@ -63,6 +64,7 @@ ip_address,ip_type,service,region
 2603:101c:0:8200::/55,IPv6,AzureCloud.australiacentral,australiacentral
 2603:101c:0:c200::/55,IPv6,AzureCloud.australiacentral,australiacentral
 2603:1046:a00:33::/64,IPv6,AzureCloud.australiacentral,australiacentral
+2603:1046:a00:3a::/64,IPv6,AzureCloud.australiacentral,australiacentral
 2603:1061:1314::/54,IPv6,AzureCloud.australiacentral,australiacentral
 2603:1061:1725::/48,IPv6,AzureCloud.australiacentral,australiacentral
 2603:1061:2010:23::/64,IPv6,AzureCloud.australiacentral,australiacentral

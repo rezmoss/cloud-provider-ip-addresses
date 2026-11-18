@@ -15,4 +15,10 @@ INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('40.89.121.188/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('48.223.58.80/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('52.138.90.54/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('74.151.95.145/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('74.151.95.146/31', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('74.151.95.148/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:10::755/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:18::2a5/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:18::3a4/126', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.eastus2euap_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:40b:18::3a8/127', 'IPv6');

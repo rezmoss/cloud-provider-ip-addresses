@@ -1236,6 +1236,12 @@
     "region": "israelcentral"
   },
   {
+    "ip_address": "51.58.2.100/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
     "ip_address": "51.58.11.128/26",
     "ip_type": "IPv4",
     "service": "PowerPlatformPlex.IsraelCentral",
@@ -2085,6 +2091,12 @@
     "ip_address": "2603:1040:1402:c00::2c0/124",
     "ip_type": "IPv6",
     "service": "DataFactory.IsraelCentral",
+    "region": "israelcentral"
+  },
+  {
+    "ip_address": "2603:1040:1402:1000::2/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.IsraelCentral",
     "region": "israelcentral"
   },
   {

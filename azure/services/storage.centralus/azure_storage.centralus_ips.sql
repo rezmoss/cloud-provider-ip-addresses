@@ -98,6 +98,7 @@ INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.22.0/23', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.28.0/23', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.40.0/23', 'IPv4');
+INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.163.106.0/23', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.208.0.16/28', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('104.208.0.48/28', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('135.130.25.128/25', 'IPv4');
@@ -112,6 +113,7 @@ INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.171.0/24', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.178.0/24', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.185.0/24', 'IPv4');
+INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('145.190.209.0/24', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('168.61.128.192/26', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('168.61.129.0/25', 'IPv4');
 INSERT INTO `azure_storage.centralus_ips` (`ip_address`, `ip_type`) VALUES ('168.61.130.64/26', 'IPv4');

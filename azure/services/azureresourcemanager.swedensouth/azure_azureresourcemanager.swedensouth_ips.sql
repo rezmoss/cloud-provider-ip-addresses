@@ -6,7 +6,9 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.swedensouth_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureresourcemanager.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('20.91.56.20/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('51.12.196.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('51.12.205.0/26', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:1::/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:400::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.swedensouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:1104:800::6/127', 'IPv6');

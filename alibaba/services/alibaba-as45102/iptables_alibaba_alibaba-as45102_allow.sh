@@ -1,6 +1,6 @@
 #!/bin/bash
 # Alibaba IP Ranges
-# Updated: 2026-11-17 02:21:45
+# Updated: 2026-11-18 02:22:10
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -21,7 +21,8 @@ iptables -A INPUT -s 8.216.0.0/13 -j ACCEPT
 iptables -A INPUT -s 14.1.112.0/22 -j ACCEPT
 iptables -A INPUT -s 43.90.0.0/15 -j ACCEPT
 iptables -A INPUT -s 43.92.0.0/15 -j ACCEPT
-iptables -A INPUT -s 43.94.0.0/17 -j ACCEPT
+iptables -A INPUT -s 43.94.0.0/16 -j ACCEPT
+iptables -A INPUT -s 43.95.0.0/18 -j ACCEPT
 iptables -A INPUT -s 43.95.192.0/18 -j ACCEPT
 iptables -A INPUT -s 43.96.0.0/24 -j ACCEPT
 iptables -A INPUT -s 43.96.3.0/24 -j ACCEPT
@@ -88,7 +89,7 @@ iptables -A INPUT -s 43.123.128.0/18 -j ACCEPT
 iptables -A INPUT -s 43.124.0.0/16 -j ACCEPT
 iptables -A INPUT -s 43.125.0.0/18 -j ACCEPT
 iptables -A INPUT -s 43.125.64.0/21 -j ACCEPT
-iptables -A INPUT -s 43.126.0.0/17 -j ACCEPT
+iptables -A INPUT -s 43.126.0.0/16 -j ACCEPT
 iptables -A INPUT -s 47.52.0.0/16 -j ACCEPT
 iptables -A INPUT -s 47.56.0.0/15 -j ACCEPT
 iptables -A INPUT -s 47.74.0.0/15 -j ACCEPT
@@ -154,6 +155,7 @@ iptables -A INPUT -s 110.76.23.0/24 -j ACCEPT
 iptables -A INPUT -s 116.251.64.0/18 -j ACCEPT
 iptables -A INPUT -s 139.95.0.0/20 -j ACCEPT
 iptables -A INPUT -s 139.95.16.0/22 -j ACCEPT
+iptables -A INPUT -s 139.95.21.0/24 -j ACCEPT
 iptables -A INPUT -s 139.95.22.0/23 -j ACCEPT
 iptables -A INPUT -s 139.95.24.0/21 -j ACCEPT
 iptables -A INPUT -s 139.95.32.0/21 -j ACCEPT

@@ -316,5 +316,11 @@
     "ip_type": "IPv6",
     "service": "leaseweb-as134351",
     "region": "global"
+  },
+  {
+    "ip_address": "2a0d:d902::/32",
+    "ip_type": "IPv6",
+    "service": "leaseweb-as134351",
+    "region": "global"
   }
 ]

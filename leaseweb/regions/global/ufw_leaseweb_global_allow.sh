@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-11-17 02:23:00
+# Updated: 2026-11-18 02:23:49
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -263,7 +263,8 @@ ufw allow from 45.153.218.0/24
 ufw allow from 45.154.59.0/24
 ufw allow from 45.154.85.0/24
 ufw allow from 45.154.86.0/23
-ufw allow from 45.154.228.0/22
+ufw allow from 45.154.229.0/24
+ufw allow from 45.154.230.0/23
 ufw allow from 45.154.245.0/24
 ufw allow from 45.155.200.0/22
 ufw allow from 45.157.36.0/24
@@ -752,7 +753,6 @@ ufw allow from 160.202.133.0/24
 ufw allow from 162.210.192.0/21
 ufw allow from 162.219.212.0/22
 ufw allow from 162.221.63.0/24
-ufw allow from 162.249.59.0/24
 ufw allow from 163.5.178.0/24
 ufw allow from 164.152.166.0/23
 ufw allow from 166.0.98.0/24
@@ -880,6 +880,7 @@ ufw allow from 178.83.106.0/24
 ufw allow from 178.93.238.0/24
 ufw allow from 178.94.30.0/24
 ufw allow from 178.162.128.0/17
+ufw allow from 178.239.119.0/24
 ufw allow from 178.250.16.0/24
 ufw allow from 178.250.18.0/24
 ufw allow from 179.61.166.0/24
@@ -1241,7 +1242,7 @@ ufw allow from 2a0d:3004::/32
 ufw allow from 2a0d:6100::/29
 ufw allow from 2a0d:83c0::/29
 ufw allow from 2a0d:9400::/29
-ufw allow from 2a0d:d903::/32
+ufw allow from 2a0d:d902::/31
 ufw allow from 2a0d:d907::/32
 ufw allow from 2a0e:15c0:11::/48
 ufw allow from 2a0e:15c5:acab::/48
@@ -1307,7 +1308,6 @@ ufw allow from 2a0f:68c0::/29
 ufw allow from 2a0f:7d02:1::/48
 ufw allow from 2a0f:7d06:33::/48
 ufw allow from 2a0f:7d06:66::/48
-ufw allow from 2a0f:8100::/29
 ufw allow from 2a0f:8680::/29
 ufw allow from 2a0f:a940::/29
 ufw allow from 2a0f:cc00::/29
@@ -1351,7 +1351,7 @@ ufw allow from 2a10:37c0::/29
 ufw allow from 2a10:6700::/29
 ufw allow from 2a10:67c6::/32
 ufw allow from 2a10:68c0::/32
-ufw allow from 2a10:68c6::/31
+ufw allow from 2a10:68c7::/32
 ufw allow from 2a10:6d40::/29
 ufw allow from 2a10:b5c1::/32
 ufw allow from 2a10:fdc0::/29

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.173.130.2/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
     "ip_address": "13.71.173.192/28",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.CanadaCentral",
@@ -25,6 +31,12 @@
   },
   {
     "ip_address": "2603:1030:f05:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.CanadaCentral",
+    "region": "canadacentral"
+  },
+  {
+    "ip_address": "2603:1030:f05:1000::10/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.CanadaCentral",
     "region": "canadacentral"

@@ -6,9 +6,11 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.australiacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureresourcemanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.28.89.168/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.36.108.48/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.36.110.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.37.230.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304::6c0/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:5::200/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.australiacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1010:304:800::a/127', 'IPv6');

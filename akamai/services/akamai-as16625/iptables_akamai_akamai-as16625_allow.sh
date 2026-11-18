@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-11-13 02:19:46
+# Updated: 2026-11-18 02:23:29
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -827,7 +827,6 @@ iptables -A INPUT -s 23.207.128.0/19 -j ACCEPT
 iptables -A INPUT -s 23.207.176.0/22 -j ACCEPT
 iptables -A INPUT -s 23.207.192.0/22 -j ACCEPT
 iptables -A INPUT -s 23.207.212.0/22 -j ACCEPT
-iptables -A INPUT -s 23.207.218.0/23 -j ACCEPT
 iptables -A INPUT -s 23.208.18.0/23 -j ACCEPT
 iptables -A INPUT -s 23.208.32.0/19 -j ACCEPT
 iptables -A INPUT -s 23.208.68.0/22 -j ACCEPT
@@ -928,7 +927,6 @@ iptables -A INPUT -s 23.216.14.0/23 -j ACCEPT
 iptables -A INPUT -s 23.216.56.0/22 -j ACCEPT
 iptables -A INPUT -s 23.216.60.0/23 -j ACCEPT
 iptables -A INPUT -s 23.216.96.0/19 -j ACCEPT
-iptables -A INPUT -s 23.216.140.0/22 -j ACCEPT
 iptables -A INPUT -s 23.216.156.0/23 -j ACCEPT
 iptables -A INPUT -s 23.216.160.0/19 -j ACCEPT
 iptables -A INPUT -s 23.216.192.0/19 -j ACCEPT
@@ -967,7 +965,6 @@ iptables -A INPUT -s 23.219.94.0/23 -j ACCEPT
 iptables -A INPUT -s 23.219.96.0/20 -j ACCEPT
 iptables -A INPUT -s 23.219.112.0/21 -j ACCEPT
 iptables -A INPUT -s 23.219.138.0/23 -j ACCEPT
-iptables -A INPUT -s 23.219.164.0/22 -j ACCEPT
 iptables -A INPUT -s 23.219.224.0/19 -j ACCEPT
 iptables -A INPUT -s 23.220.0.0/18 -j ACCEPT
 iptables -A INPUT -s 23.220.98.0/23 -j ACCEPT
@@ -1020,7 +1017,6 @@ iptables -A INPUT -s 69.192.32.0/20 -j ACCEPT
 iptables -A INPUT -s 69.192.80.0/20 -j ACCEPT
 iptables -A INPUT -s 69.192.108.0/22 -j ACCEPT
 iptables -A INPUT -s 69.192.112.0/20 -j ACCEPT
-iptables -A INPUT -s 69.192.128.0/22 -j ACCEPT
 iptables -A INPUT -s 72.246.28.0/22 -j ACCEPT
 iptables -A INPUT -s 72.246.48.0/23 -j ACCEPT
 iptables -A INPUT -s 72.246.60.0/22 -j ACCEPT
@@ -1151,9 +1147,6 @@ iptables -A INPUT -s 104.71.248.0/21 -j ACCEPT
 iptables -A INPUT -s 104.72.76.0/23 -j ACCEPT
 iptables -A INPUT -s 104.73.176.0/21 -j ACCEPT
 iptables -A INPUT -s 104.73.224.0/20 -j ACCEPT
-iptables -A INPUT -s 104.74.148.0/22 -j ACCEPT
-iptables -A INPUT -s 104.74.152.0/23 -j ACCEPT
-iptables -A INPUT -s 104.74.160.0/19 -j ACCEPT
 iptables -A INPUT -s 104.75.0.0/22 -j ACCEPT
 iptables -A INPUT -s 104.75.6.0/23 -j ACCEPT
 iptables -A INPUT -s 104.75.8.0/22 -j ACCEPT

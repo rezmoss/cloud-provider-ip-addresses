@@ -6,6 +6,12 @@
     "region": "southeastasia3"
   },
   {
+    "ip_address": "48.198.210.192/29",
+    "ip_type": "IPv4",
+    "service": "StorageSyncService.SoutheastAsia3",
+    "region": "southeastasia3"
+  },
+  {
     "ip_address": "2603:1040:1b02:2::480/123",
     "ip_type": "IPv6",
     "service": "StorageSyncService.SoutheastAsia3",

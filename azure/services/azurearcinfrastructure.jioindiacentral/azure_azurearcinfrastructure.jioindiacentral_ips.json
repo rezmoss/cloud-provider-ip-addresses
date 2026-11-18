@@ -1,5 +1,17 @@
 [
   {
+    "ip_address": "4.240.138.176/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "4.240.138.178/32",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
     "ip_address": "4.240.144.50/31",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.JioIndiaCentral",
@@ -20,6 +32,36 @@
   {
     "ip_address": "20.192.228.252/30",
     "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104::3aa/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:b::6ac/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:b::6b0/125",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:b::6b8/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.JioIndiaCentral",
+    "region": "jioindiacentral"
+  },
+  {
+    "ip_address": "2603:1040:1104:b::6ba/128",
+    "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.JioIndiaCentral",
     "region": "jioindiacentral"
   }

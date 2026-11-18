@@ -68,6 +68,7 @@ INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('40
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('48.196.95.152/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('48.197.87.144/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('48.198.95.152/29', 'IPv4');
+INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('48.198.210.192/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('48.216.8.56/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('48.216.36.248/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice_ips` (`ip_address`, `ip_type`) VALUES ('48.219.212.72/29', 'IPv4');

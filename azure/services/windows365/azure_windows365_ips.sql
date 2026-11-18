@@ -26,6 +26,7 @@ INSERT INTO `azure_windows365_ips` (`ip_address`, `ip_type`) VALUES ('4.150.225.
 INSERT INTO `azure_windows365_ips` (`ip_address`, `ip_type`) VALUES ('4.151.103.186/31', 'IPv4');
 INSERT INTO `azure_windows365_ips` (`ip_address`, `ip_type`) VALUES ('4.156.6.120/31', 'IPv4');
 INSERT INTO `azure_windows365_ips` (`ip_address`, `ip_type`) VALUES ('4.156.6.124/30', 'IPv4');
+INSERT INTO `azure_windows365_ips` (`ip_address`, `ip_type`) VALUES ('4.171.9.16/29', 'IPv4');
 INSERT INTO `azure_windows365_ips` (`ip_address`, `ip_type`) VALUES ('4.172.219.80/28', 'IPv4');
 INSERT INTO `azure_windows365_ips` (`ip_address`, `ip_type`) VALUES ('4.172.219.96/29', 'IPv4');
 INSERT INTO `azure_windows365_ips` (`ip_address`, `ip_type`) VALUES ('4.172.219.104/30', 'IPv4');

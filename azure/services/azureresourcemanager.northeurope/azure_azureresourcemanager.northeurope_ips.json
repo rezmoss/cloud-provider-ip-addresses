@@ -42,6 +42,12 @@
     "region": "northeurope"
   },
   {
+    "ip_address": "74.144.43.100/30",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.NorthEurope",
+    "region": "northeurope"
+  },
+  {
     "ip_address": "2603:1020:5::180/122",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.NorthEurope",
@@ -49,6 +55,12 @@
   },
   {
     "ip_address": "2603:1020:5:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.NorthEurope",
+    "region": "northeurope"
+  },
+  {
+    "ip_address": "2603:1020:5:1000::cc/126",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.NorthEurope",
     "region": "northeurope"

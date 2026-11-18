@@ -246,9 +246,21 @@
     "region": "eusc-de-east-1"
   },
   {
+    "ip_address": "51.72.40.128/28",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "region": "eusc-de-east-1"
+  },
+  {
     "ip_address": "51.72.40.144/28",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.72.40.144/28",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "eusc-de-east-1"
   },
   {
@@ -267,6 +279,12 @@
     "ip_address": "51.72.96.0/23",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
+    "region": "eusc-de-east-1"
+  },
+  {
+    "ip_address": "51.72.96.0/23",
+    "ip_type": "IPv4",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
     "region": "eusc-de-east-1"
   },
   {

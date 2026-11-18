@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "4.161.168.72/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "40.120.80.0/23",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.UAENorth",
@@ -31,6 +37,12 @@
   },
   {
     "ip_address": "2603:1040:904:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:1000::4/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.UAENorth",
     "region": "uaenorth"

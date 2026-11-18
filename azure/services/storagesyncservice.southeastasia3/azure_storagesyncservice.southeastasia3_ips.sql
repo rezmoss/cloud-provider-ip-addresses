@@ -7,4 +7,5 @@ CREATE TABLE IF NOT EXISTS `azure_storagesyncservice.southeastasia3_ips` (
 );
 
 INSERT INTO `azure_storagesyncservice.southeastasia3_ips` (`ip_address`, `ip_type`) VALUES ('48.198.95.152/29', 'IPv4');
+INSERT INTO `azure_storagesyncservice.southeastasia3_ips` (`ip_address`, `ip_type`) VALUES ('48.198.210.192/29', 'IPv4');
 INSERT INTO `azure_storagesyncservice.southeastasia3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:1b02:2::480/123', 'IPv6');

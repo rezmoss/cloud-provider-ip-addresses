@@ -12,7 +12,7 @@ INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.38.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.54.192/26', 'IPv4');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.106.0/25', 'IPv4');
-INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.106.128/30', 'IPv4');
+INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.20.106.128/29', 'IPv4');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.38.19.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.60.113.0/24', 'IPv4');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('20.143.40.0/23', 'IPv4');
@@ -146,11 +146,7 @@ INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES 
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:2000:c0::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1047:1:200::/59', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005::/57', 'IPv6');
-INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:80::/59', 'IPv6');
-INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:a0::/60', 'IPv6');
-INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:b0::/61', 'IPv6');
-INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:b8::/62', 'IPv6');
-INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:bc::/63', 'IPv6');
+INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1005:80::/58', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1310:3400::/54', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:1734::/48', 'IPv6');
 INSERT INTO `azure_azurecloud.taiwannorth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1061:2002:e000::/57', 'IPv6');

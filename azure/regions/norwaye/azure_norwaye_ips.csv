@@ -11,6 +11,7 @@ ip_address,ip_type,service,region
 4.177.34.0/24,IPv4,AzureMonitor.NorwayEast,norwaye
 4.177.37.208/28,IPv4,AzureMonitor.NorwayEast,norwaye
 4.177.44.0/26,IPv4,AzureMonitor.NorwayEast,norwaye
+4.177.48.38/31,IPv4,AzureResourceManager.NorwayEast,norwaye
 4.177.48.40/30,IPv4,ApiManagement.NorwayEast,norwaye
 4.177.57.140/30,IPv4,AzureAttestation.NorwayEast,norwaye
 4.177.57.176/29,IPv4,AzureAttestation.NorwayEast,norwaye
@@ -28,6 +29,7 @@ ip_address,ip_type,service,region
 4.219.29.48/28,IPv4,AzureBackup.NorwayEast,norwaye
 4.219.29.176/29,IPv4,AzureAttestation.NorwayEast,norwaye
 4.219.29.184/30,IPv4,AzureAttestation.NorwayEast,norwaye
+4.219.40.40/31,IPv4,AzureArcInfrastructure.NorwayEast,norwaye
 4.219.40.48/28,IPv4,PowerBI.NorwayEast,norwaye
 4.219.40.128/25,IPv4,PowerPlatformInfra.NorwayEast,norwaye
 4.219.41.0/25,IPv4,PowerPlatformPlex.NorwayEast,norwaye
@@ -458,6 +460,7 @@ ip_address,ip_type,service,region
 2603:1020:e04:d::600/119,IPv6,AzureMonitor.NorwayEast,norwaye
 2603:1020:e04:e::200/119,IPv6,AzureMonitor.NorwayEast,norwaye
 2603:1020:e04:f::60/124,IPv6,AzureAttestation.NorwayEast,norwaye
+2603:1020:e04:11::5e/127,IPv6,AzureArcInfrastructure.NorwayEast,norwaye
 2603:1020:e04:400::/123,IPv6,Sql.NorwayEast,norwaye
 2603:1020:e04:401::/123,IPv6,Sql.NorwayEast,norwaye
 2603:1020:e04:402::80/125,IPv6,AzureKeyVault.NorwayEast,norwaye
@@ -521,6 +524,7 @@ ip_address,ip_type,service,region
 2603:1020:e04:c02::210/124,IPv6,DataFactory.NorwayEast,norwaye
 2603:1020:e04:c02::240/123,IPv6,AzureIoTHub.NorwayEast,norwaye
 2603:1020:e04:c02::400/121,IPv6,AzureContainerRegistry.NorwayEast,norwaye
+2603:1020:e04:1000::2/127,IPv6,AzureResourceManager.NorwayEast,norwaye
 2603:1020:e05::/48,IPv6,Storage.NorwayEast,norwaye
 2603:1020:e06::/48,IPv6,AzureCloud.norwaye,norwaye
 2603:1026:900:16::/63,IPv6,AzureCloud.norwaye,norwaye

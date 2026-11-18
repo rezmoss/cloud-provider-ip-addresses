@@ -26,6 +26,7 @@ ip_address,ip_type,service,region
 4.222.1.72/30,IPv4,AzureAttestation.SouthAfricaNorth,southafricanorth
 4.222.6.128/26,IPv4,AzureBackup.SouthAfricaNorth,southafricanorth
 4.222.15.174/31,IPv4,PowerBI.SouthAfricaNorth,southafricanorth
+4.222.15.190/31,IPv4,AzureArcInfrastructure.SouthAfricaNorth,southafricanorth
 4.222.15.192/28,IPv4,PowerBI.SouthAfricaNorth,southafricanorth
 4.222.128.0/18,IPv4,AzureCloud.southafricanorth,southafricanorth
 4.222.192.0/19,IPv4,AzureCloud.southafricanorth,southafricanorth
@@ -425,6 +426,7 @@ ip_address,ip_type,service,region
 172.209.175.0/27,IPv4,AzureSecurityCenter.SouthAfricaNorth,southafricanorth
 172.209.182.64/29,IPv4,AppServiceManagement.SouthAfricaNorth,southafricanorth
 172.209.182.104/30,IPv4,ApiManagement.SouthAfricaNorth,southafricanorth
+172.209.182.108/31,IPv4,AzureResourceManager.SouthAfricaNorth,southafricanorth
 172.209.191.124/31,IPv4,ApiManagement.SouthAfricaNorth,southafricanorth
 172.209.225.0/26,IPv4,PowerPlatformPlex.SouthAfricaNorth,southafricanorth
 172.209.225.128/26,IPv4,PowerPlatformPlex.SouthAfricaNorth,southafricanorth
@@ -501,6 +503,7 @@ ip_address,ip_type,service,region
 2603:1000:104:d::600/119,IPv6,AzureMonitor.SouthAfricaNorth,southafricanorth
 2603:1000:104:e::1c0/124,IPv6,AzureAttestation.SouthAfricaNorth,southafricanorth
 2603:1000:104:e::200/119,IPv6,AzureMonitor.SouthAfricaNorth,southafricanorth
+2603:1000:104:12::510/127,IPv6,AzureArcInfrastructure.SouthAfricaNorth,southafricanorth
 2603:1000:104:400::/123,IPv6,Sql.SouthAfricaNorth,southafricanorth
 2603:1000:104:400::20/125,IPv6,AzureKeyVault.SouthAfricaNorth,southafricanorth
 2603:1000:104:401::/123,IPv6,Sql.SouthAfricaNorth,southafricanorth
@@ -565,6 +568,7 @@ ip_address,ip_type,service,region
 2603:1000:104:c02::240/123,IPv6,AzureIoTHub.SouthAfricaNorth,southafricanorth
 2603:1000:104:c02::400/121,IPv6,AzureContainerRegistry.SouthAfricaNorth,southafricanorth
 2603:1000:104:c02::480/121,IPv6,AzureMonitor.SouthAfricaNorth,southafricanorth
+2603:1000:104:1000::a/127,IPv6,AzureResourceManager.SouthAfricaNorth,southafricanorth
 2603:1000:105::/48,IPv6,Storage.SouthAfricaNorth,southafricanorth
 2603:1000:106::/48,IPv6,AzureCloud.southafricanorth,southafricanorth
 2603:1006:1400::/48,IPv6,AzureCloud.southafricanorth,southafricanorth

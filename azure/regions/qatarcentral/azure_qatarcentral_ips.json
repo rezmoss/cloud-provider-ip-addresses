@@ -264,6 +264,12 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "4.244.154.88/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "4.244.170.0/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.QatarCentral",
@@ -1338,6 +1344,12 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "20.173.222.206/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "20.190.191.192/26",
     "ip_type": "IPv4",
     "service": "AzureCloud.qatarcentral",
@@ -1998,6 +2010,12 @@
     "region": "qatarcentral"
   },
   {
+    "ip_address": "2603:1040:1002:e::e4/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
     "ip_address": "2603:1040:1002:400::/122",
     "ip_type": "IPv6",
     "service": "AzureCosmosDB.QatarCentral",
@@ -2223,6 +2241,12 @@
     "ip_address": "2603:1040:1002:c00::2c8/125",
     "ip_type": "IPv6",
     "service": "AzureKeyVault.QatarCentral",
+    "region": "qatarcentral"
+  },
+  {
+    "ip_address": "2603:1040:1002:1000::a/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.QatarCentral",
     "region": "qatarcentral"
   },
   {

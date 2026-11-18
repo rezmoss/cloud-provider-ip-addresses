@@ -144,7 +144,19 @@
     "region": "southeastus"
   },
   {
+    "ip_address": "57.163.104.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
     "ip_address": "68.154.128.0/17",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "145.190.204.0/24",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastus",
     "region": "southeastus"

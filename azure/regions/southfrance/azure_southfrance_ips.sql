@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS `azure_southfrance_ips` (
 
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.208.0/20', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.217.0/29', 'IPv4');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.217.36/31', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.0/21', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.160/29', 'IPv4');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('4.251.224.180/30', 'IPv4');
@@ -398,6 +399,7 @@ INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:402::580/122', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:402::5e0/123', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:402::600/121', 'IPv6');
+INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:905:800::a/127', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:906::/47', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:906::/48', 'IPv6');
 INSERT INTO `azure_southfrance_ips` (`ip_address`, `ip_type`) VALUES ('2603:1026:900:47::/64', 'IPv6');

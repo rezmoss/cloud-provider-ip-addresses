@@ -282,6 +282,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "4.252.17.68/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "4.252.138.0/26",
     "ip_type": "IPv4",
     "service": "PowerPlatformInfra.EastAsia",
@@ -819,6 +825,12 @@
     "ip_address": "20.6.192.72/30",
     "ip_type": "IPv4",
     "service": "ApiManagement.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "20.6.192.76/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.EastAsia",
     "region": "eastasia"
   },
   {
@@ -4368,6 +4380,12 @@
     "region": "eastasia"
   },
   {
+    "ip_address": "2603:1040:207:1a::464/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.EastAsia",
+    "region": "eastasia"
+  },
+  {
     "ip_address": "2603:1040:207:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.EastAsia",
@@ -4683,6 +4701,12 @@
     "ip_address": "2603:1040:207:1000::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.EastAsia",
+    "region": "eastasia"
+  },
+  {
+    "ip_address": "2603:1040:207:1000::38/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.EastAsia",
     "region": "eastasia"
   },
   {

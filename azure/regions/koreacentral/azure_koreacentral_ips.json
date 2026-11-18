@@ -126,6 +126,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "4.217.144.108/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "4.217.153.0/28",
     "ip_type": "IPv4",
     "service": "AzureMonitor.KoreaCentral",
@@ -255,6 +261,12 @@
     "ip_address": "4.230.59.0/28",
     "ip_type": "IPv4",
     "service": "PowerBI.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "4.230.60.160/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.KoreaCentral",
     "region": "koreacentral"
   },
   {
@@ -505,6 +517,36 @@
   },
   {
     "ip_address": "9.129.247.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "9.129.255.16/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "9.129.255.32/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "9.129.255.64/28",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "9.129.255.96/27",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.koreacentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "9.129.255.128/28",
     "ip_type": "IPv4",
     "service": "AzureCloud.koreacentral",
     "region": "koreacentral"
@@ -3390,6 +3432,12 @@
     "region": "koreacentral"
   },
   {
+    "ip_address": "2603:1040:f05:15::21c/127",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
     "ip_address": "2603:1040:f05:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.KoreaCentral",
@@ -3771,6 +3819,12 @@
     "ip_address": "2603:1040:f05:c02::480/121",
     "ip_type": "IPv6",
     "service": "AzureMonitor.KoreaCentral",
+    "region": "koreacentral"
+  },
+  {
+    "ip_address": "2603:1040:f05:1000::a/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.KoreaCentral",
     "region": "koreacentral"
   },
   {

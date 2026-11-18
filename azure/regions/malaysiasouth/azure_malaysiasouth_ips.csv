@@ -167,6 +167,7 @@ ip_address,ip_type,service,region
 70.152.90.0/24,IPv4,AzureCloud.malaysiasouth,malaysiasouth
 70.152.223.0/24,IPv4,AzureCloud.malaysiasouth,malaysiasouth
 85.211.0.0/17,IPv4,AzureCloud.malaysiasouth,malaysiasouth
+85.211.69.18/31,IPv4,AzureResourceManager.MalaysiaSouth,malaysiasouth
 85.211.75.240/28,IPv4,LogicApps.MalaysiaSouth,malaysiasouth
 85.211.78.80/29,IPv4,StorageSyncService.MalaysiaSouth,malaysiasouth
 85.211.79.192/27,IPv4,LogicApps.MalaysiaSouth,malaysiasouth
@@ -321,6 +322,7 @@ ip_address,ip_type,service,region
 2603:1040:1503:400::3e0/123,IPv6,LogicApps.MalaysiaSouth,malaysiasouth
 2603:1040:1503:400::508/125,IPv6,AzureKeyVault.MalaysiaSouth,malaysiasouth
 2603:1040:1503:800::/53,IPv6,AzureCloud.malaysiasouth,malaysiasouth
+2603:1040:1503:800::2/127,IPv6,AzureResourceManager.MalaysiaSouth,malaysiasouth
 2603:1040:1503:1000::/52,IPv6,AzureCloud.malaysiasouth,malaysiasouth
 2603:1040:1503:2000::/51,IPv6,AzureCloud.malaysiasouth,malaysiasouth
 2603:1040:1503:4000::/50,IPv6,AzureCloud.malaysiasouth,malaysiasouth

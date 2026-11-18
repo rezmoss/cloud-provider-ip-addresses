@@ -132,9 +132,21 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "4.161.168.72/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "4.161.180.64/26",
     "ip_type": "IPv4",
     "service": "AzureBackup.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "4.161.190.120/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.UAENorth",
     "region": "uaenorth"
   },
   {
@@ -3192,6 +3204,12 @@
     "region": "uaenorth"
   },
   {
+    "ip_address": "2603:1040:904:11::50/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.UAENorth",
+    "region": "uaenorth"
+  },
+  {
     "ip_address": "2603:1040:904:400::/123",
     "ip_type": "IPv6",
     "service": "Sql.UAENorth",
@@ -3561,6 +3579,12 @@
     "ip_address": "2603:1040:904:1000::2/128",
     "ip_type": "IPv6",
     "service": "AzureDevOps.UAENorth",
+    "region": "uaenorth"
+  },
+  {
+    "ip_address": "2603:1040:904:1000::4/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.UAENorth",
     "region": "uaenorth"
   },
   {

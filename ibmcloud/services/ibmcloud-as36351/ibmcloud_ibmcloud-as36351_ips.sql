@@ -269,7 +269,6 @@ INSERT INTO `ibmcloud_ibmcloud-as36351_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `ibmcloud_ibmcloud-as36351_ips` (`ip_address`, `ip_type`) VALUES ('169.60.64.0/18', 'IPv4');
 INSERT INTO `ibmcloud_ibmcloud-as36351_ips` (`ip_address`, `ip_type`) VALUES ('169.60.128.0/18', 'IPv4');
 INSERT INTO `ibmcloud_ibmcloud-as36351_ips` (`ip_address`, `ip_type`) VALUES ('169.60.192.0/18', 'IPv4');
-INSERT INTO `ibmcloud_ibmcloud-as36351_ips` (`ip_address`, `ip_type`) VALUES ('169.60.208.0/20', 'IPv4');
 INSERT INTO `ibmcloud_ibmcloud-as36351_ips` (`ip_address`, `ip_type`) VALUES ('169.60.248.0/21', 'IPv4');
 INSERT INTO `ibmcloud_ibmcloud-as36351_ips` (`ip_address`, `ip_type`) VALUES ('169.61.0.0/18', 'IPv4');
 INSERT INTO `ibmcloud_ibmcloud-as36351_ips` (`ip_address`, `ip_type`) VALUES ('169.61.64.0/18', 'IPv4');

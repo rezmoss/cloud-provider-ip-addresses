@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.91.56.20/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
     "ip_address": "51.12.196.0/23",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.SwedenSouth",
@@ -19,6 +25,12 @@
   },
   {
     "ip_address": "2603:1020:1104:400::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SwedenSouth",
+    "region": "swedensouth"
+  },
+  {
+    "ip_address": "2603:1020:1104:800::6/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.SwedenSouth",
     "region": "swedensouth"

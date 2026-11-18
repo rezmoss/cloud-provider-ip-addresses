@@ -18,6 +18,12 @@ INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUE
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.180.0/22', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.239.0/25', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.245.0/26', 'IPv4');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.250.16/28', 'IPv4');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.250.64/27', 'IPv4');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.250.96/28', 'IPv4');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.252.144/28', 'IPv4');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.254.80/28', 'IPv4');
+INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('9.129.254.96/27', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.104.80/28', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('13.105.104.128/26', 'IPv4');
 INSERT INTO `azure_azurecloud.polandcentral_ips` (`ip_address`, `ip_type`) VALUES ('20.20.34.0/24', 'IPv4');

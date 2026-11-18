@@ -16,4 +16,6 @@ INSERT INTO `azure_azurearcinfrastructure.southcentralus_ips` (`ip_address`, `ip
 INSERT INTO `azure_azurearcinfrastructure.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('40.119.9.232/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('40.124.65.160/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('48.192.212.50/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('74.155.63.244/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:16::347/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.southcentralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:807:26::398/126', 'IPv6');

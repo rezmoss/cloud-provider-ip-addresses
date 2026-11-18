@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "20.197.160.76/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
     "ip_address": "191.233.205.16/28",
     "ip_type": "IPv4",
     "service": "AzureResourceManager.BrazilSouth",
@@ -25,6 +31,12 @@
   },
   {
     "ip_address": "2603:1050:6:402::280/122",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.BrazilSouth",
+    "region": "brazilsouth"
+  },
+  {
+    "ip_address": "2603:1050:6:1000::52/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.BrazilSouth",
     "region": "brazilsouth"

@@ -1,23 +1,23 @@
 {
   "provider": "leaseweb",
-  "version": 82,
-  "generated_date": "2026-11-17",
-  "last_changed_date": "2026-11-17",
+  "version": 83,
+  "generated_date": "2026-11-18",
+  "last_changed_date": "2026-11-18",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 1698,
-    "merged_cidrs": 1132,
-    "addresses": 2343424
+    "cidrs": 1697,
+    "merged_cidrs": 1133,
+    "addresses": 2343168
   },
   "ipv6": {
-    "cidrs": 374,
-    "merged_cidrs": 320,
-    "addresses": 95450607523684528108975257812992
+    "cidrs": 373,
+    "merged_cidrs": 319,
+    "addresses": 94816782223570413408226906210304
   },
-  "total_entries": 2072,
-  "content_sha256": "2baa5830cd2d660c6be85c6b18bd31b3bd1f175baaeef62daed2bf89e0716977",
+  "total_entries": 2070,
+  "content_sha256": "ec00fc29775b66e33743cd04c3e107bb1a6681cf6316d9dbd328edb458963dc2",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

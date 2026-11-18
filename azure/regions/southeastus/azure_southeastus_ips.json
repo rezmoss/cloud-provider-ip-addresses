@@ -444,6 +444,18 @@
     "region": "southeastus"
   },
   {
+    "ip_address": "57.163.104.0/23",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "57.163.104.0/23",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
     "ip_address": "68.154.128.0/17",
     "ip_type": "IPv4",
     "service": "AzureCloud.southeastus",
@@ -594,6 +606,12 @@
     "region": "southeastus"
   },
   {
+    "ip_address": "68.154.156.16/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
     "ip_address": "68.154.160.112/28",
     "ip_type": "IPv4",
     "service": "GatewayManager.SoutheastUS",
@@ -639,6 +657,18 @@
     "ip_address": "68.154.178.192/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "145.190.204.0/24",
+    "ip_type": "IPv4",
+    "service": "AzureCloud.southeastus",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "145.190.204.0/24",
+    "ip_type": "IPv4",
+    "service": "Storage.SoutheastUS",
     "region": "southeastus"
   },
   {
@@ -987,6 +1017,12 @@
     "ip_address": "2603:1030:902:400::380/123",
     "ip_type": "IPv6",
     "service": "LogicApps.SoutheastUS",
+    "region": "southeastus"
+  },
+  {
+    "ip_address": "2603:1030:902:1000::2/127",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SoutheastUS",
     "region": "southeastus"
   },
   {

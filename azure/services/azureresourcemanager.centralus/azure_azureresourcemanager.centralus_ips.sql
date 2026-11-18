@@ -13,6 +13,8 @@ INSERT INTO `azure_azureresourcemanager.centralus_ips` (`ip_address`, `ip_type`)
 INSERT INTO `azure_azureresourcemanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('20.135.188.46/32', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('20.135.193.49/32', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('40.90.21.227/32', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('57.175.74.172/30', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('172.169.142.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.centralus_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:10:1000::c0/126', 'IPv6');

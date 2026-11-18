@@ -132,11 +132,8 @@ ip_address,ip_type,service,region
 40.100.67.192/26,IPv4,AzureCloud.malaysiawest,malaysiawest
 40.100.68.0/25,IPv4,AzureCloud.malaysiawest,malaysiawest
 40.120.168.0/23,IPv4,AzureCloud.malaysiawest,malaysiawest
-40.120.170.0/27,IPv4,AzureCloud.malaysiawest,malaysiawest
-40.120.170.32/28,IPv4,AzureCloud.malaysiawest,malaysiawest
-40.120.170.48/29,IPv4,AzureCloud.malaysiawest,malaysiawest
-40.120.170.56/30,IPv4,AzureCloud.malaysiawest,malaysiawest
-40.120.170.60/31,IPv4,AzureCloud.malaysiawest,malaysiawest
+40.120.170.0/26,IPv4,AzureCloud.malaysiawest,malaysiawest
+40.120.170.64/31,IPv4,AzureCloud.malaysiawest,malaysiawest
 48.212.54.0/24,IPv4,AzureCloud.malaysiawest,malaysiawest
 48.212.182.0/24,IPv4,AzureCloud.malaysiawest,malaysiawest
 48.213.54.0/24,IPv4,AzureCloud.malaysiawest,malaysiawest
@@ -165,6 +162,7 @@ ip_address,ip_type,service,region
 85.211.143.176/28,IPv4,AzureSecurityCenter.MalaysiaWest,malaysiawest
 85.211.143.192/26,IPv4,AzureSecurityCenter.MalaysiaWest,malaysiawest
 85.211.145.28/30,IPv4,ApiManagement.MalaysiaWest,malaysiawest
+85.211.145.128/31,IPv4,AzureResourceManager.MalaysiaWest,malaysiawest
 85.211.232.0/24,IPv4,AzureSecurityCenter.MalaysiaWest,malaysiawest
 85.211.233.0/25,IPv4,AzureSecurityCenter.MalaysiaWest,malaysiawest
 85.211.233.128/27,IPv4,AzureSecurityCenter.MalaysiaWest,malaysiawest
@@ -288,6 +286,7 @@ ip_address,ip_type,service,region
 2603:1040:1602:c00::28/125,IPv6,AzureKeyVault.MalaysiaWest,malaysiawest
 2603:1040:1602:c00::80/121,IPv6,AzureContainerRegistry.MalaysiaWest,malaysiawest
 2603:1040:1602:c00::1c0/124,IPv6,DataFactory.MalaysiaWest,malaysiawest
+2603:1040:1602:1000::2/127,IPv6,AzureResourceManager.MalaysiaWest,malaysiawest
 2603:1040:1603::/48,IPv6,Storage.MalaysiaWest,malaysiawest
 2603:1040:1604::/48,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1040:1605::/48,IPv6,AzureCloud.malaysiawest,malaysiawest
@@ -299,9 +298,8 @@ ip_address,ip_type,service,region
 2603:1047:1::/59,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:100d::/56,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:100d:100::/60,IPv6,AzureCloud.malaysiawest,malaysiawest
-2603:1061:100d:110::/62,IPv6,AzureCloud.malaysiawest,malaysiawest
-2603:1061:100d:114::/63,IPv6,AzureCloud.malaysiawest,malaysiawest
-2603:1061:100d:116::/64,IPv6,AzureCloud.malaysiawest,malaysiawest
+2603:1061:100d:110::/61,IPv6,AzureCloud.malaysiawest,malaysiawest
+2603:1061:100d:118::/64,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:1310:2400::/54,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:173a::/48,IPv6,AzureCloud.malaysiawest,malaysiawest
 2603:1061:2002:d880::/57,IPv6,AzureCloud.malaysiawest,malaysiawest

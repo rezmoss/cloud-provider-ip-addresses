@@ -6,7 +6,19 @@
     "region": "southeastus3"
   },
   {
+    "ip_address": "74.7.100.16/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
     "ip_address": "2603:1030:1302:1::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.SoutheastUS3",
+    "region": "southeastus3"
+  },
+  {
+    "ip_address": "2603:1030:1302:800::a/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.SoutheastUS3",
     "region": "southeastus3"

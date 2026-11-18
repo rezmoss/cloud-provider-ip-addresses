@@ -5454,6 +5454,12 @@
     "region": ""
   },
   {
+    "ip_address": "40.100.81.0/26",
+    "ip_type": "IPv4",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
     "ip_address": "40.101.0.0/22",
     "ip_type": "IPv4",
     "service": "AzureCloud",
@@ -19746,6 +19752,12 @@
     "region": ""
   },
   {
+    "ip_address": "2603:1026:900:5c::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
     "ip_address": "2603:1026:2400::/40",
     "ip_type": "IPv6",
     "service": "AzureCloud",
@@ -25272,37 +25284,7 @@
     "region": ""
   },
   {
-    "ip_address": "2603:1046:a00::/59",
-    "ip_type": "IPv6",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "2603:1046:a00:20::/60",
-    "ip_type": "IPv6",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "2603:1046:a00:30::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "2603:1046:a00:38::/63",
-    "ip_type": "IPv6",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "2603:1046:a00:3b::/64",
-    "ip_type": "IPv6",
-    "service": "AzureCloud",
-    "region": ""
-  },
-  {
-    "ip_address": "2603:1046:a00:3c::/62",
+    "ip_address": "2603:1046:a00::/58",
     "ip_type": "IPv6",
     "service": "AzureCloud",
     "region": ""
@@ -29065,6 +29047,12 @@
   },
   {
     "ip_address": "2a01:111:f403:c108::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud",
+    "region": ""
+  },
+  {
+    "ip_address": "2a01:111:f403:c10a::/64",
     "ip_type": "IPv6",
     "service": "AzureCloud",
     "region": ""

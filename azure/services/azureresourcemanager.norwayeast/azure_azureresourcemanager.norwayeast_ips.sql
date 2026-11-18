@@ -6,9 +6,11 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.norwayeast_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureresourcemanager.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('4.177.48.38/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.46.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.100.32/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('51.120.102.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:3::300/120', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.norwayeast_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:e04:1000::2/127', 'IPv6');

@@ -7,4 +7,6 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.southeastus3_ips` (
 );
 
 INSERT INTO `azure_azureresourcemanager.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('74.7.48.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('74.7.100.16/31', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1302:1::300/120', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.southeastus3_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:1302:800::a/127', 'IPv6');

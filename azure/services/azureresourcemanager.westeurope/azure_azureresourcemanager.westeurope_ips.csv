@@ -6,6 +6,8 @@ ip_address,ip_type,service,region
 20.135.143.95/32,IPv4,AzureResourceManager.WestEurope,westeurope
 20.135.144.124/32,IPv4,AzureResourceManager.WestEurope,westeurope
 40.113.178.0/28,IPv4,AzureResourceManager.WestEurope,westeurope
+74.144.134.4/30,IPv4,AzureResourceManager.WestEurope,westeurope
 2603:1020:206::180/122,IPv6,AzureResourceManager.WestEurope,westeurope
 2603:1020:206:e::580/121,IPv6,AzureResourceManager.WestEurope,westeurope
 2603:1020:206:402::280/122,IPv6,AzureResourceManager.WestEurope,westeurope
+2603:1020:206:1000::48/126,IPv6,AzureResourceManager.WestEurope,westeurope

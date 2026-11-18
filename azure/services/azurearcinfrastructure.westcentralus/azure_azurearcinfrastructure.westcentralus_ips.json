@@ -42,6 +42,12 @@
     "region": "westcentralus"
   },
   {
+    "ip_address": "172.132.61.124/31",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
     "ip_address": "172.215.202.52/32",
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.WestCentralUS",
@@ -49,6 +55,12 @@
   },
   {
     "ip_address": "2603:1030:b04:f::3db/128",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.WestCentralUS",
+    "region": "westcentralus"
+  },
+  {
+    "ip_address": "2603:1030:b04:1a::7c/127",
     "ip_type": "IPv6",
     "service": "AzureArcInfrastructure.WestCentralUS",
     "region": "westcentralus"

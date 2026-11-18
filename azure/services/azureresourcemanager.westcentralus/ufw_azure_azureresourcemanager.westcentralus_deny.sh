@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-06-14 03:21:28
+# Updated: 2026-11-18 02:17:52
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -11,5 +11,7 @@ ufw deny from 13.71.196.80/28
 ufw deny from 13.71.198.0/24
 ufw deny from 40.67.120.0/24
 ufw deny from 52.150.158.0/23
+ufw deny from 128.24.235.168/30
 ufw deny from 2603:1030:b04::6c0/122
 ufw deny from 2603:1030:b04:402::280/122
+ufw deny from 2603:1030:b04:1000::3c/126

@@ -6606,6 +6606,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.219.53.128/27",
+    "ip_type": "IPv4",
+    "service": "AzureMonitor",
+    "region": ""
+  },
+  {
     "ip_address": "48.219.91.224/27",
     "ip_type": "IPv4",
     "service": "AzureMonitor",

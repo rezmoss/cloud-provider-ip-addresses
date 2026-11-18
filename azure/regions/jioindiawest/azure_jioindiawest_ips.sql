@@ -169,6 +169,7 @@ INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.244.2
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.244.244.219/32', 'IPv4');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.244.246.22/32', 'IPv4');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.244.247.29/32', 'IPv4');
+INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('20.244.251.20/31', 'IPv4');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.64.0.0/18', 'IPv4');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.64.8.48/28', 'IPv4');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('40.64.8.64/26', 'IPv4');
@@ -361,6 +362,7 @@ INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:104
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:c02::380/124', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:c03::/123', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:c04::/123', 'IPv6');
+INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:d04:1000::2/127', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:a00:46::/63', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:a00:48::/64', 'IPv6');
 INSERT INTO `azure_jioindiawest_ips` (`ip_address`, `ip_type`) VALUES ('2603:1046:1500:10::/64', 'IPv6');

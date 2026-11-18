@@ -9,5 +9,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.uksouth_ips` (
 INSERT INTO `azure_azureresourcemanager.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.104.8.224/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.105.78.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('51.143.210.0/23', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('172.165.41.196/30', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.uksouth_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:705:1000::14/126', 'IPv6');

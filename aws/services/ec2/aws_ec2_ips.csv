@@ -1447,7 +1447,6 @@ ip_address,ip_type,service,region
 72.41.0.0/20,IPv4,EC2,us-east-1
 72.44.32.0/19,IPv4,EC2,us-east-1
 72.150.20.0/24,IPv4,EC2,us-east-1
-72.150.21.0/24,IPv4,EC2,GLOBAL
 72.150.22.0/24,IPv4,EC2,us-east-1
 75.2.128.0/18,IPv4,EC2,us-east-1
 75.3.0.0/18,IPv4,EC2,us-east-2

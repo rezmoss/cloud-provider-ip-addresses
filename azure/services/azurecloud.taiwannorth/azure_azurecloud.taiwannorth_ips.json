@@ -36,7 +36,7 @@
     "region": "taiwannorth"
   },
   {
-    "ip_address": "20.20.106.128/30",
+    "ip_address": "20.20.106.128/29",
     "ip_type": "IPv4",
     "service": "AzureCloud.taiwannorth",
     "region": "taiwannorth"
@@ -840,31 +840,7 @@
     "region": "taiwannorth"
   },
   {
-    "ip_address": "2603:1061:1005:80::/59",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.taiwannorth",
-    "region": "taiwannorth"
-  },
-  {
-    "ip_address": "2603:1061:1005:a0::/60",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.taiwannorth",
-    "region": "taiwannorth"
-  },
-  {
-    "ip_address": "2603:1061:1005:b0::/61",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.taiwannorth",
-    "region": "taiwannorth"
-  },
-  {
-    "ip_address": "2603:1061:1005:b8::/62",
-    "ip_type": "IPv6",
-    "service": "AzureCloud.taiwannorth",
-    "region": "taiwannorth"
-  },
-  {
-    "ip_address": "2603:1061:1005:bc::/63",
+    "ip_address": "2603:1061:1005:80::/58",
     "ip_type": "IPv6",
     "service": "AzureCloud.taiwannorth",
     "region": "taiwannorth"

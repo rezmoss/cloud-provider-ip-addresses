@@ -46,5 +46,17 @@
     "ip_type": "IPv4",
     "service": "AzureArcInfrastructure.NorthCentralUS",
     "region": "northcentralus"
+  },
+  {
+    "ip_address": "172.149.7.92/30",
+    "ip_type": "IPv4",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
+  },
+  {
+    "ip_address": "2603:1030:608::c60/126",
+    "ip_type": "IPv6",
+    "service": "AzureArcInfrastructure.NorthCentralUS",
+    "region": "northcentralus"
   }
 ]

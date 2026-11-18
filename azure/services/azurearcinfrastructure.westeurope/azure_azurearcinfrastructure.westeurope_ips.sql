@@ -16,4 +16,6 @@ INSERT INTO `azure_azurearcinfrastructure.westeurope_ips` (`ip_address`, `ip_typ
 INSERT INTO `azure_azurearcinfrastructure.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('48.199.213.228/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.178.17.240/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('52.236.189.74/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.178.252/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:22::3b5/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:37::24/126', 'IPv6');

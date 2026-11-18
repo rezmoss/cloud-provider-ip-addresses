@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-11-17 02:22:04
+# Updated: 2026-11-18 02:22:33
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -106,18 +106,14 @@ ufw deny from 45.177.236.0/22
 ufw deny from 46.17.217.0/24
 ufw deny from 46.28.236.0/24
 ufw deny from 46.105.0.0/16
-ufw deny from 46.202.232.0/22
-ufw deny from 46.202.240.0/22
-ufw deny from 46.203.108.0/22
-ufw deny from 46.203.116.0/22
-ufw deny from 46.203.128.0/22
-ufw deny from 46.203.140.0/22
 ufw deny from 46.236.211.0/24
 ufw deny from 46.244.32.0/20
 ufw deny from 48.103.138.0/24
 ufw deny from 48.103.144.0/23
 ufw deny from 48.103.150.0/23
 ufw deny from 48.103.152.0/23
+ufw deny from 48.103.232.0/24
+ufw deny from 48.103.240.0/24
 ufw deny from 50.114.91.0/24
 ufw deny from 51.38.0.0/16
 ufw deny from 51.68.0.0/16
@@ -139,6 +135,7 @@ ufw deny from 51.254.0.0/15
 ufw deny from 54.36.0.0/14
 ufw deny from 57.128.0.0/14
 ufw deny from 62.76.224.0/24
+ufw deny from 62.84.161.0/24
 ufw deny from 62.105.192.0/24
 ufw deny from 62.122.126.0/24
 ufw deny from 62.144.36.0/24
@@ -182,6 +179,7 @@ ufw deny from 79.110.61.0/24
 ufw deny from 79.137.0.0/17
 ufw deny from 79.172.216.0/24
 ufw deny from 79.175.105.0/24
+ufw deny from 79.182.33.0/24
 ufw deny from 79.182.115.0/24
 ufw deny from 79.182.137.0/24
 ufw deny from 80.86.211.0/24
@@ -192,15 +190,12 @@ ufw deny from 81.168.32.0/24
 ufw deny from 81.168.80.0/24
 ufw deny from 81.201.183.0/24
 ufw deny from 82.21.139.0/24
-ufw deny from 82.22.15.0/24
-ufw deny from 82.22.25.0/24
 ufw deny from 82.22.118.0/24
 ufw deny from 82.24.96.0/22
 ufw deny from 82.24.190.0/24
 ufw deny from 82.25.14.0/24
 ufw deny from 82.25.44.0/24
 ufw deny from 82.25.146.0/23
-ufw deny from 82.26.81.0/24
 ufw deny from 82.26.176.0/20
 ufw deny from 82.29.93.0/24
 ufw deny from 82.29.126.0/24
@@ -239,28 +234,22 @@ ufw deny from 82.41.212.0/22
 ufw deny from 82.41.224.0/21
 ufw deny from 82.47.63.0/24
 ufw deny from 82.47.98.0/24
+ufw deny from 82.47.158.0/24
 ufw deny from 82.47.180.0/24
 ufw deny from 82.117.230.0/23
 ufw deny from 82.117.245.0/24
 ufw deny from 82.129.0.0/22
 ufw deny from 82.129.14.0/23
 ufw deny from 82.152.8.0/24
-ufw deny from 82.152.57.0/24
-ufw deny from 82.152.58.0/24
-ufw deny from 82.152.73.0/24
-ufw deny from 82.152.75.0/24
 ufw deny from 82.152.98.0/24
-ufw deny from 82.152.109.0/24
 ufw deny from 82.152.197.0/24
 ufw deny from 82.152.200.0/24
 ufw deny from 82.152.211.0/24
-ufw deny from 82.152.226.0/24
-ufw deny from 82.152.240.0/24
-ufw deny from 82.152.243.0/24
 ufw deny from 82.153.66.0/24
 ufw deny from 82.153.119.0/24
 ufw deny from 82.153.205.0/24
 ufw deny from 83.136.214.0/23
+ufw deny from 83.141.113.0/24
 ufw deny from 83.143.16.0/21
 ufw deny from 83.175.167.0/24
 ufw deny from 83.175.173.0/24
@@ -273,8 +262,8 @@ ufw deny from 86.54.42.0/24
 ufw deny from 86.107.51.0/24
 ufw deny from 87.76.137.0/24
 ufw deny from 87.76.140.0/24
+ufw deny from 87.76.182.0/24
 ufw deny from 87.76.189.0/24
-ufw deny from 87.83.66.0/24
 ufw deny from 87.86.181.0/24
 ufw deny from 87.86.252.0/24
 ufw deny from 87.98.128.0/17
@@ -309,7 +298,6 @@ ufw deny from 93.186.71.0/24
 ufw deny from 94.23.0.0/16
 ufw deny from 94.158.184.0/24
 ufw deny from 94.249.154.0/24
-ufw deny from 94.249.171.0/24
 ufw deny from 95.135.166.0/23
 ufw deny from 96.62.105.0/24
 ufw deny from 103.5.12.0/22
@@ -346,8 +334,6 @@ ufw deny from 109.110.184.0/24
 ufw deny from 109.122.15.0/24
 ufw deny from 109.122.20.0/24
 ufw deny from 109.122.58.0/24
-ufw deny from 109.176.40.0/21
-ufw deny from 109.176.48.0/21
 ufw deny from 109.176.153.0/24
 ufw deny from 109.229.223.0/24
 ufw deny from 109.232.89.0/24
@@ -357,6 +343,7 @@ ufw deny from 123.100.227.0/24
 ufw deny from 130.12.102.0/24
 ufw deny from 130.78.26.0/24
 ufw deny from 132.243.197.0/24
+ufw deny from 132.243.215.0/24
 ufw deny from 134.195.148.0/23
 ufw deny from 135.84.231.0/24
 ufw deny from 135.125.0.0/16
@@ -521,10 +508,10 @@ ufw deny from 176.31.0.0/16
 ufw deny from 176.105.231.0/24
 ufw deny from 177.111.0.0/19
 ufw deny from 177.111.111.0/24
+ufw deny from 177.177.242.0/24
 ufw deny from 178.32.0.0/15
 ufw deny from 178.83.45.0/24
 ufw deny from 178.83.46.0/24
-ufw deny from 178.83.166.0/24
 ufw deny from 178.83.197.0/24
 ufw deny from 178.92.120.0/24
 ufw deny from 178.93.247.0/24
@@ -588,6 +575,7 @@ ufw deny from 192.70.246.0/23
 ufw deny from 192.95.0.0/18
 ufw deny from 192.99.0.0/16
 ufw deny from 192.109.11.0/24
+ufw deny from 192.120.199.0/24
 ufw deny from 192.124.170.0/24
 ufw deny from 192.152.126.0/24
 ufw deny from 192.177.90.0/24
@@ -599,6 +587,7 @@ ufw deny from 193.22.106.0/24
 ufw deny from 193.33.176.0/23
 ufw deny from 193.70.0.0/17
 ufw deny from 193.93.254.0/24
+ufw deny from 193.124.6.0/24
 ufw deny from 193.149.28.0/22
 ufw deny from 193.151.166.0/24
 ufw deny from 193.243.147.0/24
@@ -645,6 +634,8 @@ ufw deny from 199.235.0.0/23
 ufw deny from 199.235.161.0/24
 ufw deny from 201.4.67.0/24
 ufw deny from 201.50.22.0/24
+ufw deny from 201.58.144.0/24
+ufw deny from 201.58.149.0/24
 ufw deny from 202.2.60.0/22
 ufw deny from 202.92.214.0/23
 ufw deny from 202.181.0.0/24
@@ -668,7 +659,6 @@ ufw deny from 209.112.80.0/22
 ufw deny from 209.126.71.0/24
 ufw deny from 209.151.124.0/24
 ufw deny from 209.236.208.0/24
-ufw deny from 209.251.24.0/24
 ufw deny from 212.69.8.0/24
 ufw deny from 212.74.39.0/24
 ufw deny from 212.80.195.0/24
@@ -678,12 +668,9 @@ ufw deny from 212.134.90.0/24
 ufw deny from 212.192.253.0/24
 ufw deny from 212.224.7.0/24
 ufw deny from 213.32.0.0/17
-ufw deny from 213.130.130.0/24
-ufw deny from 213.130.149.0/24
 ufw deny from 213.177.172.0/24
 ufw deny from 213.182.207.0/24
 ufw deny from 213.186.32.0/19
-ufw deny from 213.218.214.0/24
 ufw deny from 213.251.128.0/18
 ufw deny from 216.9.164.0/24
 ufw deny from 216.122.123.0/24
@@ -706,3 +693,4 @@ ufw deny from 2604:2dc0::/32
 ufw deny from 2607:5300::/32
 ufw deny from 2a03:bf80:3::/48
 ufw deny from 2a03:bf80:4::/48
+ufw deny from 2a0b:4e07:b80::/48

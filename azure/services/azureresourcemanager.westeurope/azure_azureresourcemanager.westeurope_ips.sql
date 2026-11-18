@@ -13,6 +13,8 @@ INSERT INTO `azure_azureresourcemanager.westeurope_ips` (`ip_address`, `ip_type`
 INSERT INTO `azure_azureresourcemanager.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.135.143.95/32', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('20.135.144.124/32', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('40.113.178.0/28', 'IPv4');
+INSERT INTO `azure_azureresourcemanager.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('74.144.134.4/30', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206::180/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:e::580/121', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.westeurope_ips` (`ip_address`, `ip_type`) VALUES ('2603:1020:206:1000::48/126', 'IPv6');

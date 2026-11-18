@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `azure_azureresourcemanager.southeastasia_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azureresourcemanager.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('4.145.226.20/30', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('13.67.18.0/23', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.135.84.112/32', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('20.135.86.130/32', 'IPv4');
@@ -14,3 +15,4 @@ INSERT INTO `azure_azureresourcemanager.southeastasia_ips` (`ip_address`, `ip_ty
 INSERT INTO `azure_azureresourcemanager.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('40.78.234.176/28', 'IPv4');
 INSERT INTO `azure_azureresourcemanager.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5::280/122', 'IPv6');
 INSERT INTO `azure_azureresourcemanager.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:402::280/122', 'IPv6');
+INSERT INTO `azure_azureresourcemanager.southeastasia_ips` (`ip_address`, `ip_type`) VALUES ('2603:1040:5:1000::6c/126', 'IPv6');

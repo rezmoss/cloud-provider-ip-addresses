@@ -6,7 +6,19 @@
     "region": "chilec"
   },
   {
+    "ip_address": "68.211.33.24/31",
+    "ip_type": "IPv4",
+    "service": "AzureResourceManager.ChileCentral",
+    "region": "chilec"
+  },
+  {
     "ip_address": "2603:1050:301:1::400/120",
+    "ip_type": "IPv6",
+    "service": "AzureResourceManager.ChileCentral",
+    "region": "chilec"
+  },
+  {
+    "ip_address": "2603:1050:301:1000::a/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.ChileCentral",
     "region": "chilec"

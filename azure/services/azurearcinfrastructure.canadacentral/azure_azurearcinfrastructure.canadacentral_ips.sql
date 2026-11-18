@@ -6,6 +6,8 @@ CREATE TABLE IF NOT EXISTS `azure_azurearcinfrastructure.canadacentral_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.174.6.32/30', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('4.174.6.36/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.175.129/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('13.71.177.224/32', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('20.38.149.130/32', 'IPv4');
@@ -16,4 +18,6 @@ INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.228.84.80/30', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('52.246.157.2/31', 'IPv4');
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('145.191.108.225/32', 'IPv4');
+INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:7::758/126', 'IPv6');
 INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:d::6f5/128', 'IPv6');
+INSERT INTO `azure_azurearcinfrastructure.canadacentral_ips` (`ip_address`, `ip_type`) VALUES ('2603:1030:f05:16::3eb/128', 'IPv6');
