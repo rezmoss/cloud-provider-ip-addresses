@@ -2238,6 +2238,18 @@
     "region": "global"
   },
   {
+    "ip_address": "43.108.69.0/24",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "43.108.70.0/24",
+    "ip_type": "IPv4",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
     "ip_address": "43.108.128.0/17",
     "ip_type": "IPv4",
     "service": "alibaba-as45102",

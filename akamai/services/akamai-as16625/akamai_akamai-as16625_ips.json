@@ -420,6 +420,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2.20.92.0/22",
+    "ip_type": "IPv4",
+    "service": "akamai-as16625",
+    "region": "global"
+  },
+  {
     "ip_address": "2.20.124.0/22",
     "ip_type": "IPv4",
     "service": "akamai-as16625",

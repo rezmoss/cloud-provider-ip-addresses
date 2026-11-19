@@ -6,6 +6,14 @@ CREATE TABLE IF NOT EXISTS `perplexitybot_global_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.41.218.160/32', 'IPv4');
+INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.41.218.161/32', 'IPv4');
+INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.41.218.162/32', 'IPv4');
+INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.41.218.163/32', 'IPv4');
+INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.41.218.164/32', 'IPv4');
+INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.41.218.165/32', 'IPv4');
+INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.41.218.166/32', 'IPv4');
+INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.41.218.167/32', 'IPv4');
 INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.222.232.239/32', 'IPv4');
 INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('3.224.62.45/32', 'IPv4');
 INSERT INTO `perplexitybot_global_ips` (`ip_address`, `ip_type`) VALUES ('18.97.1.228/32', 'IPv4');

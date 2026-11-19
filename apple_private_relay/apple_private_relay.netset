@@ -1,6 +1,6 @@
 # apple_private_relay IP ranges - ipset restore format (hash:net)
-# Version: 23 | Generated: 2026-11-18 | Last changed: 2026-11-17
-# IPv4: 3414 merged subnets, 105744 unique IPs
+# Version: 24 | Generated: 2026-11-19 | Last changed: 2026-11-19
+# IPv4: 3383 merged subnets, 105769 unique IPs
 # IPv6: 10580 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -1836,48 +1836,17 @@ add apple_private_relay_v4 104.28.146.2/31
 add apple_private_relay_v4 104.28.146.4/30
 add apple_private_relay_v4 104.28.146.8/29
 add apple_private_relay_v4 104.28.146.16/28
-add apple_private_relay_v4 104.28.146.32/28
-add apple_private_relay_v4 104.28.146.48/30
-add apple_private_relay_v4 104.28.146.52/31
-add apple_private_relay_v4 104.28.146.54/32
-add apple_private_relay_v4 104.28.146.63/32
-add apple_private_relay_v4 104.28.146.64/30
-add apple_private_relay_v4 104.28.146.69/32
-add apple_private_relay_v4 104.28.146.70/31
-add apple_private_relay_v4 104.28.146.72/29
-add apple_private_relay_v4 104.28.146.80/30
-add apple_private_relay_v4 104.28.146.84/32
-add apple_private_relay_v4 104.28.146.94/31
-add apple_private_relay_v4 104.28.146.96/28
-add apple_private_relay_v4 104.28.146.112/29
-add apple_private_relay_v4 104.28.146.120/30
-add apple_private_relay_v4 104.28.146.125/32
-add apple_private_relay_v4 104.28.146.126/31
-add apple_private_relay_v4 104.28.146.128/26
-add apple_private_relay_v4 104.28.146.192/28
-add apple_private_relay_v4 104.28.146.208/30
-add apple_private_relay_v4 104.28.146.212/31
-add apple_private_relay_v4 104.28.146.215/32
-add apple_private_relay_v4 104.28.146.216/31
-add apple_private_relay_v4 104.28.146.219/32
-add apple_private_relay_v4 104.28.146.220/30
-add apple_private_relay_v4 104.28.146.224/29
-add apple_private_relay_v4 104.28.146.232/30
-add apple_private_relay_v4 104.28.146.236/31
-add apple_private_relay_v4 104.28.146.240/28
+add apple_private_relay_v4 104.28.146.32/27
+add apple_private_relay_v4 104.28.146.64/26
+add apple_private_relay_v4 104.28.146.128/25
 add apple_private_relay_v4 104.28.147.1/32
 add apple_private_relay_v4 104.28.147.2/31
 add apple_private_relay_v4 104.28.147.4/30
 add apple_private_relay_v4 104.28.147.8/29
 add apple_private_relay_v4 104.28.147.16/28
-add apple_private_relay_v4 104.28.147.32/28
-add apple_private_relay_v4 104.28.147.48/29
-add apple_private_relay_v4 104.28.147.56/30
-add apple_private_relay_v4 104.28.147.60/31
-add apple_private_relay_v4 104.28.147.62/32
+add apple_private_relay_v4 104.28.147.32/27
 add apple_private_relay_v4 104.28.147.64/29
-add apple_private_relay_v4 104.28.147.72/32
-add apple_private_relay_v4 104.28.147.74/31
+add apple_private_relay_v4 104.28.147.72/30
 add apple_private_relay_v4 104.28.147.76/32
 add apple_private_relay_v4 104.28.147.78/31
 add apple_private_relay_v4 104.28.147.80/30

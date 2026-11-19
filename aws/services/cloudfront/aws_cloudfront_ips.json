@@ -771,7 +771,7 @@
     "ip_address": "51.74.192.0/18",
     "ip_type": "IPv4",
     "service": "CLOUDFRONT",
-    "region": "GLOBAL"
+    "region": "eusc-de-east-1"
   },
   {
     "ip_address": "52.15.127.128/26",
@@ -1317,7 +1317,7 @@
     "ip_address": "2001:3fc6:20::/43",
     "ip_type": "IPv6",
     "service": "CLOUDFRONT",
-    "region": "GLOBAL"
+    "region": "eusc-de-east-1"
   },
   {
     "ip_address": "2400:7fc0:500::/40",

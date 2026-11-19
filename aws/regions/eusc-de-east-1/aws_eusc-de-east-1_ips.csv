@@ -70,6 +70,8 @@ ip_address,ip_type,service,region
 51.74.64.0/18,IPv4,EC2,eusc-de-east-1
 51.74.128.0/18,IPv4,AMAZON,eusc-de-east-1
 51.74.128.0/18,IPv4,EC2,eusc-de-east-1
+51.74.192.0/18,IPv4,AMAZON,eusc-de-east-1
+51.74.192.0/18,IPv4,CLOUDFRONT,eusc-de-east-1
 51.164.0.0/15,IPv4,AMAZON,eusc-de-east-1
 51.166.0.0/15,IPv4,AMAZON,eusc-de-east-1
 51.172.0.0/15,IPv4,AMAZON,eusc-de-east-1
@@ -142,6 +144,8 @@ ip_address,ip_type,service,region
 2001:3fc6:a::/47,IPv6,ROUTE53,eusc-de-east-1
 2001:3fc6:c::/47,IPv6,ROUTE53,eusc-de-east-1
 2001:3fc6:e::/47,IPv6,ROUTE53,eusc-de-east-1
+2001:3fc6:20::/43,IPv6,AMAZON,eusc-de-east-1
+2001:3fc6:20::/43,IPv6,CLOUDFRONT,eusc-de-east-1
 2001:3fc6:100::/48,IPv6,AMAZON,eusc-de-east-1
 2001:3fc6:100::/48,IPv6,EC2,eusc-de-east-1
 2001:3fc6:100::/48,IPv6,ROUTE53_HEALTHCHECKS,eusc-de-east-1

@@ -1,6 +1,6 @@
 # perplexitybot IP ranges - ipset restore format (hash:net)
-# Version: 2 | Generated: 2026-11-18 | Last changed: 2026-10-29
-# IPv4: 9 merged subnets, 23 unique IPs
+# Version: 3 | Generated: 2026-11-19 | Last changed: 2026-11-19
+# IPv4: 10 merged subnets, 31 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -8,6 +8,7 @@
 #
 create perplexitybot_v4 hash:net family inet hashsize 4096 maxelem 1048576 -exist
 flush perplexitybot_v4
+add perplexitybot_v4 3.41.218.160/29
 add perplexitybot_v4 3.222.232.239/32
 add perplexitybot_v4 3.224.62.45/32
 add perplexitybot_v4 18.97.1.228/32

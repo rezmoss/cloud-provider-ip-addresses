@@ -1345,6 +1345,26 @@
     "region": "CA-ON"
   },
   {
+    "ip_address": "104.28.146.238/32",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
+    "ip_address": "104.28.146.239/32",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
+    "ip_address": "104.28.147.63/32",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
+    "ip_address": "104.28.147.73/32",
+    "ip_type": "IPv4",
+    "region": "CA-ON"
+  },
+  {
     "ip_address": "146.75.188.2/31",
     "ip_type": "IPv4",
     "region": "CA-ON"

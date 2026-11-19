@@ -1,5 +1,45 @@
 [
   {
+    "ip_address": "3.41.218.160/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "3.41.218.161/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "3.41.218.162/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "3.41.218.163/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "3.41.218.164/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "3.41.218.165/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "3.41.218.166/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
+    "ip_address": "3.41.218.167/32",
+    "ip_type": "IPv4",
+    "service": "perplexitybot"
+  },
+  {
     "ip_address": "3.222.232.239/32",
     "ip_type": "IPv4",
     "service": "perplexitybot"

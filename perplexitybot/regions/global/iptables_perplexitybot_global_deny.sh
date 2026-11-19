@@ -1,12 +1,13 @@
 #!/bin/bash
 # Perplexitybot IP Ranges
-# Updated: 2026-10-29 02:23:08
+# Updated: 2026-11-19 02:22:03
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables deny rules for perplexitybot
 
+iptables -A INPUT -s 3.41.218.160/29 -j DROP
 iptables -A INPUT -s 3.222.232.239/32 -j DROP
 iptables -A INPUT -s 3.224.62.45/32 -j DROP
 iptables -A INPUT -s 18.97.1.228/32 -j DROP

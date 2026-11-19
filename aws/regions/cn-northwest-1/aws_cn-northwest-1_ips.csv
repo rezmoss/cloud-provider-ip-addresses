@@ -22,6 +22,8 @@ ip_address,ip_type,service,region
 43.193.65.0/24,IPv4,S3,cn-northwest-1
 43.193.66.0/23,IPv4,AMAZON,cn-northwest-1
 43.193.66.0/23,IPv4,EC2,cn-northwest-1
+43.193.80.0/20,IPv4,AMAZON,cn-northwest-1
+43.193.80.0/20,IPv4,EC2,cn-northwest-1
 43.194.0.0/20,IPv4,AMAZON,cn-northwest-1
 43.194.0.0/20,IPv4,EC2,cn-northwest-1
 43.194.16.0/24,IPv4,AMAZON,cn-northwest-1

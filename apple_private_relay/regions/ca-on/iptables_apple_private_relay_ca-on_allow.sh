@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-11-09 02:21:07
+# Updated: 2026-11-19 02:21:30
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -77,6 +77,9 @@ iptables -A INPUT -s 104.28.144.97/32 -j ACCEPT
 iptables -A INPUT -s 104.28.145.167/32 -j ACCEPT
 iptables -A INPUT -s 104.28.145.168/29 -j ACCEPT
 iptables -A INPUT -s 104.28.145.176/32 -j ACCEPT
+iptables -A INPUT -s 104.28.146.238/31 -j ACCEPT
+iptables -A INPUT -s 104.28.147.63/32 -j ACCEPT
+iptables -A INPUT -s 104.28.147.73/32 -j ACCEPT
 iptables -A INPUT -s 146.75.188.2/31 -j ACCEPT
 iptables -A INPUT -s 146.75.188.32/28 -j ACCEPT
 iptables -A INPUT -s 146.75.188.48/29 -j ACCEPT

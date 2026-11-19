@@ -16,6 +16,8 @@ INSERT INTO `gabia_ips` (`ip_address`, `ip_type`) VALUES ('1.201.67.0/24', 'IPv4
 INSERT INTO `gabia_ips` (`ip_address`, `ip_type`) VALUES ('1.201.68.0/24', 'IPv4');
 INSERT INTO `gabia_ips` (`ip_address`, `ip_type`) VALUES ('1.201.98.0/24', 'IPv4');
 INSERT INTO `gabia_ips` (`ip_address`, `ip_type`) VALUES ('1.201.99.0/24', 'IPv4');
+INSERT INTO `gabia_ips` (`ip_address`, `ip_type`) VALUES ('1.201.105.0/24', 'IPv4');
+INSERT INTO `gabia_ips` (`ip_address`, `ip_type`) VALUES ('1.201.106.0/24', 'IPv4');
 INSERT INTO `gabia_ips` (`ip_address`, `ip_type`) VALUES ('1.201.107.0/24', 'IPv4');
 INSERT INTO `gabia_ips` (`ip_address`, `ip_type`) VALUES ('1.201.108.0/24', 'IPv4');
 INSERT INTO `gabia_ips` (`ip_address`, `ip_type`) VALUES ('1.201.109.0/24', 'IPv4');
