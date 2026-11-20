@@ -90,6 +90,7 @@ INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('154.85.40.0/22', 'IPv
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('154.85.44.0/23', 'IPv4');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('154.85.48.0/21', 'IPv4');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('154.85.56.0/21', 'IPv4');
+INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('154.196.8.0/21', 'IPv4');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('156.240.112.0/21', 'IPv4');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('156.240.118.0/24', 'IPv4');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('156.240.119.0/24', 'IPv4');

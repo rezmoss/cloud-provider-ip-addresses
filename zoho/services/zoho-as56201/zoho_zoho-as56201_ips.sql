@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS `zoho_zoho-as56201_ips` (
 );
 
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('43.239.212.0/23', 'IPv4');
+INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('43.239.212.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('43.239.214.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('74.188.224.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('74.188.226.0/23', 'IPv4');
@@ -29,6 +30,7 @@ INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('169.148.1
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('169.148.142.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('169.148.142.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('169.148.144.0/23', 'IPv4');
+INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('169.148.144.0/24', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('169.148.146.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('169.148.148.0/23', 'IPv4');
 INSERT INTO `zoho_zoho-as56201_ips` (`ip_address`, `ip_type`) VALUES ('169.148.150.0/24', 'IPv4');

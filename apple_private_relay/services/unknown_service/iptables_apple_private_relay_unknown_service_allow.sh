@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple_private_relay IP Ranges
-# Updated: 2026-11-19 02:20:26
+# Updated: 2026-11-20 02:19:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1844,22 +1844,7 @@ iptables -A INPUT -s 104.28.147.4/30 -j ACCEPT
 iptables -A INPUT -s 104.28.147.8/29 -j ACCEPT
 iptables -A INPUT -s 104.28.147.16/28 -j ACCEPT
 iptables -A INPUT -s 104.28.147.32/27 -j ACCEPT
-iptables -A INPUT -s 104.28.147.64/29 -j ACCEPT
-iptables -A INPUT -s 104.28.147.72/30 -j ACCEPT
-iptables -A INPUT -s 104.28.147.76/32 -j ACCEPT
-iptables -A INPUT -s 104.28.147.78/31 -j ACCEPT
-iptables -A INPUT -s 104.28.147.80/30 -j ACCEPT
-iptables -A INPUT -s 104.28.147.85/32 -j ACCEPT
-iptables -A INPUT -s 104.28.147.86/31 -j ACCEPT
-iptables -A INPUT -s 104.28.147.88/30 -j ACCEPT
-iptables -A INPUT -s 104.28.147.95/32 -j ACCEPT
-iptables -A INPUT -s 104.28.147.96/30 -j ACCEPT
-iptables -A INPUT -s 104.28.147.100/32 -j ACCEPT
-iptables -A INPUT -s 104.28.147.102/31 -j ACCEPT
-iptables -A INPUT -s 104.28.147.104/30 -j ACCEPT
-iptables -A INPUT -s 104.28.147.109/32 -j ACCEPT
-iptables -A INPUT -s 104.28.147.110/31 -j ACCEPT
-iptables -A INPUT -s 104.28.147.112/28 -j ACCEPT
+iptables -A INPUT -s 104.28.147.64/26 -j ACCEPT
 iptables -A INPUT -s 104.28.147.128/25 -j ACCEPT
 iptables -A INPUT -s 104.28.148.1/32 -j ACCEPT
 iptables -A INPUT -s 104.28.148.2/31 -j ACCEPT

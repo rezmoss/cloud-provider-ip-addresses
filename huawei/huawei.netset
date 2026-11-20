@@ -1,5 +1,5 @@
 # huawei IP ranges - ipset restore format (hash:net)
-# Version: 56 | Generated: 2026-11-19 | Last changed: 2026-11-19
+# Version: 57 | Generated: 2026-11-20 | Last changed: 2026-11-20
 # IPv4: 197 merged subnets, 1149440 unique IPs
 # IPv6: 34 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

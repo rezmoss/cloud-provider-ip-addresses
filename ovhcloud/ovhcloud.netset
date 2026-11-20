@@ -1,7 +1,7 @@
 # ovhcloud IP ranges - ipset restore format (hash:net)
-# Version: 130 | Generated: 2026-11-19 | Last changed: 2026-11-19
-# IPv4: 683 merged subnets, 4658688 unique IPs
-# IPv6: 7 merged subnets
+# Version: 131 | Generated: 2026-11-20 | Last changed: 2026-11-20
+# IPv4: 653 merged subnets, 4608256 unique IPs
+# IPv6: 8 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < ovhcloud.netset
@@ -48,6 +48,7 @@ add ovhcloud_v4 9.247.164.0/24
 add ovhcloud_v4 15.204.0.0/16
 add ovhcloud_v4 15.235.0.0/16
 add ovhcloud_v4 16.5.51.0/24
+add ovhcloud_v4 16.5.71.0/24
 add ovhcloud_v4 16.216.27.0/24
 add ovhcloud_v4 16.217.96.0/24
 add ovhcloud_v4 23.92.224.0/19
@@ -59,6 +60,7 @@ add ovhcloud_v4 23.230.93.0/24
 add ovhcloud_v4 31.6.62.0/24
 add ovhcloud_v4 31.24.81.0/24
 add ovhcloud_v4 31.41.37.0/24
+add ovhcloud_v4 31.56.38.0/24
 add ovhcloud_v4 31.56.219.0/24
 add ovhcloud_v4 31.56.239.0/24
 add ovhcloud_v4 31.57.161.0/24
@@ -140,7 +142,6 @@ add ovhcloud_v4 54.36.0.0/14
 add ovhcloud_v4 57.128.0.0/14
 add ovhcloud_v4 62.76.224.0/24
 add ovhcloud_v4 62.84.161.0/24
-add ovhcloud_v4 62.105.192.0/24
 add ovhcloud_v4 62.122.126.0/24
 add ovhcloud_v4 62.144.36.0/24
 add ovhcloud_v4 62.144.51.0/24
@@ -193,49 +194,17 @@ add ovhcloud_v4 81.29.158.0/24
 add ovhcloud_v4 81.168.32.0/24
 add ovhcloud_v4 81.168.80.0/24
 add ovhcloud_v4 81.201.183.0/24
-add ovhcloud_v4 82.21.139.0/24
 add ovhcloud_v4 82.22.118.0/24
-add ovhcloud_v4 82.24.96.0/22
 add ovhcloud_v4 82.24.190.0/24
 add ovhcloud_v4 82.25.14.0/24
 add ovhcloud_v4 82.25.44.0/24
-add ovhcloud_v4 82.25.146.0/23
-add ovhcloud_v4 82.26.176.0/20
 add ovhcloud_v4 82.29.93.0/24
 add ovhcloud_v4 82.29.126.0/24
 add ovhcloud_v4 82.38.82.0/24
-add ovhcloud_v4 82.38.124.0/22
-add ovhcloud_v4 82.38.140.0/22
-add ovhcloud_v4 82.38.152.0/21
-add ovhcloud_v4 82.38.160.0/21
-add ovhcloud_v4 82.38.224.0/19
 add ovhcloud_v4 82.39.108.0/24
 add ovhcloud_v4 82.39.119.0/24
-add ovhcloud_v4 82.39.156.0/22
-add ovhcloud_v4 82.39.176.0/21
-add ovhcloud_v4 82.39.216.0/22
-add ovhcloud_v4 82.39.224.0/22
-add ovhcloud_v4 82.40.0.0/20
-add ovhcloud_v4 82.40.16.0/22
 add ovhcloud_v4 82.41.40.0/24
-add ovhcloud_v4 82.41.44.0/22
-add ovhcloud_v4 82.41.52.0/22
-add ovhcloud_v4 82.41.68.0/22
-add ovhcloud_v4 82.41.80.0/22
-add ovhcloud_v4 82.41.88.0/22
-add ovhcloud_v4 82.41.100.0/22
-add ovhcloud_v4 82.41.104.0/22
-add ovhcloud_v4 82.41.124.0/22
 add ovhcloud_v4 82.41.134.0/24
-add ovhcloud_v4 82.41.148.0/22
-add ovhcloud_v4 82.41.152.0/22
-add ovhcloud_v4 82.41.160.0/21
-add ovhcloud_v4 82.41.172.0/22
-add ovhcloud_v4 82.41.176.0/22
-add ovhcloud_v4 82.41.184.0/21
-add ovhcloud_v4 82.41.204.0/22
-add ovhcloud_v4 82.41.212.0/22
-add ovhcloud_v4 82.41.224.0/21
 add ovhcloud_v4 82.47.63.0/24
 add ovhcloud_v4 82.47.98.0/24
 add ovhcloud_v4 82.47.158.0/24
@@ -327,6 +296,7 @@ add ovhcloud_v4 104.234.94.0/23
 add ovhcloud_v4 104.234.135.0/24
 add ovhcloud_v4 104.234.198.0/24
 add ovhcloud_v4 104.239.79.0/24
+add ovhcloud_v4 104.249.136.0/24
 add ovhcloud_v4 107.189.64.0/18
 add ovhcloud_v4 108.174.65.0/24
 add ovhcloud_v4 109.65.19.0/24
@@ -454,6 +424,7 @@ add ovhcloud_v4 151.246.177.0/24
 add ovhcloud_v4 151.246.190.0/24
 add ovhcloud_v4 151.246.214.0/24
 add ovhcloud_v4 151.247.37.0/24
+add ovhcloud_v4 151.247.81.0/24
 add ovhcloud_v4 151.247.112.0/24
 add ovhcloud_v4 151.247.192.0/24
 add ovhcloud_v4 151.247.205.0/24
@@ -621,7 +592,6 @@ add ovhcloud_v4 195.144.5.0/24
 add ovhcloud_v4 195.252.178.0/24
 add ovhcloud_v4 198.17.79.0/24
 add ovhcloud_v4 198.27.64.0/18
-add ovhcloud_v4 198.29.77.0/24
 add ovhcloud_v4 198.49.103.0/24
 add ovhcloud_v4 198.50.128.0/17
 add ovhcloud_v4 198.100.144.0/20
@@ -665,6 +635,7 @@ add ovhcloud_v4 209.151.124.0/24
 add ovhcloud_v4 209.236.208.0/24
 add ovhcloud_v4 212.69.8.0/24
 add ovhcloud_v4 212.74.39.0/24
+add ovhcloud_v4 212.74.59.0/24
 add ovhcloud_v4 212.80.195.0/24
 add ovhcloud_v4 212.100.171.0/24
 add ovhcloud_v4 212.102.228.0/24
@@ -685,7 +656,6 @@ add ovhcloud_v4 217.11.174.0/24
 add ovhcloud_v4 217.60.196.0/24
 add ovhcloud_v4 217.182.0.0/16
 add ovhcloud_v4 217.216.128.0/24
-add ovhcloud_v4 217.216.169.0/24
 add ovhcloud_v4 217.216.227.0/24
 add ovhcloud_v4 217.217.26.0/24
 add ovhcloud_v4 217.217.85.0/24
@@ -695,6 +665,7 @@ create ovhcloud_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
 flush ovhcloud_v6
 add ovhcloud_v6 2001:41d0::/32
 add ovhcloud_v6 2402:1f00::/32
+add ovhcloud_v6 2602:fad4:45::/48
 add ovhcloud_v6 2604:2dc0::/32
 add ovhcloud_v6 2607:5300::/32
 add ovhcloud_v6 2a03:bf80:3::/48

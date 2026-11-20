@@ -38,6 +38,7 @@ INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.26.156.21
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.27.163.208/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.27.177.121/32', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.29.134.26/32', 'IPv4');
+INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.64.190.224/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.85.130.105/32', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.87.245.9/32', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.169.109.160/28', 'IPv4');
@@ -51,6 +52,7 @@ INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.217.135.9
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.233.83.153/32', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.247.166.64/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.250.119.64/32', 'IPv4');
+INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('20.254.76.112/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('40.121.125.32/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('40.121.125.128/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('40.121.125.144/28', 'IPv4');
@@ -67,6 +69,7 @@ INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('52.140.63.24
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('52.175.140.176/32', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('57.155.223.240/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('57.166.80.144/28', 'IPv4');
+INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('74.158.248.0/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('74.161.79.192/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('135.235.149.144/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('138.91.182.224/32', 'IPv4');
@@ -74,6 +77,7 @@ INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('140.82.112.0
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('143.55.64.0/20', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('172.130.18.192/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('172.130.45.112/28', 'IPv4');
+INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('172.130.99.48/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('172.130.153.16/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('172.130.201.80/28', 'IPv4');
 INSERT INTO `github_copilot_ips` (`ip_address`, `ip_type`) VALUES ('172.139.64.112/28', 'IPv4');

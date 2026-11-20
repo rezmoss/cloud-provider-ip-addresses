@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-11-19 02:22:45
+# Updated: 2026-11-20 02:22:44
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -118,7 +118,7 @@ iptables -A INPUT -s 172.225.64.0/20 -j ACCEPT
 iptables -A INPUT -s 172.225.80.0/24 -j ACCEPT
 iptables -A INPUT -s 172.225.82.0/23 -j ACCEPT
 iptables -A INPUT -s 172.225.84.0/24 -j ACCEPT
-iptables -A INPUT -s 172.225.86.0/23 -j ACCEPT
+iptables -A INPUT -s 172.225.87.0/24 -j ACCEPT
 iptables -A INPUT -s 172.225.88.0/23 -j ACCEPT
 iptables -A INPUT -s 172.225.94.0/24 -j ACCEPT
 iptables -A INPUT -s 172.225.96.0/22 -j ACCEPT
@@ -353,14 +353,16 @@ ip6tables -A INPUT -s 2a02:26f7:15c::/46 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:160::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:168::/47 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:200::/48 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:b000::/44 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:b000::/46 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:b008::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b010::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b018::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b020::/46 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b040::/46 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b050::/44 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b060::/43 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:b0c0::/44 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:b0c0::/46 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:b0c8::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b0d0::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b0d8::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b0da::/48 -j ACCEPT
@@ -384,7 +386,8 @@ ip6tables -A INPUT -s 2a02:26f7:b278::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b280::/46 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b28c::/46 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b340::/43 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:b360::/44 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:b360::/45 -j ACCEPT
+ip6tables -A INPUT -s 2a02:26f7:b368::/46 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b370::/45 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b378::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b380::/47 -j ACCEPT
@@ -439,7 +442,6 @@ ip6tables -A INPUT -s 2a02:26f7:b704::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b708::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b740::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b744::/47 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:b746::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b748::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b74c::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:b780::/48 -j ACCEPT
@@ -621,7 +623,6 @@ ip6tables -A INPUT -s 2a02:26f7:c308::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c30c::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c344::/47 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c348::/47 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:c34a::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c34c::/47 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c350::/46 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c354::/47 -j ACCEPT
@@ -629,7 +630,6 @@ ip6tables -A INPUT -s 2a02:26f7:c356::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c358::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c384::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c388::/47 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:c38a::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c38c::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c391::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:c3c0::/48 -j ACCEPT
@@ -1377,7 +1377,6 @@ ip6tables -A INPUT -s 2a02:26f7:f340::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f342::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f344::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f348::/47 -j ACCEPT
-ip6tables -A INPUT -s 2a02:26f7:f34a::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f34c::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f380::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:26f7:f382::/48 -j ACCEPT

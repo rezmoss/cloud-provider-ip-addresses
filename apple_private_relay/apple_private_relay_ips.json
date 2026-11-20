@@ -93580,6 +93580,11 @@
     "region": "PK"
   },
   {
+    "ip_address": "104.28.147.77/32",
+    "ip_type": "IPv4",
+    "region": "DE-HE"
+  },
+  {
     "ip_address": "104.28.147.78/32",
     "ip_type": "IPv4",
     "region": "AZ"
@@ -93608,6 +93613,11 @@
     "ip_address": "104.28.147.83/32",
     "ip_type": "IPv4",
     "region": "IN-GJ"
+  },
+  {
+    "ip_address": "104.28.147.84/32",
+    "ip_type": "IPv4",
+    "region": "DE-HE"
   },
   {
     "ip_address": "104.28.147.85/32",
@@ -93645,6 +93655,21 @@
     "region": "IN"
   },
   {
+    "ip_address": "104.28.147.92/32",
+    "ip_type": "IPv4",
+    "region": "TW"
+  },
+  {
+    "ip_address": "104.28.147.93/32",
+    "ip_type": "IPv4",
+    "region": "TW"
+  },
+  {
+    "ip_address": "104.28.147.94/32",
+    "ip_type": "IPv4",
+    "region": "TW"
+  },
+  {
     "ip_address": "104.28.147.95/32",
     "ip_type": "IPv4",
     "region": "IN"
@@ -93675,6 +93700,11 @@
     "region": "IN-WB"
   },
   {
+    "ip_address": "104.28.147.101/32",
+    "ip_type": "IPv4",
+    "region": "US-FL"
+  },
+  {
     "ip_address": "104.28.147.102/32",
     "ip_type": "IPv4",
     "region": "IN-BR"
@@ -93703,6 +93733,11 @@
     "ip_address": "104.28.147.107/32",
     "ip_type": "IPv4",
     "region": "BT-15"
+  },
+  {
+    "ip_address": "104.28.147.108/32",
+    "ip_type": "IPv4",
+    "region": "US-FL"
   },
   {
     "ip_address": "104.28.147.109/32",

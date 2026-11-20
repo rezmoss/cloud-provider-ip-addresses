@@ -540,6 +540,16 @@
     "region": "DE-HE"
   },
   {
+    "ip_address": "104.28.147.77/32",
+    "ip_type": "IPv4",
+    "region": "DE-HE"
+  },
+  {
+    "ip_address": "104.28.147.84/32",
+    "ip_type": "IPv4",
+    "region": "DE-HE"
+  },
+  {
     "ip_address": "104.28.147.159/32",
     "ip_type": "IPv4",
     "region": "DE-HE"

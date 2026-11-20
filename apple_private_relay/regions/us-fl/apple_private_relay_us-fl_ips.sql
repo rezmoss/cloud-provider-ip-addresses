@@ -490,6 +490,8 @@ INSERT INTO `apple_private_relay_us-fl_ips` (`ip_address`, `ip_type`) VALUES ('1
 INSERT INTO `apple_private_relay_us-fl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.194/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-fl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.195/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-fl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.146.196/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-fl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.147.101/32', 'IPv4');
+INSERT INTO `apple_private_relay_us-fl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.147.108/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-fl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.149.164/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-fl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.149.229/32', 'IPv4');
 INSERT INTO `apple_private_relay_us-fl_ips` (`ip_address`, `ip_type`) VALUES ('104.28.149.230/32', 'IPv4');

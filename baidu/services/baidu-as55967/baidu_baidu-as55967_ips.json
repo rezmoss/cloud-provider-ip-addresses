@@ -126,6 +126,12 @@
     "region": "global"
   },
   {
+    "ip_address": "154.196.8.0/21",
+    "ip_type": "IPv4",
+    "service": "baidu-as55967",
+    "region": "global"
+  },
+  {
     "ip_address": "156.240.112.0/21",
     "ip_type": "IPv4",
     "service": "baidu-as55967",

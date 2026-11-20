@@ -52,6 +52,11 @@
   {
     "ip_address": "4.149.173.80/28",
     "ip_type": "IPv4",
+    "service": "packages"
+  },
+  {
+    "ip_address": "4.149.173.80/28",
+    "ip_type": "IPv4",
     "service": "web"
   },
   {
@@ -348,6 +353,11 @@
     "ip_address": "4.209.112.0/28",
     "ip_type": "IPv4",
     "service": "git"
+  },
+  {
+    "ip_address": "4.209.112.0/28",
+    "ip_type": "IPv4",
+    "service": "packages"
   },
   {
     "ip_address": "4.209.112.0/28",
@@ -4683,6 +4693,21 @@
     "ip_address": "20.64.128.0/17",
     "ip_type": "IPv4",
     "service": "actions"
+  },
+  {
+    "ip_address": "20.64.190.224/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.64.190.224/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "20.64.190.224/28",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "20.65.0.0/17",
@@ -9368,6 +9393,21 @@
     "ip_address": "20.253.128.0/17",
     "ip_type": "IPv4",
     "service": "actions"
+  },
+  {
+    "ip_address": "20.254.76.112/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "20.254.76.112/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "20.254.76.112/28",
+    "ip_type": "IPv4",
+    "service": "web"
   },
   {
     "ip_address": "23.96.0.0/17",
@@ -25730,6 +25770,21 @@
     "service": "actions"
   },
   {
+    "ip_address": "74.158.248.0/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "74.158.248.0/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "74.158.248.0/28",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
     "ip_address": "74.159.0.0/17",
     "ip_type": "IPv4",
     "service": "actions"
@@ -28906,6 +28961,21 @@
   },
   {
     "ip_address": "172.130.45.112/28",
+    "ip_type": "IPv4",
+    "service": "web"
+  },
+  {
+    "ip_address": "172.130.99.48/28",
+    "ip_type": "IPv4",
+    "service": "copilot"
+  },
+  {
+    "ip_address": "172.130.99.48/28",
+    "ip_type": "IPv4",
+    "service": "git"
+  },
+  {
+    "ip_address": "172.130.99.48/28",
     "ip_type": "IPv4",
     "service": "web"
   },

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Github IP Ranges
-# Updated: 2026-11-13 02:16:36
+# Updated: 2026-11-20 02:18:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -43,6 +43,7 @@ ufw allow from 20.27.163.208/28
 ufw allow from 20.27.177.113/32
 ufw allow from 20.27.177.119/32
 ufw allow from 20.29.134.22/31
+ufw allow from 20.64.190.224/28
 ufw allow from 20.87.245.0/32
 ufw allow from 20.87.245.2/32
 ufw allow from 20.169.109.160/28
@@ -62,6 +63,7 @@ ufw allow from 20.233.83.145/32
 ufw allow from 20.233.83.148/32
 ufw allow from 20.247.166.64/28
 ufw allow from 20.250.119.67/32
+ufw allow from 20.254.76.112/28
 ufw allow from 40.121.125.32/28
 ufw allow from 40.121.125.128/26
 ufw allow from 40.121.125.192/27
@@ -72,12 +74,14 @@ ufw allow from 48.202.248.40/32
 ufw allow from 48.204.201.5/32
 ufw allow from 57.155.223.240/28
 ufw allow from 57.166.80.144/28
+ufw allow from 74.158.248.0/28
 ufw allow from 74.161.79.192/28
 ufw allow from 135.235.149.144/28
 ufw allow from 140.82.112.0/20
 ufw allow from 143.55.64.0/20
 ufw allow from 172.130.18.192/28
 ufw allow from 172.130.45.112/28
+ufw allow from 172.130.99.48/28
 ufw allow from 172.130.153.16/28
 ufw allow from 172.130.201.80/28
 ufw allow from 172.139.64.112/28

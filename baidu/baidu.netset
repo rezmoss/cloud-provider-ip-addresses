@@ -1,6 +1,6 @@
 # baidu IP ranges - ipset restore format (hash:net)
-# Version: 17 | Generated: 2026-11-19 | Last changed: 2026-11-06
-# IPv4: 46 merged subnets, 387328 unique IPs
+# Version: 18 | Generated: 2026-11-20 | Last changed: 2026-11-20
+# IPv4: 47 merged subnets, 389376 unique IPs
 # IPv6: 4 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -33,6 +33,7 @@ add baidu_v4 154.85.32.0/21
 add baidu_v4 154.85.40.0/22
 add baidu_v4 154.85.44.0/23
 add baidu_v4 154.85.48.0/20
+add baidu_v4 154.196.8.0/21
 add baidu_v4 156.240.112.0/20
 add baidu_v4 156.246.32.0/19
 add baidu_v4 180.76.0.0/17

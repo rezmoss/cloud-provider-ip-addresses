@@ -1,14 +1,16 @@
 #!/bin/bash
 # Github IP Ranges
-# Updated: 2026-11-12 02:17:28
+# Updated: 2026-11-20 02:18:21
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # iptables deny rules for github
 
+iptables -A INPUT -s 4.149.173.80/28 -j DROP
 iptables -A INPUT -s 4.207.215.240/28 -j DROP
 iptables -A INPUT -s 4.208.26.196/32 -j DROP
+iptables -A INPUT -s 4.209.112.0/28 -j DROP
 iptables -A INPUT -s 4.225.11.196/32 -j DROP
 iptables -A INPUT -s 4.228.31.152/32 -j DROP
 iptables -A INPUT -s 4.237.22.32/32 -j DROP

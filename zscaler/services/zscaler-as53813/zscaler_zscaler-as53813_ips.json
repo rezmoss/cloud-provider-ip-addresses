@@ -2262,6 +2262,12 @@
     "region": "global"
   },
   {
+    "ip_address": "220.42.27.0/24",
+    "ip_type": "IPv4",
+    "service": "zscaler-as53813",
+    "region": "global"
+  },
+  {
     "ip_address": "2400:7aa0:1200::/40",
     "ip_type": "IPv6",
     "service": "zscaler-as53813",

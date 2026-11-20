@@ -50,6 +50,21 @@
     "region": "TW"
   },
   {
+    "ip_address": "104.28.147.92/32",
+    "ip_type": "IPv4",
+    "region": "TW"
+  },
+  {
+    "ip_address": "104.28.147.93/32",
+    "ip_type": "IPv4",
+    "region": "TW"
+  },
+  {
+    "ip_address": "104.28.147.94/32",
+    "ip_type": "IPv4",
+    "region": "TW"
+  },
+  {
     "ip_address": "104.28.148.240/32",
     "ip_type": "IPv4",
     "region": "TW"
