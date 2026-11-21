@@ -4,7 +4,6 @@ ip_address,ip_type,service,region
 5.22.216.0/22,IPv4,upcloud-as202053,global
 5.22.220.0/22,IPv4,upcloud-as202053,global
 5.253.32.0/22,IPv4,upcloud-as202053,global
-77.81.0.0/24,IPv4,upcloud-as202053,global
 80.47.224.0/22,IPv4,upcloud-as202053,global
 80.47.228.0/22,IPv4,upcloud-as202053,global
 80.47.232.0/22,IPv4,upcloud-as202053,global

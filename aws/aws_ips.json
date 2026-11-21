@@ -486,6 +486,18 @@
     "region": "GLOBAL"
   },
   {
+    "ip_address": "1.178.86.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "ap-southeast-3"
+  },
+  {
+    "ip_address": "1.178.86.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "ap-southeast-3"
+  },
+  {
     "ip_address": "1.178.88.0/24",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -27372,6 +27384,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "32.202.228.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "32.232.0.0/16",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -31876,6 +31894,18 @@
     "ip_type": "IPv4",
     "service": "EC2",
     "region": "us-east-1"
+  },
+  {
+    "ip_address": "40.163.5.0/24",
+    "ip_type": "IPv4",
+    "service": "AMAZON",
+    "region": "eu-central-1"
+  },
+  {
+    "ip_address": "40.163.5.0/24",
+    "ip_type": "IPv4",
+    "service": "EC2",
+    "region": "eu-central-1"
   },
   {
     "ip_address": "40.164.0.0/16",
@@ -52935,6 +52965,18 @@
     "ip_address": "83.160.104.0/23",
     "ip_type": "IPv4",
     "service": "AMAZON",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "83.160.241.0/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "83.160.244.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
     "region": "sa-west-1"
   },
   {
@@ -75894,6 +75936,12 @@
     "region": "us-east-1"
   },
   {
+    "ip_address": "2600:1f18:7cdd:1a00::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "us-east-1"
+  },
+  {
     "ip_address": "2600:1f18:7fff:f800::/56",
     "ip_type": "IPv6",
     "service": "ROUTE53_HEALTHCHECKS",
@@ -76317,6 +76365,18 @@
     "ip_address": "2600:1f1e:c000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f1e:c38f:1500::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f1e:cbe6:6700::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "sa-west-1"
   },
   {

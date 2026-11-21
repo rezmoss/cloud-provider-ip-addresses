@@ -1,6 +1,6 @@
 # Alibaba (Alibaba Cloud / Alibaba Group) IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-11-20** · Total CIDRs: **2,482** · IPv4: **2,211** · IPv6: **271** · Services: **3** · Regions: **1**
+> Last updated: **2026-11-21** · Total CIDRs: **2,488** · IPv4: **2,218** · IPv6: **270** · Services: **3** · Regions: **1**
 
 Machine-readable, daily-updated, validated public IP ranges for **Alibaba (Alibaba Cloud / Alibaba Group)**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.

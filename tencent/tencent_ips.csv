@@ -2537,6 +2537,7 @@ ip_address,ip_type,service,region
 140.143.48.0/20,IPv4,tencent-as45090,global
 140.143.64.0/20,IPv4,tencent-as45090,global
 140.143.80.0/23,IPv4,tencent-as45090,global
+140.143.82.0/23,IPv4,tencent-as45090,global
 140.143.102.0/23,IPv4,tencent-as45090,global
 140.143.104.0/22,IPv4,tencent-as45090,global
 140.143.108.0/23,IPv4,tencent-as45090,global

@@ -600,6 +600,18 @@
     "region": "global"
   },
   {
+    "ip_address": "57.144.182.0/23",
+    "ip_type": "IPv4",
+    "service": "meta-as32934",
+    "region": "global"
+  },
+  {
+    "ip_address": "57.144.184.0/23",
+    "ip_type": "IPv4",
+    "service": "meta-as32934",
+    "region": "global"
+  },
+  {
     "ip_address": "57.144.186.0/23",
     "ip_type": "IPv4",
     "service": "meta-as32934",
@@ -709,6 +721,12 @@
   },
   {
     "ip_address": "57.144.226.0/23",
+    "ip_type": "IPv4",
+    "service": "meta-as32934",
+    "region": "global"
+  },
+  {
+    "ip_address": "57.144.228.0/23",
     "ip_type": "IPv4",
     "service": "meta-as32934",
     "region": "global"
@@ -1849,6 +1867,18 @@
   },
   {
     "ip_address": "163.70.128.0/17",
+    "ip_type": "IPv4",
+    "service": "meta-as32934",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.70.130.0/24",
+    "ip_type": "IPv4",
+    "service": "meta-as32934",
+    "region": "global"
+  },
+  {
+    "ip_address": "163.70.131.0/24",
     "ip_type": "IPv4",
     "service": "meta-as32934",
     "region": "global"

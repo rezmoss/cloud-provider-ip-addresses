@@ -10572,6 +10572,12 @@
     "region": "global"
   },
   {
+    "ip_address": "140.143.82.0/23",
+    "ip_type": "IPv4",
+    "service": "tencent-as45090",
+    "region": "global"
+  },
+  {
     "ip_address": "140.143.102.0/23",
     "ip_type": "IPv4",
     "service": "tencent-as45090",

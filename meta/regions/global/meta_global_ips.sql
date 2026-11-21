@@ -106,6 +106,8 @@ INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.172.0/23
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.176.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.178.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.180.0/23', 'IPv4');
+INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.182.0/23', 'IPv4');
+INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.184.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.186.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.188.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.192.0/23', 'IPv4');
@@ -125,6 +127,7 @@ INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.218.0/23
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.220.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.222.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.226.0/23', 'IPv4');
+INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.228.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.230.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.232.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('57.144.234.0/23', 'IPv4');
@@ -315,6 +318,8 @@ INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.243.0/2
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.244.0/24', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('157.240.254.0/24', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('163.70.128.0/17', 'IPv4');
+INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('163.70.130.0/24', 'IPv4');
+INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('163.70.131.0/24', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('163.70.151.0/24', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('163.77.132.0/23', 'IPv4');
 INSERT INTO `meta_global_ips` (`ip_address`, `ip_type`) VALUES ('163.77.132.0/24', 'IPv4');

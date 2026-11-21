@@ -188,6 +188,7 @@ INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2401:9ce0::/48'
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c000::/47', 'IPv6');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c004::/47', 'IPv6');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c006::/47', 'IPv6');
+INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c007::/48', 'IPv6');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c008::/47', 'IPv6');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c00a::/48', 'IPv6');
 INSERT INTO `zoho_global_ips` (`ip_address`, `ip_type`) VALUES ('2602:801:c00b::/48', 'IPv6');

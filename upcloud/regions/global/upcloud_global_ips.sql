@@ -14,7 +14,6 @@ INSERT INTO `upcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('5.57.208.0/2
 INSERT INTO `upcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('5.253.32.0/22', 'IPv4');
 INSERT INTO `upcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('38.100.118.0/23', 'IPv4');
 INSERT INTO `upcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('62.164.153.0/24', 'IPv4');
-INSERT INTO `upcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('77.81.0.0/24', 'IPv4');
 INSERT INTO `upcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('80.47.224.0/22', 'IPv4');
 INSERT INTO `upcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('80.47.228.0/22', 'IPv4');
 INSERT INTO `upcloud_global_ips` (`ip_address`, `ip_type`) VALUES ('80.47.232.0/22', 'IPv4');

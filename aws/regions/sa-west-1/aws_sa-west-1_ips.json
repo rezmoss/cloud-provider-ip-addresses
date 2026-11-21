@@ -264,6 +264,18 @@
     "region": "sa-west-1"
   },
   {
+    "ip_address": "83.160.241.0/25",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "83.160.244.0/22",
+    "ip_type": "IPv4",
+    "service": "EFS",
+    "region": "sa-west-1"
+  },
+  {
     "ip_address": "83.162.0.0/15",
     "ip_type": "IPv4",
     "service": "AMAZON",
@@ -309,6 +321,18 @@
     "ip_address": "2600:1f1e:c000::/36",
     "ip_type": "IPv6",
     "service": "EC2",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f1e:c38f:1500::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
+    "region": "sa-west-1"
+  },
+  {
+    "ip_address": "2600:1f1e:cbe6:6700::/56",
+    "ip_type": "IPv6",
+    "service": "EFS",
     "region": "sa-west-1"
   },
   {

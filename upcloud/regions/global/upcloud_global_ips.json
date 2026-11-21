@@ -48,12 +48,6 @@
     "region": "global"
   },
   {
-    "ip_address": "77.81.0.0/24",
-    "ip_type": "IPv4",
-    "service": "upcloud-as202053",
-    "region": "global"
-  },
-  {
     "ip_address": "80.47.224.0/22",
     "ip_type": "IPv4",
     "service": "upcloud-as202053",

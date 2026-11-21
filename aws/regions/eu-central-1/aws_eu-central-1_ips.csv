@@ -343,6 +343,8 @@ ip_address,ip_type,service,region
 35.159.219.248/29,IPv4,MEDIA_PACKAGE_V2,eu-central-1
 37.203.157.0/24,IPv4,AMAZON,eu-central-1
 37.203.157.0/24,IPv4,EC2,eu-central-1
+40.163.5.0/24,IPv4,AMAZON,eu-central-1
+40.163.5.0/24,IPv4,EC2,eu-central-1
 45.33.182.0/24,IPv4,AMAZON,eu-central-1
 51.0.64.0/18,IPv4,AMAZON,eu-central-1
 51.0.64.0/18,IPv4,EC2,eu-central-1
