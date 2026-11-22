@@ -33,11 +33,13 @@ INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('31.77.146.0/24',
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('31.77.149.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('31.77.157.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('45.84.222.0/24', 'IPv4');
+INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.137.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.160.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.167.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.170.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.173.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.202.0/24', 'IPv4');
+INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.205.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('144.31.14.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('144.31.30.0/24', 'IPv4');
 INSERT INTO `play2go_nl_ips` (`ip_address`, `ip_type`) VALUES ('144.31.54.0/24', 'IPv4');

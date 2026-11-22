@@ -1,6 +1,6 @@
 #!/bin/bash
 # Play2go IP Ranges
-# Updated: 2026-11-18 02:24:59
+# Updated: 2026-11-22 02:23:30
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -27,6 +27,7 @@ iptables -A INPUT -s 31.76.80.0/24 -j ACCEPT
 iptables -A INPUT -s 31.77.17.0/24 -j ACCEPT
 iptables -A INPUT -s 31.77.128.0/24 -j ACCEPT
 iptables -A INPUT -s 31.77.151.0/24 -j ACCEPT
+iptables -A INPUT -s 48.102.138.0/24 -j ACCEPT
 iptables -A INPUT -s 48.102.162.0/24 -j ACCEPT
 iptables -A INPUT -s 48.102.165.0/24 -j ACCEPT
 iptables -A INPUT -s 48.102.171.0/24 -j ACCEPT

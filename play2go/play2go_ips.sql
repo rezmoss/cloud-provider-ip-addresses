@@ -114,6 +114,10 @@ INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('45.8.93.0/24', 'IPv
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('45.66.228.0/24', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('45.84.222.0/24', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('45.133.251.0/24', 'IPv4');
+INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.136.0/24', 'IPv4');
+INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.137.0/24', 'IPv4');
+INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.138.0/24', 'IPv4');
+INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.139.0/24', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.160.0/24', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.161.0/24', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.162.0/24', 'IPv4');
@@ -131,6 +135,11 @@ INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.173.0/24', '
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.174.0/24', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.201.0/24', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.202.0/24', 'IPv4');
+INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.203.0/24', 'IPv4');
+INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.204.0/24', 'IPv4');
+INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.205.0/24', 'IPv4');
+INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.206.0/24', 'IPv4');
+INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('48.102.207.0/24', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('64.188.64.0/22', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('77.239.125.0/24', 'IPv4');
 INSERT INTO `play2go_ips` (`ip_address`, `ip_type`) VALUES ('83.143.112.0/24', 'IPv4');

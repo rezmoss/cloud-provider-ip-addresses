@@ -972,6 +972,7 @@ INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('220.42.18.0/23', 'I
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('220.42.20.0/23', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('220.42.23.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('220.42.25.0/24', 'IPv4');
+INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('220.42.26.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('220.42.27.0/24', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('220.43.0.0/16', 'IPv4');
 INSERT INTO `zscaler_ips` (`ip_address`, `ip_type`) VALUES ('2400:7aa0:1200::/40', 'IPv6');

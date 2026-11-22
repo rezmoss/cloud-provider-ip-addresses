@@ -1,13 +1,12 @@
 #!/bin/bash
 # Sucuri IP Ranges
-# Updated: 2026-10-30 02:23:09
+# Updated: 2026-11-22 02:23:11
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
 # Updates daily at 02:00 UTC
 # UFW deny rules for sucuri
 
-ufw deny from 66.248.201.0/24
 ufw deny from 66.248.202.0/23
 ufw deny from 72.167.12.0/22
 ufw deny from 185.93.228.0/24

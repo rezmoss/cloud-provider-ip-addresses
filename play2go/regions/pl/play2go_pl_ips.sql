@@ -9,7 +9,10 @@ CREATE TABLE IF NOT EXISTS `play2go_pl_ips` (
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('2.26.5.0/24', 'IPv4');
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('2.26.6.0/24', 'IPv4');
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('2.27.136.0/24', 'IPv4');
+INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.136.0/24', 'IPv4');
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.174.0/24', 'IPv4');
+INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.206.0/24', 'IPv4');
+INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('48.102.207.0/24', 'IPv4');
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('177.202.68.0/24', 'IPv4');
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('177.202.71.0/24', 'IPv4');
 INSERT INTO `play2go_pl_ips` (`ip_address`, `ip_type`) VALUES ('177.202.76.0/24', 'IPv4');

@@ -1,5 +1,11 @@
 [
   {
+    "ip_address": "2.56.101.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as30633",
+    "region": "global"
+  },
+  {
     "ip_address": "5.181.40.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as30633",

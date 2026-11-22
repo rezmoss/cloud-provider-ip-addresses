@@ -6,7 +6,6 @@ CREATE TABLE IF NOT EXISTS `sucuri_sucuri-as30148_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
-INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('66.248.201.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('66.248.202.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('66.248.203.0/24', 'IPv4');
 INSERT INTO `sucuri_sucuri-as30148_ips` (`ip_address`, `ip_type`) VALUES ('72.167.12.0/22', 'IPv4');

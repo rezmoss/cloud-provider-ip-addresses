@@ -162,6 +162,12 @@
     "region": "nl"
   },
   {
+    "ip_address": "48.102.137.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "nl"
+  },
+  {
     "ip_address": "48.102.160.0/24",
     "ip_type": "IPv4",
     "service": "play2go",
@@ -187,6 +193,12 @@
   },
   {
     "ip_address": "48.102.202.0/24",
+    "ip_type": "IPv4",
+    "service": "play2go",
+    "region": "nl"
+  },
+  {
+    "ip_address": "48.102.205.0/24",
     "ip_type": "IPv4",
     "service": "play2go",
     "region": "nl"

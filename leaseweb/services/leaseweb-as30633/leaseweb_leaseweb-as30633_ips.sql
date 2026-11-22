@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `leaseweb_leaseweb-as30633_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('2.56.101.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('5.181.40.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('5.181.41.0/24', 'IPv4');
 INSERT INTO `leaseweb_leaseweb-as30633_ips` (`ip_address`, `ip_type`) VALUES ('23.19.160.0/22', 'IPv4');
