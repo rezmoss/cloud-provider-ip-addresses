@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-11-23 02:24:20
+# Updated: 2026-11-24 02:25:10
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -9,6 +9,7 @@
 
 iptables -A INPUT -s 2.29.201.23/32 -j DROP
 iptables -A INPUT -s 2.56.10.36/32 -j DROP
+iptables -A INPUT -s 2.56.119.122/32 -j DROP
 iptables -A INPUT -s 5.2.67.226/32 -j DROP
 iptables -A INPUT -s 5.2.69.82/31 -j DROP
 iptables -A INPUT -s 5.2.69.84/31 -j DROP
@@ -20,7 +21,6 @@ iptables -A INPUT -s 5.45.102.93/32 -j DROP
 iptables -A INPUT -s 5.45.104.176/32 -j DROP
 iptables -A INPUT -s 5.83.158.7/32 -j DROP
 iptables -A INPUT -s 5.104.86.6/32 -j DROP
-iptables -A INPUT -s 5.175.176.101/32 -j DROP
 iptables -A INPUT -s 5.180.40.109/32 -j DROP
 iptables -A INPUT -s 5.230.249.72/32 -j DROP
 iptables -A INPUT -s 5.255.101.10/32 -j DROP
@@ -133,6 +133,7 @@ iptables -A INPUT -s 45.137.69.48/32 -j DROP
 iptables -A INPUT -s 45.137.201.54/32 -j DROP
 iptables -A INPUT -s 45.137.201.100/32 -j DROP
 iptables -A INPUT -s 45.138.12.70/32 -j DROP
+iptables -A INPUT -s 45.141.117.217/32 -j DROP
 iptables -A INPUT -s 45.141.117.244/32 -j DROP
 iptables -A INPUT -s 45.141.119.233/32 -j DROP
 iptables -A INPUT -s 45.142.106.208/32 -j DROP
@@ -199,6 +200,7 @@ iptables -A INPUT -s 82.221.128.191/32 -j DROP
 iptables -A INPUT -s 82.221.131.5/32 -j DROP
 iptables -A INPUT -s 82.221.131.71/32 -j DROP
 iptables -A INPUT -s 82.221.139.190/32 -j DROP
+iptables -A INPUT -s 83.141.81.227/32 -j DROP
 iptables -A INPUT -s 84.16.224.227/32 -j DROP
 iptables -A INPUT -s 84.19.182.20/32 -j DROP
 iptables -A INPUT -s 84.212.206.202/32 -j DROP
@@ -273,7 +275,6 @@ iptables -A INPUT -s 103.109.187.71/32 -j DROP
 iptables -A INPUT -s 103.146.203.11/32 -j DROP
 iptables -A INPUT -s 103.146.203.14/32 -j DROP
 iptables -A INPUT -s 103.146.203.120/32 -j DROP
-iptables -A INPUT -s 103.163.138.8/32 -j DROP
 iptables -A INPUT -s 103.164.54.199/32 -j DROP
 iptables -A INPUT -s 103.166.187.253/32 -j DROP
 iptables -A INPUT -s 103.193.179.22/32 -j DROP
@@ -368,7 +369,6 @@ iptables -A INPUT -s 147.90.235.226/31 -j DROP
 iptables -A INPUT -s 147.90.235.228/32 -j DROP
 iptables -A INPUT -s 147.90.235.249/32 -j DROP
 iptables -A INPUT -s 148.135.75.210/32 -j DROP
-iptables -A INPUT -s 149.202.79.101/32 -j DROP
 iptables -A INPUT -s 149.202.79.129/32 -j DROP
 iptables -A INPUT -s 150.40.125.13/32 -j DROP
 iptables -A INPUT -s 150.40.126.101/32 -j DROP
@@ -445,6 +445,7 @@ iptables -A INPUT -s 176.65.148.3/32 -j DROP
 iptables -A INPUT -s 176.65.148.133/32 -j DROP
 iptables -A INPUT -s 176.65.149.96/32 -j DROP
 iptables -A INPUT -s 176.118.193.33/32 -j DROP
+iptables -A INPUT -s 176.121.81.51/32 -j DROP
 iptables -A INPUT -s 178.17.170.225/32 -j DROP
 iptables -A INPUT -s 178.17.171.88/32 -j DROP
 iptables -A INPUT -s 178.17.171.102/32 -j DROP
@@ -466,6 +467,7 @@ iptables -A INPUT -s 179.43.182.58/32 -j DROP
 iptables -A INPUT -s 179.43.182.232/32 -j DROP
 iptables -A INPUT -s 180.150.226.99/32 -j DROP
 iptables -A INPUT -s 185.11.139.198/32 -j DROP
+iptables -A INPUT -s 185.21.217.6/32 -j DROP
 iptables -A INPUT -s 185.34.33.2/32 -j DROP
 iptables -A INPUT -s 185.35.202.222/32 -j DROP
 iptables -A INPUT -s 185.42.170.203/32 -j DROP
@@ -624,6 +626,7 @@ iptables -A INPUT -s 194.32.107.172/32 -j DROP
 iptables -A INPUT -s 194.48.248.57/32 -j DROP
 iptables -A INPUT -s 194.53.137.42/32 -j DROP
 iptables -A INPUT -s 194.53.137.156/32 -j DROP
+iptables -A INPUT -s 195.20.205.214/32 -j DROP
 iptables -A INPUT -s 195.47.238.50/32 -j DROP
 iptables -A INPUT -s 195.88.74.206/32 -j DROP
 iptables -A INPUT -s 195.176.3.23/32 -j DROP
@@ -640,7 +643,7 @@ iptables -A INPUT -s 198.98.62.158/32 -j DROP
 iptables -A INPUT -s 198.144.178.155/32 -j DROP
 iptables -A INPUT -s 198.167.206.164/32 -j DROP
 iptables -A INPUT -s 198.167.206.201/32 -j DROP
-iptables -A INPUT -s 198.167.206.213/32 -j DROP
+iptables -A INPUT -s 198.167.206.234/32 -j DROP
 iptables -A INPUT -s 199.19.77.18/32 -j DROP
 iptables -A INPUT -s 200.122.181.2/32 -j DROP
 iptables -A INPUT -s 203.55.81.1/32 -j DROP
@@ -683,7 +686,7 @@ iptables -A INPUT -s 209.141.55.26/32 -j DROP
 iptables -A INPUT -s 212.21.66.6/32 -j DROP
 iptables -A INPUT -s 212.73.134.204/32 -j DROP
 iptables -A INPUT -s 212.86.121.139/32 -j DROP
-iptables -A INPUT -s 212.86.121.140/31 -j DROP
+iptables -A INPUT -s 212.86.121.140/32 -j DROP
 iptables -A INPUT -s 212.95.50.243/32 -j DROP
 iptables -A INPUT -s 212.227.191.249/32 -j DROP
 iptables -A INPUT -s 213.95.55.63/32 -j DROP

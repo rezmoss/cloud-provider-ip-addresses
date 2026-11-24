@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-11-22 02:22:40
+# Updated: 2026-11-24 02:24:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -1021,6 +1021,7 @@ iptables -A INPUT -s 194.56.235.0/24 -j DROP
 iptables -A INPUT -s 194.56.240.0/24 -j DROP
 iptables -A INPUT -s 194.56.245.0/24 -j DROP
 iptables -A INPUT -s 194.60.71.0/24 -j DROP
+iptables -A INPUT -s 194.110.210.0/24 -j DROP
 iptables -A INPUT -s 194.127.177.0/24 -j DROP
 iptables -A INPUT -s 194.127.181.0/24 -j DROP
 iptables -A INPUT -s 194.127.183.0/24 -j DROP
@@ -1252,7 +1253,6 @@ ip6tables -A INPUT -s 2a0e:15c7:22::/48 -j DROP
 ip6tables -A INPUT -s 2a0e:15c7:33::/48 -j DROP
 ip6tables -A INPUT -s 2a0e:15c7:55::/48 -j DROP
 ip6tables -A INPUT -s 2a0e:1a80:33::/48 -j DROP
-ip6tables -A INPUT -s 2a0e:1a80:2541::/48 -j DROP
 ip6tables -A INPUT -s 2a0e:1a83:33::/48 -j DROP
 ip6tables -A INPUT -s 2a0e:1a83:44::/48 -j DROP
 ip6tables -A INPUT -s 2a0e:5800::/29 -j DROP
@@ -1348,7 +1348,6 @@ ip6tables -A INPUT -s 2a10:31c0::/29 -j DROP
 ip6tables -A INPUT -s 2a10:32c0::/29 -j DROP
 ip6tables -A INPUT -s 2a10:35c0::/29 -j DROP
 ip6tables -A INPUT -s 2a10:3740::/29 -j DROP
-ip6tables -A INPUT -s 2a10:37c0::/29 -j DROP
 ip6tables -A INPUT -s 2a10:6700::/29 -j DROP
 ip6tables -A INPUT -s 2a10:67c6::/32 -j DROP
 ip6tables -A INPUT -s 2a10:68c0::/32 -j DROP

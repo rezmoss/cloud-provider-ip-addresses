@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-11-19 02:22:44
+# Updated: 2026-11-24 02:24:29
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -384,7 +384,6 @@ iptables -A INPUT -s 23.45.132.0/22 -j DROP
 iptables -A INPUT -s 23.45.136.0/22 -j DROP
 iptables -A INPUT -s 23.45.144.0/22 -j DROP
 iptables -A INPUT -s 23.45.156.0/22 -j DROP
-iptables -A INPUT -s 23.45.174.0/23 -j DROP
 iptables -A INPUT -s 23.45.192.0/21 -j DROP
 iptables -A INPUT -s 23.45.200.0/22 -j DROP
 iptables -A INPUT -s 23.45.208.0/20 -j DROP
@@ -716,7 +715,6 @@ iptables -A INPUT -s 23.197.44.0/22 -j DROP
 iptables -A INPUT -s 23.197.52.0/23 -j DROP
 iptables -A INPUT -s 23.197.60.0/23 -j DROP
 iptables -A INPUT -s 23.197.82.0/23 -j DROP
-iptables -A INPUT -s 23.197.88.0/21 -j DROP
 iptables -A INPUT -s 23.197.112.0/20 -j DROP
 iptables -A INPUT -s 23.197.128.0/19 -j DROP
 iptables -A INPUT -s 23.197.160.0/22 -j DROP
@@ -1272,7 +1270,6 @@ iptables -A INPUT -s 104.107.224.0/20 -j DROP
 iptables -A INPUT -s 104.108.158.0/23 -j DROP
 iptables -A INPUT -s 104.108.224.0/19 -j DROP
 iptables -A INPUT -s 104.109.0.0/22 -j DROP
-iptables -A INPUT -s 104.109.248.0/23 -j DROP
 iptables -A INPUT -s 104.110.72.0/21 -j DROP
 iptables -A INPUT -s 104.110.128.0/20 -j DROP
 iptables -A INPUT -s 104.111.192.0/20 -j DROP
@@ -1285,7 +1282,6 @@ iptables -A INPUT -s 104.115.172.0/23 -j DROP
 iptables -A INPUT -s 104.115.208.0/20 -j DROP
 iptables -A INPUT -s 104.115.224.0/20 -j DROP
 iptables -A INPUT -s 104.116.16.0/22 -j DROP
-iptables -A INPUT -s 104.116.104.0/22 -j DROP
 iptables -A INPUT -s 104.116.172.0/22 -j DROP
 iptables -A INPUT -s 104.119.96.0/21 -j DROP
 iptables -A INPUT -s 104.119.104.0/22 -j DROP
@@ -1306,7 +1302,6 @@ iptables -A INPUT -s 104.123.200.0/22 -j DROP
 iptables -A INPUT -s 104.124.160.0/20 -j DROP
 iptables -A INPUT -s 104.124.176.0/22 -j DROP
 iptables -A INPUT -s 104.124.180.0/23 -j DROP
-iptables -A INPUT -s 104.126.124.0/22 -j DROP
 iptables -A INPUT -s 104.127.16.0/20 -j DROP
 iptables -A INPUT -s 104.127.32.0/20 -j DROP
 iptables -A INPUT -s 109.230.116.0/22 -j DROP

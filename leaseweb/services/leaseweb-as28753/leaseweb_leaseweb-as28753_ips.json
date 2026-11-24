@@ -774,6 +774,12 @@
     "region": "global"
   },
   {
+    "ip_address": "194.110.210.0/24",
+    "ip_type": "IPv4",
+    "service": "leaseweb-as28753",
+    "region": "global"
+  },
+  {
     "ip_address": "195.26.26.0/24",
     "ip_type": "IPv4",
     "service": "leaseweb-as28753",

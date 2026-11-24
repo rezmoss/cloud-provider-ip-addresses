@@ -1946,8 +1946,6 @@ INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:14:
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:14::/47', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:16::/47', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:16::/47', 'IPv6');
-INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:18::/46', 'IPv6');
-INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:18::/46', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:42c0::/42', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:42c0::/42', 'IPv6');
 INSERT INTO `aws_us-east-1_ips` (`ip_address`, `ip_type`) VALUES ('2600:f0f1:8801::/48', 'IPv6');

@@ -1558,6 +1558,7 @@ INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('194.56.235.
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('194.56.240.0/24', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('194.56.245.0/24', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('194.60.71.0/24', 'IPv4');
+INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('194.110.210.0/24', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('194.127.177.0/24', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('194.127.181.0/24', 'IPv4');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('194.127.183.0/24', 'IPv4');
@@ -1852,7 +1853,6 @@ INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0e:15c7:2
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0e:15c7:33::/48', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0e:15c7:55::/48', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0e:1a80:33::/48', 'IPv6');
-INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0e:1a80:2541::/48', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0e:1a83:33::/48', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0e:1a83:44::/48', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a0e:5800::/29', 'IPv6');
@@ -1965,7 +1965,6 @@ INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a10:31c0::
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a10:32c0::/29', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a10:35c0::/29', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a10:3740::/29', 'IPv6');
-INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a10:37c0::/29', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a10:6700::/29', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a10:67c6::/32', 'IPv6');
 INSERT INTO `leaseweb_global_ips` (`ip_address`, `ip_type`) VALUES ('2a10:68c0::/32', 'IPv6');

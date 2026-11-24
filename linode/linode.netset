@@ -1,7 +1,7 @@
 # linode IP ranges - ipset restore format (hash:net)
-# Version: 11 | Generated: 2026-11-23 | Last changed: 2026-11-21
+# Version: 12 | Generated: 2026-11-24 | Last changed: 2026-11-24
 # IPv4: 241 merged subnets, 1393664 unique IPs
-# IPv6: 39 merged subnets
+# IPv6: 41 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < linode.netset
@@ -279,6 +279,7 @@ add linode_v6 2600:3c0f:44::/46
 add linode_v6 2600:3c0f:48::/47
 add linode_v6 2600:3c0f:50::/45
 add linode_v6 2600:3c0f:58::/48
+add linode_v6 2600:3c0f:62::/48
 add linode_v6 2600:3c12:100::/40
 add linode_v6 2600:3c12:300::/40
 add linode_v6 2600:3c12:400::/39
@@ -288,5 +289,6 @@ add linode_v6 2600:3c14::/30
 add linode_v6 2600:3c18::/30
 add linode_v6 2600:3c1c::/32
 add linode_v6 2600:3c1e::/32
+add linode_v6 2600:3c20::/32
 add linode_v6 2a01:7e00::/30
 add linode_v6 2a01:7e04::/32

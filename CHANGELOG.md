@@ -2,6 +2,40 @@
 
 Daily IP range changes across all providers.
 
+## 2026-11-24
+
+### tor
+- Added: 7 CIDRs
+- Removed: 5 CIDRs
+
+### huawei
+- Added: 4 CIDRs
+- Removed: 0 CIDRs
+
+### akamai
+- Added: 0 CIDRs
+- Removed: 5 CIDRs
+
+### leaseweb
+- Added: 1 CIDRs
+- Removed: 2 CIDRs
+
+### zoho
+- Added: 4 CIDRs
+- Removed: 0 CIDRs
+
+### aws
+- Added: 0 CIDRs
+- Removed: 2 CIDRs
+
+### linode
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### ovhcloud
+- Added: 7 CIDRs
+- Removed: 9 CIDRs
+
 ## 2026-11-23
 
 ### hetzner

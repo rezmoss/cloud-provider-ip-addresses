@@ -27405,6 +27405,11 @@
     "region": "MX-QUE"
   },
   {
+    "ip_address": "2600:3c0f:62::/48",
+    "ip_type": "IPv6",
+    "region": "US-IL"
+  },
+  {
     "ip_address": "2600:3c12:0100::/40",
     "ip_type": "IPv6",
     "region": "DE-HH"
@@ -27518,6 +27523,11 @@
     "ip_address": "2600:3c1e::/32",
     "ip_type": "IPv6",
     "region": "AU-NSW"
+  },
+  {
+    "ip_address": "2600:3c20::/32",
+    "ip_type": "IPv6",
+    "region": "US-IL"
   },
   {
     "ip_address": "2a01:7e00::/32",

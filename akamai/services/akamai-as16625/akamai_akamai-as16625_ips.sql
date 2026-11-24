@@ -467,7 +467,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.45
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.45.136.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.45.144.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.45.156.0/22', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.45.174.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.45.192.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.45.196.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.45.200.0/23', 'IPv4');
@@ -871,7 +870,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.19
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.197.52.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.197.60.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.197.82.0/23', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.197.88.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.197.112.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.197.128.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('23.197.144.0/20', 'IPv4');
@@ -1522,7 +1520,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.1
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.108.158.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.108.224.0/19', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.109.0.0/22', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.109.248.0/23', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.110.72.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.110.128.0/21', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.110.136.0/21', 'IPv4');
@@ -1537,7 +1534,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.1
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.115.208.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.115.224.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.116.16.0/22', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.116.104.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.116.172.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.119.96.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.119.100.0/22', 'IPv4');
@@ -1561,7 +1557,6 @@ INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.1
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.124.160.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.124.176.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.124.180.0/23', 'IPv4');
-INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.126.124.0/22', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.127.16.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('104.127.32.0/20', 'IPv4');
 INSERT INTO `akamai_akamai-as16625_ips` (`ip_address`, `ip_type`) VALUES ('109.230.116.0/22', 'IPv4');
