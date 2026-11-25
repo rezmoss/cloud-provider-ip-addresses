@@ -1800,18 +1800,6 @@
     "ip_type": "IPv4"
   },
   {
-    "ip_address": "92.223.107.36/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "92.223.107.38/32",
-    "ip_type": "IPv4"
-  },
-  {
-    "ip_address": "92.223.107.39/32",
-    "ip_type": "IPv4"
-  },
-  {
     "ip_address": "92.223.107.53/32",
     "ip_type": "IPv4"
   },

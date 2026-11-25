@@ -42,6 +42,8 @@ INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('13.140.224.0
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('13.140.240.0/21', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('13.140.248.0/22', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('13.140.252.0/22', 'IPv4');
+INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('31.132.60.0/23', 'IPv4');
+INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('31.132.62.0/23', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('31.187.74.0/24', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('31.220.72.0/21', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('31.220.80.0/21', 'IPv4');
@@ -69,6 +71,8 @@ INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('45.13.192.0/
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('45.13.232.0/23', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('45.13.234.0/23', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('45.14.194.0/24', 'IPv4');
+INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('45.66.136.0/23', 'IPv4');
+INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('45.66.138.0/23', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('45.67.216.0/23', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('45.67.221.0/24', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('45.80.29.0/24', 'IPv4');
@@ -225,6 +229,8 @@ INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('85.190.246.0
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('85.190.254.0/24', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('85.208.48.0/24', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('85.208.51.0/24', 'IPv4');
+INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('85.208.156.0/23', 'IPv4');
+INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('85.208.158.0/23', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('85.239.230.0/23', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('85.239.232.0/21', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('85.239.240.0/21', 'IPv4');
@@ -649,6 +655,8 @@ INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('185.239.211.
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('185.241.151.0/24', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('185.245.182.0/24', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('185.245.183.0/24', 'IPv4');
+INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('185.249.96.0/23', 'IPv4');
+INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('185.249.98.0/23', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('185.249.225.0/24', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('185.249.227.0/24', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('185.250.36.0/23', 'IPv4');

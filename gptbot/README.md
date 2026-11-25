@@ -1,6 +1,6 @@
 # OpenAI GPTBot / ChatGPT-User / SearchBot IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-11-24** · Total CIDRs: **294** · IPv4: **294** · IPv6: **0** · Services: **3**
+> Last updated: **2026-11-25** · Total CIDRs: **415** · IPv4: **415** · IPv6: **0** · Services: **3**
 
 Machine-readable, daily-updated, validated public IP ranges for **OpenAI GPTBot / ChatGPT-User / SearchBot**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -32,7 +32,7 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 104.210.139.192/28
 104.210.139.224/28
 104.210.140.128/28
-128.85.198.32/28
+104.210.140.16/28
 ```
 
 ## Per-service breakdown

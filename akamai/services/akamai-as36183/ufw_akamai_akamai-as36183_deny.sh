@@ -1,6 +1,6 @@
 #!/bin/bash
 # Akamai IP Ranges
-# Updated: 2026-11-20 02:22:44
+# Updated: 2026-11-25 02:23:34
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -138,7 +138,6 @@ ufw deny from 172.225.126.0/23
 ufw deny from 172.225.129.0/24
 ufw deny from 172.225.130.0/23
 ufw deny from 172.225.132.0/24
-ufw deny from 172.225.134.0/23
 ufw deny from 172.225.136.0/23
 ufw deny from 172.225.140.0/24
 ufw deny from 172.225.142.0/24
@@ -493,7 +492,6 @@ ufw deny from 2a02:26f7:b9d4::/48
 ufw deny from 2a02:26f7:ba00::/48
 ufw deny from 2a02:26f7:ba04::/48
 ufw deny from 2a02:26f7:ba08::/48
-ufw deny from 2a02:26f7:ba40::/48
 ufw deny from 2a02:26f7:ba44::/48
 ufw deny from 2a02:26f7:ba48::/48
 ufw deny from 2a02:26f7:ba80::/48
@@ -520,7 +518,6 @@ ufw deny from 2a02:26f7:bc02::/48
 ufw deny from 2a02:26f7:bc04::/48
 ufw deny from 2a02:26f7:bc08::/48
 ufw deny from 2a02:26f7:bc40::/48
-ufw deny from 2a02:26f7:bc44::/48
 ufw deny from 2a02:26f7:bc48::/48
 ufw deny from 2a02:26f7:bc80::/48
 ufw deny from 2a02:26f7:bc82::/48
@@ -595,7 +592,6 @@ ufw deny from 2a02:26f7:c100::/48
 ufw deny from 2a02:26f7:c104::/48
 ufw deny from 2a02:26f7:c108::/48
 ufw deny from 2a02:26f7:c140::/48
-ufw deny from 2a02:26f7:c144::/48
 ufw deny from 2a02:26f7:c148::/48
 ufw deny from 2a02:26f7:c14c::/48
 ufw deny from 2a02:26f7:c150::/48
@@ -604,7 +600,6 @@ ufw deny from 2a02:26f7:c184::/48
 ufw deny from 2a02:26f7:c188::/48
 ufw deny from 2a02:26f7:c1c0::/48
 ufw deny from 2a02:26f7:c1c4::/48
-ufw deny from 2a02:26f7:c1c8::/48
 ufw deny from 2a02:26f7:c200::/48
 ufw deny from 2a02:26f7:c202::/48
 ufw deny from 2a02:26f7:c204::/48
@@ -878,7 +873,6 @@ ufw deny from 2a02:26f7:d190::/48
 ufw deny from 2a02:26f7:d194::/48
 ufw deny from 2a02:26f7:d1c0::/48
 ufw deny from 2a02:26f7:d1c4::/48
-ufw deny from 2a02:26f7:d1c8::/48
 ufw deny from 2a02:26f7:d1cc::/48
 ufw deny from 2a02:26f7:d200::/48
 ufw deny from 2a02:26f7:d204::/48
@@ -1268,7 +1262,6 @@ ufw deny from 2a02:26f7:ec40::/48
 ufw deny from 2a02:26f7:ec44::/48
 ufw deny from 2a02:26f7:ec48::/48
 ufw deny from 2a02:26f7:ec4c::/48
-ufw deny from 2a02:26f7:ec50::/48
 ufw deny from 2a02:26f7:ec54::/48
 ufw deny from 2a02:26f7:ec58::/48
 ufw deny from 2a02:26f7:ec5c::/48

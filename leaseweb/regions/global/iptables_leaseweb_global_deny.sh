@@ -1,6 +1,6 @@
 #!/bin/bash
 # Leaseweb IP Ranges
-# Updated: 2026-11-24 02:24:53
+# Updated: 2026-11-25 02:23:48
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -744,10 +744,8 @@ iptables -A INPUT -s 154.17.148.0/24 -j DROP
 iptables -A INPUT -s 154.17.163.0/24 -j DROP
 iptables -A INPUT -s 154.27.210.0/23 -j DROP
 iptables -A INPUT -s 154.29.6.0/24 -j DROP
-iptables -A INPUT -s 154.30.8.0/24 -j DROP
 iptables -A INPUT -s 154.36.92.0/23 -j DROP
 iptables -A INPUT -s 154.36.110.0/24 -j DROP
-iptables -A INPUT -s 154.37.92.0/23 -j DROP
 iptables -A INPUT -s 157.254.3.0/24 -j DROP
 iptables -A INPUT -s 159.255.192.0/22 -j DROP
 iptables -A INPUT -s 160.202.133.0/24 -j DROP
@@ -1085,8 +1083,6 @@ iptables -A INPUT -s 203.23.128.0/24 -j DROP
 iptables -A INPUT -s 203.24.92.0/24 -j DROP
 iptables -A INPUT -s 203.167.7.0/24 -j DROP
 iptables -A INPUT -s 204.19.134.0/24 -j DROP
-iptables -A INPUT -s 204.217.133.0/24 -j DROP
-iptables -A INPUT -s 204.217.154.0/23 -j DROP
 iptables -A INPUT -s 204.217.159.0/24 -j DROP
 iptables -A INPUT -s 204.217.160.0/23 -j DROP
 iptables -A INPUT -s 204.217.210.0/24 -j DROP
@@ -1095,7 +1091,6 @@ iptables -A INPUT -s 205.236.34.0/24 -j DROP
 iptables -A INPUT -s 206.83.129.0/24 -j DROP
 iptables -A INPUT -s 206.83.131.0/24 -j DROP
 iptables -A INPUT -s 206.214.208.0/20 -j DROP
-iptables -A INPUT -s 206.232.52.0/23 -j DROP
 iptables -A INPUT -s 206.232.68.0/22 -j DROP
 iptables -A INPUT -s 207.58.128.0/18 -j DROP
 iptables -A INPUT -s 207.244.64.0/18 -j DROP
@@ -1303,8 +1298,6 @@ ip6tables -A INPUT -s 2a0f:3d86:22::/48 -j DROP
 ip6tables -A INPUT -s 2a0f:3d86:66::/48 -j DROP
 ip6tables -A INPUT -s 2a0f:3d87::/32 -j DROP
 ip6tables -A INPUT -s 2a0f:48c0::/29 -j DROP
-ip6tables -A INPUT -s 2a0f:6280:1051::/48 -j DROP
-ip6tables -A INPUT -s 2a0f:6280:1053::/48 -j DROP
 ip6tables -A INPUT -s 2a0f:68c0::/29 -j DROP
 ip6tables -A INPUT -s 2a0f:7d02:1::/48 -j DROP
 ip6tables -A INPUT -s 2a0f:7d06:33::/48 -j DROP

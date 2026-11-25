@@ -36,6 +36,18 @@
     "region": "global"
   },
   {
+    "ip_address": "31.132.60.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
+    "ip_address": "31.132.62.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
     "ip_address": "31.220.96.0/21",
     "ip_type": "IPv4",
     "service": "contabo-as40021",
@@ -49,6 +61,18 @@
   },
   {
     "ip_address": "38.105.232.0/24",
+    "ip_type": "IPv4",
+    "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.66.136.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
+    "ip_address": "45.66.138.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as40021",
     "region": "global"
@@ -145,6 +169,18 @@
   },
   {
     "ip_address": "82.197.64.0/22",
+    "ip_type": "IPv4",
+    "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
+    "ip_address": "85.208.156.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
+    "ip_address": "85.208.158.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as40021",
     "region": "global"
@@ -415,6 +451,18 @@
   },
   {
     "ip_address": "185.187.235.0/24",
+    "ip_type": "IPv4",
+    "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.249.96.0/23",
+    "ip_type": "IPv4",
+    "service": "contabo-as40021",
+    "region": "global"
+  },
+  {
+    "ip_address": "185.249.98.0/23",
     "ip_type": "IPv4",
     "service": "contabo-as40021",
     "region": "global"

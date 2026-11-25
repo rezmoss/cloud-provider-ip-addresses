@@ -1,6 +1,6 @@
 #!/bin/bash
 # Contabo IP Ranges
-# Updated: 2026-11-10 02:23:01
+# Updated: 2026-11-25 02:24:26
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -12,9 +12,11 @@ iptables -A INPUT -s 5.252.52.0/22 -j ACCEPT
 iptables -A INPUT -s 13.140.32.0/20 -j ACCEPT
 iptables -A INPUT -s 13.140.224.0/20 -j ACCEPT
 iptables -A INPUT -s 13.140.240.0/21 -j ACCEPT
+iptables -A INPUT -s 31.132.60.0/22 -j ACCEPT
 iptables -A INPUT -s 31.220.96.0/21 -j ACCEPT
 iptables -A INPUT -s 38.105.209.0/24 -j ACCEPT
 iptables -A INPUT -s 38.105.232.0/24 -j ACCEPT
+iptables -A INPUT -s 45.66.136.0/22 -j ACCEPT
 iptables -A INPUT -s 45.137.192.0/24 -j ACCEPT
 iptables -A INPUT -s 45.137.194.0/24 -j ACCEPT
 iptables -A INPUT -s 62.146.168.0/21 -j ACCEPT
@@ -25,6 +27,7 @@ iptables -A INPUT -s 77.73.21.0/24 -j ACCEPT
 iptables -A INPUT -s 80.190.72.0/21 -j ACCEPT
 iptables -A INPUT -s 81.22.38.0/24 -j ACCEPT
 iptables -A INPUT -s 82.197.64.0/22 -j ACCEPT
+iptables -A INPUT -s 85.208.156.0/22 -j ACCEPT
 iptables -A INPUT -s 85.239.230.0/23 -j ACCEPT
 iptables -A INPUT -s 85.239.232.0/21 -j ACCEPT
 iptables -A INPUT -s 85.239.240.0/21 -j ACCEPT
@@ -52,6 +55,7 @@ iptables -A INPUT -s 164.5.254.0/23 -j ACCEPT
 iptables -A INPUT -s 176.57.165.0/24 -j ACCEPT
 iptables -A INPUT -s 185.111.156.0/24 -j ACCEPT
 iptables -A INPUT -s 185.187.235.0/24 -j ACCEPT
+iptables -A INPUT -s 185.249.96.0/22 -j ACCEPT
 iptables -A INPUT -s 194.113.67.0/24 -j ACCEPT
 iptables -A INPUT -s 194.140.196.0/22 -j ACCEPT
 iptables -A INPUT -s 194.238.24.0/21 -j ACCEPT

@@ -146,6 +146,7 @@ INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALU
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('48.195.98.80/28', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('48.197.134.18/31', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('48.197.139.180/30', 'IPv4');
+INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('48.197.166.226/31', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('48.201.165.36/30', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('48.201.165.48/32', 'IPv4');
 INSERT INTO `azure_m365managementactivityapi_ips` (`ip_address`, `ip_type`) VALUES ('48.202.69.246/31', 'IPv4');

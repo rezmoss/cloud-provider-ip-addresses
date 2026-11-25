@@ -840,6 +840,12 @@
     "region": ""
   },
   {
+    "ip_address": "48.197.166.226/31",
+    "ip_type": "IPv4",
+    "service": "M365ManagementActivityApi",
+    "region": ""
+  },
+  {
     "ip_address": "48.201.165.36/30",
     "ip_type": "IPv4",
     "service": "M365ManagementActivityApi",

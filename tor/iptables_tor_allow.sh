@@ -1,6 +1,6 @@
 #!/bin/bash
 # Tor IP Ranges
-# Updated: 2026-11-24 02:25:10
+# Updated: 2026-11-25 02:24:07
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -94,6 +94,7 @@ iptables -A INPUT -s 37.228.129.189/32 -j ACCEPT
 iptables -A INPUT -s 37.228.129.191/32 -j ACCEPT
 iptables -A INPUT -s 37.228.129.241/32 -j ACCEPT
 iptables -A INPUT -s 37.252.189.216/32 -j ACCEPT
+iptables -A INPUT -s 43.132.169.64/32 -j ACCEPT
 iptables -A INPUT -s 44.30.4.69/32 -j ACCEPT
 iptables -A INPUT -s 45.9.148.50/32 -j ACCEPT
 iptables -A INPUT -s 45.9.156.22/32 -j ACCEPT
@@ -126,7 +127,6 @@ iptables -A INPUT -s 45.133.73.14/32 -j ACCEPT
 iptables -A INPUT -s 45.133.73.28/32 -j ACCEPT
 iptables -A INPUT -s 45.133.73.35/32 -j ACCEPT
 iptables -A INPUT -s 45.133.73.184/32 -j ACCEPT
-iptables -A INPUT -s 45.134.48.12/32 -j ACCEPT
 iptables -A INPUT -s 45.137.69.9/32 -j ACCEPT
 iptables -A INPUT -s 45.137.69.13/32 -j ACCEPT
 iptables -A INPUT -s 45.137.69.48/32 -j ACCEPT
@@ -233,7 +233,6 @@ iptables -A INPUT -s 91.208.75.178/32 -j ACCEPT
 iptables -A INPUT -s 91.208.75.239/32 -j ACCEPT
 iptables -A INPUT -s 91.219.236.101/32 -j ACCEPT
 iptables -A INPUT -s 91.219.237.39/32 -j ACCEPT
-iptables -A INPUT -s 91.219.238.235/32 -j ACCEPT
 iptables -A INPUT -s 91.244.197.217/32 -j ACCEPT
 iptables -A INPUT -s 92.118.39.123/32 -j ACCEPT
 iptables -A INPUT -s 92.119.164.208/32 -j ACCEPT
@@ -368,16 +367,15 @@ iptables -A INPUT -s 147.90.235.154/32 -j ACCEPT
 iptables -A INPUT -s 147.90.235.226/31 -j ACCEPT
 iptables -A INPUT -s 147.90.235.228/32 -j ACCEPT
 iptables -A INPUT -s 147.90.235.249/32 -j ACCEPT
-iptables -A INPUT -s 148.135.75.210/32 -j ACCEPT
 iptables -A INPUT -s 149.202.79.129/32 -j ACCEPT
 iptables -A INPUT -s 150.40.125.13/32 -j ACCEPT
+iptables -A INPUT -s 150.40.125.105/32 -j ACCEPT
 iptables -A INPUT -s 150.40.126.101/32 -j ACCEPT
 iptables -A INPUT -s 150.40.126.103/32 -j ACCEPT
 iptables -A INPUT -s 150.40.126.115/32 -j ACCEPT
 iptables -A INPUT -s 150.40.126.134/32 -j ACCEPT
 iptables -A INPUT -s 150.40.126.181/32 -j ACCEPT
 iptables -A INPUT -s 150.40.127.22/32 -j ACCEPT
-iptables -A INPUT -s 150.40.127.65/32 -j ACCEPT
 iptables -A INPUT -s 150.40.127.100/32 -j ACCEPT
 iptables -A INPUT -s 150.40.127.145/32 -j ACCEPT
 iptables -A INPUT -s 150.40.127.161/32 -j ACCEPT
@@ -411,7 +409,6 @@ iptables -A INPUT -s 165.73.242.163/32 -j ACCEPT
 iptables -A INPUT -s 166.70.207.2/32 -j ACCEPT
 iptables -A INPUT -s 166.88.117.52/32 -j ACCEPT
 iptables -A INPUT -s 167.160.177.122/32 -j ACCEPT
-iptables -A INPUT -s 167.179.117.50/32 -j ACCEPT
 iptables -A INPUT -s 168.222.241.36/32 -j ACCEPT
 iptables -A INPUT -s 169.239.183.249/32 -j ACCEPT
 iptables -A INPUT -s 170.64.129.106/32 -j ACCEPT
@@ -465,6 +462,7 @@ iptables -A INPUT -s 179.43.159.78/32 -j ACCEPT
 iptables -A INPUT -s 179.43.178.83/32 -j ACCEPT
 iptables -A INPUT -s 179.43.182.58/32 -j ACCEPT
 iptables -A INPUT -s 179.43.182.232/32 -j ACCEPT
+iptables -A INPUT -s 180.149.44.204/32 -j ACCEPT
 iptables -A INPUT -s 180.150.226.99/32 -j ACCEPT
 iptables -A INPUT -s 185.11.139.198/32 -j ACCEPT
 iptables -A INPUT -s 185.21.217.6/32 -j ACCEPT
@@ -478,9 +476,11 @@ iptables -A INPUT -s 185.93.89.96/32 -j ACCEPT
 iptables -A INPUT -s 185.100.85.24/31 -j ACCEPT
 iptables -A INPUT -s 185.100.85.132/32 -j ACCEPT
 iptables -A INPUT -s 185.100.87.41/32 -j ACCEPT
+iptables -A INPUT -s 185.100.87.42/32 -j ACCEPT
 iptables -A INPUT -s 185.100.87.136/32 -j ACCEPT
 iptables -A INPUT -s 185.100.87.140/32 -j ACCEPT
 iptables -A INPUT -s 185.100.87.166/32 -j ACCEPT
+iptables -A INPUT -s 185.100.87.174/32 -j ACCEPT
 iptables -A INPUT -s 185.100.87.192/32 -j ACCEPT
 iptables -A INPUT -s 185.100.87.250/32 -j ACCEPT
 iptables -A INPUT -s 185.121.170.60/31 -j ACCEPT
@@ -641,8 +641,8 @@ iptables -A INPUT -s 198.98.57.151/32 -j ACCEPT
 iptables -A INPUT -s 198.98.61.60/32 -j ACCEPT
 iptables -A INPUT -s 198.98.62.158/32 -j ACCEPT
 iptables -A INPUT -s 198.144.178.155/32 -j ACCEPT
+iptables -A INPUT -s 198.167.206.130/32 -j ACCEPT
 iptables -A INPUT -s 198.167.206.164/32 -j ACCEPT
-iptables -A INPUT -s 198.167.206.201/32 -j ACCEPT
 iptables -A INPUT -s 198.167.206.234/32 -j ACCEPT
 iptables -A INPUT -s 199.19.77.18/32 -j ACCEPT
 iptables -A INPUT -s 200.122.181.2/32 -j ACCEPT

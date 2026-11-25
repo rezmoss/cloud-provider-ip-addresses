@@ -1,5 +1,5 @@
 # sucuri IP ranges - ipset restore format (hash:net)
-# Version: 9 | Generated: 2026-11-24 | Last changed: 2026-11-22
+# Version: 9 | Generated: 2026-11-25 | Last changed: 2026-11-22
 # IPv4: 10 merged subnets, 5888 unique IPs
 # IPv6: 8 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

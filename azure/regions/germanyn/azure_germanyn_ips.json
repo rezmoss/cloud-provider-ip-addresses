@@ -1776,7 +1776,7 @@
     "region": "germanyn"
   },
   {
-    "ip_address": "2603:1020:d04::/47",
+    "ip_address": "2603:1020:d04::/61",
     "ip_type": "IPv6",
     "service": "AzureCloud.germanyn",
     "region": "germanyn"
@@ -2058,6 +2058,12 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "2603:1020:d04:8::/62",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "2603:1020:d04:9::400/120",
     "ip_type": "IPv6",
     "service": "AzureMonitor.GermanyNorth",
@@ -2136,9 +2142,417 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "2603:1020:d04:c::/63",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "2603:1020:d04:c::400/124",
     "ip_type": "IPv6",
     "service": "AzureAttestation.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::/119",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::200/123",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::240/122",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::280/121",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::300/120",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::400/118",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::800/117",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::1000/116",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::2000/115",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::4000/114",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::8000/113",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::1:0/112",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::2:0/111",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::4:0/110",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::8:0/109",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::10:0/108",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::20:0/107",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::40:0/106",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::80:0/105",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::100:0/104",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::200:0/103",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::400:0/102",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::800:0/101",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::1000:0/100",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::2000:0/99",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::4000:0/98",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e::8000:0/97",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:1::/96",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:2::/95",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:4::/94",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:8::/93",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:10::/92",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:20::/91",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:40::/90",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:80::/89",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:100::/88",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:200::/87",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:400::/86",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:800::/85",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:1000::/84",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:2000::/83",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:4000::/82",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:0:8000::/81",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:1::/80",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:2::/79",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:4::/78",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:8::/77",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:10::/76",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:20::/75",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:40::/74",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:80::/73",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:100::/72",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:200::/71",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:400::/70",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:800::/69",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:1000::/68",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:2000::/67",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:4000::/66",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:e:8000::/65",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:f::/64",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:10::/60",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:20::/59",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:40::/58",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:80::/57",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:100::/56",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:200::/55",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:400::/54",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
     "region": "germanyn"
   },
   {
@@ -2292,9 +2706,45 @@
     "region": "germanyn"
   },
   {
+    "ip_address": "2603:1020:d04:800::/53",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
     "ip_address": "2603:1020:d04:800::2/127",
     "ip_type": "IPv6",
     "service": "AzureResourceManager.GermanyNorth",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:1000::/52",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:2000::/51",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:4000::/50",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d04:8000::/49",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
+    "region": "germanyn"
+  },
+  {
+    "ip_address": "2603:1020:d05::/48",
+    "ip_type": "IPv6",
+    "service": "AzureCloud.germanyn",
     "region": "germanyn"
   },
   {

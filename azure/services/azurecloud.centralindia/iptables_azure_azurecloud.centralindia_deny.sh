@@ -1,6 +1,6 @@
 #!/bin/bash
 # Azure IP Ranges
-# Updated: 2026-11-04 02:16:48
+# Updated: 2026-11-25 02:18:41
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -222,7 +222,82 @@ iptables -A INPUT -s 151.206.68.128/25 -j DROP
 iptables -A INPUT -s 151.206.174.0/24 -j DROP
 ip6tables -A INPUT -s 2603:1040:a00::/46 -j DROP
 ip6tables -A INPUT -s 2603:1040:a05::/48 -j DROP
-ip6tables -A INPUT -s 2603:1040:a06::/47 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06::/60 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:10::/63 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:12::/64 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::/118 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::400/119 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::600/120 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::700/122 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::760/123 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::780/121 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::800/117 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::1000/116 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::2000/115 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::4000/114 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::8000/113 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::1:0/112 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::2:0/111 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::4:0/110 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::8:0/109 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::10:0/108 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::20:0/107 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::40:0/106 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::80:0/105 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::100:0/104 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::200:0/103 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::400:0/102 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::800:0/101 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::1000:0/100 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::2000:0/99 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::4000:0/98 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13::8000:0/97 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:1::/96 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:2::/95 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:4::/94 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:8::/93 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:10::/92 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:20::/91 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:40::/90 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:80::/89 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:100::/88 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:200::/87 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:400::/86 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:800::/85 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:1000::/84 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:2000::/83 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:4000::/82 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:0:8000::/81 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:1::/80 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:2::/79 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:4::/78 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:8::/77 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:10::/76 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:20::/75 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:40::/74 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:80::/73 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:100::/72 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:200::/71 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:400::/70 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:800::/69 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:1000::/68 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:2000::/67 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:4000::/66 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:13:8000::/65 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:14::/62 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:18::/61 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:20::/59 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:40::/58 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:80::/57 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:100::/56 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:200::/55 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:400::/54 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:800::/53 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:1000::/52 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:2000::/51 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:4000::/50 -j DROP
+ip6tables -A INPUT -s 2603:1040:a06:8000::/49 -j DROP
+ip6tables -A INPUT -s 2603:1040:a07::/48 -j DROP
 ip6tables -A INPUT -s 2603:1040:a08::/48 -j DROP
 ip6tables -A INPUT -s 2603:1046:a00:c::/63 -j DROP
 ip6tables -A INPUT -s 2603:1046:a00:e::/64 -j DROP
