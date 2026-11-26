@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gptbot IP Ranges
-# Updated: 2026-11-25 02:19:32
+# Updated: 2026-11-26 02:18:42
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -47,6 +47,9 @@ iptables -A INPUT -s 9.205.8.64/28 -j DROP
 iptables -A INPUT -s 9.205.25.128/28 -j DROP
 iptables -A INPUT -s 9.205.30.128/27 -j DROP
 iptables -A INPUT -s 9.205.30.176/28 -j DROP
+iptables -A INPUT -s 9.205.93.224/27 -j DROP
+iptables -A INPUT -s 9.205.94.0/28 -j DROP
+iptables -A INPUT -s 9.205.94.144/28 -j DROP
 iptables -A INPUT -s 9.205.128.32/27 -j DROP
 iptables -A INPUT -s 9.223.181.208/28 -j DROP
 iptables -A INPUT -s 9.234.96.192/28 -j DROP
@@ -253,6 +256,10 @@ iptables -A INPUT -s 74.7.35.48/28 -j DROP
 iptables -A INPUT -s 74.7.35.112/28 -j DROP
 iptables -A INPUT -s 74.7.36.64/27 -j DROP
 iptables -A INPUT -s 74.7.36.96/28 -j DROP
+iptables -A INPUT -s 74.7.36.128/27 -j DROP
+iptables -A INPUT -s 74.7.36.224/28 -j DROP
+iptables -A INPUT -s 74.7.104.240/28 -j DROP
+iptables -A INPUT -s 74.7.108.96/28 -j DROP
 iptables -A INPUT -s 74.152.51.224/28 -j DROP
 iptables -A INPUT -s 74.152.65.144/28 -j DROP
 iptables -A INPUT -s 74.152.67.176/28 -j DROP

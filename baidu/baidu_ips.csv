@@ -167,6 +167,7 @@ ip_address,ip_type,service,region
 2400:da00:404::/48,IPv6,baidu-as38365,global
 2402:2b40:7000::/36,IPv6,baidu-as55967,global
 2402:2b40:8000::/36,IPv6,baidu-as55967,global
+2402:2b40:a000::/36,IPv6,baidu-as55967,global
 240c:4000::/22,IPv6,baidu-as38365,global
 240c:4081::/32,IPv6,baidu-as38365,global
 240c:4082::/32,IPv6,baidu-as38365,global

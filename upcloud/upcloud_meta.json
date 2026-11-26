@@ -1,8 +1,8 @@
 {
   "provider": "upcloud",
-  "version": 9,
-  "generated_date": "2026-11-25",
-  "last_changed_date": "2026-11-21",
+  "version": 10,
+  "generated_date": "2026-11-26",
+  "last_changed_date": "2026-11-26",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
@@ -12,12 +12,12 @@
     "addresses": 104192
   },
   "ipv6": {
-    "cidrs": 21,
-    "merged_cidrs": 11,
-    "addresses": 1346884807371591812236120686592
+    "cidrs": 20,
+    "merged_cidrs": 10,
+    "addresses": 1346883598445772197606945980416
   },
-  "total_entries": 111,
-  "content_sha256": "a59c619ab3ae7bd3a6d5adb18a6e1b24ed68e3630c9d6f869e8a9de82bd15b16",
+  "total_entries": 110,
+  "content_sha256": "8f488831540b5a0382c9343fc2695a13df22e4f95df00dde2ce469751bda6331",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

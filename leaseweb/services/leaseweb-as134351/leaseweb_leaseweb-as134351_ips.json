@@ -300,12 +300,6 @@
     "region": "global"
   },
   {
-    "ip_address": "204.217.210.0/24",
-    "ip_type": "IPv4",
-    "service": "leaseweb-as134351",
-    "region": "global"
-  },
-  {
     "ip_address": "2001:df3:2680::/48",
     "ip_type": "IPv6",
     "service": "leaseweb-as134351",

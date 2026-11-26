@@ -1,6 +1,6 @@
 #!/bin/bash
 # Contabo IP Ranges
-# Updated: 2026-11-15 02:22:27
+# Updated: 2026-11-26 02:25:30
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -68,6 +68,7 @@ ufw deny from 62.164.208.0/20
 ufw deny from 62.169.16.0/20
 ufw deny from 62.171.128.0/18
 ufw deny from 75.119.128.0/19
+ufw deny from 77.216.128.0/17
 ufw deny from 77.237.232.0/21
 ufw deny from 77.237.240.0/21
 ufw deny from 79.143.176.0/20

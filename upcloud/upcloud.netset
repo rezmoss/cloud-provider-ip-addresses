@@ -1,7 +1,7 @@
 # upcloud IP ranges - ipset restore format (hash:net)
-# Version: 9 | Generated: 2026-11-25 | Last changed: 2026-11-21
+# Version: 10 | Generated: 2026-11-26 | Last changed: 2026-11-26
 # IPv4: 36 merged subnets, 104192 unique IPs
-# IPv6: 11 merged subnets
+# IPv6: 10 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
 # Load with: sudo ipset restore -! < upcloud.netset
@@ -46,7 +46,6 @@ add upcloud_v4 212.147.224.0/19
 add upcloud_v4 213.163.192.0/20
 create upcloud_v6 hash:net family inet6 hashsize 4096 maxelem 1048576 -exist
 flush upcloud_v6
-add upcloud_v6 2001:67c:70::/48
 add upcloud_v6 2604:ed40::/32
 add upcloud_v6 2605:7380::/32
 add upcloud_v6 2a03:3b00:1::/48

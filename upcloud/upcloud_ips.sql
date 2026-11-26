@@ -96,7 +96,6 @@ INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('212.147.248.0/23', 
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('212.147.250.0/23', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('212.147.252.0/22', 'IPv4');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('213.163.192.0/20', 'IPv4');
-INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('2001:67c:70::/48', 'IPv6');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('2604:ed40::/32', 'IPv6');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('2605:7380::/32', 'IPv6');
 INSERT INTO `upcloud_ips` (`ip_address`, `ip_type`) VALUES ('2605:7380:8000::/34', 'IPv6');

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gptbot IP Ranges
-# Updated: 2026-11-25 02:19:32
+# Updated: 2026-11-26 02:18:42
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -48,6 +48,9 @@ ufw deny from 9.205.8.64/28
 ufw deny from 9.205.25.128/28
 ufw deny from 9.205.30.128/27
 ufw deny from 9.205.30.176/28
+ufw deny from 9.205.93.224/27
+ufw deny from 9.205.94.0/28
+ufw deny from 9.205.94.144/28
 ufw deny from 9.205.128.32/27
 ufw deny from 9.223.181.208/28
 ufw deny from 9.234.96.192/28
@@ -271,6 +274,10 @@ ufw deny from 74.7.35.48/28
 ufw deny from 74.7.35.112/28
 ufw deny from 74.7.36.64/27
 ufw deny from 74.7.36.96/28
+ufw deny from 74.7.36.128/27
+ufw deny from 74.7.36.224/28
+ufw deny from 74.7.104.240/28
+ufw deny from 74.7.108.96/28
 ufw deny from 74.7.175.128/25
 ufw deny from 74.7.227.0/24
 ufw deny from 74.7.228.0/23

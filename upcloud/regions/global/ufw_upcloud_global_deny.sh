@@ -1,6 +1,6 @@
 #!/bin/bash
 # Upcloud IP Ranges
-# Updated: 2026-11-21 02:21:03
+# Updated: 2026-11-26 02:25:17
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -43,7 +43,6 @@ ufw deny from 209.94.56.0/21
 ufw deny from 209.151.144.0/20
 ufw deny from 212.147.224.0/19
 ufw deny from 213.163.192.0/20
-ufw deny from 2001:67c:70::/48
 ufw deny from 2604:ed40::/32
 ufw deny from 2605:7380::/32
 ufw deny from 2a03:3b00:1::/48

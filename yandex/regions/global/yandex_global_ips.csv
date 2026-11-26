@@ -155,5 +155,6 @@ ip_address,ip_type,service,region
 2a0d:d6c1::/32,IPv6,yandex-as200350,global
 2a0d:d6c7:10::/48,IPv6,yandex-as215013,global
 2a0d:d6c7:11::/48,IPv6,yandex-as215013,global
+2a0d:d6c7:12::/48,IPv6,yandex-as215013,global
 2a0d:d6c7:14::/48,IPv6,yandex-as215013,global
 2a0d:d6c7:15::/48,IPv6,yandex-as215013,global

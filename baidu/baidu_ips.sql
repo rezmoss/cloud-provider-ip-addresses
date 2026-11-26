@@ -174,6 +174,7 @@ INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('2400:da00:400::/48', 
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('2400:da00:404::/48', 'IPv6');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('2402:2b40:7000::/36', 'IPv6');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('2402:2b40:8000::/36', 'IPv6');
+INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('2402:2b40:a000::/36', 'IPv6');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('240c:4000::/22', 'IPv6');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('240c:4081::/32', 'IPv6');
 INSERT INTO `baidu_ips` (`ip_address`, `ip_type`) VALUES ('240c:4082::/32', 'IPv6');

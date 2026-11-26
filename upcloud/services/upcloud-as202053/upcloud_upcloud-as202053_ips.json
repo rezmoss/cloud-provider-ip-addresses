@@ -402,12 +402,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2001:67c:70::/48",
-    "ip_type": "IPv6",
-    "service": "upcloud-as202053",
-    "region": "global"
-  },
-  {
     "ip_address": "2a03:3b00:1::/48",
     "ip_type": "IPv6",
     "service": "upcloud-as202053",

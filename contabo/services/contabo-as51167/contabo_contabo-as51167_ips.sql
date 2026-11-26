@@ -127,6 +127,7 @@ INSERT INTO `contabo_contabo-as51167_ips` (`ip_address`, `ip_type`) VALUES ('62.
 INSERT INTO `contabo_contabo-as51167_ips` (`ip_address`, `ip_type`) VALUES ('62.171.188.0/23', 'IPv4');
 INSERT INTO `contabo_contabo-as51167_ips` (`ip_address`, `ip_type`) VALUES ('62.171.190.0/23', 'IPv4');
 INSERT INTO `contabo_contabo-as51167_ips` (`ip_address`, `ip_type`) VALUES ('75.119.128.0/19', 'IPv4');
+INSERT INTO `contabo_contabo-as51167_ips` (`ip_address`, `ip_type`) VALUES ('77.216.128.0/17', 'IPv4');
 INSERT INTO `contabo_contabo-as51167_ips` (`ip_address`, `ip_type`) VALUES ('77.237.232.0/21', 'IPv4');
 INSERT INTO `contabo_contabo-as51167_ips` (`ip_address`, `ip_type`) VALUES ('77.237.240.0/21', 'IPv4');
 INSERT INTO `contabo_contabo-as51167_ips` (`ip_address`, `ip_type`) VALUES ('79.143.176.0/23', 'IPv4');

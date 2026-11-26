@@ -49,3 +49,4 @@ INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('202.46.
 INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('202.46.63.0/24', 'IPv4');
 INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('2402:2b40:7000::/36', 'IPv6');
 INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('2402:2b40:8000::/36', 'IPv6');
+INSERT INTO `baidu_baidu-as55967_ips` (`ip_address`, `ip_type`) VALUES ('2402:2b40:a000::/36', 'IPv6');

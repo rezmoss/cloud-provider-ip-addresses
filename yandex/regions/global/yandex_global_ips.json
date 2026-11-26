@@ -936,6 +936,12 @@
     "region": "global"
   },
   {
+    "ip_address": "2a0d:d6c7:12::/48",
+    "ip_type": "IPv6",
+    "service": "yandex-as215013",
+    "region": "global"
+  },
+  {
     "ip_address": "2a0d:d6c7:14::/48",
     "ip_type": "IPv6",
     "service": "yandex-as215013",

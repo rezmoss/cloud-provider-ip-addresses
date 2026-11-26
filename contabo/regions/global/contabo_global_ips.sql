@@ -175,6 +175,7 @@ INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('66.94.119.0/
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('66.94.120.0/21', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('75.119.128.0/19', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('77.73.21.0/24', 'IPv4');
+INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('77.216.128.0/17', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('77.237.232.0/21', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('77.237.240.0/21', 'IPv4');
 INSERT INTO `contabo_global_ips` (`ip_address`, `ip_type`) VALUES ('79.143.176.0/23', 'IPv4');

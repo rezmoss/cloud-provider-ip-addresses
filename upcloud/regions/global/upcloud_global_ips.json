@@ -540,12 +540,6 @@
     "region": "global"
   },
   {
-    "ip_address": "2001:67c:70::/48",
-    "ip_type": "IPv6",
-    "service": "upcloud-as202053",
-    "region": "global"
-  },
-  {
     "ip_address": "2604:ed40::/32",
     "ip_type": "IPv6",
     "service": "upcloud-as25697",
