@@ -22,7 +22,6 @@ INSERT INTO `sucuri_global_ips` (`ip_address`, `ip_type`) VALUES ('208.109.1.0/2
 INSERT INTO `sucuri_global_ips` (`ip_address`, `ip_type`) VALUES ('208.109.2.0/24', 'IPv4');
 INSERT INTO `sucuri_global_ips` (`ip_address`, `ip_type`) VALUES ('208.109.3.0/24', 'IPv4');
 INSERT INTO `sucuri_global_ips` (`ip_address`, `ip_type`) VALUES ('208.109.4.0/22', 'IPv4');
-INSERT INTO `sucuri_global_ips` (`ip_address`, `ip_type`) VALUES ('208.109.80.0/24', 'IPv4');
 INSERT INTO `sucuri_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:fe80:11::/48', 'IPv6');
 INSERT INTO `sucuri_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:fe80:12::/48', 'IPv6');
 INSERT INTO `sucuri_global_ips` (`ip_address`, `ip_type`) VALUES ('2a02:fe80:13::/48', 'IPv6');

@@ -1,5 +1,5 @@
 # aws IP ranges - ipset restore format (hash:net)
-# Version: 131 | Generated: 2026-11-26 | Last changed: 2026-11-26
+# Version: 131 | Generated: 2026-11-27 | Last changed: 2026-11-26
 # IPv4: 1758 merged subnets, 102105515 unique IPs
 # IPv6: 2363 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses

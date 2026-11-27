@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ovhcloud IP Ranges
-# Updated: 2026-11-26 02:23:41
+# Updated: 2026-11-27 02:22:53
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -69,6 +69,8 @@ ufw allow from 31.57.199.0/24
 ufw allow from 31.59.68.0/24
 ufw allow from 31.77.108.0/24
 ufw allow from 31.77.120.0/24
+ufw allow from 31.77.208.0/24
+ufw allow from 31.77.210.0/24
 ufw allow from 31.77.213.0/24
 ufw allow from 31.77.230.0/24
 ufw allow from 31.99.205.0/24
@@ -594,6 +596,7 @@ ufw allow from 198.101.27.0/24
 ufw allow from 198.244.128.0/17
 ufw allow from 198.245.48.0/20
 ufw allow from 199.48.178.0/24
+ufw allow from 199.67.255.0/24
 ufw allow from 199.104.62.0/24
 ufw allow from 199.168.192.0/22
 ufw allow from 199.193.138.0/24

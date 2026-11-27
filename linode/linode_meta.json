@@ -1,7 +1,7 @@
 {
   "provider": "linode",
   "version": 12,
-  "generated_date": "2026-11-26",
+  "generated_date": "2026-11-27",
   "last_changed_date": "2026-11-24",
   "sources": [
     "https://geoip.linode.com/"

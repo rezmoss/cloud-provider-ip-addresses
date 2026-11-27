@@ -1,6 +1,6 @@
 #!/bin/bash
 # Sucuri IP Ranges
-# Updated: 2026-11-22 02:23:11
+# Updated: 2026-11-27 02:24:12
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -16,7 +16,6 @@ iptables -A INPUT -s 192.124.249.0/24 -j ACCEPT
 iptables -A INPUT -s 192.161.0.0/24 -j ACCEPT
 iptables -A INPUT -s 193.19.225.0/24 -j ACCEPT
 iptables -A INPUT -s 208.109.0.0/21 -j ACCEPT
-iptables -A INPUT -s 208.109.80.0/24 -j ACCEPT
 ip6tables -A INPUT -s 2a02:fe80:11::/48 -j ACCEPT
 ip6tables -A INPUT -s 2a02:fe80:12::/47 -j ACCEPT
 ip6tables -A INPUT -s 2a02:fe80:14::/46 -j ACCEPT

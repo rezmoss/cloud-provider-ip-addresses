@@ -12174,12 +12174,6 @@
     "region": "global"
   },
   {
-    "ip_address": "23.48.175.0/24",
-    "ip_type": "IPv4",
-    "service": "akamai-as18680",
-    "region": "global"
-  },
-  {
     "ip_address": "23.48.176.0/20",
     "ip_type": "IPv4",
     "service": "akamai-as16625",

@@ -15,7 +15,6 @@ ip_address,ip_type,service,region
 208.109.2.0/24,IPv4,sucuri-as30148,global
 208.109.3.0/24,IPv4,sucuri-as30148,global
 208.109.4.0/22,IPv4,sucuri-as30148,global
-208.109.80.0/24,IPv4,sucuri-as30148,global
 2a02:fe80:11::/48,IPv6,sucuri-as30148,global
 2a02:fe80:12::/48,IPv6,sucuri-as30148,global
 2a02:fe80:13::/48,IPv6,sucuri-as30148,global

@@ -2,6 +2,40 @@
 
 Daily IP range changes across all providers.
 
+## 2026-11-27
+
+### gcore
+- Added: 2 CIDRs
+- Removed: 0 CIDRs
+
+### ovhcloud
+- Added: 3 CIDRs
+- Removed: 0 CIDRs
+
+### nhncloud
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### akamai
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### vultr
+- Added: 1 CIDRs
+- Removed: 0 CIDRs
+
+### meta
+- Added: 1 CIDRs
+- Removed: 4 CIDRs
+
+### sucuri
+- Added: 0 CIDRs
+- Removed: 1 CIDRs
+
+### tor
+- Added: 14 CIDRs
+- Removed: 6 CIDRs
+
 ## 2026-11-26
 
 ### akamai

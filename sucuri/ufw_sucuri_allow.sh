@@ -1,6 +1,6 @@
 #!/bin/bash
 # Sucuri IP Ranges
-# Updated: 2026-11-22 02:23:11
+# Updated: 2026-11-27 02:24:12
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -16,7 +16,6 @@ ufw allow from 192.124.249.0/24
 ufw allow from 192.161.0.0/24
 ufw allow from 193.19.225.0/24
 ufw allow from 208.109.0.0/21
-ufw allow from 208.109.80.0/24
 ufw allow from 2a02:fe80:11::/48
 ufw allow from 2a02:fe80:12::/47
 ufw allow from 2a02:fe80:14::/46

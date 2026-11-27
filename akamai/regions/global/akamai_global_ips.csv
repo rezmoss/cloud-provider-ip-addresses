@@ -2028,7 +2028,6 @@ ip_address,ip_type,service,region
 23.48.172.0/24,IPv4,akamai-as20940,global
 23.48.173.0/24,IPv4,akamai-as20940,global
 23.48.174.0/24,IPv4,akamai-as20940,global
-23.48.175.0/24,IPv4,akamai-as18680,global
 23.48.176.0/20,IPv4,akamai-as16625,global
 23.48.192.0/22,IPv4,akamai-as16625,global
 23.48.200.0/24,IPv4,akamai-as20940,global

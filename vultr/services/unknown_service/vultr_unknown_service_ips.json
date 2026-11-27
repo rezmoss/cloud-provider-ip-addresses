@@ -500,6 +500,11 @@
     "region": "IN-KA"
   },
   {
+    "ip_address": "64.176.144.0/21",
+    "ip_type": "IPv4",
+    "region": "IN-MH"
+  },
+  {
     "ip_address": "64.176.160.0/20",
     "ip_type": "IPv4",
     "region": "IL-TA"

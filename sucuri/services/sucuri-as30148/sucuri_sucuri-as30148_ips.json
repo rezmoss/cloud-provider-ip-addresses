@@ -96,12 +96,6 @@
     "region": "global"
   },
   {
-    "ip_address": "208.109.80.0/24",
-    "ip_type": "IPv4",
-    "service": "sucuri-as30148",
-    "region": "global"
-  },
-  {
     "ip_address": "2a02:fe80:11::/48",
     "ip_type": "IPv6",
     "service": "sucuri-as30148",

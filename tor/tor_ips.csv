@@ -284,6 +284,7 @@ ip_address,ip_type,service,region
 31.25.11.143/32,IPv4,tor-exit,global
 31.40.204.151/32,IPv4,tor-exit,global
 31.56.4.49/32,IPv4,tor-exit,global
+31.58.216.15/32,IPv4,tor-exit,global
 31.133.0.204/32,IPv4,tor-exit,global
 31.133.0.235/32,IPv4,tor-exit,global
 35.0.127.52/32,IPv4,tor-exit,global
@@ -370,7 +371,6 @@ ip_address,ip_type,service,region
 45.141.119.233/32,IPv4,tor-exit,global
 45.142.106.208/32,IPv4,tor-exit,global
 45.153.34.216/32,IPv4,tor-exit,global
-46.105.20.238/32,IPv4,tor-exit,global
 46.165.243.36/32,IPv4,tor-exit,global
 46.167.244.241/32,IPv4,tor-exit,global
 46.232.251.191/32,IPv4,tor-exit,global
@@ -380,13 +380,14 @@ ip_address,ip_type,service,region
 51.15.16.14/32,IPv4,tor-exit,global
 51.15.18.73/32,IPv4,tor-exit,global
 51.15.59.15/32,IPv4,tor-exit,global
-51.38.37.21/32,IPv4,tor-exit,global
 51.81.222.62/32,IPv4,tor-exit,global
 51.91.18.151/32,IPv4,tor-exit,global
 51.158.151.177/32,IPv4,tor-exit,global
 54.36.108.162/32,IPv4,tor-exit,global
 57.129.91.235/32,IPv4,tor-exit,global
 61.220.100.193/32,IPv4,tor-exit,global
+62.83.136.213/32,IPv4,tor-exit,global
+62.83.138.149/32,IPv4,tor-exit,global
 62.133.45.2/32,IPv4,tor-exit,global
 62.182.84.146/32,IPv4,tor-exit,global
 64.188.93.178/32,IPv4,tor-exit,global
@@ -416,6 +417,7 @@ ip_address,ip_type,service,region
 77.48.28.237/32,IPv4,tor-exit,global
 77.81.247.72/32,IPv4,tor-exit,global
 77.90.185.93/32,IPv4,tor-exit,global
+78.17.72.53/32,IPv4,tor-exit,global
 78.159.121.136/32,IPv4,tor-exit,global
 80.67.167.81/32,IPv4,tor-exit,global
 80.67.172.162/32,IPv4,tor-exit,global
@@ -460,6 +462,8 @@ ip_address,ip_type,service,region
 89.58.26.216/32,IPv4,tor-exit,global
 89.58.41.156/32,IPv4,tor-exit,global
 89.127.232.224/32,IPv4,tor-exit,global
+89.147.110.251/32,IPv4,tor-exit,global
+89.147.111.87/32,IPv4,tor-exit,global
 89.234.157.254/32,IPv4,tor-exit,global
 90.184.10.74/32,IPv4,tor-exit,global
 91.92.109.43/32,IPv4,tor-exit,global
@@ -478,6 +482,7 @@ ip_address,ip_type,service,region
 92.118.39.123/32,IPv4,tor-exit,global
 92.119.164.208/32,IPv4,tor-exit,global
 92.246.84.133/32,IPv4,tor-exit,global
+93.95.227.37/32,IPv4,tor-exit,global
 93.99.104.18/32,IPv4,tor-exit,global
 93.99.104.40/32,IPv4,tor-exit,global
 93.99.104.128/32,IPv4,tor-exit,global
@@ -506,6 +511,7 @@ ip_address,ip_type,service,region
 102.130.113.9/32,IPv4,tor-exit,global
 102.130.117.167/32,IPv4,tor-exit,global
 102.130.127.117/32,IPv4,tor-exit,global
+102.135.10.34/32,IPv4,tor-exit,global
 102.211.56.20/32,IPv4,tor-exit,global
 102.211.56.103/32,IPv4,tor-exit,global
 103.20.241.102/32,IPv4,tor-exit,global
@@ -583,6 +589,7 @@ ip_address,ip_type,service,region
 123.253.35.32/32,IPv4,tor-exit,global
 125.212.241.131/32,IPv4,tor-exit,global
 128.31.0.13/32,IPv4,tor-exit,global
+130.12.182.73/32,IPv4,tor-exit,global
 136.244.111.163/32,IPv4,tor-exit,global
 137.220.120.168/32,IPv4,tor-exit,global
 138.59.18.110/32,IPv4,tor-exit,global
@@ -626,6 +633,7 @@ ip_address,ip_type,service,region
 147.90.235.227/32,IPv4,tor-exit,global
 147.90.235.228/32,IPv4,tor-exit,global
 147.90.235.249/32,IPv4,tor-exit,global
+148.135.75.210/32,IPv4,tor-exit,global
 149.202.79.129/32,IPv4,tor-exit,global
 150.40.125.13/32,IPv4,tor-exit,global
 150.40.125.105/32,IPv4,tor-exit,global
@@ -706,7 +714,6 @@ ip_address,ip_type,service,region
 176.65.148.133/32,IPv4,tor-exit,global
 176.65.149.96/32,IPv4,tor-exit,global
 176.118.193.33/32,IPv4,tor-exit,global
-176.121.81.51/32,IPv4,tor-exit,global
 178.17.170.225/32,IPv4,tor-exit,global
 178.17.171.88/32,IPv4,tor-exit,global
 178.17.171.102/32,IPv4,tor-exit,global
@@ -974,7 +981,6 @@ ip_address,ip_type,service,region
 185.247.224.89/32,IPv4,tor-exit,global
 185.252.232.218/32,IPv4,tor-exit,global
 185.254.196.141/32,IPv4,tor-exit,global
-187.77.27.242/32,IPv4,tor-exit,global
 188.68.36.28/32,IPv4,tor-exit,global
 188.68.41.191/32,IPv4,tor-exit,global
 188.68.49.235/32,IPv4,tor-exit,global
@@ -1071,6 +1077,7 @@ ip_address,ip_type,service,region
 192.236.165.70/32,IPv4,tor-exit,global
 192.253.248.96/32,IPv4,tor-exit,global
 192.255.201.6/32,IPv4,tor-exit,global
+193.26.115.229/32,IPv4,tor-exit,global
 193.36.132.21/32,IPv4,tor-exit,global
 193.105.134.150/32,IPv4,tor-exit,global
 193.105.134.155/32,IPv4,tor-exit,global
@@ -1094,7 +1101,6 @@ ip_address,ip_type,service,region
 194.15.115.238/32,IPv4,tor-exit,global
 194.32.107.172/32,IPv4,tor-exit,global
 194.48.248.57/32,IPv4,tor-exit,global
-194.53.137.42/32,IPv4,tor-exit,global
 194.53.137.156/32,IPv4,tor-exit,global
 194.55.167.14/32,IPv4,tor-exit,global
 195.20.205.214/32,IPv4,tor-exit,global
@@ -1108,13 +1114,15 @@ ip_address,ip_type,service,region
 198.58.107.53/32,IPv4,tor-exit,global
 198.96.155.3/32,IPv4,tor-exit,global
 198.98.50.199/32,IPv4,tor-exit,global
+198.98.51.249/32,IPv4,tor-exit,global
 198.98.57.151/32,IPv4,tor-exit,global
 198.98.61.60/32,IPv4,tor-exit,global
 198.98.62.158/32,IPv4,tor-exit,global
 198.144.178.155/32,IPv4,tor-exit,global
 198.167.206.130/32,IPv4,tor-exit,global
 198.167.206.172/32,IPv4,tor-exit,global
-198.167.206.234/32,IPv4,tor-exit,global
+198.167.206.181/32,IPv4,tor-exit,global
+198.167.206.217/32,IPv4,tor-exit,global
 199.19.77.18/32,IPv4,tor-exit,global
 200.122.181.2/32,IPv4,tor-exit,global
 203.55.81.1/32,IPv4,tor-exit,global

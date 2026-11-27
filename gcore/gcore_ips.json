@@ -1376,6 +1376,10 @@
     "ip_type": "IPv4"
   },
   {
+    "ip_address": "90.84.153.97/32",
+    "ip_type": "IPv4"
+  },
+  {
     "ip_address": "90.84.153.98/32",
     "ip_type": "IPv4"
   },
@@ -4221,6 +4225,10 @@
   },
   {
     "ip_address": "2a01:c9c0:c000:3003::/128",
+    "ip_type": "IPv6"
+  },
+  {
+    "ip_address": "2a01:c9c0:c000:4001::/128",
     "ip_type": "IPv6"
   },
   {
