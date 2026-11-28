@@ -1,0 +1,612 @@
+{
+  "generated": "2026-11-28T02:23:45.242546",
+  "provider_count": 67,
+  "total_ipv4_addresses": 473768912,
+  "total_ipv6_addresses": 635305413068141690650020340741130,
+  "ipv4_space_coverage_pct": 11.0308,
+  "providers": {
+    "cloudflare": {
+      "ipv4_cidrs": 15,
+      "ipv6_cidrs": 7,
+      "total_cidrs": 22,
+      "ipv4_addresses": 1524736,
+      "ipv6_addresses": 1109194275199700726309615304704,
+      "services": 0,
+      "regions": 0
+    },
+    "aws": {
+      "ipv4_cidrs": 10777,
+      "ipv6_cidrs": 7063,
+      "total_cidrs": 17840,
+      "ipv4_addresses": 188945469,
+      "ipv6_addresses": 3649920442668092571699329892365,
+      "services": 27,
+      "regions": 43
+    },
+    "googlecloud": {
+      "ipv4_cidrs": 1058,
+      "ipv6_cidrs": 95,
+      "total_cidrs": 1153,
+      "ipv4_addresses": 19385984,
+      "ipv6_addresses": 1804926248684641357836320768,
+      "services": 1,
+      "regions": 48
+    },
+    "googleservices": {
+      "ipv4_cidrs": 297,
+      "ipv6_cidrs": 98,
+      "total_cidrs": 395,
+      "ipv4_addresses": 4849792,
+      "ipv6_addresses": 1504458616846949713305025904640,
+      "services": 1,
+      "regions": 1
+    },
+    "azure": {
+      "ipv4_cidrs": 77084,
+      "ipv6_cidrs": 35496,
+      "total_cidrs": 112580,
+      "ipv4_addresses": 121495350,
+      "ipv6_addresses": 12643492964577392586479285645,
+      "services": 3398,
+      "regions": 79
+    },
+    "digitalocean": {
+      "ipv4_cidrs": 1094,
+      "ipv6_cidrs": 149,
+      "total_cidrs": 1243,
+      "ipv4_addresses": 3159424,
+      "ipv6_addresses": 1211655937737538188345344,
+      "services": 0,
+      "regions": 14
+    },
+    "oracle": {
+      "ipv4_cidrs": 1121,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 1121,
+      "ipv4_addresses": 4589578,
+      "ipv6_addresses": 0,
+      "services": 3,
+      "regions": 57
+    },
+    "fastly": {
+      "ipv4_cidrs": 21,
+      "ipv6_cidrs": 3,
+      "total_cidrs": 24,
+      "ipv4_addresses": 353280,
+      "ipv6_addresses": 316912650057057350374175801344,
+      "services": 0,
+      "regions": 0
+    },
+    "github": {
+      "ipv4_cidrs": 5988,
+      "ipv6_cidrs": 2744,
+      "total_cidrs": 8732,
+      "ipv4_addresses": 28713251,
+      "ipv6_addresses": 4278579636992952468449697724484,
+      "services": 11,
+      "regions": 0
+    },
+    "linode": {
+      "ipv4_cidrs": 5413,
+      "ipv6_cidrs": 98,
+      "total_cidrs": 5511,
+      "ipv4_addresses": 1393664,
+      "ipv6_addresses": 2935215070510797748615384137728,
+      "services": 0,
+      "regions": 38
+    },
+    "googlebot": {
+      "ipv4_cidrs": 170,
+      "ipv6_cidrs": 147,
+      "total_cidrs": 317,
+      "ipv4_addresses": 5088,
+      "ipv6_addresses": 2711671378835304087552,
+      "services": 1,
+      "regions": 0
+    },
+    "bingbot": {
+      "ipv4_cidrs": 29,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 29,
+      "ipv4_addresses": 4752,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 0
+    },
+    "gptbot": {
+      "ipv4_cidrs": 424,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 424,
+      "ipv4_addresses": 76656,
+      "ipv6_addresses": 0,
+      "services": 3,
+      "regions": 0
+    },
+    "claudebot": {
+      "ipv4_cidrs": 14,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 14,
+      "ipv4_addresses": 1037,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 0
+    },
+    "applebot": {
+      "ipv4_cidrs": 24,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 24,
+      "ipv4_addresses": 4752,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 0
+    },
+    "apple_private_relay": {
+      "ipv4_cidrs": 41863,
+      "ipv6_cidrs": 243363,
+      "total_cidrs": 285226,
+      "ipv4_addresses": 105776,
+      "ipv6_addresses": 218739027220654961382880444416,
+      "services": 0,
+      "regions": 1284
+    },
+    "telegram": {
+      "ipv4_cidrs": 9,
+      "ipv6_cidrs": 5,
+      "total_cidrs": 14,
+      "ipv4_addresses": 11008,
+      "ipv6_addresses": 79232998217542796110242775040,
+      "services": 0,
+      "regions": 0
+    },
+    "vultr": {
+      "ipv4_cidrs": 442,
+      "ipv6_cidrs": 52,
+      "total_cidrs": 494,
+      "ipv4_addresses": 1046528,
+      "ipv6_addresses": 61899419815908243003305623552,
+      "services": 0,
+      "regions": 35
+    },
+    "perplexitybot": {
+      "ipv4_cidrs": 31,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 31,
+      "ipv4_addresses": 31,
+      "ipv6_addresses": 0,
+      "services": 2,
+      "regions": 0
+    },
+    "duckduckbot": {
+      "ipv4_cidrs": 486,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 486,
+      "ipv4_addresses": 486,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 0
+    },
+    "amazonbot": {
+      "ipv4_cidrs": 3131,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 3131,
+      "ipv4_addresses": 3131,
+      "ipv6_addresses": 0,
+      "services": 3,
+      "regions": 0
+    },
+    "commoncrawl": {
+      "ipv4_cidrs": 4,
+      "ipv6_cidrs": 1,
+      "total_cidrs": 5,
+      "ipv4_addresses": 28,
+      "ipv6_addresses": 4722366482869645213696,
+      "services": 1,
+      "regions": 0
+    },
+    "zoom": {
+      "ipv4_cidrs": 55,
+      "ipv6_cidrs": 2,
+      "total_cidrs": 57,
+      "ipv4_addresses": 539924,
+      "ipv6_addresses": 3626777458843887524118528,
+      "services": 3,
+      "regions": 0
+    },
+    "atlassian": {
+      "ipv4_cidrs": 115,
+      "ipv6_cidrs": 60,
+      "total_cidrs": 175,
+      "ipv4_addresses": 82119,
+      "ipv6_addresses": 4955387967618033114855505920,
+      "services": 12,
+      "regions": 18
+    },
+    "circleci": {
+      "ipv4_cidrs": 68,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 68,
+      "ipv4_addresses": 4047,
+      "ipv6_addresses": 0,
+      "services": 3,
+      "regions": 1
+    },
+    "teamcity": {
+      "ipv4_cidrs": 11,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 11,
+      "ipv4_addresses": 11,
+      "ipv6_addresses": 0,
+      "services": 2,
+      "regions": 1
+    },
+    "datadog": {
+      "ipv4_cidrs": 154,
+      "ipv6_cidrs": 10,
+      "total_cidrs": 164,
+      "ipv4_addresses": 38362,
+      "ipv6_addresses": 19807083129864430225192910848,
+      "services": 11,
+      "regions": 0
+    },
+    "uptimerobot": {
+      "ipv4_cidrs": 103,
+      "ipv6_cidrs": 103,
+      "total_cidrs": 206,
+      "ipv4_addresses": 103,
+      "ipv6_addresses": 103,
+      "services": 1,
+      "regions": 4
+    },
+    "statuscake": {
+      "ipv4_cidrs": 183,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 183,
+      "ipv4_addresses": 183,
+      "ipv6_addresses": 0,
+      "services": 0,
+      "regions": 0
+    },
+    "pingdom": {
+      "ipv4_cidrs": 153,
+      "ipv6_cidrs": 57,
+      "total_cidrs": 210,
+      "ipv4_addresses": 153,
+      "ipv6_addresses": 57,
+      "services": 0,
+      "regions": 0
+    },
+    "meta": {
+      "ipv4_cidrs": 346,
+      "ipv6_cidrs": 407,
+      "total_cidrs": 753,
+      "ipv4_addresses": 585728,
+      "ipv6_addresses": 119677611512750215150037893120,
+      "services": 3,
+      "regions": 1
+    },
+    "alibaba": {
+      "ipv4_cidrs": 2190,
+      "ipv6_cidrs": 273,
+      "total_cidrs": 2463,
+      "ipv4_addresses": 32379648,
+      "ipv6_addresses": 88513667860302185212335399895040,
+      "services": 3,
+      "regions": 1
+    },
+    "tencent": {
+      "ipv4_cidrs": 3357,
+      "ipv6_cidrs": 72,
+      "total_cidrs": 3429,
+      "ipv4_addresses": 15017472,
+      "ipv6_addresses": 192332844345769813920704364544,
+      "services": 2,
+      "regions": 1
+    },
+    "ibmcloud": {
+      "ipv4_cidrs": 340,
+      "ipv6_cidrs": 73,
+      "total_cidrs": 413,
+      "ipv4_addresses": 3768064,
+      "ipv6_addresses": 105862007264640977015205265408,
+      "services": 1,
+      "regions": 1
+    },
+    "hetzner": {
+      "ipv4_cidrs": 691,
+      "ipv6_cidrs": 7,
+      "total_cidrs": 698,
+      "ipv4_addresses": 3787520,
+      "ipv6_addresses": 1426727104202220381450415374336,
+      "services": 3,
+      "regions": 1
+    },
+    "ovhcloud": {
+      "ipv4_cidrs": 763,
+      "ipv6_cidrs": 54,
+      "total_cidrs": 817,
+      "ipv4_addresses": 4668160,
+      "ipv6_addresses": 318514476768046734030661484544,
+      "services": 1,
+      "regions": 1
+    },
+    "scaleway": {
+      "ipv4_cidrs": 42,
+      "ipv6_cidrs": 21,
+      "total_cidrs": 63,
+      "ipv4_addresses": 2531584,
+      "ipv6_addresses": 611543588332797470429342072832,
+      "services": 2,
+      "regions": 1
+    },
+    "akamai": {
+      "ipv4_cidrs": 7733,
+      "ipv6_cidrs": 3008,
+      "total_cidrs": 10741,
+      "ipv4_addresses": 21552080,
+      "ipv6_addresses": 23938042922531586682386936496128,
+      "services": 18,
+      "regions": 1
+    },
+    "leaseweb": {
+      "ipv4_cidrs": 1708,
+      "ipv6_cidrs": 369,
+      "total_cidrs": 2077,
+      "ipv4_addresses": 2398976,
+      "ipv6_addresses": 94272776485076206811271699365888,
+      "services": 18,
+      "regions": 1
+    },
+    "rackspace": {
+      "ipv4_cidrs": 310,
+      "ipv6_cidrs": 14,
+      "total_cidrs": 324,
+      "ipv4_addresses": 2297600,
+      "ipv6_addresses": 876501442366096517391345254400,
+      "services": 15,
+      "regions": 1
+    },
+    "salesforce": {
+      "ipv4_cidrs": 54,
+      "ipv6_cidrs": 5,
+      "total_cidrs": 59,
+      "ipv4_addresses": 881664,
+      "ipv6_addresses": 237686905394432242038981263360,
+      "services": 5,
+      "regions": 1
+    },
+    "zscaler": {
+      "ipv4_cidrs": 969,
+      "ipv6_cidrs": 81,
+      "total_cidrs": 1050,
+      "ipv4_addresses": 1088768,
+      "ipv6_addresses": 19519316283497802654805917696,
+      "services": 3,
+      "regions": 1
+    },
+    "yandex": {
+      "ipv4_cidrs": 125,
+      "ipv6_cidrs": 34,
+      "total_cidrs": 159,
+      "ipv4_addresses": 466688,
+      "ipv6_addresses": 990401597386908419715462332416,
+      "services": 6,
+      "regions": 1
+    },
+    "huawei": {
+      "ipv4_cidrs": 599,
+      "ipv6_cidrs": 94,
+      "total_cidrs": 693,
+      "ipv4_addresses": 1172480,
+      "ipv6_addresses": 324531063622808098965855880085504,
+      "services": 6,
+      "regions": 1
+    },
+    "tor": {
+      "ipv4_cidrs": 1264,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 1264,
+      "ipv4_addresses": 1264,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 1
+    },
+    "mullvad": {
+      "ipv4_cidrs": 572,
+      "ipv6_cidrs": 562,
+      "total_cidrs": 1134,
+      "ipv4_addresses": 572,
+      "ipv6_addresses": 562,
+      "services": 2,
+      "regions": 50
+    },
+    "microsoft365": {
+      "ipv4_cidrs": 34,
+      "ipv6_cidrs": 59,
+      "total_cidrs": 93,
+      "ipv4_addresses": 2514957,
+      "ipv6_addresses": 39734973839093631714242592786,
+      "services": 0,
+      "regions": 0
+    },
+    "imperva": {
+      "ipv4_cidrs": 11,
+      "ipv6_cidrs": 1,
+      "total_cidrs": 12,
+      "ipv4_addresses": 261120,
+      "ipv6_addresses": 633825300114114700748351602688,
+      "services": 0,
+      "regions": 0
+    },
+    "gcore": {
+      "ipv4_cidrs": 981,
+      "ipv6_cidrs": 840,
+      "total_cidrs": 1821,
+      "ipv4_addresses": 981,
+      "ipv6_addresses": 840,
+      "services": 0,
+      "regions": 0
+    },
+    "cachefly": {
+      "ipv4_cidrs": 16,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 16,
+      "ipv4_addresses": 4096,
+      "ipv6_addresses": 0,
+      "services": 0,
+      "regions": 0
+    },
+    "gocache": {
+      "ipv4_cidrs": 25,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 25,
+      "ipv4_addresses": 600,
+      "ipv6_addresses": 0,
+      "services": 0,
+      "regions": 0
+    },
+    "quiccloud": {
+      "ipv4_cidrs": 151,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 151,
+      "ipv4_addresses": 151,
+      "ipv6_addresses": 0,
+      "services": 0,
+      "regions": 0
+    },
+    "zoho": {
+      "ipv4_cidrs": 185,
+      "ipv6_cidrs": 22,
+      "total_cidrs": 207,
+      "ipv4_addresses": 82688,
+      "ipv6_addresses": 43521329506126650289422336,
+      "services": 9,
+      "regions": 1
+    },
+    "wasabi": {
+      "ipv4_cidrs": 20,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 20,
+      "ipv4_addresses": 5120,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 1
+    },
+    "upcloud": {
+      "ipv4_cidrs": 90,
+      "ipv6_cidrs": 20,
+      "total_cidrs": 110,
+      "ipv4_addresses": 104192,
+      "ipv6_addresses": 1465725842217168703997261905920,
+      "services": 2,
+      "regions": 1
+    },
+    "sucuri": {
+      "ipv4_cidrs": 16,
+      "ipv6_cidrs": 14,
+      "total_cidrs": 30,
+      "ipv4_addresses": 5632,
+      "ipv6_addresses": 25387442211907212668829696,
+      "services": 1,
+      "regions": 1
+    },
+    "stormwall": {
+      "ipv4_cidrs": 20,
+      "ipv6_cidrs": 6,
+      "total_cidrs": 26,
+      "ipv4_addresses": 5888,
+      "ipv6_addresses": 7253554917687775048237056,
+      "services": 1,
+      "regions": 1
+    },
+    "baidu": {
+      "ipv4_cidrs": 164,
+      "ipv6_cidrs": 15,
+      "total_cidrs": 179,
+      "ipv4_addresses": 669696,
+      "ipv6_addresses": 81624824101727390722782052483072,
+      "services": 2,
+      "regions": 1
+    },
+    "backblaze": {
+      "ipv4_cidrs": 26,
+      "ipv6_cidrs": 55,
+      "total_cidrs": 81,
+      "ipv4_addresses": 9472,
+      "ipv6_addresses": 5076279516561827904591233024,
+      "services": 2,
+      "regions": 1
+    },
+    "nhncloud": {
+      "ipv4_cidrs": 379,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 379,
+      "ipv4_addresses": 138240,
+      "ipv6_addresses": 0,
+      "services": 3,
+      "regions": 1
+    },
+    "hostway": {
+      "ipv4_cidrs": 174,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 174,
+      "ipv4_addresses": 74752,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 1
+    },
+    "gabia": {
+      "ipv4_cidrs": 152,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 152,
+      "ipv4_addresses": 54656,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 1
+    },
+    "bunny": {
+      "ipv4_cidrs": 14,
+      "ipv6_cidrs": 34,
+      "total_cidrs": 48,
+      "ipv4_addresses": 4096,
+      "ipv6_addresses": 41103477866897391940009984,
+      "services": 1,
+      "regions": 1
+    },
+    "internetarchive": {
+      "ipv4_cidrs": 8,
+      "ipv6_cidrs": 1,
+      "total_cidrs": 9,
+      "ipv4_addresses": 8192,
+      "ipv6_addresses": 1208925819614629174706176,
+      "services": 2,
+      "regions": 1
+    },
+    "discord": {
+      "ipv4_cidrs": 20,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 20,
+      "ipv4_addresses": 20,
+      "ipv6_addresses": 0,
+      "services": 2,
+      "regions": 0
+    },
+    "contabo": {
+      "ipv4_cidrs": 797,
+      "ipv6_cidrs": 15,
+      "total_cidrs": 812,
+      "ipv4_addresses": 828160,
+      "ipv6_addresses": 1188422437713965063903159255040,
+      "services": 3,
+      "regions": 1
+    },
+    "play2go": {
+      "ipv4_cidrs": 241,
+      "ipv6_cidrs": 0,
+      "total_cidrs": 241,
+      "ipv4_addresses": 63232,
+      "ipv6_addresses": 0,
+      "services": 1,
+      "regions": 5
+    }
+  }
+}
