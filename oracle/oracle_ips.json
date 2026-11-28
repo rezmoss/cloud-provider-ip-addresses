@@ -666,6 +666,18 @@
     "region": "eu-amsterdam-1"
   },
   {
+    "ip_address": "92.6.0.0/16",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-frankfurt-1"
+  },
+  {
+    "ip_address": "107.186.224.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
     "ip_address": "129.38.64.0/18",
     "ip_type": "IPv4",
     "service": "OCI",
@@ -1384,6 +1396,12 @@
     "ip_type": "IPv4",
     "service": "OCI",
     "region": "us-phoenix-1"
+  },
+  {
+    "ip_address": "129.203.128.0/17",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "ap-tokyo-1"
   },
   {
     "ip_address": "129.213.0.128/25",

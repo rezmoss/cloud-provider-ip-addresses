@@ -378,6 +378,12 @@
     "region": "global"
   },
   {
+    "ip_address": "120.49.248.0/21",
+    "ip_type": "IPv4",
+    "service": "baidu-as38365",
+    "region": "global"
+  },
+  {
     "ip_address": "180.76.16.0/20",
     "ip_type": "IPv4",
     "service": "baidu-as38365",

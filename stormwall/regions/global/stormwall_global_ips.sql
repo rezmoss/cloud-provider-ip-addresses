@@ -18,6 +18,7 @@ INSERT INTO `stormwall_global_ips` (`ip_address`, `ip_type`) VALUES ('143.246.38
 INSERT INTO `stormwall_global_ips` (`ip_address`, `ip_type`) VALUES ('143.246.39.0/24', 'IPv4');
 INSERT INTO `stormwall_global_ips` (`ip_address`, `ip_type`) VALUES ('160.25.253.0/24', 'IPv4');
 INSERT INTO `stormwall_global_ips` (`ip_address`, `ip_type`) VALUES ('160.79.120.0/24', 'IPv4');
+INSERT INTO `stormwall_global_ips` (`ip_address`, `ip_type`) VALUES ('160.79.123.0/24', 'IPv4');
 INSERT INTO `stormwall_global_ips` (`ip_address`, `ip_type`) VALUES ('185.121.240.0/24', 'IPv4');
 INSERT INTO `stormwall_global_ips` (`ip_address`, `ip_type`) VALUES ('185.121.241.0/24', 'IPv4');
 INSERT INTO `stormwall_global_ips` (`ip_address`, `ip_type`) VALUES ('185.121.242.0/24', 'IPv4');

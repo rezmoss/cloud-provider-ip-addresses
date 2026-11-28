@@ -13,3 +13,4 @@ INSERT INTO `nhncloud_nhncloud-as152291_ips` (`ip_address`, `ip_type`) VALUES ('
 INSERT INTO `nhncloud_nhncloud-as152291_ips` (`ip_address`, `ip_type`) VALUES ('59.150.35.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as152291_ips` (`ip_address`, `ip_type`) VALUES ('59.150.36.0/24', 'IPv4');
 INSERT INTO `nhncloud_nhncloud-as152291_ips` (`ip_address`, `ip_type`) VALUES ('59.150.37.0/24', 'IPv4');
+INSERT INTO `nhncloud_nhncloud-as152291_ips` (`ip_address`, `ip_type`) VALUES ('59.150.43.0/24', 'IPv4');

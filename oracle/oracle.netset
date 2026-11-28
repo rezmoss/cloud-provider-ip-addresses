@@ -1,6 +1,6 @@
 # oracle IP ranges - ipset restore format (hash:net)
-# Version: 4 | Generated: 2026-11-27 | Last changed: 2026-10-29
-# IPv4: 809 merged subnets, 4483082 unique IPs
+# Version: 5 | Generated: 2026-11-28 | Last changed: 2026-11-28
+# IPv4: 812 merged subnets, 4589578 unique IPs
 # IPv6: 0 merged subnets
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: CC0-1.0 | Updated daily at 02:00 UTC
@@ -102,6 +102,8 @@ add oracle_v4 92.5.224.0/20
 add oracle_v4 92.5.240.0/21
 add oracle_v4 92.5.248.0/22
 add oracle_v4 92.5.254.0/23
+add oracle_v4 92.6.0.0/16
+add oracle_v4 107.186.224.0/19
 add oracle_v4 129.38.64.0/18
 add oracle_v4 129.80.0.0/16
 add oracle_v4 129.91.0.0/22
@@ -192,6 +194,7 @@ add oracle_v4 129.158.64.0/18
 add oracle_v4 129.158.128.0/17
 add oracle_v4 129.159.0.0/16
 add oracle_v4 129.191.0.0/17
+add oracle_v4 129.203.128.0/17
 add oracle_v4 129.213.0.128/25
 add oracle_v4 129.213.2.128/25
 add oracle_v4 129.213.4.128/25

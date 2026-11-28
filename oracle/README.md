@@ -1,6 +1,6 @@
 # Oracle Cloud Infrastructure IP Ranges (Auto-Updated Daily)
 
-> Last updated: **2026-11-27** · Total CIDRs: **1,118** · IPv4: **1,118** · IPv6: **0** · Services: **3** · Regions: **57**
+> Last updated: **2026-11-28** · Total CIDRs: **1,121** · IPv4: **1,121** · IPv6: **0** · Services: **3** · Regions: **57**
 
 Machine-readable, daily-updated, validated public IP ranges for **Oracle Cloud Infrastructure**.
 Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and Apache.
@@ -28,11 +28,11 @@ Drop-in firewall configs for nginx, iptables, nftables, HAProxy, Caddy, UFW, and
 ### Sample (first 5 CIDRs, sorted)
 
 ```
+107.186.224.0/19
 129.144.0.0/16
 129.145.16.0/21
 129.145.74.0/23
 129.145.76.0/22
-129.146.0.0/21
 ```
 
 ## Per-service breakdown

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Nhncloud IP Ranges
-# Updated: 2026-11-27 02:24:15
+# Updated: 2026-11-28 02:22:42
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -15,6 +15,7 @@ ufw allow from 45.249.160.0/22
 ufw allow from 59.150.18.0/24
 ufw allow from 59.150.32.0/22
 ufw allow from 59.150.36.0/23
+ufw allow from 59.150.43.0/24
 ufw allow from 61.42.226.0/24
 ufw allow from 61.111.36.0/22
 ufw allow from 101.79.68.0/22

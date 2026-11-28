@@ -107,3 +107,4 @@ ip_address,ip_type,service,region
 2605:a142::/32,IPv6,contabo-as40021,global
 2605:a143::/32,IPv6,contabo-as40021,global
 2605:a144::/32,IPv6,contabo-as40021,global
+2605:a145::/32,IPv6,contabo-as40021,global

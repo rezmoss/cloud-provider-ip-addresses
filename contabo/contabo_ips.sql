@@ -812,6 +812,7 @@ INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('2605:a141::/32', 'I
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('2605:a142::/32', 'IPv6');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('2605:a143::/32', 'IPv6');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('2605:a144::/32', 'IPv6');
+INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('2605:a145::/32', 'IPv6');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:c202::/32', 'IPv6');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:c204::/32', 'IPv6');
 INSERT INTO `contabo_ips` (`ip_address`, `ip_type`) VALUES ('2a02:c205::/32', 'IPv6');

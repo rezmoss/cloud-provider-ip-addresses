@@ -1,23 +1,23 @@
 {
   "provider": "stormwall",
-  "version": 10,
-  "generated_date": "2026-11-27",
-  "last_changed_date": "2026-11-03",
+  "version": 11,
+  "generated_date": "2026-11-28",
+  "last_changed_date": "2026-11-28",
   "sources": [
     "BGP announced prefixes via RIPE NCC RIPEstat"
   ],
   "ipv4": {
-    "cidrs": 19,
-    "merged_cidrs": 9,
-    "addresses": 4608
+    "cidrs": 20,
+    "merged_cidrs": 10,
+    "addresses": 4864
   },
   "ipv6": {
     "cidrs": 6,
     "merged_cidrs": 6,
     "addresses": 7253554917687775048237056
   },
-  "total_entries": 25,
-  "content_sha256": "d22d81a14015f366122b7e0912c67fa61562e7be960a890b053103e899255d23",
+  "total_entries": 26,
+  "content_sha256": "c40680834c7ed912de40889ca4ea363ce62a9dc4fc803d4dee2d82e146427f8b",
   "license": "CC0-1.0",
   "license_url": "https://github.com/rezmoss/cloud-provider-ip-addresses/blob/main/LICENSE"
 }

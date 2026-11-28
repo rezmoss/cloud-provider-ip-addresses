@@ -13,6 +13,7 @@ INSERT INTO `oracle_eu-frankfurt-1_ips` (`ip_address`, `ip_type`) VALUES ('92.5.
 INSERT INTO `oracle_eu-frankfurt-1_ips` (`ip_address`, `ip_type`) VALUES ('92.5.128.0/18', 'IPv4');
 INSERT INTO `oracle_eu-frankfurt-1_ips` (`ip_address`, `ip_type`) VALUES ('92.5.240.0/21', 'IPv4');
 INSERT INTO `oracle_eu-frankfurt-1_ips` (`ip_address`, `ip_type`) VALUES ('92.5.248.0/22', 'IPv4');
+INSERT INTO `oracle_eu-frankfurt-1_ips` (`ip_address`, `ip_type`) VALUES ('92.6.0.0/16', 'IPv4');
 INSERT INTO `oracle_eu-frankfurt-1_ips` (`ip_address`, `ip_type`) VALUES ('129.159.0.0/20', 'IPv4');
 INSERT INTO `oracle_eu-frankfurt-1_ips` (`ip_address`, `ip_type`) VALUES ('129.159.24.0/21', 'IPv4');
 INSERT INTO `oracle_eu-frankfurt-1_ips` (`ip_address`, `ip_type`) VALUES ('129.159.192.0/19', 'IPv4');

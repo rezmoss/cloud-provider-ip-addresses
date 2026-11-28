@@ -264,6 +264,12 @@
     "region": "eu-amsterdam-1"
   },
   {
+    "ip_address": "107.186.224.0/19",
+    "ip_type": "IPv4",
+    "service": "OSN",
+    "region": "us-shawnee-1"
+  },
+  {
     "ip_address": "129.146.12.128/25",
     "ip_type": "IPv4",
     "service": "OSN",

@@ -114,3 +114,4 @@ INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('260
 INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('2605:a142::/32', 'IPv6');
 INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('2605:a143::/32', 'IPv6');
 INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('2605:a144::/32', 'IPv6');
+INSERT INTO `contabo_contabo-as40021_ips` (`ip_address`, `ip_type`) VALUES ('2605:a145::/32', 'IPv6');

@@ -40,5 +40,11 @@
     "ip_type": "IPv4",
     "service": "nhncloud-as152291",
     "region": "global"
+  },
+  {
+    "ip_address": "59.150.43.0/24",
+    "ip_type": "IPv4",
+    "service": "nhncloud-as152291",
+    "region": "global"
   }
 ]

@@ -42,6 +42,12 @@
     "region": "eu-frankfurt-1"
   },
   {
+    "ip_address": "92.6.0.0/16",
+    "ip_type": "IPv4",
+    "service": "OCI",
+    "region": "eu-frankfurt-1"
+  },
+  {
     "ip_address": "129.159.0.0/20",
     "ip_type": "IPv4",
     "service": "OCI",

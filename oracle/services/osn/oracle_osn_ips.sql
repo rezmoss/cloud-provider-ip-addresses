@@ -50,6 +50,7 @@ INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('92.5.240.0/21', 
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('92.5.248.0/22', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('92.5.254.0/24', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('92.5.255.0/24', 'IPv4');
+INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('107.186.224.0/19', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('129.146.12.128/25', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('129.146.13.128/25', 'IPv4');
 INSERT INTO `oracle_osn_ips` (`ip_address`, `ip_type`) VALUES ('129.146.14.128/25', 'IPv4');

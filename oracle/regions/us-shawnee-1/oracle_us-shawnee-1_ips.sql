@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `oracle_us-shawnee-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `oracle_us-shawnee-1_ips` (`ip_address`, `ip_type`) VALUES ('107.186.224.0/19', 'IPv4');
 INSERT INTO `oracle_us-shawnee-1_ips` (`ip_address`, `ip_type`) VALUES ('192.22.0.0/19', 'IPv4');
 INSERT INTO `oracle_us-shawnee-1_ips` (`ip_address`, `ip_type`) VALUES ('192.22.32.0/26', 'IPv4');
 INSERT INTO `oracle_us-shawnee-1_ips` (`ip_address`, `ip_type`) VALUES ('192.22.32.128/25', 'IPv4');

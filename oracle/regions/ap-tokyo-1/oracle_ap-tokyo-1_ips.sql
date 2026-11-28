@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS `oracle_ap-tokyo-1_ips` (
   PRIMARY KEY (`ip_address`)
 );
 
+INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('129.203.128.0/17', 'IPv4');
 INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('131.186.32.0/20', 'IPv4');
 INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('131.186.56.0/21', 'IPv4');
 INSERT INTO `oracle_ap-tokyo-1_ips` (`ip_address`, `ip_type`) VALUES ('132.145.112.0/20', 'IPv4');

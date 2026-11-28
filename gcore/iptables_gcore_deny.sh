@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gcore IP Ranges
-# Updated: 2026-11-27 02:24:05
+# Updated: 2026-11-28 02:22:34
 # Source: https://github.com/rezmoss/cloud-provider-ip-addresses
 # License: https://github.com/rezmoss/cloud-provider-ip-addresses/LICENSE
 # This file is generated automatically. Do not edit it directly.
@@ -184,7 +184,7 @@ iptables -A INPUT -s 82.148.98.42/32 -j DROP
 iptables -A INPUT -s 82.158.112.4/30 -j DROP
 iptables -A INPUT -s 82.158.113.4/30 -j DROP
 iptables -A INPUT -s 82.158.113.8/32 -j DROP
-iptables -A INPUT -s 82.158.113.10/31 -j DROP
+iptables -A INPUT -s 82.158.113.11/32 -j DROP
 iptables -A INPUT -s 82.158.113.12/30 -j DROP
 iptables -A INPUT -s 82.213.5.50/32 -j DROP
 iptables -A INPUT -s 84.38.4.4/31 -j DROP
@@ -396,7 +396,6 @@ iptables -A INPUT -s 94.177.131.92/32 -j DROP
 iptables -A INPUT -s 95.85.68.4/31 -j DROP
 iptables -A INPUT -s 95.85.68.6/32 -j DROP
 iptables -A INPUT -s 95.85.69.4/30 -j DROP
-iptables -A INPUT -s 95.85.69.8/32 -j DROP
 iptables -A INPUT -s 95.85.92.4/30 -j DROP
 iptables -A INPUT -s 95.85.92.8/32 -j DROP
 iptables -A INPUT -s 95.85.93.26/32 -j DROP
@@ -920,7 +919,6 @@ ip6tables -A INPUT -s 2a03:90c0:491:2801::18/128 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:4b1:2801::4/126 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:4b1:2801::8/128 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:4c1:2801::4/126 -j DROP
-ip6tables -A INPUT -s 2a03:90c0:4c1:2801::8/128 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:4d1:2801::4/126 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:4d1:2801::13/128 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:4d1:2801::14/128 -j DROP
@@ -966,7 +964,8 @@ ip6tables -A INPUT -s 2a03:90c0:661:2801::8/128 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:691:2801::4/127 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:6a1:2801::4/126 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:6a1:2801::8/128 -j DROP
-ip6tables -A INPUT -s 2a03:90c0:6a1:2801::10/126 -j DROP
+ip6tables -A INPUT -s 2a03:90c0:6a1:2801::11/128 -j DROP
+ip6tables -A INPUT -s 2a03:90c0:6a1:2801::12/127 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:6a1:2801::14/127 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:6d1:2801::4/126 -j DROP
 ip6tables -A INPUT -s 2a03:90c0:6d1:2801::8/127 -j DROP

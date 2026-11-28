@@ -63,6 +63,7 @@ ip_address,ip_type,service,region
 92.5.128.0/18,IPv4,OCI,eu-frankfurt-1
 92.5.192.0/19,IPv4,OCI,eu-amsterdam-1
 92.5.224.0/20,IPv4,OCI,eu-amsterdam-1
+92.6.0.0/16,IPv4,OCI,eu-frankfurt-1
 129.38.64.0/18,IPv4,OCI,sa-bogota-1
 129.80.0.0/16,IPv4,OCI,us-ashburn-1
 129.91.0.0/23,IPv4,OCI,sa-santiago-1
@@ -128,6 +129,7 @@ ip_address,ip_type,service,region
 129.159.224.0/20,IPv4,OCI,ap-hyderabad-1
 129.159.240.0/20,IPv4,OCI,eu-frankfurt-1
 129.191.0.0/17,IPv4,OCI,us-phoenix-1
+129.203.128.0/17,IPv4,OCI,ap-tokyo-1
 129.213.8.0/21,IPv4,OCI,us-ashburn-1
 129.213.16.0/20,IPv4,OCI,us-ashburn-1
 129.213.32.0/19,IPv4,OCI,us-ashburn-1

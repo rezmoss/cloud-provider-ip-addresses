@@ -8146,5 +8146,23 @@
     "ip_type": "IPv6",
     "service": "alibaba-as45102",
     "region": "global"
+  },
+  {
+    "ip_address": "240b:4020::/32",
+    "ip_type": "IPv6",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "240b:4020::/33",
+    "ip_type": "IPv6",
+    "service": "alibaba-as45102",
+    "region": "global"
+  },
+  {
+    "ip_address": "240b:4020:8000::/33",
+    "ip_type": "IPv6",
+    "service": "alibaba-as45102",
+    "region": "global"
   }
 ]
